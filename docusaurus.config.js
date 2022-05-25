@@ -116,15 +116,14 @@ const config = {
 							{
 								label: 'Moon landing icons created by Yogi Aprelliyanto - Flaticon',
 								href: 'https://www.flaticon.com/free-icons/moon-landing',
+							},							{
+								label: 'Miscellaneous icons created by Yogi Aprelliyanto - Flaticon',
+								href: 'https://www.flaticon.com/free-icons/miscellaneous',
 							},
-							{
-								label: 'Planetarium icons created by Yogi Aprelliyanto - Flaticon',
-								href: 'https://www.flaticon.com/free-icons/planetarium',
-							},
-							{
-								label: 'Architecture and city icons created by Yogi Aprelliyanto - Flaticon',
-								href: 'https://www.flaticon.com/free-icons/architecture-and-city',
-							}
+							// {
+							// 	label: 'Architecture and city icons created by Yogi Aprelliyanto - Flaticon',
+							// 	href: 'https://www.flaticon.com/free-icons/architecture-and-city',
+							// }
               // {
               //   label: 'GitHub',
               //   href: 'https://github.com/facebook/docusaurus',
