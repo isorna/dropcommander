@@ -25,7 +25,6 @@ yarn-error.log*
 _private
 
 # TEMP
-/blog
 /docs/tutorial-basics
 /docs/tutorial-extras
 /docs/tutorial-intro.md
