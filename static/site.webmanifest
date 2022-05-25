@@ -14,7 +14,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
+    "theme_color": "#3b9235",
     "background_color": "#ffffff",
     "display": "standalone",
 	"orientation": "portrait-primary",
@@ -23,13 +23,27 @@
 			"name": "DropFleet Commander",
 			"short_name": "DropFleet",
 			"description": "Reglas de DropFleet Commander",
-			"url": "/docs/dropfleet-commander/reglas"
+			"url": "/docs/dropfleet-commander/reglas",
+			"icons": [
+				{
+					"src": "/img/moon-landing.png",
+					"sizes": "512x512",
+					"type": "image/png"
+				}
+			]
 		},
 		{
 			"name": "DropZone Commander",
 			"short_name": "DropZone",
 			"description": "Reglas de DropZone",
-			"url": "/docs/dropzone-commander/reglas"
+			"url": "/docs/dropzone-commander/reglas",
+			"icons": [
+				{
+					"src": "/img/observatory.png",
+					"sizes": "512x512",
+					"type": "image/png"
+				}
+			]
 		}
 	]
 }
