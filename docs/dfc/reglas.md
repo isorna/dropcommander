@@ -1,4 +1,5 @@
 ﻿---
+sidebar_label: 'Reglas de DFC'
 sidebar_position: 1
 ---
 

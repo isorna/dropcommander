@@ -1,4 +1,5 @@
 ﻿---
+sidebar_label: 'Reglas de DZC'
 sidebar_position: 1
 ---
 

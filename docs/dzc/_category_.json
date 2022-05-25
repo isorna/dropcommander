@@ -1,0 +1,11 @@
+{
+  "label": "Dropzone Commander",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+		"slug": "category/dzc",
+		"keywords": ["dzc"],
+		"image": "/img/DZC_Logo_Black_Green_240x240.webp",
+    "description": "Aquí encontrarás todos los recursos asociados a Dropzone Commander."
+  }
+}

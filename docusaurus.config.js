@@ -88,11 +88,7 @@ const config = {
 								label: 'TTCombat',
 								href: 'https://www.ttcombat.com',
 							},
-							{
-								label: 'Spaceship icons created by Yogi Aprelliyanto - Flaticon',
-								href: 'https://www.flaticon.com/free-icons/spaceship',
-							}
-              // {
+							// {
               //   label: 'Stack Overflow',
               //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               // },
@@ -113,6 +109,22 @@ const config = {
                 label: 'Blog',
                 to: '/blog',
               },
+							{
+								label: 'Spaceship icons created by Yogi Aprelliyanto - Flaticon',
+								href: 'https://www.flaticon.com/free-icons/spaceship',
+							},
+							{
+								label: 'Moon landing icons created by Yogi Aprelliyanto - Flaticon',
+								href: 'https://www.flaticon.com/free-icons/moon-landing',
+							},
+							{
+								label: 'Planetarium icons created by Yogi Aprelliyanto - Flaticon',
+								href: 'https://www.flaticon.com/free-icons/planetarium',
+							},
+							{
+								label: 'Architecture and city icons created by Yogi Aprelliyanto - Flaticon',
+								href: 'https://www.flaticon.com/free-icons/architecture-and-city',
+							}
               // {
               //   label: 'GitHub',
               //   href: 'https://github.com/facebook/docusaurus',
@@ -152,7 +164,7 @@ const config = {
 					{
 						tagName: 'meta',
 						name: 'theme-color',
-						content: '#ffffff',
+						content: '#3b9235',
 					},
 					{
 						tagName: 'meta',
@@ -162,7 +174,7 @@ const config = {
 					{
 						tagName: 'meta',
 						name: 'apple-mobile-web-app-status-bar-style',
-						content: '#ffffff',
+						content: '#3b9235',
 					},
 					{
 						tagName: 'link',
