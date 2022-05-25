@@ -26,7 +26,7 @@
 			"url": "/docs/dropfleet-commander/reglas",
 			"icons": [
 				{
-					"src": "/img/moon-landing.png",
+					"src": "/img/orbit.png",
 					"sizes": "512x512",
 					"type": "image/png"
 				}
@@ -39,7 +39,7 @@
 			"url": "/docs/dropzone-commander/reglas",
 			"icons": [
 				{
-					"src": "/img/observatory.png",
+					"src": "/img/moon-landing.png",
 					"sizes": "512x512",
 					"type": "image/png"
 				}
