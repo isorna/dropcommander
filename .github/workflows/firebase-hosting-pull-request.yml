@@ -4,13 +4,34 @@
 name: Deploy to Firebase Hosting on PR
 'on': pull_request
 jobs:
+  test-deploy:
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 14.x
+          cache: yarn
+      - name: Test deployment
+        run: |
+          yarn install --frozen-lockfile
+          yarn build
   build_and_preview:
     if: '${{ github.event.pull_request.head.repo.full_name == github.repository }}'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: yarn build
-      - uses: FirebaseExtended/action-hosting-deploy@v0
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 14.x
+          cache: yarn
+      - name: Build website
+        run: |
+          yarn install --frozen-lockfile
+          yarn build
+      - name: Deploy to Firebase Preview channel
+        uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_DROP_COMMANDER }}'
