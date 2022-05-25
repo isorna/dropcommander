@@ -7,6 +7,9 @@
 # Generated files
 .docusaurus
 .cache-loader
+.firebaserc
+.firebase
+.cache
 
 # Misc
 .DS_Store
@@ -18,6 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+_private
 
 # TEMP
 /blog
