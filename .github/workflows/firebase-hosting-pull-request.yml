@@ -1,7 +1,7 @@
 # More info here:
 # https://github.com/marketplace/actions/deploy-to-firebase-hosting
 
-name: Deploy to Preview Channel on PR
+name: Deploy to Preview on PR
 on:
   pull_request:
     branches:
@@ -21,7 +21,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
       - name: Build website
-        run: npm build
+        run: npm run build
       - name: Deploy to Firebase Preview channel
         uses: FirebaseExtended/action-hosting-deploy@v0
         with:
