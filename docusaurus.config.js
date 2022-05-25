@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Drop Commander Web App',
+  tagline: 'DropZone & DropFleet Commander fan made web app',
+  url: 'https://drop-commander.web.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -16,15 +16,15 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  // organizationName: 'facebook', // Usually your GitHub org/user name.
+  // projectName: 'docusaurus', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'es',
+    locales: ['es', 'en'],
   },
 
   presets: [
@@ -34,17 +34,9 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -57,22 +49,22 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Drop Commander Web App',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Drop Commander Logo',
+          src: 'img/lunar-module.png',
         },
         items: [
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Reglamentos',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://www.ttcombat.com',
+            label: 'TTCombat',
             position: 'right',
           },
         ],
@@ -81,52 +73,122 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Reglamentos',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Introducción',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Enlaces',
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+							{
+								label: 'TTCombat',
+								href: 'https://www.ttcombat.com',
+							},
+							{
+								label: 'Spaceship icons created by Yogi Aprelliyanto - Flaticon',
+								href: 'https://www.flaticon.com/free-icons/spaceship',
+							}
+              // {
+              //   label: 'Stack Overflow',
+              //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              // },
+              // {
+              //   label: 'Discord',
+              //   href: 'https://discordapp.com/invite/docusaurus',
+              // },
+              // {
+              //   label: 'Twitter',
+              //   href: 'https://twitter.com/docusaurus',
+              // },
             ],
           },
           {
-            title: 'More',
+            title: 'Más',
             items: [
               {
                 label: 'Blog',
                 to: '/blog',
               },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
+              // {
+              //   label: 'GitHub',
+              //   href: 'https://github.com/facebook/docusaurus',
+              // },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Made by fans of DropFleet & DropZone Commander Universe. <br> Copyright © ${new Date().getFullYear()} TTCombat.`,
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),
+
+	plugins: [
+		[
+			'@docusaurus/plugin-pwa',
+			{
+				debug: true,
+				offlineModeActivationStrategies: [
+					'appInstalled',
+					'standalone',
+					'queryString',
+				],
+				pwaHead: [
+					{
+						tagName: 'link',
+						rel: 'icon',
+						href: '/img/lunar-module.png',
+					},
+					{
+						tagName: 'link',
+						rel: 'manifest',
+						href: '/site.webmanifest', // your PWA manifest
+					},
+					{
+						tagName: 'meta',
+						name: 'theme-color',
+						content: '#ffffff',
+					},
+					{
+						tagName: 'meta',
+						name: 'apple-mobile-web-app-capable',
+						content: 'yes',
+					},
+					{
+						tagName: 'meta',
+						name: 'apple-mobile-web-app-status-bar-style',
+						content: '#ffffff',
+					},
+					{
+						tagName: 'link',
+						rel: 'apple-touch-icon',
+						href: '/img/apple-touch-icon.png',
+					},
+					{
+						tagName: 'link',
+						rel: 'mask-icon',
+						href: '/img/safari-pinned-tab.svg',
+						color: '#444444',
+					},
+					{
+						tagName: 'meta',
+						name: 'msapplication-config',
+						content: '/browserconfig.xml',
+					},
+					{
+						tagName: 'meta',
+						name: 'msapplication-TileColor',
+						content: '#ffffff',
+					},
+				],
+			},
+		],
+	],
 };
 
 module.exports = config;
