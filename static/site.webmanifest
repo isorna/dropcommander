@@ -1,6 +1,7 @@
 {
     "name": "Drop Commander Web App",
     "short_name": "Drop Comm",
+	"start_url": "/",
     "icons": [
         {
             "src": "/img/android-chrome-192x192.png",
@@ -15,5 +16,20 @@
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "display": "standalone"
+    "display": "standalone",
+	"orientation": "portrait-primary",
+	"shortcuts": [
+		{
+			"name": "DropFleet Commander",
+			"short_name": "DropFleet",
+			"description": "Reglas de DropFleet Commander",
+			"url": "/docs/dropfleet-commander/reglas"
+		},
+		{
+			"name": "DropZone Commander",
+			"short_name": "DropZone",
+			"description": "Reglas de DropZone",
+			"url": "/docs/dropzone-commander/reglas"
+		}
+	]
 }
