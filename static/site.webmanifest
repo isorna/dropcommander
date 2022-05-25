@@ -23,7 +23,7 @@
 			"name": "DropFleet Commander",
 			"short_name": "DropFleet",
 			"description": "Reglas de DropFleet Commander",
-			"url": "/docs/dropfleet-commander/reglas",
+			"url": "/docs/dfc/reglas",
 			"icons": [
 				{
 					"src": "/img/orbit.png",
@@ -36,7 +36,7 @@
 			"name": "DropZone Commander",
 			"short_name": "DropZone",
 			"description": "Reglas de DropZone",
-			"url": "/docs/dropzone-commander/reglas",
+			"url": "/docs/dzc/reglas",
 			"icons": [
 				{
 					"src": "/img/moon-landing.png",
