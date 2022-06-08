@@ -1,55 +1,14 @@
 ﻿---
 sidebar_label: 'Reglas de DFC'
-sidebar_position: 1
+sidebar_position: 0
 ---
 
 ![](img/Aspose.Words.a8326a55-ad51-4e6a-9b83-f7131306c5e4.001.png)![](img/Aspose.Words.a8326a55-ad51-4e6a-9b83-f7131306c5e4.002.png)![](img/Aspose.Words.a8326a55-ad51-4e6a-9b83-f7131306c5e4.003.png)![](img/Aspose.Words.a8326a55-ad51-4e6a-9b83-f7131306c5e4.004.png)![](img/Aspose.Words.a8326a55-ad51-4e6a-9b83-f7131306c5e4.005.png)![](img/Aspose.Words.a8326a55-ad51-4e6a-9b83-f7131306c5e4.006.png)
 
 V1.3.1![](img/Aspose.Words.a8326a55-ad51-4e6a-9b83-f7131306c5e4.007.png)![](img/Aspose.Words.a8326a55-ad51-4e6a-9b83-f7131306c5e4.008.png)![](img/Aspose.Words.a8326a55-ad51-4e6a-9b83-f7131306c5e4.009.png)![](img/Aspose.Words.a8326a55-ad51-4e6a-9b83-f7131306c5e4.010.png)![](img/Aspose.Words.a8326a55-ad51-4e6a-9b83-f7131306c5e4.011.png)![](img/Aspose.Words.a8326a55-ad51-4e6a-9b83-f7131306c5e4.012.png)![](img/Aspose.Words.a8326a55-ad51-4e6a-9b83-f7131306c5e4.013.png)![](img/Aspose.Words.a8326a55-ad51-4e6a-9b83-f7131306c5e4.014.png)![](img/Aspose.Words.a8326a55-ad51-4e6a-9b83-f7131306c5e4.015.png)![](img/Aspose.Words.a8326a55-ad51-4e6a-9b83-f7131306c5e4.016.png)![](img/Aspose.Words.a8326a55-ad51-4e6a-9b83-f7131306c5e4.017.png)
 
-# Contents
 
-2
-
-[Earth, 2673](#_page2_x0.00_y595.28)
-
-[Dropfl eet Commander Rules](#_page3_x0.00_y595.28)
-
-[The Basics](#_page3_x0.00_y595.28)
-
-[Ship Characteristics ](#_page3_x0.00_y595.28)[Game Components ](#_page6_x0.00_y595.28)[Admirals](#_page10_x0.00_y595.28)
-
-[Orbital Layers](#_page11_x0.00_y595.28)
-
-[Core Rules](#_page12_x0.00_y595.28)
-
-[Game Turn Sequence](#_page12_x0.00_y595.28)
-
-[Battlegroup Cards & the Strategy Deck](#_page13_x0.00_y595.28)
-
-[Battlegroup Activation Sequence](#_page13_x0.00_y595.28)
-
-[3 ](#_page2_x0.00_y595.28)[Ship’s Orders 15](#_page14_x0.00_y595.28)
-
-[Movement 16 ](#_page15_x0.00_y595.28)[4](#_page3_x0.00_y595.28)
-
-[Firing 17 ](#_page16_x0.00_y595.28)[4](#_page3_x0.00_y595.28)
-
-[Damage 22 ](#_page21_x0.00_y595.28)[4](#_page3_x0.00_y595.28)
-
-[Ground Combat 26 ](#_page25_x0.00_y595.28)[7](#_page6_x0.00_y595.28)
-
-[Launch Assets 29](#_page28_x0.00_y595.28)
-
-11  [Building Your  34 ](#_page33_x0.00_y595.28)
-11  [Fleet](#_page33_x0.00_y595.28)
-11  [Scenarios 36](#_page35_x0.00_y595.28)
-
-[13 ](#_page12_x0.00_y595.28)[Objectives 37 ](#_page36_x0.00_y595.28)[14  ](#_page13_x0.00_y595.28)[Scenery 40](#_page39_x0.00_y595.28)
-
-[Special Rules 42 ](#_page41_x0.00_y595.28)[14](#_page13_x0.00_y595.28)
-
-
+# Documento original
 
 Earth, 2673
 
