@@ -14,17 +14,18 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  // organizationName: 'facebook', // Usually your GitHub org/user name.
-  // projectName: 'docusaurus', // Usually your repo name.
-
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
+  // More info: https://docusaurus.io/docs/i18n/tutorial
   i18n: {
     defaultLocale: 'es',
     locales: ['es', 'en'],
+		localeConfigs: {
+			es: {
+				htmlLang: 'es-ES',
+			},
+			en: {
+				htmlLang: 'en-US',
+			}
+		}
   },
 
   presets: [
@@ -55,13 +56,21 @@ const config = {
           src: 'img/lunar-module.png',
         },
         items: [
+					{
+						type: 'localeDropdown',
+						position: 'left',
+					},
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
             label: 'Reglamentos',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+						to: '/blog',
+						label: 'Blog',
+						position: 'left'
+					},
           {
             href: 'https://www.ttcombat.com',
             label: 'TTCombat',
@@ -88,18 +97,6 @@ const config = {
 								label: 'TTCombat',
 								href: 'https://www.ttcombat.com',
 							},
-							// {
-              //   label: 'Stack Overflow',
-              //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              // },
-              // {
-              //   label: 'Discord',
-              //   href: 'https://discordapp.com/invite/docusaurus',
-              // },
-              // {
-              //   label: 'Twitter',
-              //   href: 'https://twitter.com/docusaurus',
-              // },
             ],
           },
           {
@@ -120,14 +117,6 @@ const config = {
 								label: 'Miscellaneous icons created by Yogi Aprelliyanto - Flaticon',
 								href: 'https://www.flaticon.com/free-icons/miscellaneous',
 							},
-							// {
-							// 	label: 'Architecture and city icons created by Yogi Aprelliyanto - Flaticon',
-							// 	href: 'https://www.flaticon.com/free-icons/architecture-and-city',
-							// }
-              // {
-              //   label: 'GitHub',
-              //   href: 'https://github.com/facebook/docusaurus',
-              // },
             ],
           },
         ],

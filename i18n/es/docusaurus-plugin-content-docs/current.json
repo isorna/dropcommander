@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Actual",
+    "description": "La etiqueta de la versión actual"
+  },
+  "sidebar.rulingsSidebar.category.Dropfleet Commander": {
+    "message": "Dropfleet Commander",
+    "description": "The label for category Dropfleet Commander in sidebar rulingsSidebar"
+  },
+  "sidebar.rulingsSidebar.category.Dropfleet Commander.link.generated-index.description": {
+    "message": "Aquí encontrarás todos los recursos asociados a Dropfleet Commander.",
+    "description": "Aquí encontrarás todos los recursos asociados a Dropfleet Commander."
+  },
+  "sidebar.rulingsSidebar.category.Dropzone Commander": {
+    "message": "Dropzone Commander",
+    "description": "The label for category Dropzone Commander in sidebar rulingsSidebar"
+  },
+  "sidebar.rulingsSidebar.category.Dropzone Commander.link.generated-index.description": {
+    "message": "Aquí encontrarás todos los recursos asociados a Dropzone Commander.",
+    "description": "Aquí encontrarás todos los recursos asociados a Dropzone Commander."
+  }
+}

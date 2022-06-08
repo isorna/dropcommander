@@ -1,0 +1,42 @@
+{
+  "link.title.Reglamentos": {
+    "message": "Reglamentos",
+    "description": "The title of the footer links column with title=Reglamentos in the footer"
+  },
+  "link.title.Enlaces": {
+    "message": "Enlaces",
+    "description": "The title of the footer links column with title=Enlaces in the footer"
+  },
+  "link.title.Más": {
+    "message": "Más",
+    "description": "The title of the footer links column with title=Más in the footer"
+  },
+  "link.item.label.Introducción": {
+    "message": "Introducción",
+    "description": "The label of footer link with label=Introducción linking to /docs/intro"
+  },
+  "link.item.label.TTCombat": {
+    "message": "TTCombat",
+    "description": "The label of footer link with label=TTCombat linking to https://www.ttcombat.com"
+  },
+  "link.item.label.Blog": {
+    "message": "Blog",
+    "description": "The label of footer link with label=Blog linking to /blog"
+  },
+  "link.item.label.Spaceship icons created by Yogi Aprelliyanto - Flaticon": {
+    "message": "Spaceship icons created by Yogi Aprelliyanto - Flaticon",
+    "description": "The label of footer link with label=Spaceship icons created by Yogi Aprelliyanto - Flaticon linking to https://www.flaticon.com/free-icons/spaceship"
+  },
+  "link.item.label.Moon landing icons created by Yogi Aprelliyanto - Flaticon": {
+    "message": "Moon landing icons created by Yogi Aprelliyanto - Flaticon",
+    "description": "The label of footer link with label=Moon landing icons created by Yogi Aprelliyanto - Flaticon linking to https://www.flaticon.com/free-icons/moon-landing"
+  },
+  "link.item.label.Miscellaneous icons created by Yogi Aprelliyanto - Flaticon": {
+    "message": "Miscellaneous icons created by Yogi Aprelliyanto - Flaticon",
+    "description": "The label of footer link with label=Miscellaneous icons created by Yogi Aprelliyanto - Flaticon linking to https://www.flaticon.com/free-icons/miscellaneous"
+  },
+  "copyright": {
+    "message": "Made by fans of DropFleet & DropZone Commander Universe. <br> Copyright © 2022 TTCombat.",
+    "description": "The footer copyright"
+  }
+}
