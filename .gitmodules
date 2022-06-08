@@ -1,3 +1,6 @@
 [submodule "docs/dfc"]
 	path = docs/dfc
 	url = https://github.com/isorna/dfc
+[submodule "docs/dzc"]
+	path = docs/dzc
+	url = https://github.com/isorna/dzc
