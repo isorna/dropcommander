@@ -1,0 +1,4 @@
+[submodule "i18n/en/docusaurus-plugin-content-docs/current/dfc"]
+	path = i18n/en/docusaurus-plugin-content-docs/current/dfc
+	url = https://github.com/isorna/dfc
+	branch = en-US
