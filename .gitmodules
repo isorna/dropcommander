@@ -10,3 +10,7 @@
 	path = i18n/es/docusaurus-plugin-content-docs/current/dzc
 	url = https://github.com/isorna/dzc
 	branch = es-ES
+[submodule "i18n/en/docusaurus-plugin-content-docs/current/dzc"]
+	path = i18n/en/docusaurus-plugin-content-docs/current/dzc
+	url = https://github.com/isorna/dzc
+	branch = en-US
