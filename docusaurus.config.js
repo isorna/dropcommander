@@ -37,9 +37,6 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-					lastVersion: 'current',
-					onlyIncludeVersions: ['current'],
-					// includeCurrentVersion: true,
           sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: {
