@@ -13,6 +13,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
+	titleDelimiter: '🚀',
 
   // More info: https://docusaurus.io/docs/i18n/tutorial
   i18n: {
@@ -20,9 +21,11 @@ const config = {
     locales: ['es', 'en'],
 		localeConfigs: {
 			es: {
+				label: 'Español',
 				htmlLang: 'es-ES',
 			},
 			en: {
+				label: 'English',
 				htmlLang: 'en-US',
 			}
 		}
@@ -34,6 +37,9 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+					lastVersion: 'current',
+					onlyIncludeVersions: ['current'],
+					// includeCurrentVersion: true,
           sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: {
@@ -60,6 +66,12 @@ const config = {
 						type: 'localeDropdown',
 						position: 'left',
 					},
+					// {
+					// 	type: 'docsVersionDropdown',
+					// 	position: 'left',
+					// 	dropdownItemsAfter: [{to: '/versions', label: 'All versions'}],
+					// 	dropdownActiveClassDisabled: true,
+					// },
           {
             type: 'doc',
             docId: 'intro',
@@ -129,6 +141,27 @@ const config = {
     }),
 
 	plugins: [
+		// [
+    //   '@docusaurus/plugin-content-docs',
+    //   {
+    //     async sidebarItemsGenerator({
+    //       isCategoryIndex: defaultCategoryIndexMatcher, // The default matcher implementation, given below
+    //       defaultSidebarItemsGenerator,
+    //       ...args
+    //     }) {
+    //       return defaultSidebarItemsGenerator({
+    //         ...args,
+    //         isCategoryIndex(doc) {
+    //           return (
+    //             // Also pick intro.md in addition to the default ones
+    //             doc.fileName.toLowerCase() === 'intro' ||
+    //             defaultCategoryIndexMatcher(doc)
+    //           );
+    //         },
+    //       });
+    //     },
+    //   },
+    // ],
 		[
 			'@docusaurus/plugin-pwa',
 			{

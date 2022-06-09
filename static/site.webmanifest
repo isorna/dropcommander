@@ -21,9 +21,9 @@
 	"shortcuts": [
 		{
 			"name": "DropFleet Commander",
-			"short_name": "DropFleet",
-			"description": "Reglas de DropFleet Commander",
-			"url": "/docs/dfc/reglas",
+			"short_name": "DFC",
+			"description": "Reglas de Dropfleet",
+			"url": "/docs/dfc/contenidos",
 			"icons": [
 				{
 					"src": "/img/orbit.png",
@@ -34,9 +34,9 @@
 		},
 		{
 			"name": "DropZone Commander",
-			"short_name": "DropZone",
-			"description": "Reglas de DropZone",
-			"url": "/docs/dzc/reglas",
+			"short_name": "DZC",
+			"description": "Reglas de Dropzone",
+			"url": "/docs/dzc/contenidos",
 			"icons": [
 				{
 					"src": "/img/moon-landing.png",

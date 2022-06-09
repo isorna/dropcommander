@@ -14,3 +14,11 @@
 	path = i18n/en/docusaurus-plugin-content-docs/current/dzc
 	url = https://github.com/isorna/dzc
 	branch = en-US
+[submodule "docs/dzc"]
+	path = docs/dzc
+	url = https://github.com/isorna/dzc
+	branch = main
+[submodule "docs/dfc"]
+	path = docs/dfc
+	url = https://github.com/isorna/dfc
+	branch = main
