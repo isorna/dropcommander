@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Drop Commander Web App',
-  tagline: 'DropZone & DropFleet Commander fan made web app',
+  title: 'Drop Commander',
+  tagline: 'Dropzone & Dropfleet Commander fan site',
   url: 'https://drop-commander.web.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -17,16 +17,16 @@ const config = {
 
   // More info: https://docusaurus.io/docs/i18n/tutorial
   i18n: {
-    defaultLocale: 'es',
-    locales: ['es', 'en'],
+    defaultLocale: 'en',
+    locales: ['en', 'es'],
 		localeConfigs: {
-			es: {
-				label: 'Español',
-				htmlLang: 'es-ES',
-			},
 			en: {
 				label: 'English',
 				htmlLang: 'en-US',
+			},
+			es: {
+				label: 'Español',
+				htmlLang: 'es-ES',
 			}
 		}
   },
@@ -53,7 +53,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Drop Commander Web App',
+        title: 'Drop Commander',
         logo: {
           alt: 'Drop Commander Logo',
           src: 'img/lunar-module.png',
@@ -73,7 +73,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Reglamentos',
+            label: 'Rules',
           },
           {
 						to: '/blog',
@@ -91,16 +91,16 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Reglamentos',
+            title: 'Rules',
             items: [
               {
-                label: 'Introducción',
+                label: 'Introduction',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Enlaces',
+            title: 'Links',
             items: [
 							{
 								label: 'TTCombat',
@@ -109,7 +109,7 @@ const config = {
             ],
           },
           {
-            title: 'Más',
+            title: 'More',
             items: [
               {
                 label: 'Blog',
