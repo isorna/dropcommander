@@ -129,7 +129,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Made by fans of DropFleet & DropZone Commander Universe. <br> Copyright © ${new Date().getFullYear()} TTCombat.`,
+        copyright: `Made by fans of Dropfleet & Dropzone Commander Universe. <br> Copyright © ${new Date().getFullYear()} TTCombat.`,
       },
       prism: {
         theme: lightCodeTheme,
