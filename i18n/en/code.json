@@ -241,5 +241,14 @@
   "theme.PwaReloadPopup.closeButtonAriaLabel": {
     "message": "Close",
     "description": "The ARIA label for close button of PWA reload popup"
+  },
+  "Drop Commander": {
+    "message": "Drop Commander"
+  },
+  "Dropzone & Dropfleet Commander fan site": {
+    "message": "Dropzone & Dropfleet Commander fan site"
+  },
+  "Introduction": {
+    "message": "Introduction"
   }
 }

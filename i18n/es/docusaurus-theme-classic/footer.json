@@ -1,42 +1,46 @@
 {
-  "link.title.Reglamentos": {
-    "message": "Reglamentos",
-    "description": "The title of the footer links column with title=Reglamentos in the footer"
-  },
-  "link.title.Enlaces": {
-    "message": "Enlaces",
-    "description": "The title of the footer links column with title=Enlaces in the footer"
-  },
-  "link.title.Más": {
-    "message": "Más",
-    "description": "The title of the footer links column with title=Más in the footer"
-  },
-  "link.item.label.Introducción": {
-    "message": "Introducción",
-    "description": "The label of footer link with label=Introducción linking to /docs/intro"
-  },
   "link.item.label.TTCombat": {
     "message": "TTCombat",
     "description": "The label of footer link with label=TTCombat linking to https://www.ttcombat.com"
   },
-  "link.item.label.Blog": {
-    "message": "Blog",
-    "description": "The label of footer link with label=Blog linking to /blog"
-  },
-  "link.item.label.Spaceship icons created by Yogi Aprelliyanto - Flaticon": {
-    "message": "Spaceship icons created by Yogi Aprelliyanto - Flaticon",
-    "description": "The label of footer link with label=Spaceship icons created by Yogi Aprelliyanto - Flaticon linking to https://www.flaticon.com/free-icons/spaceship"
-  },
-  "link.item.label.Moon landing icons created by Yogi Aprelliyanto - Flaticon": {
-    "message": "Moon landing icons created by Yogi Aprelliyanto - Flaticon",
-    "description": "The label of footer link with label=Moon landing icons created by Yogi Aprelliyanto - Flaticon linking to https://www.flaticon.com/free-icons/moon-landing"
-  },
-  "link.item.label.Miscellaneous icons created by Yogi Aprelliyanto - Flaticon": {
-    "message": "Miscellaneous icons created by Yogi Aprelliyanto - Flaticon",
-    "description": "The label of footer link with label=Miscellaneous icons created by Yogi Aprelliyanto - Flaticon linking to https://www.flaticon.com/free-icons/miscellaneous"
-  },
   "copyright": {
-    "message": "Made by fans of DropFleet & DropZone Commander Universe. <br> Copyright © 2022 TTCombat.",
+    "message": "Made by fans of Dropfleet & Dropzone Commander Universe.\n\t\t\t\t<br>Copyright © 2022 TTCombat.\n\t\t\t\t<br><a href=\"https://www.flaticon.com/free-icons/spaceship\" title=\"spaceship icons\">Spaceship icons created by Yogi Aprelliyanto - Flaticon</a>\n\t\t\t\t<br><a href=\"https://www.flaticon.com/free-icons/moon-landing\" title=\"moon landing icons\">Moon landing icons created by Yogi Aprelliyanto - Flaticon</a>\n\t\t\t\t<br><a href=\"https://www.flaticon.com/free-icons/miscellaneous\" title=\" miscellaneous icons\">Miscellaneous icons created by Yogi Aprelliyanto - Flaticon</a>\n\t\t\t\t<br><a href=\"https://www.flaticon.com/free-icons/universe\" title=\"moon icons\">Universe icons created by Eucalyp - Flaticon</a>\n\t\t\t\t<br><a href=\"https://www.flaticon.com/free-icons/moon\" title=\"moon icons\">Moon icons created by Wichai.wi - Flaticon</a>\n\t\t\t\t<br><a href=\"https://www.flaticon.com/free-icons/landing\" title=\"landing icons\">Landing icons created by Vitaly Gorbachev - Flaticon</a>\n\t\t\t\t",
     "description": "The footer copyright"
+  },
+  "link.title.Rules": {
+    "message": "Rules",
+    "description": "The title of the footer links column with title=Rules in the footer"
+  },
+  "link.title.Links": {
+    "message": "Links",
+    "description": "The title of the footer links column with title=Links in the footer"
+  },
+  "link.title.More": {
+    "message": "More",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Introduction": {
+    "message": "Introduction",
+    "description": "The label of footer link with label=Introduction linking to /docs/intro"
+  },
+  "link.item.label.Dropfleet Commander Rules": {
+    "message": "Dropfleet Commander Rules",
+    "description": "The label of footer link with label=Dropfleet Commander Rules linking to /docs/dfc/contents"
+  },
+  "link.item.label.Dropzone Commander Rules": {
+    "message": "Dropzone Commander Rules",
+    "description": "The label of footer link with label=Dropzone Commander Rules linking to /docs/dzc/contents"
+  },
+  "link.item.label.Dropfleet Commander Builder": {
+    "message": "Dropfleet Commander Builder",
+    "description": "The label of footer link with label=Dropfleet Commander Builder linking to https://dropfleetcommander.com/builder/"
+  },
+  "link.item.label.Dropzone Commander Builder": {
+    "message": "Dropzone Commander Builder",
+    "description": "The label of footer link with label=Dropzone Commander Builder linking to https://dropzonecommander.com/builder/"
+  },
+  "link.item.label.Drop Commander Blog": {
+    "message": "Drop Commander Blog",
+    "description": "The label of footer link with label=Drop Commander Blog linking to /blog"
   }
 }

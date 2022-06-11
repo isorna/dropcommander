@@ -1,11 +1,7 @@
 {
   "title": {
-    "message": "Drop Commander Web App",
+    "message": "Drop Commander",
     "description": "The title in the navbar"
-  },
-  "item.label.Reglamentos": {
-    "message": "Reglamentos",
-    "description": "Navbar item with label Reglamentos"
   },
   "item.label.Blog": {
     "message": "Blog",
@@ -14,5 +10,9 @@
   "item.label.TTCombat": {
     "message": "TTCombat",
     "description": "Navbar item with label TTCombat"
+  },
+  "item.label.Rules": {
+    "message": "Rules",
+    "description": "Navbar item with label Rules"
   }
 }
