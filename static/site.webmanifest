@@ -22,8 +22,8 @@
 		{
 			"name": "Dropfleet Commander",
 			"short_name": "DFC",
-			"description": "Dropfleet builder",
-			"url": "https://dropfleetcommander.com/builder/",
+			"description": "DFC Rules",
+			"url": "docs/dfc/contents",
 			"icons": [
 				{
 					"src": "/img/orbit.png",
@@ -35,8 +35,8 @@
 		{
 			"name": "Dropzone Commander",
 			"short_name": "DZC",
-			"description": "Dropzone builder",
-			"url": "https://dropzonecommander.com/builder/",
+			"description": "DZC Rules",
+			"url": "docs/dzc/contents",
 			"icons": [
 				{
 					"src": "/img/moon-landing.png",

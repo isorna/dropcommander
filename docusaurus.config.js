@@ -47,6 +47,10 @@ const config = {
         },
       }),
     ],
+		// TODO: configure blog plugin
+		// LINK: https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog
+		// TODO: review pages plugin
+		// LINK: https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-pages
   ],
 
   themeConfig:
@@ -159,6 +163,8 @@ const config = {
     //     },
     //   },
     // ],
+		// TODO: review PWA configuration
+		// LINK: https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-pwa
 		[
 			'@docusaurus/plugin-pwa',
 			{
@@ -167,6 +173,7 @@ const config = {
 					'appInstalled',
 					'standalone',
 					'queryString',
+					'mobile'
 				],
 				pwaHead: [
 					{
@@ -177,7 +184,7 @@ const config = {
 					{
 						tagName: 'link',
 						rel: 'manifest',
-						href: '/site.webmanifest', // your PWA manifest
+						href: '/site.webmanifest',
 					},
 					{
 						tagName: 'meta',
