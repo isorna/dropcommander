@@ -22,3 +22,6 @@
 	path = docs/dfc
 	url = https://github.com/isorna/dfc
 	branch = main
+[submodule "blog"]
+	path = blog
+	url = https://github.com/isorna/dropcommander-blog.git
