@@ -107,7 +107,7 @@ const config = {
               },
               {
                 label: 'Dropzone Commander Rules',
-                to: '/docs/dzc/contents',
+                to: '/docs/dzc/reglas',
               },
             ],
           },
