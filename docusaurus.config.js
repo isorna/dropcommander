@@ -101,6 +101,14 @@ const config = {
                 label: 'Introduction',
                 to: '/docs/intro',
               },
+              {
+                label: 'Dropfleet Commander Rules',
+                to: '/docs/dfc/contents',
+              },
+              {
+                label: 'Dropzone Commander Rules',
+                to: '/docs/dzc/contents',
+              },
             ],
           },
           {
@@ -110,30 +118,35 @@ const config = {
 								label: 'TTCombat',
 								href: 'https://www.ttcombat.com',
 							},
+							{
+								label: 'Dropfleet Commander Builder',
+								href: 'https://dropfleetcommander.com/builder/',
+							},
+							{
+								label: 'Dropzone Commander Builder',
+								href: 'https://dropzonecommander.com/builder/',
+							},
             ],
           },
           {
             title: 'More',
             items: [
               {
-                label: 'Blog',
+                label: 'Drop Commander Blog',
                 to: '/blog',
-              },
-							{
-								label: 'Spaceship icons created by Yogi Aprelliyanto - Flaticon',
-								href: 'https://www.flaticon.com/free-icons/spaceship',
-							},
-							{
-								label: 'Moon landing icons created by Yogi Aprelliyanto - Flaticon',
-								href: 'https://www.flaticon.com/free-icons/moon-landing',
-							},							{
-								label: 'Miscellaneous icons created by Yogi Aprelliyanto - Flaticon',
-								href: 'https://www.flaticon.com/free-icons/miscellaneous',
-							},
+              }
             ],
           },
         ],
-        copyright: `Made by fans of Dropfleet & Dropzone Commander Universe. <br> Copyright © ${new Date().getFullYear()} TTCombat.`,
+        copyright: `Made by fans of Dropfleet & Dropzone Commander Universe.
+				<br>Copyright © ${new Date().getFullYear()} TTCombat.
+				<br><a href="https://www.flaticon.com/free-icons/spaceship" title="spaceship icons">Spaceship icons created by Yogi Aprelliyanto - Flaticon</a>
+				<br><a href="https://www.flaticon.com/free-icons/moon-landing" title="moon landing icons">Moon landing icons created by Yogi Aprelliyanto - Flaticon</a>
+				<br><a href="https://www.flaticon.com/free-icons/miscellaneous" title=" miscellaneous icons">Miscellaneous icons created by Yogi Aprelliyanto - Flaticon</a>
+				<br><a href="https://www.flaticon.com/free-icons/universe" title="moon icons">Universe icons created by Eucalyp - Flaticon</a>
+				<br><a href="https://www.flaticon.com/free-icons/moon" title="moon icons">Moon icons created by Wichai.wi - Flaticon</a>
+				<br><a href="https://www.flaticon.com/free-icons/landing" title="landing icons">Landing icons created by Vitaly Gorbachev - Flaticon</a>
+				`,
       },
       prism: {
         theme: lightCodeTheme,
