@@ -1,6 +1,6 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "Siguiente versión",
     "description": "The label for version current"
   },
   "sidebar.rulingsSidebar.category.Dropfleet Commander": {
@@ -8,31 +8,31 @@
     "description": "The label for category Dropfleet Commander in sidebar rulingsSidebar"
   },
   "sidebar.rulingsSidebar.category.Dropfleet Commander.link.generated-index.description": {
-    "message": "Here you will find all the resources associated with Dropfleet Commander.",
+    "message": "Aquí encontrarás todos los recursos asociados a Dropfleet Commander.",
     "description": "The generated-index page description for category Dropfleet Commander in sidebar rulingsSidebar"
   },
   "sidebar.rulingsSidebar.category.The basics": {
-    "message": "The basics",
+    "message": "Lo básico",
     "description": "The label for category The basics in sidebar rulingsSidebar"
   },
   "sidebar.rulingsSidebar.category.The basics.link.generated-index.description": {
-    "message": "Dropfleet Commander basic rules.",
+    "message": "Reglas básicas de Dropfleet Commander.",
     "description": "The generated-index page description for category The basics in sidebar rulingsSidebar"
   },
   "sidebar.rulingsSidebar.category.Core Rules": {
-    "message": "Core Rules",
+    "message": "Reglas fundamentales",
     "description": "The label for category Core Rules in sidebar rulingsSidebar"
   },
   "sidebar.rulingsSidebar.category.Core Rules.link.generated-index.description": {
-    "message": "Dropfleet Commander Core Rules.",
+    "message": "Reglas fundamentales de Dropfleet Commander.",
     "description": "The generated-index page description for category Core Rules in sidebar rulingsSidebar"
   },
   "sidebar.rulingsSidebar.category.Scenarios": {
-    "message": "Scenarios",
+    "message": "Escenarios",
     "description": "The label for category Scenarios in sidebar rulingsSidebar"
   },
   "sidebar.rulingsSidebar.category.Scenarios.link.generated-index.description": {
-    "message": "Dropfleet Commander scenarios.",
+    "message": "Escenarios de Dropfleet Commander.",
     "description": "The generated-index page description for category Scenarios in sidebar rulingsSidebar"
   },
   "sidebar.rulingsSidebar.category.Dropzone Commander": {

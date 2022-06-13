@@ -59,8 +59,8 @@ const config = {
       navbar: {
         title: 'Drop Commander',
         logo: {
-          alt: 'Drop Commander Logo',
-          src: 'img/lunar-module.png',
+          alt: 'Logo',
+          src: 'img/android-chrome-512x512.png',
         },
         items: [
 					{
