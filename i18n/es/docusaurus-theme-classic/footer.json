@@ -37,7 +37,7 @@
   },
   "link.item.label.Dropzone Commander Builder": {
     "message": "Constructor de listas de Dropzone Commander",
-    "description": "The label of footer link with label=Dropzone Commander Builder linking to https://dropzonecommander.com/builder/"
+    "description": "The label of footer link with label=Dropzone Commander Builder linking to https://dropzonecommander.com/forcebuilder/"
   },
   "link.item.label.Drop Commander Blog": {
     "message": "Blog de Drop Commander",
