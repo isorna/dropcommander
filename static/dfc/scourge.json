@@ -1,0 +1,1807 @@
+[
+  {
+    "_id": "37698fdaf7a5e18dc22a4b22ab009cc1",
+    "_rev": "4-41fec03b66728a0161245ca723b60c39",
+    "Name": "Wraith",
+    "Faction": "Scourge",
+    "Designation": "Cutter",
+    "Scan": "6\"",
+    "Signal": "6\"",
+    "Thrust": "16\"",
+    "Hull": "6",
+    "Armour": "5+",
+    "PointDefence": "2",
+    "GroupMin": 2,
+    "GroupMax": 3,
+    "Tonnage": "L2",
+    "TonnageClass": 2,
+    "Points": 40,
+    "HardPoints": 0,
+    "Special": ["Outlier, Vectored"],
+    "Weapons": [
+      {
+        "Name": "Oculus Rays",
+        "LockValue": "3+",
+        "Attack": "1",
+        "Damage": "1",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Rays F"
+      },
+      {
+        "Name": "Plasma Brand",
+        "LockValue": "4+",
+        "Attack": "2",
+        "Damage": "2",
+        "Arc": "F",
+        "Special": ["Close Action (Beam)"],
+        "FullString": "Plasma Brand F"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Wraith"]
+  },
+  {
+    "_id": "37698fdaf7a5e18dc22a4b22ab00bb4b",
+    "_rev": "5-94fa95a6342d539782404015ff057eec",
+    "Name": "Parasite",
+    "Faction": "Scourge",
+    "Designation": "Radiation Leech",
+    "Scan": "6\"",
+    "Signal": "6\"",
+    "Thrust": "16\"",
+    "Hull": "6",
+    "Armour": "5+",
+    "PointDefence": "2",
+    "GroupMin": 1,
+    "GroupMax": 3,
+    "Tonnage": "L2",
+    "TonnageClass": 2,
+    "Points": 35,
+    "HardPoints": 0,
+    "Special": ["Outlier, Vectored"],
+    "Weapons": [
+      {
+        "Name": "Oculus Rays",
+        "LockValue": "3+",
+        "Attack": "1",
+        "Damage": "1",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Rays F"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [
+      "Energy Siphon: During this ship's activation, either before or after movement, pick one friendly or enemy ship within 3\" without the Energy Siphon special rule to siphon. That ship loses any Spike it has, and this ship gains it. If any ships in a Group have siphoned any Spikes, all ships in that Group add a bonus to their Occulus Rays for that activation. If the Group siphoned one or more Minor Spikes, increase the Attack and Damage of Oculus Rays by 1. If the Group siphoned one or more Major Spikes, increase the Attack and Damage of Oculus Rays by 2 instead."
+    ],
+    "icons": ["Parasite"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256603e6b1",
+    "_rev": "8-f93693e82553bdb51653c01347459db0",
+    "Name": "Nosferatu",
+    "Faction": "Scourge",
+    "Designation": "Dreadnought",
+    "Scan": "14\"",
+    "Signal": "18\"",
+    "Thrust": "8\"",
+    "Hull": "26",
+    "Armour": "3+",
+    "PointDefence": "20",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "S2",
+    "TonnageClass": 30,
+    "Points": 460,
+    "HardPoints": 0,
+    "Special": ["Dreadnought", " Full Cloak", " Launch", " Stealth"],
+    "Weapons": [
+      {
+        "Name": "Oculus Beam Super Phalanx",
+        "LockValue": "3+",
+        "Attack": "8",
+        "Damage": "2",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beam Super Phalanx F"
+      },
+      {
+        "Name": "Oculus Beam Array, Starboard",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "2",
+        "Arc": "F/S(R)",
+        "Special": ["Linked-1", " Scald"],
+        "FullString": "Oculus Beam Array, Starboard F/S(R)"
+      },
+      {
+        "Name": "Oculus Beam Array. Starboard",
+        "LockValue": "3",
+        "Attack": "2",
+        "Damage": "2",
+        "Arc": "F/S(R)",
+        "Special": ["Linked-1", " Scald"],
+        "FullString": "Oculus Beam Array. Starboard F/S(R)"
+      },
+      {
+        "Name": "Oculus Beam Array, Port",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "2",
+        "Arc": "F/S(L)",
+        "Special": ["Linked-2", " Scald"],
+        "FullString": "Oculus Beam Array, Port F/S(R)"
+      },
+      {
+        "Name": "Oculus Beam Array, Port",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "2",
+        "Arc": "F/S(L)",
+        "Special": ["Linked-2", " Scald"],
+        "FullString": "Oculus Beam Array, Port F/S(R)"
+      },
+      {
+        "Name": "Plasma Flood",
+        "LockValue": "3+",
+        "Attack": "2D6+3",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action", " Scald"],
+        "FullString": "Plasma Flood F/S/R"
+      }
+    ],
+    "LaunchAssets": [
+      { "Name": "Fighters & Bombers", "Launch": "5", "Special": [] }
+    ],
+    "SpecRules": [],
+    "icons": ["Nosferatu"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256603f2fb",
+    "_rev": "5-897cb937bdd9322e18113c0e261153fa",
+    "Name": "Cthulu",
+    "Faction": "Scourge",
+    "Designation": "Dreadnought",
+    "Scan": "14\"",
+    "Signal": "18\"",
+    "Thrust": "8\"",
+    "Hull": "26",
+    "Armour": "3+",
+    "PointDefence": "20",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "S2",
+    "TonnageClass": 30,
+    "Points": 470,
+    "HardPoints": 0,
+    "Special": ["Dreadnought", " Full Cloak", " Stealth", " Launch"],
+    "Weapons": [
+      {
+        "Name": "Furnace Triad",
+        "LockValue": "4+",
+        "Attack": "12",
+        "Damage": "1",
+        "Arc": "F(N)",
+        "Special": ["Burnthrough (20)", " Flash", " Scald"],
+        "FullString": "Furnace Triad F(N)"
+      },
+      {
+        "Name": "Oculus Beam Array, Starboard",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "2",
+        "Arc": "F/S(R)",
+        "Special": ["Linked-1", " Scald"],
+        "FullString": "Oculus Beam Array, Starboard F/S(R)"
+      },
+      {
+        "Name": "Oculus Beam Array, Starboard",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "2",
+        "Arc": "F/S(R)",
+        "Special": ["Linked-1", " Scald"],
+        "FullString": "Oculus Beam Array, Starboard F/S(R)"
+      },
+      {
+        "Name": "Oculus Beam Array, Port",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "2",
+        "Arc": "F/S(L)",
+        "Special": ["Linked-2", " Scald"],
+        "FullString": "Oculus Beam Array, Port F/S(L)"
+      },
+      {
+        "Name": "Oculus Beam Array, Port",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "2",
+        "Arc": "F/S(L)",
+        "Special": ["Linked-2", " Scald"],
+        "FullString": "Oculus Beam Array, Port F/S(L)"
+      },
+      {
+        "Name": "Plasma Cyclone",
+        "LockValue": "2+",
+        "Attack": "D6+2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action", " Scald"],
+        "FullString": "Plasma Cyclone F/S/R"
+      }
+    ],
+    "LaunchAssets": [
+      { "Name": "Fighters & Bombers", "Launch": "8", "Special": [] }
+    ],
+    "SpecRules": [],
+    "icons": ["Cthulu"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d2566040295",
+    "_rev": "3-c63cca2a0cc96230feafa6807e2872d2",
+    "Name": "Shedu",
+    "Faction": "Scourge",
+    "Designation": "Monitor",
+    "Scan": "8\"",
+    "Signal": "5\"",
+    "Thrust": "6\"",
+    "Hull": "4",
+    "Armour": "3+",
+    "PointDefence": "4",
+    "GroupMin": 2,
+    "GroupMax": 3,
+    "Tonnage": "L",
+    "TonnageClass": 1,
+    "Points": 45,
+    "HardPoints": 0,
+    "Special": ["Detector", " Monitor"],
+    "Weapons": [
+      {
+        "Name": "Oculus Beam Crest",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "2",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beam Crest F"
+      },
+      {
+        "Name": "Plasma Cloud",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action", " Scald"],
+        "FullString": "Plasma Cloud F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Shedu"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d2566040542",
+    "_rev": "3-c2bdb338c4def5bd2b322c18206f7e11",
+    "Name": "Lamassu",
+    "Faction": "Scourge",
+    "Designation": "Barge",
+    "Scan": "6\"",
+    "Signal": "5\"",
+    "Thrust": "6\"",
+    "Hull": "4",
+    "Armour": "3+",
+    "PointDefence": "4",
+    "GroupMin": 1,
+    "GroupMax": 3,
+    "Tonnage": "L",
+    "TonnageClass": 1,
+    "Points": 45,
+    "HardPoints": 0,
+    "Special": [],
+    "Weapons": [
+      {
+        "Name": "Oculus Rays",
+        "LockValue": "3+",
+        "Attack": "1",
+        "Damage": "1",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Rays F"
+      },
+      {
+        "Name": "Plasma Bombs",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F/S",
+        "Special": ["Bombardment"],
+        "FullString": "Plasma Bombs F/S"
+      },
+      {
+        "Name": "Plasma Cloud",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action", " Scald"],
+        "FullString": "Plasma Cloud F/S/R"
+      }
+    ],
+    "LaunchAssets": [{ "Name": "Bulk Lander", "Launch": "1", "Special": [] }],
+    "SpecRules": [],
+    "icons": ["Lamassu"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d2566041249",
+    "_rev": "3-7df22fc058caab1e3d1080b27739a0c0",
+    "Name": "Incubus",
+    "Faction": "Scourge",
+    "Designation": "Destroyer",
+    "Scan": "6\"",
+    "Signal": "5\"",
+    "Thrust": "10\"",
+    "Hull": "6",
+    "Armour": "4+",
+    "PointDefence": "4",
+    "GroupMin": 2,
+    "GroupMax": 3,
+    "Tonnage": "L2",
+    "TonnageClass": 2,
+    "Points": 55,
+    "HardPoints": 1,
+    "Special": [],
+    "Weapons": [
+      {
+        "Name": "Oculus Rays",
+        "LockValue": "3+",
+        "Attack": "1",
+        "Damage": "1",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Rays F"
+      },
+      {
+        "Name": "Furnace Blaster",
+        "LockValue": "4+",
+        "Attack": "3",
+        "Damage": "1",
+        "Arc": "F(N)",
+        "Special": ["Burnthrough(6)", " Alt-1", " Scald"],
+        "FullString": "Furnace Blaster F(N)"
+      },
+      {
+        "Name": "Furnace Blaster",
+        "LockValue": "2+",
+        "Attack": "1",
+        "Damage": "1",
+        "Arc": "F(N)",
+        "Special": ["Alt-1", " Burnthrough (2)", " Flash", " Scald"],
+        "FullString": "Furnace Blaster F(N)"
+      },
+      {
+        "Name": "Plasma Squall",
+        "LockValue": "3+",
+        "Attack": "D3+2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action", " Scald"],
+        "FullString": "Plasma Squall F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [
+      "Cloaking Crest: This ship may take a Cloaking Crest for +5pts, and gains Stealth and Partial Cloak"
+    ],
+    "icons": ["Incubus"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d2566041e2b",
+    "_rev": "5-d0e91c027929bc88489dec7971196406",
+    "Name": "Succubus",
+    "Faction": "Scourge",
+    "Designation": "Destroyer",
+    "Scan": "6\"",
+    "Signal": "5\"",
+    "Thrust": "10\"",
+    "Hull": "6",
+    "Armour": "4+",
+    "PointDefence": "4",
+    "GroupMin": 2,
+    "GroupMax": 3,
+    "Tonnage": "L2",
+    "TonnageClass": 2,
+    "Points": 55,
+    "HardPoints": 1,
+    "Special": [],
+    "Weapons": [
+      {
+        "Name": "Oculus Beams",
+        "LockValue": "3+",
+        "Attack": "1",
+        "Damage": "2",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beams F"
+      },
+      {
+        "Name": "Oculus Beams",
+        "LockValue": "3+",
+        "Attack": "1",
+        "Damage": "2",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beams F"
+      },
+      {
+        "Name": "Seekers",
+        "LockValue": "3+",
+        "Attack": "D3+2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Scald", " Re-Entry", " Close Action"],
+        "FullString": "Seekers F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [
+      "Cloaking Crest: This ship may take a Cloaking Crest for +5pts, and gains Stealth and Partial Cloak."
+    ],
+    "icons": ["Succubus"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d2566041e4e",
+    "_rev": "3-daf716e75b93f3303a662ad8f637ac05",
+    "Name": "Revenant",
+    "Faction": "Scourge",
+    "Designation": "Destroyer",
+    "Scan": "6\"",
+    "Signal": "5\"",
+    "Thrust": "10\"",
+    "Hull": "6",
+    "Armour": "4+",
+    "PointDefence": "4",
+    "GroupMin": 2,
+    "GroupMax": 4,
+    "Tonnage": "L2",
+    "TonnageClass": 2,
+    "Points": 60,
+    "HardPoints": 1,
+    "Special": ["Launch"],
+    "Weapons": [
+      {
+        "Name": "Oculus Rays",
+        "LockValue": "3+",
+        "Attack": "1",
+        "Damage": "1",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Rays F"
+      },
+      {
+        "Name": "Plasma Storm",
+        "LockValue": "3+",
+        "Attack": "D6+2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action", " Scald"],
+        "FullString": "Plasma Storm F/S/R"
+      }
+    ],
+    "LaunchAssets": [
+      { "Name": "Fighters & Bombers", "Launch": "2", "Special": [] }
+    ],
+    "SpecRules": [
+      "Cloaking Crest: This ship may take a Cloaking Crest for +5pts, and gains Stealth and Partial Cloak."
+    ],
+    "icons": ["Revenant"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d2566042e14",
+    "_rev": "5-8c3ea3123fd8e4f6472fe0e11fe7875a",
+    "Name": "Daemon",
+    "Faction": "Scourge",
+    "Designation": "Battleship",
+    "Scan": "8\"",
+    "Signal": "12\"",
+    "Thrust": "8\"",
+    "Hull": "18",
+    "Armour": "3+",
+    "PointDefence": "12",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "S",
+    "TonnageClass": 15,
+    "Points": 260,
+    "HardPoints": 0,
+    "Special": [],
+    "Weapons": [
+      {
+        "Name": "Oculus Beam Array",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "2",
+        "Arc": "F",
+        "Special": ["Scald", " Linked-1"],
+        "FullString": "Oculus Beam Array F"
+      },
+      {
+        "Name": "Oculus Beam Phalanx",
+        "LockValue": "3+",
+        "Attack": "3",
+        "Damage": "2",
+        "Arc": "F/S(L)",
+        "Special": ["Scald", " Linked-1"],
+        "FullString": "Oculus Beam Phalanx F/S(L)"
+      },
+      {
+        "Name": "Oculus Beam Phalanx",
+        "LockValue": "3+",
+        "Attack": "3",
+        "Damage": "2",
+        "Arc": "F/S(R)",
+        "Special": ["Scald", " Linked-1"],
+        "FullString": "Oculus Beam Phalanx F/S(R)"
+      },
+      {
+        "Name": "Furnace Fangs",
+        "LockValue": "4+",
+        "Attack": "4",
+        "Damage": "1",
+        "Arc": "F(N)",
+        "Special": ["Alt-1", " Scald", " Burnthrough (10)"],
+        "FullString": "Furnace Cannons F(N)"
+      },
+      {
+        "Name": "Furnace Fangs",
+        "LockValue": "2+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F(N)",
+        "Special": ["Alt-1", " Scald", " Burnthrough (5)", " Flash"],
+        "FullString": "Furnace Cannons F(N)"
+      },
+      {
+        "Name": "Plasma Cyclone",
+        "LockValue": "2+",
+        "Attack": "D6+2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action", " Scald"],
+        "FullString": "Plasma Cyclone F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Daemon"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d25660433ff",
+    "_rev": "7-b2ef56977286fbf32ba75998439059b4",
+    "Name": "Dragon",
+    "Faction": "Scourge",
+    "Designation": "Battleship",
+    "Scan": "8\"",
+    "Signal": "12\"",
+    "Thrust": "8\"",
+    "Hull": "18",
+    "Armour": "3+",
+    "PointDefence": "12",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "S",
+    "TonnageClass": 15,
+    "Points": 265,
+    "HardPoints": 0,
+    "Special": ["Launch"],
+    "Weapons": [
+      {
+        "Name": "Oculus Beam Array",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "2",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beam Array F"
+      },
+      {
+        "Name": "Furnace Fangs",
+        "LockValue": "4+",
+        "Attack": "4",
+        "Damage": "1",
+        "Arc": "F(N)",
+        "Special": ["Alt-1", " Scald", " Burnthrough (10)"],
+        "FullString": "Furnace Cannons F(N)"
+      },
+      {
+        "Name": "Furnace Fangs",
+        "LockValue": "2+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F(N)",
+        "Special": ["Alt-1", " Scald", " Burnthrough (5)", " Flash"],
+        "FullString": "Furnace Cannons F(N)"
+      },
+      {
+        "Name": "Plasma Cyclone",
+        "LockValue": "2+",
+        "Attack": "D6+2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action", " Scald"],
+        "FullString": "Plasma Cyclone F/S/R"
+      }
+    ],
+    "LaunchAssets": [
+      { "Name": "Torpedo", "Launch": "1", "Special": ["L2", " Corruptor"] },
+      { "Name": "Torpedo", "Launch": "1", "Special": ["L2", " Corruptor"] },
+      { "Name": "Fighters & Bombers", "Launch": "3", "Special": [] }
+    ],
+    "SpecRules": [],
+    "icons": ["Dragon"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d2566043de9",
+    "_rev": "4-14ff7b51f51b0932ff0cd931fbb2a38e",
+    "Name": "Basilisk",
+    "Faction": "Scourge",
+    "Designation": "Battlecruiser",
+    "Scan": "6\"",
+    "Signal": "8\"",
+    "Thrust": "10\"",
+    "Hull": "14",
+    "Armour": "4+",
+    "PointDefence": "8",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "H",
+    "TonnageClass": 10,
+    "Points": 215,
+    "HardPoints": 0,
+    "Special": ["Stealth", " Full Cloak"],
+    "Weapons": [
+      {
+        "Name": "Oculus Beam Array",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "2",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beam Array F"
+      },
+      {
+        "Name": "Oculus Beam Phalanx",
+        "LockValue": "3+",
+        "Attack": "3",
+        "Damage": "2",
+        "Arc": "F/S(L)",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beam Phalanx F/S(L)"
+      },
+      {
+        "Name": "Oculus Beam Phalanx",
+        "LockValue": "3+",
+        "Attack": "3",
+        "Damage": "2",
+        "Arc": "F/S(R)",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beam Phalanx F/S(R)"
+      },
+      {
+        "Name": "Plasma Storm",
+        "LockValue": "3+",
+        "Attack": "D6+2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Scald", " Close Action"],
+        "FullString": "Plasma Storm F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Basilisk"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d2566044aa9",
+    "_rev": "5-10046671f9639b3424e5b9ee78149f25",
+    "Name": "Akuma",
+    "Faction": "Scourge",
+    "Designation": "Battlecruiser",
+    "Scan": "6\"",
+    "Signal": "8\"",
+    "Thrust": "10\"",
+    "Hull": "14",
+    "Armour": "4+",
+    "PointDefence": "8",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "H",
+    "TonnageClass": 10,
+    "Points": 215,
+    "HardPoints": 0,
+    "Special": ["Stealth", " Full Cloak"],
+    "Weapons": [
+      {
+        "Name": "Oculus Beam Array",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "2",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beam Array F"
+      },
+      {
+        "Name": "Oculus Beam Phalanx",
+        "LockValue": "3+",
+        "Attack": "3",
+        "Damage": "2",
+        "Arc": "F/S(L)",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beam Phalanx F/S(L)"
+      },
+      {
+        "Name": "Oculus Beam Phalanx",
+        "LockValue": "3+",
+        "Attack": "3",
+        "Damage": "2",
+        "Arc": "F/S(R)",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beam Phalanx F/S(R)"
+      },
+      {
+        "Name": "Plasma Storm",
+        "LockValue": "3+",
+        "Attack": "D6+2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Scald", " Close Action"],
+        "FullString": "Plasma Storm F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Akuma"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256604623b",
+    "_rev": "5-b202ef2a3f99d8080a9645576b5ea296",
+    "Name": "Manticore",
+    "Faction": "Scourge",
+    "Designation": "Battlecruiser",
+    "Scan": "6\"",
+    "Signal": "8\"",
+    "Thrust": "10\"",
+    "Hull": "14",
+    "Armour": "4+",
+    "PointDefence": "8",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "H",
+    "TonnageClass": 10,
+    "Points": 180,
+    "HardPoints": 0,
+    "Special": ["Stealth", " Full Cloak", " Launch"],
+    "Weapons": [
+      {
+        "Name": "Oculus Beam Array",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "2",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beam Array F"
+      },
+      {
+        "Name": "Plasma Tempest",
+        "LockValue": "3+",
+        "Attack": "2D6+4",
+        "Damage": "1",
+        "Arc": "F/S",
+        "Special": ["Scald", " Close Action"],
+        "FullString": "Plasma Tempest F/S"
+      }
+    ],
+    "LaunchAssets": [
+      { "Name": "Torpedo", "Launch": "1", "Special": ["L2", " Corruptor"] }
+    ],
+    "SpecRules": [],
+    "icons": ["Manticore"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d2566046633",
+    "_rev": "6-237145a38f998e667ea25746eda9d7d2",
+    "Name": "Banshee",
+    "Faction": "Scourge",
+    "Designation": "Battlecruiser",
+    "Scan": "6\"",
+    "Signal": "8\"",
+    "Thrust": "10\"",
+    "Hull": "14",
+    "Armour": "4+",
+    "PointDefence": "8",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "H",
+    "TonnageClass": 10,
+    "Points": 180,
+    "HardPoints": 0,
+    "Special": ["Stealth", " Full Cloak", " Launch"],
+    "Weapons": [
+      {
+        "Name": "Oculus Beam Array",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "2",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beam Array F"
+      },
+      {
+        "Name": "Plasma Tempest",
+        "LockValue": "3+",
+        "Attack": "2D6+4",
+        "Damage": "1",
+        "Arc": "F/S",
+        "Special": ["Scald", " Close Action"],
+        "FullString": "Plasma Tempest F/S"
+      }
+    ],
+    "LaunchAssets": [
+      { "Name": "Torpedo", "Launch": "1", "Special": ["L2", " Corruptor"] }
+    ],
+    "SpecRules": [],
+    "icons": ["Banshee"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d25660483ff",
+    "_rev": "5-e9945ed886f6f84b865bd2a98e9463e0",
+    "Name": "Shenlong",
+    "Faction": "Scourge",
+    "Designation": "Heavy Cruiser",
+    "Scan": "6\"",
+    "Signal": "8\"",
+    "Thrust": "8\"",
+    "Hull": "12",
+    "Armour": "4+",
+    "PointDefence": "6",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "H",
+    "TonnageClass": 10,
+    "Points": 160,
+    "HardPoints": 0,
+    "Special": ["Stealth", " Partial Cloak"],
+    "Weapons": [
+      {
+        "Name": "Oculus Beam Array",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "2",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beam Array F"
+      },
+      {
+        "Name": "Oculus Beam Array",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "2",
+        "Arc": "F/S(L)",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beam Array F/S(L)"
+      },
+      {
+        "Name": "Oculus Beam Array",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "2",
+        "Arc": "F/S(R)",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beam Array F/S(R)"
+      },
+      {
+        "Name": "Plasma Storm",
+        "LockValue": "3+",
+        "Attack": "D6+2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Scald", " Close Action"],
+        "FullString": "Plasma Storm F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Shenlong"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d2566048411",
+    "_rev": "4-72e8f46b2e445a1ecf991c4a34314bed",
+    "Name": "Raiju",
+    "Faction": "Scourge",
+    "Designation": "Heavy Cruiser",
+    "Scan": "6\"",
+    "Signal": "8\"",
+    "Thrust": "8\"",
+    "Hull": "12",
+    "Armour": "4+",
+    "PointDefence": "6",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "H",
+    "TonnageClass": 10,
+    "Points": 150,
+    "HardPoints": 0,
+    "Special": ["Stealth", " Partial Cloak"],
+    "Weapons": [
+      {
+        "Name": "Oculus Beam Array",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "2",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beam Array F"
+      },
+      {
+        "Name": "Furnace Cannons",
+        "LockValue": "4+",
+        "Attack": "4",
+        "Damage": "1",
+        "Arc": "F(N)",
+        "Special": ["Alt-1", " Scald", " Burnthrough (8)"],
+        "FullString": "Furnace Cannons F(N)"
+      },
+      {
+        "Name": "Furnace Cannons",
+        "LockValue": "2+",
+        "Attack": "1",
+        "Damage": "1",
+        "Arc": "F(N)",
+        "Special": ["Alt-1", " Scald", " Burnthrough (4)", " Flash"],
+        "FullString": "Furnace Cannons F(N)"
+      },
+      {
+        "Name": "Plasma Storm",
+        "LockValue": "3+",
+        "Attack": "D6+2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Scald", " Close Action"],
+        "FullString": "Plasma Storm F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Raiju"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d2566049357",
+    "_rev": "3-0dd6b832683a8ae4f7ba74c16a5dde95",
+    "Name": "Sphinx",
+    "Faction": "Scourge",
+    "Designation": "Cruiser",
+    "Scan": "6\"",
+    "Signal": "8\"",
+    "Thrust": "10\"",
+    "Hull": "10",
+    "Armour": "4+",
+    "PointDefence": "6",
+    "GroupMin": 1,
+    "GroupMax": 2,
+    "Tonnage": "M",
+    "TonnageClass": 5,
+    "Points": 115,
+    "HardPoints": 0,
+    "Special": [],
+    "Weapons": [
+      {
+        "Name": "Oculus Beams",
+        "LockValue": "3+",
+        "Attack": "1",
+        "Damage": "2",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beams F"
+      },
+      {
+        "Name": "Oculus Beam Array",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "2",
+        "Arc": "F/S(L)",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beam Array F/S(L)"
+      },
+      {
+        "Name": "Oculus Beam Array",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "2",
+        "Arc": "F/S(R)",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beam Array F/S(R)"
+      },
+      {
+        "Name": "Plasma Storm",
+        "LockValue": "3+",
+        "Attack": "D6+2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Scald", " Close Action"],
+        "FullString": "Plasma Storm F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Sphinx"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d2566049eac",
+    "_rev": "3-d7fe6854fe37e36ed762e7ddb83b632e",
+    "Name": "Wyvern",
+    "Faction": "Scourge",
+    "Designation": "Cruiser",
+    "Scan": "6\"",
+    "Signal": "8\"",
+    "Thrust": "10\"",
+    "Hull": "10",
+    "Armour": "4+",
+    "PointDefence": "6",
+    "GroupMin": 1,
+    "GroupMax": 2,
+    "Tonnage": "M",
+    "TonnageClass": 5,
+    "Points": 105,
+    "HardPoints": 0,
+    "Special": [],
+    "Weapons": [
+      {
+        "Name": "Oculus Beams",
+        "LockValue": "3+",
+        "Attack": "1",
+        "Damage": "2",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beams F"
+      },
+      {
+        "Name": "Plasma Tempest",
+        "LockValue": "3+",
+        "Attack": "2D6+4",
+        "Damage": "1",
+        "Arc": "F/S",
+        "Special": ["Scald", " Close Action"],
+        "FullString": "Plasma Tempest F/S"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Wyvern"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256604ae5c",
+    "_rev": "3-72eca77e0696a6c4c478d87526c84ee0",
+    "Name": "Ifrit",
+    "Faction": "Scourge",
+    "Designation": "Cruiser",
+    "Scan": "6\"",
+    "Signal": "8\"",
+    "Thrust": "10\"",
+    "Hull": "10",
+    "Armour": "4+",
+    "PointDefence": "6",
+    "GroupMin": 1,
+    "GroupMax": 2,
+    "Tonnage": "M",
+    "TonnageClass": 5,
+    "Points": 110,
+    "HardPoints": 0,
+    "Special": [],
+    "Weapons": [
+      {
+        "Name": "Oculus Beams",
+        "LockValue": "3+",
+        "Attack": "1",
+        "Damage": "2",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beams F"
+      },
+      {
+        "Name": "Furnace Cannons",
+        "LockValue": "4+",
+        "Attack": "4",
+        "Damage": "1",
+        "Arc": "F(N)",
+        "Special": ["Alt-1", " Scald", " Burnthrough (8)"],
+        "FullString": "Furnace Cannons F(N)"
+      },
+      {
+        "Name": "Furnace Cannons",
+        "LockValue": "2+",
+        "Attack": "1",
+        "Damage": "1",
+        "Arc": "F(N)",
+        "Special": ["Alt-1", " Scald", " Burnthrough (4)", " Flash"],
+        "FullString": "Furnace Cannons F(N)"
+      },
+      {
+        "Name": "Plasma Storm",
+        "LockValue": "3+",
+        "Attack": "D6+2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Scald", " Close Action"],
+        "FullString": "Plasma Storm F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Ifrit"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256604ba94",
+    "_rev": "3-20eb6688d33e58538e251ac1e711692e",
+    "Name": "Hydra",
+    "Faction": "Scourge",
+    "Designation": "Fleet Carrier",
+    "Scan": "6\"",
+    "Signal": "8\"",
+    "Thrust": "10\"",
+    "Hull": "10",
+    "Armour": "4+",
+    "PointDefence": "6",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "M",
+    "TonnageClass": 5,
+    "Points": 140,
+    "HardPoints": 0,
+    "Special": ["Launch"],
+    "Weapons": [
+      {
+        "Name": "Oculus Beams",
+        "LockValue": "3+",
+        "Attack": "1",
+        "Damage": "2",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beams F"
+      },
+      {
+        "Name": "Plasma Storm",
+        "LockValue": "3+",
+        "Attack": "D6+2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Scald", " Close Action"],
+        "FullString": "Plasma Storm F/S/R"
+      }
+    ],
+    "LaunchAssets": [
+      { "Name": "Fighters & Bombers", "Launch": "5", "Special": [""] }
+    ],
+    "SpecRules": [],
+    "icons": ["Hydra"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256604c304",
+    "_rev": "4-3711fe276ee7527bc1db6e6eb86af312",
+    "Name": "Chimera",
+    "Faction": "Scourge",
+    "Designation": "Troopship",
+    "Scan": "6\"",
+    "Signal": "8\"",
+    "Thrust": "10\"",
+    "Hull": "10",
+    "Armour": "4+",
+    "PointDefence": "6",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "M",
+    "TonnageClass": 5,
+    "Points": 105,
+    "HardPoints": 0,
+    "Special": ["Launch"],
+    "Weapons": [
+      {
+        "Name": "Oculus Beams",
+        "LockValue": "3+",
+        "Attack": "1",
+        "Damage": "2",
+        "Arc": "F/S",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beams F/S"
+      },
+      {
+        "Name": "Plasma Storm",
+        "LockValue": "3+",
+        "Attack": "D6+2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Scald", " Close Action"],
+        "FullString": "Plasma Cloud F/S/R"
+      },
+      {
+        "Name": "",
+        "LockValue": "",
+        "Attack": "",
+        "Damage": "",
+        "Arc": "",
+        "Special": [],
+        "FullString": " "
+      }
+    ],
+    "LaunchAssets": [{ "Name": "Bulk Landers", "Launch": "2", "Special": [] }],
+    "SpecRules": [],
+    "icons": ["Chimera"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256604d003",
+    "_rev": "3-39e330455aa2f186e2a1c23161ca6b89",
+    "Name": "Strix",
+    "Faction": "Scourge",
+    "Designation": "Light Cruiser",
+    "Scan": "6\"",
+    "Signal": "8\"",
+    "Thrust": "12\"",
+    "Hull": "8",
+    "Armour": "5+",
+    "PointDefence": "2",
+    "GroupMin": 2,
+    "GroupMax": 3,
+    "Tonnage": "M",
+    "TonnageClass": 5,
+    "Points": 90,
+    "HardPoints": 0,
+    "Special": [],
+    "Weapons": [
+      {
+        "Name": "Oculus Beams",
+        "LockValue": "3+",
+        "Attack": "1",
+        "Damage": "2",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beams F"
+      },
+      {
+        "Name": "Plasma Tempest",
+        "LockValue": "3+",
+        "Attack": "2D6+4",
+        "Damage": "1",
+        "Arc": "F/S",
+        "Special": ["Scald", " Close Action"],
+        "FullString": "Plasma Tempest F/S"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Strix"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256604d0ee",
+    "_rev": "3-98970598e52b31ac5c75ca41bfb4f925",
+    "Name": "Yokai",
+    "Faction": "Scourge",
+    "Designation": "Light Cruiser",
+    "Scan": "6\"",
+    "Signal": "8\"",
+    "Thrust": "12\"",
+    "Hull": "8",
+    "Armour": "5+",
+    "PointDefence": "2",
+    "GroupMin": 2,
+    "GroupMax": 3,
+    "Tonnage": "M",
+    "TonnageClass": 5,
+    "Points": 95,
+    "HardPoints": 0,
+    "Special": [],
+    "Weapons": [
+      {
+        "Name": "Oculus Beams",
+        "LockValue": "3+",
+        "Attack": "1",
+        "Damage": "2",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beams F"
+      },
+      {
+        "Name": "Oculus Beam Array",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "2",
+        "Arc": "F/S(L)",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beam Array F/S(L)"
+      },
+      {
+        "Name": "Oculus Beam Array",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "2",
+        "Arc": "F/S(R)",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beam Array F/S(R)"
+      },
+      {
+        "Name": "Plasma Storm",
+        "LockValue": "3+",
+        "Attack": "D6+2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Scald", " Close Action"],
+        "FullString": "Plasma Storm F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Yokai"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256604d60a",
+    "_rev": "5-a39d18d61964de2f4dc6e3905aeb30fb",
+    "Name": "Harpy",
+    "Faction": "Scourge",
+    "Designation": "Frigate",
+    "Scan": "6\"",
+    "Signal": "3\"",
+    "Thrust": "12\"",
+    "Hull": "4",
+    "Armour": "5+",
+    "PointDefence": "4",
+    "GroupMin": 2,
+    "GroupMax": 4,
+    "Tonnage": "L",
+    "TonnageClass": 1,
+    "Points": 39,
+    "HardPoints": 0,
+    "Special": ["Atmospheric"],
+    "Weapons": [
+      {
+        "Name": "Oculus Beams",
+        "LockValue": "3+",
+        "Attack": "1",
+        "Damage": "2",
+        "Arc": "F/S",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beams F/S"
+      },
+      {
+        "Name": "Plasma Cloud",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Scald", " Close Action"],
+        "FullString": "Plasma Cloud F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Harpy"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256604df7f",
+    "_rev": "3-c6f8ead909c4d9effb3661faf7a1c17b",
+    "Name": "Djinn",
+    "Faction": "Scourge",
+    "Designation": "Frigate",
+    "Scan": "6\"",
+    "Signal": "3\"",
+    "Thrust": "12\"",
+    "Hull": "4",
+    "Armour": "5+",
+    "PointDefence": "4",
+    "GroupMin": 2,
+    "GroupMax": 6,
+    "Tonnage": "L",
+    "TonnageClass": 1,
+    "Points": 43,
+    "HardPoints": 0,
+    "Special": ["Atmospheric"],
+    "Weapons": [
+      {
+        "Name": "Oculus Rays",
+        "LockValue": "3+",
+        "Attack": "1",
+        "Damage": "1",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Rays F"
+      },
+      {
+        "Name": "Plasma Storm",
+        "LockValue": "3+",
+        "Attack": "D6+2",
+        "Damage": "1",
+        "Arc": "F/S",
+        "Special": ["Scald", " Close Action"],
+        "FullString": "Plasma Storm F/S"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Djinn"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256604dfe8",
+    "_rev": "7-a0b54d49c8db66d50713209fbdd57461",
+    "Name": "Charybdis",
+    "Faction": "Scourge",
+    "Designation": "Frigate",
+    "Scan": "6\"",
+    "Signal": "3\"",
+    "Thrust": "12\"",
+    "Hull": "4",
+    "Armour": "5+",
+    "PointDefence": "4",
+    "GroupMin": 2,
+    "GroupMax": 4,
+    "Tonnage": "L",
+    "TonnageClass": 1,
+    "Points": 35,
+    "HardPoints": 0,
+    "Special": ["Atmospheric"],
+    "Weapons": [
+      {
+        "Name": "Oculus Rays",
+        "LockValue": "3+",
+        "Attack": "1",
+        "Damage": "1",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Rays F"
+      },
+      {
+        "Name": "Plasma Bombs",
+        "LockValue": "4+",
+        "Attack": "4",
+        "Damage": "1",
+        "Arc": "F/S",
+        "Special": ["Bombardment", " Scald", " Low Level"],
+        "FullString": "Plasma Bombs F/S"
+      },
+      {
+        "Name": "Plasma Cloud",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Scald", " Close Action"],
+        "FullString": "Plasma Cloud F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [
+      "Low Level: This weapon may be fired from atmosphere with no penalties to it's lock value."
+    ],
+    "icons": ["Charybdis"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256604e64c",
+    "_rev": "5-a7ac9ae721f7f4932b9722bdad98c8d8",
+    "Name": "Scylla",
+    "Faction": "Scourge",
+    "Designation": "Frigate",
+    "Scan": "6\"",
+    "Signal": "3\"",
+    "Thrust": "12\"",
+    "Hull": "4",
+    "Armour": "5+",
+    "PointDefence": "4",
+    "GroupMin": 2,
+    "GroupMax": 4,
+    "Tonnage": "L",
+    "TonnageClass": 1,
+    "Points": 42,
+    "HardPoints": 0,
+    "Special": ["Atmospheric"],
+    "Weapons": [
+      {
+        "Name": "Oculus Rays",
+        "LockValue": "3+",
+        "Attack": "1",
+        "Damage": "1",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Rays F"
+      },
+      {
+        "Name": "Reverse-Grav Cannon",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F/S",
+        "Special": ["Escape Velocity"],
+        "FullString": "Reverse-Grav Cannon F/S"
+      },
+      {
+        "Name": "Plasma Cloud",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Scald", " Close Action"],
+        "FullString": "Plasma Cloud F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Scylla"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256604e983",
+    "_rev": "3-5b1821572355c078eeabd7fd3bce685d",
+    "Name": "Gargoyle",
+    "Faction": "Scourge",
+    "Designation": "Strike Carrier",
+    "Scan": "6\"",
+    "Signal": "3\"",
+    "Thrust": "12\"",
+    "Hull": "4",
+    "Armour": "5+",
+    "PointDefence": "4",
+    "GroupMin": 1,
+    "GroupMax": 2,
+    "Tonnage": "L",
+    "TonnageClass": 1,
+    "Points": 32,
+    "HardPoints": 0,
+    "Special": ["Atmospheric", " Launch", " Open"],
+    "Weapons": [
+      {
+        "Name": "Oculus Rays",
+        "LockValue": "3+",
+        "Attack": "1",
+        "Damage": "1",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Rays F"
+      },
+      {
+        "Name": "Plasma Cloud",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Scald", " Close Action"],
+        "FullString": "Plasma Cloud F/S/R"
+      }
+    ],
+    "LaunchAssets": [{ "Name": "Dropships", "Launch": "1", "Special": [] }],
+    "SpecRules": [],
+    "icons": ["Gargoyle"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256604efdd",
+    "_rev": "4-2593bd717120edbaf3f263f2973dddeb",
+    "Name": "Nickar",
+    "Faction": "Scourge",
+    "Designation": "Hunter-Killer",
+    "Scan": "6\"",
+    "Signal": "2\"",
+    "Thrust": "16\"",
+    "Hull": "2",
+    "Armour": "6+",
+    "PointDefence": "2",
+    "GroupMin": 1,
+    "GroupMax": 3,
+    "Tonnage": "L",
+    "TonnageClass": 1,
+    "Points": 22,
+    "HardPoints": 0,
+    "Special": ["Atmospheric"],
+    "Weapons": [
+      {
+        "Name": "Plasma Squall",
+        "LockValue": "4+",
+        "Attack": "D6",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Air To Air", " Close Action", " Scald"],
+        "FullString": "Plasma Squall F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Nickar"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256614d111",
+    "_rev": "5-3f0c2e9034c023d0bf8c2d5fb9073cc2",
+    "Name": "Pungari Thresher",
+    "Faction": "Scourge",
+    "Designation": "Hive Ship",
+    "Scan": "4\"",
+    "Signal": "6\"",
+    "Thrust": "6\"",
+    "Hull": "14",
+    "Armour": "3+",
+    "PointDefence": "4",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "H",
+    "TonnageClass": 10,
+    "Points": 150,
+    "HardPoints": 0,
+    "Special": ["Rare", " Reinforced Armour"],
+    "Weapons": [
+      {
+        "Name": "Boarding Torpedoes (Front)",
+        "LockValue": "4+",
+        "Attack": "4",
+        "Damage": "1",
+        "Arc": "F",
+        "Special": ["Corruptor"],
+        "FullString": "Boarding Torpedoes (Front) F"
+      },
+      {
+        "Name": "Boarding Torpedoes (Starboard)",
+        "LockValue": "4+",
+        "Attack": "4",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Corruptor", " Linked-1"],
+        "FullString": "Boarding Torpedoes (Starboard) S(R)"
+      },
+      {
+        "Name": "Boarding Torpedoes (Port)",
+        "LockValue": "4+",
+        "Attack": "4",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Corruptor", " Linked-1"],
+        "FullString": "Boarding Torpedoes (Port) S(L)"
+      }
+    ],
+    "LaunchAssets": [
+      { "Name": "Pungari Bulk Lander", "Launch": "2", "Special": [] },
+      { "Name": "Pungari Bombers", "Launch": "4", "Special": [] }
+    ],
+    "SpecRules": ["Pungari Bulk Landers only drop Infantry Assets."],
+    "icons": ["Pungari Thresher"]
+  },
+  {
+    "_id": "b912b1356d8361aae9c547977001752f",
+    "_rev": "8-83d9110cc825ff6214ec3932a707b173",
+    "Name": "Hiruko",
+    "Faction": "Scourge",
+    "Designation": "Boarding Cutter",
+    "Scan": "6\"",
+    "Signal": "2\"",
+    "Thrust": "14\"",
+    "Hull": "2",
+    "Armour": "6+",
+    "PointDefence": "1",
+    "GroupMin": 1,
+    "GroupMax": 3,
+    "Tonnage": "L",
+    "TonnageClass": 1,
+    "Points": 18,
+    "HardPoints": 0,
+    "Special": ["Outlier"],
+    "Weapons": [
+      {
+        "Name": "Plasma Torch",
+        "LockValue": "4+",
+        "Attack": "D3",
+        "Damage": "1",
+        "Arc": "F",
+        "Special": [" Close Action (Beam)"],
+        "FullString": "Plasma Torch F"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [
+      "Ramming Ship: This ship may ram enemy ships, even though it is Light Tonnage. Additionally, when determining Attack dice from Ramming, double this ship’s original Hull. Ramming hits from this ship have the Corrupter special rule."
+    ],
+    "icons": ["Hiruko"]
+  },
+  {
+    "_id": "c1fc888556a3d0303e2200eae60637d7",
+    "_rev": "6-c8cb54e9b3523b3898487370ec531453",
+    "Name": "Shadow",
+    "Faction": "Scourge",
+    "Designation": "Battlecruiser",
+    "Scan": "6\"",
+    "Signal": "8\"",
+    "Thrust": "10\"",
+    "Hull": "14",
+    "Armour": "4+",
+    "PointDefence": "8",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "H",
+    "TonnageClass": 10,
+    "Points": 195,
+    "HardPoints": 0,
+    "Special": ["Launch"],
+    "Weapons": [
+      {
+        "Name": "Magnetron Lash",
+        "LockValue": "-",
+        "Attack": "4",
+        "Damage": "1",
+        "Arc": "F(N)",
+        "Special": ["Mauler(8)", " Scald"],
+        "FullString": "Magnetron Lash F(N)"
+      },
+      {
+        "Name": "Oculus Beam Array",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "2",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beam Array F"
+      },
+      {
+        "Name": "Plasma Tempest",
+        "LockValue": "3+",
+        "Attack": "2D6+4",
+        "Damage": "1",
+        "Arc": "F/S",
+        "Special": ["Close Action", " Scald"],
+        "FullString": "Plasma Tempest F/S"
+      }
+    ],
+    "LaunchAssets": [
+      { "Name": "Fighters & Bombers", "Launch": "4", "Special": "-" }
+    ],
+    "SpecRules": [],
+    "icons": ["Shadow"]
+  },
+  {
+    "_id": "c1fc888556a3d0303e2200eae6064188",
+    "_rev": "4-cfb7f2ecc32c2ddd81dcff26eb4dd749",
+    "Name": "Umbra",
+    "Faction": "Scourge",
+    "Designation": "Battlecruiser",
+    "Scan": "6\"",
+    "Signal": "8\"",
+    "Thrust": "10\"",
+    "Hull": "14",
+    "Armour": "4+",
+    "PointDefence": "8",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "H",
+    "TonnageClass": 10,
+    "Points": 195,
+    "HardPoints": 0,
+    "Special": ["Launch"],
+    "Weapons": [
+      {
+        "Name": "Oculus Beam Array",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "2",
+        "Arc": "F",
+        "Special": ["Scald"],
+        "FullString": "Oculus Beam Array F"
+      },
+      {
+        "Name": "Plasma Tempest",
+        "LockValue": "3+",
+        "Attack": "2D6+4",
+        "Damage": "1",
+        "Arc": "F/S",
+        "Special": ["Close Action", " Scald"],
+        "FullString": "Plasma Tempest F/S"
+      }
+    ],
+    "LaunchAssets": [
+      { "Name": "Fighters & Bombers", "Launch": "4", "Special": "-" }
+    ],
+    "SpecRules": [
+      "Oculus Booster: At the end of this ship’s activation, pick one enemy ship anywhere within its Front Arc in line of sight. Place an Oculus Booster token next to that ship. A ship may have only 1 Oculus Booster token. You may remove the Oculus Booster token when the ship’s Group is targeted by a single friendly group. If so, the firing Group gains the following bonus against every ship in that Group in coherency with the token ship for that firing action: Weapons with “Oculus” in their name activate Scald whenever in Scan + Signature range, and also increase their Scald penalty to +3 instead of +1. If unused, Oculus Booster tokens are removed during the Roundup Phase."
+    ],
+    "icons": ["Umbra"]
+  }
+]

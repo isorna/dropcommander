@@ -1,0 +1,1930 @@
+[
+  {
+    "_id": "37698fdaf7a5e18dc22a4b22ab004ee5",
+    "_rev": "2-09c5cc2e593081bb495927641b8b0b87",
+    "Name": "Pegasus",
+    "Faction": "PHR",
+    "Designation": "Nano-Hive Cutter",
+    "Scan": "6\"",
+    "Signal": "3\"",
+    "Thrust": "14\"",
+    "Hull": "5",
+    "Armour": "4+",
+    "PointDefence": "2",
+    "GroupMin": 2,
+    "GroupMax": 3,
+    "Tonnage": "L",
+    "TonnageClass": 1,
+    "Points": 45,
+    "HardPoints": 0,
+    "Special": ["Outlier, Regenerate(6)"],
+    "Weapons": [
+      {
+        "Name": "Nano Drones",
+        "LockValue": "4+",
+        "Attack": "2D3+2",
+        "Damage": "1",
+        "Arc": "F/S",
+        "Special": ["Close Action (Swarmer)"],
+        "FullString": "Nano Drones F/S"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [
+      "Drone Repair: The Regenerate rule does not shut down when this ship is Crippled"
+    ],
+    "icons": ["Pegasus"]
+  },
+  {
+    "_id": "37698fdaf7a5e18dc22a4b22ab005b28",
+    "_rev": "2-2b58dadcc056db161863cb47cd49795b",
+    "Name": "Ourania",
+    "Faction": "PHR",
+    "Designation": "Swiftlink",
+    "Scan": "8\"",
+    "Signal": "3\"",
+    "Thrust": "14\"",
+    "Hull": "5",
+    "Armour": "4+",
+    "PointDefence": "2",
+    "GroupMin": 1,
+    "GroupMax": 3,
+    "Tonnage": "L",
+    "TonnageClass": 1,
+    "Points": 30,
+    "HardPoints": 0,
+    "Special": ["Outlier, Rare"],
+    "Weapons": [],
+    "LaunchAssets": [],
+    "SpecRules": [
+      "Targeting Link: Friendly ships within range (Scan + Signature) of this ship can use it as a \"spotter\". Measure range from the spotter to the target ship instead of from the firing ship. The firing ship must however still be able to draw line of sight to the target ship. This rule does not have any effect on Close Action weapons."
+    ],
+    "icons": ["Ourania"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d25660383b6",
+    "_rev": "4-9518841e3386c901e6a951b9b63a1b3b",
+    "Name": "Resistance Centurion",
+    "Faction": "PHR",
+    "Designation": "Grand Cruiser",
+    "Scan": "4\"",
+    "Signal": "6\"",
+    "Thrust": "7\"",
+    "Hull": "14",
+    "Armour": "2+",
+    "PointDefence": "3",
+    "GroupMin": 1,
+    "GroupMax": 2,
+    "Tonnage": "H",
+    "TonnageClass": 10,
+    "Points": 135,
+    "HardPoints": 0,
+    "Special": ["Ablative Armour"],
+    "Weapons": [
+      {
+        "Name": "XN-31 Mass Driver Turret Pair",
+        "LockValue": "2+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F/S",
+        "Special": ["Fusillade 2"],
+        "FullString": "XN-31 Mass Driver Turret Pair F/S"
+      },
+      {
+        "Name": "N-31 Hybrid Gun Battery (Starboard)",
+        "LockValue": "4+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Linked-1"],
+        "FullString": "N-31 Hybrid Gun Battery (Starboard) S(L)"
+      },
+      {
+        "Name": "N-31 Hybrid Gun Battery (Port)",
+        "LockValue": "4+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Linked-1"],
+        "FullString": "N-31 Hybrid Gun Battery (Port) S(R)"
+      },
+      {
+        "Name": "NC-3 Missiles",
+        "LockValue": "4+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action"],
+        "FullString": "NC-3 Missiles F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Resistance Centurion"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256604f9ce",
+    "_rev": "7-7921294ea041bcd2707ba5c93bdc2a95",
+    "Name": "Romulus",
+    "Faction": "PHR",
+    "Designation": "Dreadnought",
+    "Scan": "16\"",
+    "Signal": "14\"",
+    "Thrust": "6\"",
+    "Hull": "30",
+    "Armour": "2+",
+    "PointDefence": "18",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "S2",
+    "TonnageClass": 30,
+    "Points": 500,
+    "HardPoints": 0,
+    "Special": ["Dreadnought"],
+    "Weapons": [
+      {
+        "Name": "Hypernova Laser",
+        "LockValue": "3+",
+        "Attack": "5",
+        "Damage": "1",
+        "Arc": "F(N)",
+        "Special": ["Burnthrough (14)", " OC"],
+        "FullString": "Hypernova Laser F(N)"
+      },
+      {
+        "Name": "Energy Glaive Battery, Starboard",
+        "LockValue": "3+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Linked-1", " OC"],
+        "FullString": "Energy Glaive Battery, Starboard S(R)"
+      },
+      {
+        "Name": "Energy Glaive Battery, Starboard",
+        "LockValue": "3+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Linked-1", " OC"],
+        "FullString": "Energy Glaive Battery, Starboard S(R)"
+      },
+      {
+        "Name": "Energy Glaive Battery, Starboard",
+        "LockValue": "3+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Linked-1", " OC"],
+        "FullString": "Energy Glaive Battery, Starboard S(R)"
+      },
+      {
+        "Name": "Energy Glaive Battery, Port",
+        "LockValue": "3+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Linked-2", " OC"],
+        "FullString": "Energy Glaive Battery, Port S(L)"
+      },
+      {
+        "Name": "Energy Glaive Battery, Port",
+        "LockValue": "3+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Linked-2", " OC"],
+        "FullString": "Energy Glaive Battery, Port S(L)"
+      },
+      {
+        "Name": "Energy Glaive Battery, Port",
+        "LockValue": "3+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Linked-2", " OC"],
+        "FullString": "Energy Glaive Battery, Port S(L)"
+      },
+      {
+        "Name": "Hornet Drones",
+        "LockValue": "3+",
+        "Attack": "D3+3",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action"],
+        "FullString": "Hornet Drones F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Romulus"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d25660500e9",
+    "_rev": "6-0b8cd5a3b11dd24a27b2c58f01c901b3",
+    "Name": "Remus",
+    "Faction": "PHR",
+    "Designation": "Dreadnought",
+    "Scan": "16\"",
+    "Signal": "14\"",
+    "Thrust": "6\"",
+    "Hull": "30",
+    "Armour": "2+",
+    "PointDefence": "18",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "S2",
+    "TonnageClass": 30,
+    "Points": 460,
+    "HardPoints": 0,
+    "Special": ["Dreadnought", " Launch"],
+    "Weapons": [
+      {
+        "Name": "Energy Glaive Battery, Starboard",
+        "LockValue": "3+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Linked-1", " OC"],
+        "FullString": "Energy Glaive Battery, Starboard S(R)"
+      },
+      {
+        "Name": "Energy Glaive Battery, Starboard",
+        "LockValue": "3+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Linked-1", " OC"],
+        "FullString": "Energy Glaive Battery, Starboard S(R)"
+      },
+      {
+        "Name": "Energy Glaive, Port",
+        "LockValue": "3+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Linked-2", " OC"],
+        "FullString": "Energy Glaive, Port S(L)"
+      },
+      {
+        "Name": "Energy Glaive, Port",
+        "LockValue": "3+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Linked-2", " OC"],
+        "FullString": "Energy Glaive, Port S(L)"
+      },
+      {
+        "Name": "Apocalypse Cannon, Barrel 1",
+        "LockValue": "2+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F",
+        "Special": ["Bombardment", " OC", " Linked-3"],
+        "FullString": "Apocalypse Cannon, Barrel 1 F"
+      },
+      {
+        "Name": "Apocalypse Cannon, Barrel 2",
+        "LockValue": "2+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F",
+        "Special": ["Bombardment", " OC", " Linked-3"],
+        "FullString": "Apocalypse Cannon, Barrel 2 F"
+      },
+      {
+        "Name": "Apocalypse Cannon, Barrel 3",
+        "LockValue": "2+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F",
+        "Special": ["Bombardment", " OC", " Linked-3"],
+        "FullString": "Apocalypse Cannon, Barrel 3 F"
+      },
+      {
+        "Name": "Apocalypse Cannon, Barrel 4",
+        "LockValue": "2+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F",
+        "Special": ["Bombardment", " OC", " Linked-3"],
+        "FullString": "Apocalypse Cannon, Barrel 4 F"
+      },
+      {
+        "Name": "Hornet Drone Hive",
+        "LockValue": "3+",
+        "Attack": "D3+8",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action"],
+        "FullString": "Hornet Drone Hive F/S/R"
+      }
+    ],
+    "LaunchAssets": [{ "Name": "Torpedo", "Launch": "4", "Special": ["L(4)"] }],
+    "SpecRules": [
+      "The Remus is Limited to 4 Torpedoes total, and may fire all of them in one round."
+    ],
+    "icons": ["Remus"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d2566051f95",
+    "_rev": "4-50cf55ddec95aae6d499ed9bfa267e2c",
+    "Name": "Castor",
+    "Faction": "PHR",
+    "Designation": "Monitor",
+    "Scan": "10\"",
+    "Signal": "4\"",
+    "Thrust": "4\"",
+    "Hull": "5",
+    "Armour": "2+",
+    "PointDefence": "3",
+    "GroupMin": 2,
+    "GroupMax": 3,
+    "Tonnage": "L",
+    "TonnageClass": 1,
+    "Points": 48,
+    "HardPoints": 0,
+    "Special": ["Monitor"],
+    "Weapons": [
+      {
+        "Name": "Quad battery",
+        "LockValue": "4+",
+        "Attack": "4",
+        "Damage": "1",
+        "Arc": "F",
+        "Special": ["Fusillade-4"],
+        "FullString": "Quad battery F"
+      },
+      {
+        "Name": "Mosquito Drones",
+        "LockValue": "4+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F/SR",
+        "Special": ["Close Action"],
+        "FullString": "Mosquito Drones F/SR"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Castor"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256605399c",
+    "_rev": "4-c8dc0b9ff4e5d7cd8e0c35132270b104",
+    "Name": "Pollux",
+    "Faction": "PHR",
+    "Designation": "Escort Frigate",
+    "Scan": "8\"",
+    "Signal": "4\"",
+    "Thrust": "6\"",
+    "Hull": "5",
+    "Armour": "2+",
+    "PointDefence": "3",
+    "GroupMin": 1,
+    "GroupMax": 3,
+    "Tonnage": "L",
+    "TonnageClass": 1,
+    "Points": 42,
+    "HardPoints": 0,
+    "Special": ["Aegis (7)"],
+    "Weapons": [
+      {
+        "Name": "Wasp Drones",
+        "LockValue": "3+",
+        "Attack": "D3+1",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action"],
+        "FullString": "Wasp Drones F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Pollux"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d2566053a3d",
+    "_rev": "3-5c3bf1d106151363a0e58c73c20bf1a4",
+    "Name": "Electra",
+    "Faction": "PHR",
+    "Designation": "Destroyer",
+    "Scan": "8\"",
+    "Signal": "4\"",
+    "Thrust": "8\"",
+    "Hull": "7",
+    "Armour": "3+",
+    "PointDefence": "3",
+    "GroupMin": 2,
+    "GroupMax": 3,
+    "Tonnage": "L2",
+    "TonnageClass": 2,
+    "Points": 65,
+    "HardPoints": 0,
+    "Special": [],
+    "Weapons": [
+      {
+        "Name": "Twin Heavy Calibres",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F",
+        "Special": ["Calibre (H&S)"],
+        "FullString": "Twin Heavy Calibres F"
+      },
+      {
+        "Name": "Twin Heavy Calibres",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F",
+        "Special": ["Calibre (H&S)"],
+        "FullString": "Twin Heavy Calibres F"
+      },
+      {
+        "Name": "Mosquito Drones",
+        "LockValue": "4+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action"],
+        "FullString": "Mosquito Drones F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Electra"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d2566053a85",
+    "_rev": "3-2be8fa677f37fedfcbbe4157d5c7bc1f",
+    "Name": "Ariadne",
+    "Faction": "PHR",
+    "Designation": "Destroyer",
+    "Scan": "8\"",
+    "Signal": "4\"",
+    "Thrust": "8\"",
+    "Hull": "7",
+    "Armour": "3+",
+    "PointDefence": "3",
+    "GroupMin": 1,
+    "GroupMax": 2,
+    "Tonnage": "L2",
+    "TonnageClass": 2,
+    "Points": 65,
+    "HardPoints": 0,
+    "Special": ["Launch"],
+    "Weapons": [
+      {
+        "Name": "Twin Heavy Calibres",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F",
+        "Special": ["Calibre (H&S)"],
+        "FullString": "Twin Heavy Calibres F"
+      },
+      {
+        "Name": "Mosquito Drones",
+        "LockValue": "4+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action"],
+        "FullString": "Mosquito Drones F/S/R"
+      }
+    ],
+    "LaunchAssets": [{ "Name": "Bulk Lander", "Launch": "1", "Special": [""] }],
+    "SpecRules": [],
+    "icons": ["Ariadne"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d25660548d9",
+    "_rev": "4-fa27b3ba564f41a85a736180f871227a",
+    "Name": "Jason",
+    "Faction": "PHR",
+    "Designation": "Blockade Runner",
+    "Scan": "8\"",
+    "Signal": "2\"",
+    "Thrust": "12\"",
+    "Hull": "6",
+    "Armour": "4+",
+    "PointDefence": "2",
+    "GroupMin": 1,
+    "GroupMax": 3,
+    "Tonnage": "L2",
+    "TonnageClass": 2,
+    "Points": 65,
+    "HardPoints": 0,
+    "Special": ["Rare"],
+    "Weapons": [
+      {
+        "Name": "Twin Heavy Calibres",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F",
+        "Special": ["Calibre (H&S)"],
+        "FullString": "Twin Heavy Calibres F"
+      },
+      {
+        "Name": "Kingfisher Drones",
+        "LockValue": "3+",
+        "Attack": "D3+3",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Re-Entry", " Close Action"],
+        "FullString": "Kingfisher Drones F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Jason"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256605525f",
+    "_rev": "3-5876fbc0be6f3174d01c9de16e7511e3",
+    "Name": "Odysseus",
+    "Faction": "PHR",
+    "Designation": "Blockade Runner",
+    "Scan": "8\"",
+    "Signal": "2\"",
+    "Thrust": "12\"",
+    "Hull": "6",
+    "Armour": "4+",
+    "PointDefence": "2",
+    "GroupMin": 1,
+    "GroupMax": 2,
+    "Tonnage": "L2",
+    "TonnageClass": 2,
+    "Points": 80,
+    "HardPoints": 0,
+    "Special": ["Launch", " Rare"],
+    "Weapons": [
+      {
+        "Name": "Wasp Drones",
+        "LockValue": "3+",
+        "Attack": "D3+1",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action"],
+        "FullString": "Wasp Drones F/S/R"
+      }
+    ],
+    "LaunchAssets": [{ "Name": "Bulk Lander", "Launch": "1", "Special": [] }],
+    "SpecRules": [],
+    "icons": ["Odysseus"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d2566055bec",
+    "_rev": "5-0d939bcacb1d3474e10950ee85fcdb12",
+    "Name": "Heracles",
+    "Faction": "PHR",
+    "Designation": "Battleship",
+    "Scan": "10\"",
+    "Signal": "12\"",
+    "Thrust": "6\"",
+    "Hull": "22",
+    "Armour": "3+",
+    "PointDefence": "10",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "S",
+    "TonnageClass": 15,
+    "Points": 285,
+    "HardPoints": 0,
+    "Special": [],
+    "Weapons": [
+      {
+        "Name": "Heavy Calibre Cannonade",
+        "LockValue": "3+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Calibre (H&S)"],
+        "FullString": "Heavy Calibre Cannonade S(L)"
+      },
+      {
+        "Name": "Heavy Calibre Cannonade",
+        "LockValue": "3+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Calibre (H&S)"],
+        "FullString": "Heavy Calibre Cannonade S(R)"
+      },
+      {
+        "Name": "Dark Matter Cannon",
+        "LockValue": "2+",
+        "Attack": "2",
+        "Damage": "3",
+        "Arc": "F(N)",
+        "Special": ["Crippling", " Bloom"],
+        "FullString": "Dark Matter Cannon F(N)"
+      },
+      {
+        "Name": "Hornet Drones",
+        "LockValue": "3+",
+        "Attack": "D3+3",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action"],
+        "FullString": "Hornet Drones F(N)"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Heracles"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d2566055d48",
+    "_rev": "3-9fb16998ba317dd37f68a27d9568dacc",
+    "Name": "Minos",
+    "Faction": "PHR",
+    "Designation": "Battleship",
+    "Scan": "10\"",
+    "Signal": "12\"",
+    "Thrust": "6\"",
+    "Hull": "22",
+    "Armour": "3+",
+    "PointDefence": "10",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "S",
+    "TonnageClass": 15,
+    "Points": 285,
+    "HardPoints": 0,
+    "Special": ["Launch"],
+    "Weapons": [
+      {
+        "Name": "Heavy Calibre Cannonade",
+        "LockValue": "3+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Calibre (H&S)"],
+        "FullString": "Heavy Calibre Cannonade S(L)"
+      },
+      {
+        "Name": "Heavy Calibre Cannonade",
+        "LockValue": "3+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Calibre (H&S)"],
+        "FullString": "Heavy Calibre Cannonade S(R)"
+      },
+      {
+        "Name": "Neutron Missiles",
+        "LockValue": "2+",
+        "Attack": "D3+1",
+        "Damage": "2",
+        "Arc": "F/S",
+        "Special": ["Crippling", " Close Action"],
+        "FullString": "Neutron Missiles F/S"
+      }
+    ],
+    "LaunchAssets": [
+      { "Name": "Torpedo", "Launch": "1", "Special": ["L (1)"] },
+      { "Name": "Torpedo", "Launch": "1", "Special": ["L(1)"] }
+    ],
+    "SpecRules": [],
+    "icons": ["Minos"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256605767f",
+    "_rev": "7-461dd70b08db5963235ebe3d210bc29e",
+    "Name": "Agamemnon",
+    "Faction": "PHR",
+    "Designation": "Battlecruiser",
+    "Scan": "8\"",
+    "Signal": "6\"",
+    "Thrust": "10\"",
+    "Hull": "15",
+    "Armour": "3+",
+    "PointDefence": "7",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "H",
+    "TonnageClass": 10,
+    "Points": 185,
+    "HardPoints": 0,
+    "Special": [],
+    "Weapons": [
+      {
+        "Name": "Light Calibre Battery",
+        "LockValue": "5+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Calibre (L)", " Linked-1", " Fusillade(3)"],
+        "FullString": "Light Calibre Battery S(L)"
+      },
+      {
+        "Name": "Light Calibre Battery",
+        "LockValue": "5+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Calibre (L)", " Linked-1", " Fusillade(3)"],
+        "FullString": "Light Calibre Battery S(L)"
+      },
+      {
+        "Name": "Light Calibre Battery",
+        "LockValue": "5+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Calibre (L)", " Linked-1", " Fusillade(3)"],
+        "FullString": "Light Calibre Battery S(R)"
+      },
+      {
+        "Name": "Light Calibre Battery",
+        "LockValue": "5+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Calibre (L)", " Linked-1", " Fusillade(3)"],
+        "FullString": "Light Calibre Battery S(R)"
+      },
+      {
+        "Name": "Medium Calibre Broadside",
+        "LockValue": "4+",
+        "Attack": "8",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Linked-2", " Fusillade(3)"],
+        "FullString": "Medium Calibre Broadside S(L)"
+      },
+      {
+        "Name": "Medium Calibre Broadside",
+        "LockValue": "4+",
+        "Attack": "8",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Linked-2", " Fusillade(3)"],
+        "FullString": "Medium Calibre Broadside S(R)"
+      },
+      {
+        "Name": "Hornet Drones",
+        "LockValue": "3+",
+        "Attack": "D3+3",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action"],
+        "FullString": "Hornet Drones F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Agamemnon"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256605a1db",
+    "_rev": "9-6206fe5e52124139f66ef73f1f0959c9",
+    "Name": "Priam",
+    "Faction": "PHR",
+    "Designation": "Battlecruiser",
+    "Scan": "8\"",
+    "Signal": "6\"",
+    "Thrust": "10\"",
+    "Hull": "15",
+    "Armour": "3+",
+    "PointDefence": "7",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "H",
+    "TonnageClass": 10,
+    "Points": 200,
+    "HardPoints": 0,
+    "Special": ["Launch"],
+    "Weapons": [
+      {
+        "Name": "Light Calibre Battery",
+        "LockValue": "5+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Calibre (L)", " Linked-1", " Fusillade(3)"],
+        "FullString": "Light Calibre Battery S(L)"
+      },
+      {
+        "Name": "Light Calibre Battery",
+        "LockValue": "5+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Calibre (L)", " Linked-1", " Fusillade(3)"],
+        "FullString": "Light Calibre Battery S(L)"
+      },
+      {
+        "Name": "Light Calibre Battery",
+        "LockValue": "5+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Calibre (L)", " Linked-1", " Fusillade(3)"],
+        "FullString": "Light Calibre Battery S(R)"
+      },
+      {
+        "Name": "Light Calibre Battery",
+        "LockValue": "5+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Calibre (L)", " Linked-1", " Fusillade(3)"],
+        "FullString": "Light Calibre Battery S(R)"
+      },
+      {
+        "Name": "Hornet Drones",
+        "LockValue": "3+",
+        "Attack": "D3+3",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action"],
+        "FullString": "Hornet Drones F/S/R"
+      }
+    ],
+    "LaunchAssets": [
+      { "Name": "Fighters & Bombers", "Launch": "4", "Special": [] }
+    ],
+    "SpecRules": [],
+    "icons": ["Priam"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256605c6f8",
+    "_rev": "9-8791fbc528d7792dee06ebf20921f6c8",
+    "Name": "Hector",
+    "Faction": "PHR",
+    "Designation": "Heavy Cruiser",
+    "Scan": "8\"",
+    "Signal": "6\"",
+    "Thrust": "7\"",
+    "Hull": "13",
+    "Armour": "3+",
+    "PointDefence": "5",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "H",
+    "TonnageClass": 10,
+    "Points": 155,
+    "HardPoints": 0,
+    "Special": [],
+    "Weapons": [
+      {
+        "Name": "Medium Calibre Broadside",
+        "LockValue": "4+",
+        "Attack": "8",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Linked-1", " Fusillade(3)"],
+        "FullString": "Medium Calibre Broadside S(L)"
+      },
+      {
+        "Name": "Medium Calibre Broadside",
+        "LockValue": "4+",
+        "Attack": "8",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Linked-1", " Fusillade(3)"],
+        "FullString": "Medium Calibre Broadside S(R)"
+      },
+      {
+        "Name": "Twin Supernova Laser",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F(N)",
+        "Special": ["Burnthrough (6)", " Flash"],
+        "FullString": "Twin Supernova Laser F/S/R"
+      },
+      {
+        "Name": "Wasp Drones",
+        "LockValue": "3+",
+        "Attack": "D3+1",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action"],
+        "FullString": "Wasp Drones F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Hector"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256605ccce",
+    "_rev": "6-f38783a652541e97c765bef150eeb275",
+    "Name": "Achilles",
+    "Faction": "PHR",
+    "Designation": "Heavy Cruiser",
+    "Scan": "8\"",
+    "Signal": "6\"",
+    "Thrust": "7\"",
+    "Hull": "13",
+    "Armour": "3+",
+    "PointDefence": "5",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "H",
+    "TonnageClass": 10,
+    "Points": 165,
+    "HardPoints": 0,
+    "Special": ["Launch"],
+    "Weapons": [
+      {
+        "Name": "Heavy Calibre Broadside",
+        "LockValue": "3+",
+        "Attack": "4",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Calibre (H&S)", " Linked-1", " Fusillade(2)"],
+        "FullString": "Heavy Calibre Broadside S(L)"
+      },
+      {
+        "Name": "Heavy Calibre Broadside",
+        "LockValue": "3+",
+        "Attack": "4",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Calibre (H&S)", " Linked-1", " Fusillade(2)"],
+        "FullString": "Heavy Calibre Broadside S(R)"
+      },
+      {
+        "Name": "Wasp Drones",
+        "LockValue": "3+",
+        "Attack": "D3+1",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action"],
+        "FullString": "Wasp Drones F/S/R"
+      }
+    ],
+    "LaunchAssets": [{ "Name": "Torpedo", "Launch": "1", "Special": ["L(1)"] }],
+    "SpecRules": [],
+    "icons": ["Achilles"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256605d666",
+    "_rev": "3-08073d57beeb2696541e4589d395909d",
+    "Name": "Bellerophon",
+    "Faction": "PHR",
+    "Designation": "Heavy Cruiser",
+    "Scan": "8\"",
+    "Signal": "6\"",
+    "Thrust": "7\"",
+    "Hull": "13",
+    "Armour": "3+",
+    "PointDefence": "5",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "H",
+    "TonnageClass": 10,
+    "Points": 180,
+    "HardPoints": 0,
+    "Special": ["Launch"],
+    "Weapons": [
+      {
+        "Name": "Twin Supernova Laser",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F(N)",
+        "Special": ["Burnthrough (6)", " Flash"],
+        "FullString": "Twin Supernova Laser F(N)"
+      },
+      {
+        "Name": "Wasp Drones",
+        "LockValue": "3+",
+        "Attack": "D3+1",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action"],
+        "FullString": "Wasp Drones F/S/R"
+      }
+    ],
+    "LaunchAssets": [
+      { "Name": "Fighters & Bombers", "Launch": "4", "Special": [""] }
+    ],
+    "SpecRules": [],
+    "icons": ["Bellerophon"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256605df73",
+    "_rev": "4-95ef4f80ae4fccf7e8dcbdf82ff814dc",
+    "Name": "Orpheus",
+    "Faction": "PHR",
+    "Designation": "Assault Troopship",
+    "Scan": "8\"",
+    "Signal": "6\"",
+    "Thrust": "7\"",
+    "Hull": "13",
+    "Armour": "3+",
+    "PointDefence": "5",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "M",
+    "TonnageClass": 5,
+    "Points": 135,
+    "HardPoints": 0,
+    "Special": ["Launch"],
+    "Weapons": [
+      {
+        "Name": "Light Calibre Broadside",
+        "LockValue": "5+",
+        "Attack": "12",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Calibre (L)"],
+        "FullString": "Light Calibre Broadside S(L)"
+      },
+      {
+        "Name": "Light Calibre Broadside",
+        "LockValue": "5+",
+        "Attack": "12",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Calibre (L)"],
+        "FullString": "Light Calibre Broadside S(R)"
+      },
+      {
+        "Name": "Supernova Laser",
+        "LockValue": "3+",
+        "Attack": "1",
+        "Damage": "1",
+        "Arc": "F(N)",
+        "Special": ["Burnthrough (3)", " Flash"],
+        "FullString": "Supernova Laser F(N)"
+      },
+      {
+        "Name": "Wasp Drones",
+        "LockValue": "3+",
+        "Attack": "D3+1",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action"],
+        "FullString": "Wasp Drones F/S/R"
+      }
+    ],
+    "LaunchAssets": [{ "Name": "Bulk Lander", "Launch": "2", "Special": [] }],
+    "SpecRules": [],
+    "icons": ["Orpheus"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256605e0e7",
+    "_rev": "3-702ff4d668edc5abd8a889db39fc6206",
+    "Name": "Ganymede",
+    "Faction": "PHR",
+    "Designation": "Assault Troopship",
+    "Scan": "8\"",
+    "Signal": "6\"",
+    "Thrust": "7\"",
+    "Hull": "13",
+    "Armour": "3+",
+    "PointDefence": "5",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "M",
+    "TonnageClass": 5,
+    "Points": 135,
+    "HardPoints": 0,
+    "Special": ["Launch"],
+    "Weapons": [
+      {
+        "Name": "Medium Calibre Battery",
+        "LockValue": "4+",
+        "Attack": "4",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": [],
+        "FullString": "Medium Calibre Battery S(L)"
+      },
+      {
+        "Name": "Medium Calibre Battery",
+        "LockValue": "4+",
+        "Attack": "4",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": [],
+        "FullString": "Medium Calibre Battery S(R)"
+      },
+      {
+        "Name": "Bombardment Battery",
+        "LockValue": "3+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Bombardment"],
+        "FullString": "Bombardment Battery F/S/R"
+      },
+      {
+        "Name": "Medium Calibre Turret",
+        "LockValue": "4+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F",
+        "Special": [],
+        "FullString": "Medium Calibre Turret F"
+      },
+      {
+        "Name": "Wasp Drones",
+        "LockValue": "3+",
+        "Attack": "D3+1",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action"],
+        "FullString": "Wasp Drones F/S/R"
+      }
+    ],
+    "LaunchAssets": [{ "Name": "Bulk Lander", "Launch": "2", "Special": [] }],
+    "SpecRules": [],
+    "icons": ["Ganymede"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256605ed57",
+    "_rev": "6-db10b62417f74fcbe8bd79e740fa01d5",
+    "Name": "Orion",
+    "Faction": "PHR",
+    "Designation": "Cruiser",
+    "Scan": "8\"",
+    "Signal": "6\"",
+    "Thrust": "8\"",
+    "Hull": "11",
+    "Armour": "3+",
+    "PointDefence": "5",
+    "GroupMin": 1,
+    "GroupMax": 2,
+    "Tonnage": "M",
+    "TonnageClass": 5,
+    "Points": 107,
+    "HardPoints": 0,
+    "Special": [],
+    "Weapons": [
+      {
+        "Name": "Medium Calibre Broadside",
+        "LockValue": "4+",
+        "Attack": "8",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Fusillade(3)", " Linked-1"],
+        "FullString": "Medium Calibre Broadside S(L)"
+      },
+      {
+        "Name": "Medium Calibre Broadside",
+        "LockValue": "4+",
+        "Attack": "8",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Fusillade(3)", " Linked-1"],
+        "FullString": "Medium Calibre Broadside S(R)"
+      },
+      {
+        "Name": "Medium Calibre Turret",
+        "LockValue": "4+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F",
+        "Special": ["Linked-1"],
+        "FullString": "Medium Calibre Turret F"
+      },
+      {
+        "Name": "Wasp Drones",
+        "LockValue": "3+",
+        "Attack": "D3+1",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action"],
+        "FullString": "Wasp Drones F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Orion"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256605f98c",
+    "_rev": "5-3acac0669fb29cf7b54cd444dc49f128",
+    "Name": "Ajax",
+    "Faction": "PHR",
+    "Designation": "Cruiser",
+    "Scan": "8\"",
+    "Signal": "6\"",
+    "Thrust": "8\"",
+    "Hull": "11",
+    "Armour": "3+",
+    "PointDefence": "5",
+    "GroupMin": 1,
+    "GroupMax": 2,
+    "Tonnage": "M",
+    "TonnageClass": 5,
+    "Points": 95,
+    "HardPoints": 0,
+    "Special": [],
+    "Weapons": [
+      {
+        "Name": "Light Calibre Battery",
+        "LockValue": "5+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Calibre (L)", " Linked-1", " Fusillade(3)"],
+        "FullString": "Light Calibre Broadside S(L)"
+      },
+      {
+        "Name": "Light Calibre Battery",
+        "LockValue": "5+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Calibre (L)", " Linked-1", " Fusillade(3)"],
+        "FullString": "Light Calibre Broadside S(L)"
+      },
+      {
+        "Name": "Light Calibre Battery",
+        "LockValue": "5+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Calibre (L)", " Linked-1", " Fusillade(3)"],
+        "FullString": "Light Calibre Broadside S(R)"
+      },
+      {
+        "Name": "Light Calibre Battery",
+        "LockValue": "5+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Calibre (L)", " Linked-1", " Fusillade(3)"],
+        "FullString": "Light Calibre Broadside S(R)"
+      },
+      {
+        "Name": "Supernova Laser",
+        "LockValue": "3+",
+        "Attack": "1",
+        "Damage": "1",
+        "Arc": "F(N)",
+        "Special": ["Burnthrough (3)", " Flash"],
+        "FullString": "Supernova Laser F(N)"
+      },
+      {
+        "Name": "Wasp Drones",
+        "LockValue": "3+",
+        "Attack": "D3+1",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action"],
+        "FullString": "Wasp Drones F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Ajax"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256605fb20",
+    "_rev": "4-7fdf3d5afbaef5e43343d1d4d77d775b",
+    "Name": "Perseus",
+    "Faction": "PHR",
+    "Designation": "Cruiser",
+    "Scan": "8\"",
+    "Signal": "6\"",
+    "Thrust": "8\"",
+    "Hull": "11",
+    "Armour": "3+",
+    "PointDefence": "5",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "M",
+    "TonnageClass": 5,
+    "Points": 105,
+    "HardPoints": 0,
+    "Special": [],
+    "Weapons": [
+      {
+        "Name": "Light Calibre Battery",
+        "LockValue": "5+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Calibre (L)", " Linked-1", " Fusillade(3)"],
+        "FullString": "Light Calibre Battery S(L)"
+      },
+      {
+        "Name": "Light Calibre Battery",
+        "LockValue": "5+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Calibre (L)", " Linked-2", " Fusillade(3)"],
+        "FullString": "Light Calibre Battery S(R)"
+      },
+      {
+        "Name": "Heavy Calibre Battery",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Calibre (H&S)", " Linked-1", " Fusillade(1)"],
+        "FullString": "Heavy Calibre Battery S(L)"
+      },
+      {
+        "Name": "Heavy Calibre Battery",
+        "LockValue": "3+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Calibre (H&S)", " Linked-2", " Fusillade(1)"],
+        "FullString": "Heavy Calibre Battery S(R)"
+      },
+      {
+        "Name": "Medium Calibre Turret",
+        "LockValue": "4+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F",
+        "Special": [],
+        "FullString": "Medium Calibre Turret F"
+      },
+      {
+        "Name": "Wasp Drones",
+        "LockValue": "3+",
+        "Attack": "D3+1",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action"],
+        "FullString": "Wasp Drones F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Perseus"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256606087e",
+    "_rev": "6-b65fabe0cc61c915afe6448bbd66bb7c",
+    "Name": "Ikarus",
+    "Faction": "PHR",
+    "Designation": "Vanguard Carrier",
+    "Scan": "8\"",
+    "Signal": "6\"",
+    "Thrust": "8\"",
+    "Hull": "11",
+    "Armour": "3+",
+    "PointDefence": "5",
+    "GroupMin": 1,
+    "GroupMax": 2,
+    "Tonnage": "M",
+    "TonnageClass": 5,
+    "Points": 115,
+    "HardPoints": 0,
+    "Special": ["Launch"],
+    "Weapons": [
+      {
+        "Name": "Medium Calibre Battery",
+        "LockValue": "4+",
+        "Attack": "4",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Linked-1", " Fusillade(2)"],
+        "FullString": "Medium Calibre Battery S(L)"
+      },
+      {
+        "Name": "Medium Calibre Battery",
+        "LockValue": "4+",
+        "Attack": "4",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Linked-1", " Fusillade(2)"],
+        "FullString": "Medium Calibre Battery S(R)"
+      },
+      {
+        "Name": "Medium Calibre Turret",
+        "LockValue": "4+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F",
+        "Special": [],
+        "FullString": "Medium Calibre Turret F"
+      },
+      {
+        "Name": "Wasp Drones",
+        "LockValue": "3+",
+        "Attack": "D3+1",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action"],
+        "FullString": "Wasp Drones F/S/R"
+      }
+    ],
+    "LaunchAssets": [
+      { "Name": "Fighters & Bombers", "Launch": "2", "Special": [] }
+    ],
+    "SpecRules": [],
+    "icons": ["Ikarus"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d2566060b3a",
+    "_rev": "4-c135fc1813dca466d3d07ec09221813f",
+    "Name": "Theseus",
+    "Faction": "PHR",
+    "Designation": "Light Cruiser",
+    "Scan": "8\"",
+    "Signal": "6\"",
+    "Thrust": "10\"",
+    "Hull": "9",
+    "Armour": "3+",
+    "PointDefence": "2",
+    "GroupMin": 1,
+    "GroupMax": 3,
+    "Tonnage": "M",
+    "TonnageClass": 5,
+    "Points": 89,
+    "HardPoints": 0,
+    "Special": [],
+    "Weapons": [
+      {
+        "Name": "Light Calibre Battery",
+        "LockValue": "5+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Calibre (L)", " Linked-1", " Fusillade(3)"],
+        "FullString": "Light Calibre Battery S(L)"
+      },
+      {
+        "Name": "Light Calibre Battery",
+        "LockValue": "5+",
+        "Attack": "6",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Calibre (lL)", " Linked-2", " Fusillade(3)"],
+        "FullString": "Light Calibre Battery S(R)"
+      },
+      {
+        "Name": "Medium Calibre Battery",
+        "LockValue": "4+",
+        "Attack": "4",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Linked-1", " Fusilade (2)"],
+        "FullString": "Medium Calibre Battery S(L)"
+      },
+      {
+        "Name": "Medium Calibre Battery",
+        "LockValue": "4+",
+        "Attack": "4",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Linked-2", " Fusillade (2)"],
+        "FullString": "Medium Calibre Battery S(R)"
+      },
+      {
+        "Name": "Wasp Drones",
+        "LockValue": "3+",
+        "Attack": "D3+1",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action"],
+        "FullString": "Wasp Drones F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Theseus"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d2566060e82",
+    "_rev": "4-28b21e35f5a29fbe7111bbc64fa62bb2",
+    "Name": "Europa",
+    "Faction": "PHR",
+    "Designation": "Frigate",
+    "Scan": "8\"",
+    "Signal": "3\"",
+    "Thrust": "10\"",
+    "Hull": "5",
+    "Armour": "3+",
+    "PointDefence": "3",
+    "GroupMin": 2,
+    "GroupMax": 4,
+    "Tonnage": "L",
+    "TonnageClass": 1,
+    "Points": 40,
+    "HardPoints": 0,
+    "Special": [],
+    "Weapons": [
+      {
+        "Name": "Medium Calibre Bank",
+        "LockValue": "4+",
+        "Attack": "3",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Linked-1"],
+        "FullString": "Medium Calibre Bank S(L)"
+      },
+      {
+        "Name": "Medium Calibre Bank",
+        "LockValue": "4+",
+        "Attack": "3",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Linked-1"],
+        "FullString": "Medium Calibre Bank S(R)"
+      },
+      {
+        "Name": "Mosquito Drones",
+        "LockValue": "4+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action"],
+        "FullString": "Mosquito Drones F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Europa"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d2566061cd4",
+    "_rev": "5-6e23c70a4d2ab18859af3d28dfa221e0",
+    "Name": "Pandora",
+    "Faction": "PHR",
+    "Designation": "Frigate",
+    "Scan": "8\"",
+    "Signal": "3\"",
+    "Thrust": "10\"",
+    "Hull": "5",
+    "Armour": "3+",
+    "PointDefence": "3",
+    "GroupMin": 2,
+    "GroupMax": 4,
+    "Tonnage": "L",
+    "TonnageClass": 1,
+    "Points": 45,
+    "HardPoints": 0,
+    "Special": [],
+    "Weapons": [
+      {
+        "Name": "Supernova Laser",
+        "LockValue": "3+",
+        "Attack": "1",
+        "Damage": "1",
+        "Arc": "F(N)",
+        "Special": ["Burnthrough (3)", " Flash"],
+        "FullString": "Supernova Laser F(N)"
+      },
+      {
+        "Name": "Mosquito Drones",
+        "LockValue": "4+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action"],
+        "FullString": "Mosquito Drones F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Pandora"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d2566062919",
+    "_rev": "7-dc1169a51276c06d890c5d29966a649f",
+    "Name": "Calypso",
+    "Faction": "PHR",
+    "Designation": "Frigate",
+    "Scan": "8\"",
+    "Signal": "3\"",
+    "Thrust": "10\"",
+    "Hull": "5",
+    "Armour": "3+",
+    "PointDefence": "3",
+    "GroupMin": 1,
+    "GroupMax": 2,
+    "Tonnage": "L",
+    "TonnageClass": 1,
+    "Points": 37,
+    "HardPoints": 0,
+    "Special": ["Advanced ECM Suite", " Rare"],
+    "Weapons": [
+      {
+        "Name": "Mosquito Drones",
+        "LockValue": "4+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action"],
+        "FullString": "Mosquito Drones F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [
+      "Once per turn, after an enemy group has allocated Attack Dice, you may pick a friendly ship within 4” of the Calypso. Add 1 to the lock value of the groups Attack Dice allocated to this ship. Subsequent attacks by other groups are not affected. In order to be affected, ships must be on the same orbital layer as the Calypso, in addition the calypso can choose to target itself. This is cumulative with other Advanced ECM Suites. This rule may not be used against Launch Assets nor weapons with the close action special rule"
+    ],
+    "icons": ["Calypso"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d2566062a47",
+    "_rev": "5-e90d5ac60cf44acb61c0b5d9fb7af7eb",
+    "Name": "Andromeda",
+    "Faction": "PHR",
+    "Designation": "Escort Carrier",
+    "Scan": "8\"",
+    "Signal": "3\"",
+    "Thrust": "10\"",
+    "Hull": "5",
+    "Armour": "3+",
+    "PointDefence": "3",
+    "GroupMin": 2,
+    "GroupMax": 4,
+    "Tonnage": "L",
+    "TonnageClass": 1,
+    "Points": 47,
+    "HardPoints": 0,
+    "Special": ["Launch"],
+    "Weapons": [
+      {
+        "Name": "Wasp Drones",
+        "LockValue": "3+",
+        "Attack": "D3+1",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action"],
+        "FullString": "Wasp Drones F/S/R"
+      }
+    ],
+    "LaunchAssets": [
+      { "Name": "Fighters & Bombers", "Launch": "1", "Special": [] }
+    ],
+    "SpecRules": [],
+    "icons": ["Andromeda"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256606392d",
+    "_rev": "3-61289daadd9820a9569292aaba9ffcd5",
+    "Name": "Medea",
+    "Faction": "PHR",
+    "Designation": "Strike Carrier",
+    "Scan": "8\"",
+    "Signal": "3\"",
+    "Thrust": "10\"",
+    "Hull": "5",
+    "Armour": "3+",
+    "PointDefence": "3",
+    "GroupMin": 1,
+    "GroupMax": 2,
+    "Tonnage": "L",
+    "TonnageClass": 1,
+    "Points": 39,
+    "HardPoints": 0,
+    "Special": ["Launch", " Open", " Atmospheric"],
+    "Weapons": [
+      {
+        "Name": "Bombardment Turret",
+        "LockValue": "4+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F/S",
+        "Special": ["Bombardment", " Low Level"],
+        "FullString": "Bombardment Turret F/S"
+      },
+      {
+        "Name": "Mosquito Drones",
+        "LockValue": "4+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action"],
+        "FullString": "Mosquito Drones F/S/R"
+      }
+    ],
+    "LaunchAssets": [{ "Name": "Dropships", "Launch": "1", "Special": [] }],
+    "SpecRules": [
+      "Low Level: This weapon may be fired from atmosphere with no penalties to it's lock value."
+    ],
+    "icons": ["Medea"]
+  },
+  {
+    "_id": "5411251e371f5a64a5c81d256614e588",
+    "_rev": "6-5d302bd4fba14f093a51f5858ed0c007",
+    "Name": "Pungari Thresher",
+    "Faction": "PHR",
+    "Designation": "Hive Ship",
+    "Scan": "4\"",
+    "Signal": "6\"",
+    "Thrust": "6\"",
+    "Hull": "14",
+    "Armour": "3+",
+    "PointDefence": "4",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "H",
+    "TonnageClass": 10,
+    "Points": 150,
+    "HardPoints": 0,
+    "Special": ["Rare", " Reinforced Armour"],
+    "Weapons": [
+      {
+        "Name": "Boarding Torpedoes (Front)",
+        "LockValue": "4+",
+        "Attack": "4",
+        "Damage": "1",
+        "Arc": "F",
+        "Special": ["Corruptor"],
+        "FullString": "Boarding Torpedoes (Front) F"
+      },
+      {
+        "Name": "Boarding Torpedoes (Starboard)",
+        "LockValue": "4+",
+        "Attack": "4",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Corruptor", " Linked-1"],
+        "FullString": "Boarding Torpedoes (Starboard) S(R)"
+      },
+      {
+        "Name": "Boarding Torpedoes (Port)",
+        "LockValue": "4+",
+        "Attack": "4",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Corruptor", " Linked-1"],
+        "FullString": "Boarding Torpedoes (Port) S(L)"
+      }
+    ],
+    "LaunchAssets": [
+      { "Name": "Pungari Bulk Lander", "Launch": "2", "Special": [] },
+      { "Name": "Pungari Bombers", "Launch": "4", "Special": [] }
+    ],
+    "SpecRules": ["Pungari Bulk Landers only drop Infantry Assets."],
+    "icons": ["Pungari Thresher"]
+  },
+  {
+    "_id": "7478127f5b75c89a2bb1f05ad7035410",
+    "_rev": "3-a8ae75fe04d7dfa14e0cf3c18da0043f",
+    "Name": "Echo",
+    "Faction": "PHR",
+    "Designation": "Corvette",
+    "Scan": "8\"",
+    "Signal": "2\"",
+    "Thrust": "12\"",
+    "Hull": "2",
+    "Armour": "4+",
+    "PointDefence": "2",
+    "GroupMin": 1,
+    "GroupMax": 3,
+    "Tonnage": "L",
+    "TonnageClass": 1,
+    "Points": 30,
+    "HardPoints": 0,
+    "Special": ["Atmospheric", " Stealth", " Outlier"],
+    "Weapons": [
+      {
+        "Name": "Medium Calibre Turret",
+        "LockValue": "4+",
+        "Attack": "2",
+        "Damage": "1",
+        "Arc": "F",
+        "Special": [],
+        "FullString": "Medium Calibre Turret F"
+      },
+      {
+        "Name": "Vespa Drones",
+        "LockValue": "4+",
+        "Attack": "3",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Air To Air", " Close Action"],
+        "FullString": "Vespa Drones F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Echo"]
+  },
+  {
+    "_id": "b912b1356d8361aae9c5479770019c17",
+    "_rev": "5-9ec9d4350dda9f1166a75a46d96d6f1d",
+    "Name": "Harpocrates",
+    "Faction": "PHR",
+    "Designation": "Guerrilla Lighter",
+    "Scan": "6\"",
+    "Signal": "2\"",
+    "Thrust": "10\"",
+    "Hull": "2",
+    "Armour": "5+",
+    "PointDefence": "2",
+    "GroupMin": 1,
+    "GroupMax": 2,
+    "Tonnage": "L",
+    "TonnageClass": 1,
+    "Points": 30,
+    "HardPoints": 0,
+    "Special": ["Atmospheric", " Outlier"],
+    "Weapons": [
+      {
+        "Name": "EM Warfare Suite",
+        "LockValue": "5+",
+        "Attack": "1",
+        "Damage": "0",
+        "Arc": "F/S",
+        "Special": ["Close Action (Beam)", " EM Sabotage"],
+        "FullString": "EM Warfare Suite F/S"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [
+      "EM Sabotage: If this weapon hits, the target ship gets put on Silent Running orders until the end of its next activation."
+    ],
+    "icons": ["Harpocrates"]
+  },
+  {
+    "_id": "c1fc888556a3d0303e2200eae605c10a",
+    "_rev": "3-b0ae7dcc7eb06fa62b8a45736ff34d4d",
+    "Name": "Pompeius",
+    "Faction": "PHR",
+    "Designation": "Battlecruiser",
+    "Scan": "8\"",
+    "Signal": "6\"",
+    "Thrust": "12\"",
+    "Hull": "15",
+    "Armour": "3+",
+    "PointDefence": "7",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "H",
+    "TonnageClass": 10,
+    "Points": 180,
+    "HardPoints": 0,
+    "Special": [],
+    "Weapons": [
+      {
+        "Name": "Heavy Quad Battery ",
+        "LockValue": "4+",
+        "Attack": "4",
+        "Damage": "2",
+        "Arc": "F",
+        "Special": ["Calibre (H&S)", "Fusillade(4)"],
+        "FullString": "Heavy Quad Battery F"
+      },
+      {
+        "Name": "Hornet Drones",
+        "LockValue": "3+",
+        "Attack": "D3+3",
+        "Damage": "1",
+        "Arc": "F/S/R",
+        "Special": ["Close Action"],
+        "FullString": "Hornet Drones F/S/R"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [],
+    "icons": ["Pompeius"]
+  },
+  {
+    "_id": "c1fc888556a3d0303e2200eae605f4d4",
+    "_rev": "3-f37a96bb4865be70dcbc2f6d68d8dab1",
+    "Name": "Agrippa",
+    "Faction": "PHR",
+    "Designation": "Interference Cruiser",
+    "Scan": "8\"",
+    "Signal": "6\"",
+    "Thrust": "12\"",
+    "Hull": "15",
+    "Armour": "3+",
+    "PointDefence": "7",
+    "GroupMin": 1,
+    "GroupMax": 1,
+    "Tonnage": "H",
+    "TonnageClass": 10,
+    "Points": 175,
+    "HardPoints": 0,
+    "Special": [],
+    "Weapons": [
+      {
+        "Name": "Holographic Drones",
+        "LockValue": "5+",
+        "Attack": "2D3+3",
+        "Damage": "1",
+        "Arc": "S(L)",
+        "Special": ["Close Action (Swarmer)", "Linked-1"],
+        "FullString": "Holographic Drones S(L)"
+      },
+      {
+        "Name": "Holographic Drones",
+        "LockValue": "5+",
+        "Attack": "2D3+3",
+        "Damage": "1",
+        "Arc": "S(R)",
+        "Special": ["Close Action (Swarmer)", "Linked-1"],
+        "FullString": "Holographic Drones S(R)"
+      }
+    ],
+    "LaunchAssets": [],
+    "SpecRules": [
+      "Holo-Debris Field: Change Holo-Debris Field effect to: Once per activation (during any part of the activation, including during movement) you may place a Dense Debris Field within 3” of this ship. These debris fields are removed at the end of the Roundup phase and are circular with a 4” diameter (a D6 or custom template are perfect tokens to represent these). Friendly ships and Launch Assets ignore these Debris Fields."
+    ],
+    "icons": ["Agrippa"]
+  }
+]
