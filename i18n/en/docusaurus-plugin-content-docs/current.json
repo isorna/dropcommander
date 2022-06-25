@@ -31,8 +31,16 @@
     "message": "Scenarios",
     "description": "The label for category Scenarios in sidebar rulingsSidebar"
   },
+  "sidebar.rulingsSidebar.category.DFC Scenarios": {
+    "message": "Dropfleet Commander Scenarios.",
+    "description": "The generated-index page description for category Scenarios in sidebar rulingsSidebar"
+  },
   "sidebar.rulingsSidebar.category.DFC Scenarios.link.generated-index.description": {
     "message": "Dropfleet Commander Scenarios.",
+    "description": "The generated-index page description for category Scenarios in sidebar rulingsSidebar"
+  },
+  "sidebar.rulingsSidebar.category.DZC Scenarios": {
+    "message": "Dropzone Commander Scenarios.",
     "description": "The generated-index page description for category Scenarios in sidebar rulingsSidebar"
   },
   "sidebar.rulingsSidebar.category.DZC Scenarios.link.generated-index.description": {
