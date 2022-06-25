@@ -124,7 +124,7 @@ const config = {
 							},
 							{
 								label: 'Dropzone Commander Builder',
-								href: 'https://dropzonecommander.com/builder/',
+								href: 'https://dropzonecommander.com/forcebuilder/',
 							},
             ],
           },
