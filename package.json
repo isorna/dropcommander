@@ -1,0 +1,56 @@
+{
+  "name": "dropcommander",
+  "version": "1.0.0",
+  "description": "Drop Commander universe tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isorna/dropcommander.git"
+  },
+  "keywords": [
+    "vite",
+    "vue",
+    "vitest",
+    "vitepress",
+    "firebase",
+    "pinia"
+  ],
+  "author": "Alvaro Isorna (@isorna)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isorna/dropcommander/issues"
+  },
+  "homepage": "https://github.com/isorna/dropcommander#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
+    "@commitlint/cli": "^17.4.2",
+    "@commitlint/config-conventional": "^17.4.2",
+    "@typescript-eslint/eslint-plugin": "^5.51.0",
+    "autoprefixer": "^10.4.13",
+    "cssnano": "^5.1.14",
+    "eslint": "^8.33.0",
+    "eslint-config-standard-with-typescript": "^34.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.6.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-vue": "^9.9.0",
+    "lint-staged": "^13.1.0",
+    "postcss": "^8.4.21",
+    "stylelint": "^14.16.1",
+    "stylelint-config-standard": "^29.0.0",
+    "typescript": "^4.9.5",
+    "vitepress": "^1.0.0-alpha.45",
+    "vitest": "^0.28.4",
+    "vue": "^3.2.47"
+  },
+  "dependencies": {
+    "firebase": "^9.17.1",
+    "pinia": "^2.0.30",
+    "vuefire": "^3.0.1"
+  }
+}
