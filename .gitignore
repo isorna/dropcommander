@@ -1,30 +1,32 @@
-# Dependencies
-/node_modules
-
-# Production
-/build
-
-# Generated files
-.docusaurus
-.cache-loader
-.firebaserc
-.firebase
-.cache
-
-# Misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
+# Logs
+logs
+*.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
 
-_private
+node_modules
+.DS_Store
+build
+dist
+dist-ssr
+coverage
+*.local
+__hidden
 
-# TEMP
-/docs/tutorial-basics
-/docs/tutorial-extras
-/docs/tutorial-intro.md
+/cypress/videos/
+/cypress/screenshots/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+# !.vscode/settings.json
+# !.vscode/launch.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
