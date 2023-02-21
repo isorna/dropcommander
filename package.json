@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "firebase": "^9.17.1",
-    "pinia": "^2.0.31",
+    "pinia": "^2.0.32",
     "vuefire": "^3.0.1"
   }
 }
