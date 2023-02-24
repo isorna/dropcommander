@@ -1,0 +1,11 @@
+{
+  "label": "Escenarios de DZC",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+		"slug": "categoria/dzc/escenarios",
+		"keywords": ["dzc"],
+		"image": "/img/DZC_Logo_Black_Green_240x240.webp",
+    "description": "Escenarios de Dropzone Commander."
+	}
+}

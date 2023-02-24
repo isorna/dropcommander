@@ -1,0 +1,11 @@
+{
+  "label": "Dropfleet Commander",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+		"slug": "category/dfc",
+		"keywords": ["dfc"],
+		"image": "/img/Dropfleet_Black_and_Blue_240x240.webp",
+    "description": "Here you will find all the resources associated with Dropfleet Commander."
+	}
+}
