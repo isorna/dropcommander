@@ -12,7 +12,10 @@ module.exports = {
   ],
   parserOptions: {
     ecmaVersion: 'latest',
-    sourceType: 'module'
+    sourceType: 'module',
+    project: [
+      './docs/tsconfig.json'
+    ]
   },
   plugins: [
     'vue'
