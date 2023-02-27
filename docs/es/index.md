@@ -13,7 +13,7 @@ hero:
   actions:
     - theme: brand
       text: Blog
-      link: ./blog/
+      link: https://blog.wardice.club
     - theme: alt
       text: Web de TTCombat
       link: https://www.ttcombat.com/
