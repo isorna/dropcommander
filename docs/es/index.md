@@ -5,7 +5,7 @@ title: Inicio
 
 hero:
   name: Drop Commander
-  text: Sitio fan de Dropzone, Dropfleet & StrikeTeam Commander.
+  text: Universe Fansite.
   tagline: Hecho por fans, para fans.
   image:
     src: /img/android-chrome-512x512.png
