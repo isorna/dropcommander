@@ -13,6 +13,9 @@
     "noUnusedLocals": true,
     "strictNullChecks": true,
     "forceConsistentCasingInFileNames": true,
+    "noImplicitAny":  false,
+    "allowJs": true,
+    "isolatedModules": true,
     "types": [
       "vite/client",
       "vitepress"

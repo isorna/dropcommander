@@ -17,6 +17,11 @@ export const esConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
       message: 'Hecho por fans del universo Dropfleet, Dropzone & StrikeTeam Commander.',
       copyright: 'MIT Licensed | Copyright © 2022-presente <a href="https://www.ttcombat.com/">TTCombat</a>.',
     },
+    docFooter: {
+      prev: 'Página anterior',
+      next: 'Página siguiente'
+    },
+    returnToTopLabel: 'Volver arriba'
   },
 
   head: [

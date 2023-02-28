@@ -14,6 +14,7 @@ export const shareConfig = defineConfig({
     socialLinks: [
       { icon: 'github', link: github },
     ],
+    outline: 'deep',
   },
 
   lastUpdated: true,
@@ -56,8 +57,8 @@ export const shareConfig = defineConfig({
     ['meta', { name: 'apple-mobile-web-app-title', content: name }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'default' }],
 
-    ['link', { rel: 'shortcut icon', href: '/favicon.ico' }],
-    ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    ['link', { rel: 'shortcut icon', href: '/img/favicon.ico' }],
+    ['link', { rel: 'icon', type: 'image/x-icon', href: '/img/favicon.ico' }],
     ['link', { rel: 'mask-icon', href: '/img/safari-pinned-tab.svg', color: '#2e8555' }],
     ['meta', { name: 'theme-color', content: '#2e8555' }],
 
