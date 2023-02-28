@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'Ship’s Orders'
 sidebar_position: 4
+breadcrumb:
+  - path: '/'
+    text: 'Home'
+  - path: '/dfc/'
+    text: 'Dropfleet Commander'
+  - path: ''
+    text: 'Ship´s Orders'
 ---
 
 # Ship’s Orders

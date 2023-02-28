@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'The Basics'
 sidebar_position: 1
+breadcrumb:
+  - path: '/'
+    text: 'Home'
+  - path: '/dzc/'
+    text: 'Dropzone Commander'
+  - path: ''
+    text: 'The Basics'
 ---
 
 # The Basics
@@ -20,16 +27,16 @@ Models in Dropzone Commander are referred to as units. Sometimes a unit will be 
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1"|-|9|3|Infantry 4+|Resilient|
 
-**Troops: 1**
+**Troops:** 1
 
-**Squad Size: 2**
+**Squad Size:** 2
 
 |Weapon|M&F|Arc|R(F)|R(C)|Shots|Acc|E|Special|
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |Light Rail Guns|0"|F/S/R|∞|24"|3|2+|6|Focus-2, RW-1|
 |Powered Armour|-|F/S/R|CQ|CQ|3|-|5|RW-1|
 
-:::note Hazard Suit
+::: tip Hazard Suit
 Re-roll successful Collatoral Damage hits against this unit.
 :::
 

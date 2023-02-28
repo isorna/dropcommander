@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'Moving'
 sidebar_position: 6
+breadcrumb:
+  - path: '/'
+    text: 'Home'
+  - path: '/dzc/'
+    text: 'Dropzone Commander'
+  - path: ''
+    text: 'Moving'
 ---
 
 # Moving

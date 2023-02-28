@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'Objectives'
-sidebar_position: 4
+sidebar_position: 6
+breadcrumb:
+  - path: '/'
+    text: 'Home'
+  - path: '/dzc/'
+    text: 'Dropzone Commander'
+  - path: ''
+    text: 'Objectives'
 ---
 
 # Objectives
@@ -13,13 +20,13 @@ Objectives are set up on the board after scenery is setup but before deployment.
 
 Objectives have several special rules that can be used in any combination in a scenario.
 
-### Open Objectives
+## Open Objectives
 
 These Objectives are easy to see and obtain. If a friendly Infantry or Vehicle unit **in coherency** is **within 2" of the Objective or in the same Garrison as it, they claim the Objective.** Objectives can be reclaimed by other players if they meet those criteria and there are no enemy units that also meet that criteria.
 
 Unless otherwise noted, all Objectives not in Garrisons are Open Objectives.
 
-### Hidden Objectives
+## Hidden Objectives
 
 These Objectives are harder to find, even if a commander knows their general location. A Hidden Objective must be discovered. Unless otherwise noted, all Objectives in Garrisons are Hidden Objectives.
 
@@ -29,7 +36,7 @@ When searching, **roll 1 dice for the squad** searching. If there are **enemy un
 
 A Transport that doesn't have the Aircraft type may choose to make a scan action, counting as both of its actions for the round. Place a **Scan Token** by the unit. Before a squad makes a search roll, you may **remove any friendly Scan Tokens within 2" to add +1 to the search roll per token.** If the searching unit is in a Garrison, measure the distance to any edge of the Garrison. If the Transport makes a Moving action, remove its Scan Token. **A unit may only have 1 Scan Token at a time.**
 
-### Mobile Objectives
+## Mobile Objectives
 
 Mobile Objectives can be picked up and moved. This will stop an enemy getting the Objective, and some scenarios will even call for Objectives to be extracted from the board.
 

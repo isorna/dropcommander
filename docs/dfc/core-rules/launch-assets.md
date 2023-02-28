@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'Launch Assets'
 sidebar_position: 9
+breadcrumb:
+  - path: '/'
+    text: 'Home'
+  - path: '/dfc/'
+    text: 'Dropfleet Commander'
+  - path: ''
+    text: 'Launch Assets'
 ---
 
 # Launch Assets

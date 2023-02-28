@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'Unit Types'
 sidebar_position: 2
+breadcrumb:
+  - path: '/'
+    text: 'Home'
+  - path: '/dzc/'
+    text: 'Dropzone Commander'
+  - path: ''
+    text: 'Unit Types'
 ---
 
 # Unit Types

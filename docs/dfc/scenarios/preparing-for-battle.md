@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'Preparing For Battle'
 sidebar_position: 1
+breadcrumb:
+  - path: '/'
+    text: 'Home'
+  - path: '/dfc/'
+    text: 'Dropfleet Commander'
+  - path: ''
+    text: 'Preparing For Battle'
 ---
 
 # Preparing For Battle
@@ -27,4 +34,3 @@ At the beginning of an engagement fleets approach the Battlefield in different w
 ### Activating Battlegroups not on the table
 
 When a Battlegroup not on the table is activated, it must be moved onto the table from any friendly edge.  Groups entering the table this way start in High Orbit (although they may change Orbital layer as normal during their turn) and may be given Orders.
-

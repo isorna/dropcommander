@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'Aircraft'
 sidebar_position: 10
+breadcrumb:
+  - path: '/'
+    text: 'Home'
+  - path: '/dzc/'
+    text: 'Dropzone Commander'
+  - path: ''
+    text: 'Aircraft'
 ---
 
 # Aircraft

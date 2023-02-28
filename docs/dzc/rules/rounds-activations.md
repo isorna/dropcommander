@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'Rounds & Activations'
 sidebar_position: 4
+breadcrumb:
+  - path: '/'
+    text: 'Home'
+  - path: '/dzc/'
+    text: 'Dropzone Commander'
+  - path: ''
+    text: 'Rounds & Activations'
 ---
 
 # Rounds & Activations

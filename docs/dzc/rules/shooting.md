@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'Shooting'
 sidebar_position: 7
+breadcrumb:
+  - path: '/'
+    text: 'Home'
+  - path: '/dzc/'
+    text: 'Dropzone Commander'
+  - path: ''
+    text: 'Shooting'
 ---
 
 # Shooting

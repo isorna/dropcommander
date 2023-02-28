@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'Orbital Layers'
 sidebar_position: 4
+breadcrumb:
+  - path: '/'
+    text: 'Home'
+  - path: '/dfc/'
+    text: 'Dropfleet Commander'
+  - path: ''
+    text: 'Orbital Layers'
 ---
 
 # Orbital Layers

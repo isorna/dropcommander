@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'Ships characteristics'
 sidebar_position: 1
+breadcrumb:
+  - path: '/'
+    text: 'Home'
+  - path: '/dfc/'
+    text: 'Dropfleet Commander'
+  - path: ''
+    text: 'Ships characteristics'
 ---
 
 # Ships characteristics
@@ -14,21 +21,25 @@ The strengths and weakness of different ships and weapon systems in the game are
 |Name|Scan|Sig|Thrust|Hull|A|PD|G|T|Special|
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :- |
 |Lysander|6"|0"|12"|2|6+|2|1-3|L|Atmospheric, Full Cloak, Launch, Open, Rare|
+
 **Stats Bar -** This shows all the key characteristics of a ship. From how fast it moves, to how survivable it is, its tonnage, and much more. We ll be going into detail on the stats bar over the next few pages.
 
 |Type|Lock|Attack|Damage|Arc|Special|
 | :- | :-: | :-: | :-: | :-: | :- |
 |Barracuda Missile Bay|4+|2|1|F/S/R|Close Action|
+
 **Weapon Systems -** This shows what weapons the ship is armed with. Accuracy, damage potential, arc of fire and more are shown here.
 
 |Load|Launch|Special|
 | :- | :-: | :-: |
 |Dropships|1|-|
+
 **Launch Capacity -** Some ships are able to launch Dropships, Bulk Landers and more. If the ship has a launch capacity, it is shown here. Ships without any do not have this bar on their stat sheet.
 
-:::note Stealth Observation
+::: tip Stealth Observation
 This ship can Survey a Cluster regardless of its Battlegroup Tonnage value.
 :::
+
 **Special Rules -** Some ships have unique special rules that are detailed here.
 
 ## Stats Bar

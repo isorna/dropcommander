@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'Collateral Damage'
 sidebar_position: 13
+breadcrumb:
+  - path: '/'
+    text: 'Home'
+  - path: '/dzc/'
+    text: 'Dropzone Commander'
+  - path: ''
+    text: 'Collateral Damage'
 ---
 
 # Collateral Damage

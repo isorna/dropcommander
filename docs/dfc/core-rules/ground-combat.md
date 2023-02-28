@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'Ground Combat'
 sidebar_position: 8
+breadcrumb:
+  - path: '/'
+    text: 'Home'
+  - path: '/dfc/'
+    text: 'Dropfleet Commander'
+  - path: ''
+    text: 'Ground Combat'
 ---
 
 # Ground Combat

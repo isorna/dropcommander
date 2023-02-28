@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'Transports'
 sidebar_position: 9
+breadcrumb:
+  - path: '/'
+    text: 'Home'
+  - path: '/dzc/'
+    text: 'Dropzone Commander'
+  - path: ''
+    text: 'Transports'
 ---
 
 # Transports

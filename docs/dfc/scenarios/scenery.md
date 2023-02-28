@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'Scenery'
 sidebar_position: 3
+breadcrumb:
+  - path: '/'
+    text: 'Home'
+  - path: '/dfc/'
+    text: 'Dropfleet Commander'
+  - path: ''
+    text: 'Scenery'
 ---
 
 # Scenery

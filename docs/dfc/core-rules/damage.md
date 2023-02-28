@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'Damage'
 sidebar_position: 7
+breadcrumb:
+  - path: '/'
+    text: 'Home'
+  - path: '/dfc/'
+    text: 'Dropfleet Commander'
+  - path: ''
+    text: 'Damage'
 ---
 
 # Damage

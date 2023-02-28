@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'Building Your Fleet'
 sidebar_position: 4
+breadcrumb:
+  - path: '/'
+    text: 'Home'
+  - path: '/dfc/'
+    text: 'Dropfleet Commander'
+  - path: ''
+    text: 'Building Your Fleet'
 ---
 
 # Building Your Fleet
@@ -59,8 +66,6 @@ Fighters, Bombers and Torpedoes are expensive resources and as such fleets only 
 ## Strategy Rating
 
 Once you have built your fleet, you will need to determine your Strategy Rating for each Battlegroup in your fleet. To determine the Strategy Rating of each Battlegroup simply total up the Tonnage Value of each ship in the Battlegroup using the table below.
-
-
 
 |Tonnage|Tonnage Value|
 | :- | :-: |

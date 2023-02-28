@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'Game Turn Sequence'
 sidebar_position: 1
+breadcrumb:
+  - path: '/'
+    text: 'Home'
+  - path: '/dfc/'
+    text: 'Dropfleet Commander'
+  - path: ''
+    text: 'Game Turn Sequence'
 ---
 
 # Game Turn Sequence

@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'Battlegroup Activation Sequence'
 sidebar_position: 3
+breadcrumb:
+  - path: '/'
+    text: 'Home'
+  - path: '/dfc/'
+    text: 'Dropfleet Commander'
+  - path: ''
+    text: 'Battlegroup Activation Sequence'
 ---
 
 # Battlegroup Activation Sequence

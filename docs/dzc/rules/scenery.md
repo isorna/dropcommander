@@ -1,41 +1,48 @@
 ---
 sidebar_label: 'Scenery'
 sidebar_position: 12
+breadcrumb:
+  - path: '/'
+    text: 'Home'
+  - path: '/dzc/'
+    text: 'Dropzone Commander'
+  - path: ''
+    text: 'Scenery'
 ---
 
 # Scenery
 
 Battlefields of the future are hardly ever featureless wastelands, and normally include various kinds of scenery which can strongly affect the game. Dropzone Commander is best played on a table with plenty of scenery, which almost always makes a game more interesting, tactical and varied. There are hundreds of different types of scenery in a game, all of which follow certain rules. Simply agree with your opponent at the start of the game what rules each scenery piece uses.
 
-### Passable
+## Passable
 
 _A broadly horizontal space such as streets, fields, or snow to name a few._ Small contours also fall into this category. Passable scenery has no special rules associated with it. Most of a board is passable scenery.
 
-### Impassable
+## Impassable
 
 _Solid walls, massive piles of rubble, or lakes._ Steep contours also fall into this category. Impassable scenery cannot be moved through unless specified.
 
-### Exceptional
+## Exceptional
 
 _Uninterrupted ground, made for fast travel such as roads and highways._ Vehicles without the Skimmer special rule spending their entire move action on Exceptional scenery gain +2" to their MV value.
 
-### Tough
+## Tough
 
 _Tough scenery could be particularly rocky ground, fences, or dense foliage._ Any move through Tough scenery costs 2" of MV for every 1" of it crossed.
 
-### Solid
+## Solid
 
 _Cliffs, buildings, or particularly advanced force fields._ This scenery cannot have 27line of sight drawn through it, whether a physical line of sight can be drawn or not. For example, a building with open windows can technically have line of sight drawn through it, but it is classed as Solid, so cannot.
 
-### Soft Cover
+## Soft Cover
 
 _Tall fields, chain link fences, or even more esoteric sources like artificial light dampeners._ Infantry targets in or within 1" of Soft Cover impart a +2 penalty to Accuracy rolls on weapons firing at them, providing the Soft Cover is between them and the shooter.
 
-### Body Cover
+## Body Cover
 
 _Barricades, walls, or small piles of rubble._ Infantry targets in or within 1" of Body Cover impart a +1 penalty to damage rolls on weapons firing at them, providing the Body Cover is between them and the shooter. Body Cover cannot be used against CQ weapons.
 
-### Destructible
+## Destructible
 
 _Buildings, forests, or barricades._ Scenery pieces with this rule have Armour and Damage Points and can be destroyed. Although most scenery could fall into this category, it's simpler to let mostly Garrisons be Destructible.
 
@@ -49,13 +56,13 @@ The Armour and Damage Points of a Destructible scenery piece can vary a lot, but
 
 After resolving the damage, remove the scenery piece from the game and replace it with a flat piece of Tough scenery no bigger than the original size. Any piece with 9 or less starting Damage Points is simply removed.
 
-### Garrison
+## Garrison
 
 _Bunkers, skyscrapers, or forests._
 
 These scenery pieces can be garrisoned by any Infantry unit. More detailed rules for garrisons can be found on the following pages.
 
-### Flammable
+## Flammable
 
 _Forests, grass fields, or gas plants._
 

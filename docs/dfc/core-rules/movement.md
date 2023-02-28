@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'Movement'
 sidebar_position: 5
+breadcrumb:
+  - path: '/'
+    text: 'Home'
+  - path: '/dfc/'
+    text: 'Dropfleet Commander'
+  - path: ''
+    text: 'Movement'
 ---
 
 # Movement
@@ -26,4 +33,3 @@ Only large ships have the mass to survive the desperate defensive fire thrown up
 * If the ship ends its activation within 3 of an enemy ship it may attempt to ram them.
 
 Roll a dice. On a 1-2 the attempt has failed and the enemy ship succeeds in destroying the Ramming ship; remove the ship from play and do not roll for Catastrophic Damage. On the roll of a 3+ the Ramming action is a success and they have successfully crashed into/detonated their jump drives/unleashed a devastating final volley. Remove the Ramming ship and do not roll on the Catastrophic Damage table. The target ship takes a number of Lock 3+ hits equal to the Ramming ship's original Hull value.
-

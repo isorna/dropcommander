@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'Game components'
 sidebar_position: 2
+breadcrumb:
+  - path: '/'
+    text: 'Home'
+  - path: '/dfc/'
+    text: 'Dropfleet Commander'
+  - path: ''
+    text: 'Game components'
 ---
 
 # Game components

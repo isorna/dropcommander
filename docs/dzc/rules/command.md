@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'Command'
 sidebar_position: 3
+breadcrumb:
+  - path: '/'
+    text: 'Home'
+  - path: '/dzc/'
+    text: 'Dropzone Commander'
+  - path: ''
+    text: 'Command'
 ---
 
 # Command

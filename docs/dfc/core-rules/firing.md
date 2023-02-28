@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'Firing'
 sidebar_position: 6
+breadcrumb:
+  - path: '/'
+    text: 'Home'
+  - path: '/dfc/'
+    text: 'Dropfleet Commander'
+  - path: ''
+    text: 'Firing'
 ---
 
 # Firing

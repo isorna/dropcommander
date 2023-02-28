@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'Earth, 2673'
 sidebar_position: 1
+breadcrumb:
+  - path: '/'
+    text: 'Home'
+  - path: '/dzc/'
+    text: 'Dropzone Commander'
+  - path: ''
+    text: 'Earth, 2673'
 ---
 
 # Earth, 2673
