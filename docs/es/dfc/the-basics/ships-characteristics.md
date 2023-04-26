@@ -15,7 +15,7 @@ Las fortalezas y debilidades de las diferentes naves y sistemas de armamento en 
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :- |
 |Lysander|6"|0"|12"|2|6+|2|1-3|L|Atmosférico, Camuflaje completo, Lanzamiento, Abierto, Rara|
 
-**Barra de estadísticas -** Esto enseña todas las características lave de la nave. Cuanto se mueve, cuanta supervivencia tiene, cual es su tonelaje y mucho más. Entraremos en detalles en la barra de estadísticas en las próximas páginas.
+**Barra de estadísticas -** Esto enseña todas las características clave de la nave. Cuanto se mueve, cuanta supervivencia tiene, cual es su tonelaje y mucho más. Entraremos en detalles en la barra de estadísticas en las próximas páginas.
 
 |Tipo|Precisión|Ataques|Daño|Arco|Especial|
 | :- | :-: | :-: | :-: | :-: | :- |
@@ -58,6 +58,7 @@ Estas contramedidas sonconsideradas en uso constante y son tenidas en cuenta par
 Esta característica es la capacidad máxima de movimiento de una nave por turno. Hay varios factores que pueden afectar a esta característica como órdenes o daño. Bajo circunstancias normales la nave se tiene que mover como mínimo la mitad de su movimiento cada rurno (revisar la sección las reglas de órdenes y órdenes especiales para más detalle).
 
 ### Casco
+
 El casco son los puntos de daño que puede aguantar antes de quedar destruida. El casco es una regla del tamaño de la nave y de la integridad estructural. Esto significa que es posible para algunas naves tengan buena armadura pero tengan pocos puntos de daño y viceversa. Los puntos de daño perdidos se pueden visualizar usando pegatinas que vienen con la base o si los jugadores lo prefieren con dados al lado de la nave.
 
 ### Armadura (A)
