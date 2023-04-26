@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/isorna/dropcommander/compare/v1.1.0...v1.2.0) (2023-04-26)
+
+
+### Features
+
+* **components:** :fire: refactor Layout and sidebar ([9525029](https://github.com/isorna/dropcommander/commit/95250291dbb930ffa577da3dc10307ce2e8bed2e))
+
 ## [1.1.0](https://github.com/isorna/dropcommander/compare/v1.0.0...v1.1.0) (2023-02-28)
 
 
