@@ -13,6 +13,7 @@ export const enConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
       pattern: `${github}/edit/main/docs/:path`,
       text: 'Suggest changes to this page',
     },
+    outlineTitle: 'On this page',
     footer: {
       message: 'Made by fans of Dropfleet, Dropzone & StrikeTeam Commander Universe.',
       copyright: 'MIT Licensed | Copyright © 2022-present <a href="https://www.ttcombat.com/">TTCombat</a>.',

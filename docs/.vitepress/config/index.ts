@@ -6,7 +6,7 @@ import { shareConfig } from './share'
 export default defineConfig({
   ...shareConfig,
   locales: {
-    root: { label: 'English', lang: 'en-US', ...enConfig },
+    en: { label: 'English', lang: 'en-US', ...enConfig },
     es: { label: 'Español', lang: 'es-ES', ...esConfig },
   },
 })

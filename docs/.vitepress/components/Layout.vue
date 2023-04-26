@@ -4,13 +4,6 @@ import DefaultTheme from 'vitepress/theme';
 import BreadCrumb from './BreadCrumb.vue';
 import { useData } from 'vitepress'
 const { frontmatter } = useData()
-
-import { onMounted } from 'vue';
-
-onMounted(() => {
-  const tocTitle = document.getElementsByClassName('outline-title')[0]
-  tocTitle.setAttribute('tabindex', '2')
-})
 </script>
 
 <template>
