@@ -1,6 +1,6 @@
 ---
 categoryTitle: 'Battlegroup Cards & the Strategy Deck'
-sidebar_position: 2
+position: 2
 breadcrumb:
   - path: '/en/'
     text: 'Home'

@@ -14,7 +14,7 @@ features:
       dark: /img/moon-landing.dark.png
       width: 100px
       height: 100px
-    title: Dropfleet Commander
+    title: Dropfleet Commander V1.3.1
     link: ./dfc/
     details: Updated Dropfleet Commander rules.
   - icon:
@@ -22,7 +22,7 @@ features:
       dark: /img/orbit.dark.png
       width: 100px
       height: 100px
-    title: Dropzone Commander
+    title: Dropzone Commander V2.2.0
     link: ./dzc/
     details: Updated Dropzone Commander rules.
 ---

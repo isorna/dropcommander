@@ -1,6 +1,6 @@
 ---
 categoryTitle: 'Special rules'
-sidebar_position: 6
+position: 7
 breadcrumb:
   - path: '/en/'
     text: 'Home'

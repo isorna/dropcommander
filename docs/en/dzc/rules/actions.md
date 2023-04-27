@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Actions'
-sidebar_position: 5
+categoryTitle: 'Actions'
+position: 5
 breadcrumb:
   - path: '/en/'
     text: 'Home'
-  - path: '/dzc/'
+  - path: '/en/dzc/'
     text: 'Dropzone Commander'
   - path: ''
     text: 'Actions'

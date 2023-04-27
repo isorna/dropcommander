@@ -1,6 +1,6 @@
 ---
 categoryTitle: 'Building Your Fleet'
-sidebar_position: 4
+position: 5
 breadcrumb:
   - path: '/en/'
     text: 'Home'

@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Aerial Advantage'
-sidebar_position: 3
+categoryTitle: 'Aerial Advantage'
+position: 3
 breadcrumb:
   - path: '/en/'
     text: 'Home'
-  - path: '/dzc/'
+  - path: '/en/dzc/'
     text: 'Dropzone Commander'
   - path: ''
     text: 'Aerial Advantage'

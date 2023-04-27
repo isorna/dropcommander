@@ -2,7 +2,8 @@
 import { watchEffect } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 import Layout from '../components/Layout.vue'
-import CategoryCard from '../components/CategoryCard.vue'
+// import CategoryCard from '../components/CategoryCard.vue'
+import CategoryCardsContainer from '../components/CategoryCardsContainer.vue'
 import type { EnhanceAppContext } from 'vitepress'
 import { useData, inBrowser } from 'vitepress'
 // import './style/main.css'
@@ -27,7 +28,8 @@ export default {
     // DefaultTheme.enhanceApp({ app, router, siteData })// OJO: para qué sirve? hace algo?
 
     // register your custom global components
-    app.component('CategoryCard', CategoryCard)
+    // app.component('CategoryCard', CategoryCard)
+    app.component('CategoryCardsContainer', CategoryCardsContainer)
     // usePageAnalytics('G-V5E08LL4GP', 'b1d9002033c7e550e55a51a23dca4f31')
   },
   setup() {

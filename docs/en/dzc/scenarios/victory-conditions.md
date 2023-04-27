@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Victory Conditions'
-sidebar_position: 5
+categoryTitle: 'Victory Conditions'
+position: 5
 breadcrumb:
   - path: '/en/'
     text: 'Home'
-  - path: '/dzc/'
+  - path: '/en/dzc/'
     text: 'Dropzone Commander'
   - path: ''
     text: 'Victory Conditions'

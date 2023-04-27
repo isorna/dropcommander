@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Scenery'
-sidebar_position: 12
+categoryTitle: 'Scenery'
+position: 12
 breadcrumb:
   - path: '/en/'
     text: 'Home'
-  - path: '/dzc/'
+  - path: '/en/dzc/'
     text: 'Dropzone Commander'
   - path: ''
     text: 'Scenery'

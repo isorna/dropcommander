@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Transports'
-sidebar_position: 9
+categoryTitle: 'Transports'
+position: 9
 breadcrumb:
   - path: '/en/'
     text: 'Home'
-  - path: '/dzc/'
+  - path: '/en/dzc/'
     text: 'Dropzone Commander'
   - path: ''
     text: 'Transports'

@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Special Rules'
-sidebar_position: 5
+categoryTitle: 'Special Rules'
+position: 6
 breadcrumb:
   - path: '/en/'
     text: 'Home'
-  - path: '/dzc/'
+  - path: '/en/dzc/'
     text: 'Dropzone Commander'
   - path: ''
     text: 'Special Rules'

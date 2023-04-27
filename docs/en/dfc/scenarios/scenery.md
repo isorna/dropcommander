@@ -1,6 +1,6 @@
 ---
 categoryTitle: 'Scenery'
-sidebar_position: 3
+position: 3
 breadcrumb:
   - path: '/en/'
     text: 'Home'

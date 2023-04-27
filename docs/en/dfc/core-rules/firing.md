@@ -1,6 +1,6 @@
 ---
 categoryTitle: 'Firing'
-sidebar_position: 6
+position: 6
 breadcrumb:
   - path: '/en/'
     text: 'Home'

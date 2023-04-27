@@ -1,6 +1,6 @@
 ---
 categoryTitle: 'Glossary'
-sidebar_position: 7
+position: 8
 breadcrumb:
   - path: '/en/'
     text: 'Home'

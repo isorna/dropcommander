@@ -1,6 +1,6 @@
 ---
 categoryTitle: 'Game Turn Sequence'
-sidebar_position: 1
+position: 1
 breadcrumb:
   - path: '/en/'
     text: 'Home'

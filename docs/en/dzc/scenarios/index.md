@@ -1,19 +1,19 @@
 ---
-categoryTitle: 'The basics'
+categoryTitle: 'Scenarios'
 position: 0
 breadcrumb:
   - path: '/en/'
     text: 'Home'
-  - path: '/en/dfc/'
-    text: 'Dropfleet Commander'
+  - path: '/en/dzc/'
+    text: 'Dropzone Commander'
   - path: ''
-    text: 'The basics'
+    text: 'Scenarios'
 ---
 # The basics
 
 <script setup>
   import { pages } from '/pages.js'
-  const slug = '/en/dfc/the-basics/'
+  const slug = '/en/dzc/scenarios/'
   const filteredPages = pages.filter(page => page?.href.indexOf(slug) > -1 && page?.href.indexOf('index.html') < 0)
     .sort((a, b) => a.position - b.position)
 </script>

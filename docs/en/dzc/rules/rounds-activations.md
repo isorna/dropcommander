@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Rounds & Activations'
-sidebar_position: 4
+categoryTitle: 'Rounds & Activations'
+position: 4
 breadcrumb:
   - path: '/en/'
     text: 'Home'
-  - path: '/dzc/'
+  - path: '/en/dzc/'
     text: 'Dropzone Commander'
   - path: ''
     text: 'Rounds & Activations'

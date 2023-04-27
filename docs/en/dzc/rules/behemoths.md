@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Behemoths'
-sidebar_position: 11
+categoryTitle: 'Behemoths'
+position: 11
 breadcrumb:
   - path: '/en/'
     text: 'Home'
-  - path: '/dzc/'
+  - path: '/en/dzc/'
     text: 'Dropzone Commander'
   - path: ''
     text: 'Behemoths'

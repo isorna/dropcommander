@@ -1,6 +1,6 @@
 ---
 categoryTitle: 'Ground Combat'
-sidebar_position: 8
+position: 8
 breadcrumb:
   - path: '/en/'
     text: 'Home'

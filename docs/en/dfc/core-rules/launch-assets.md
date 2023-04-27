@@ -1,6 +1,6 @@
 ---
 categoryTitle: 'Launch Assets'
-sidebar_position: 9
+position: 9
 breadcrumb:
   - path: '/en/'
     text: 'Home'

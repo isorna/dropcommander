@@ -1,7 +1,7 @@
 ---
 categoryTitle: 'Game components'
 excerpt: 'Game components used in DZC.'
-sidebar_position: 2
+position: 2
 breadcrumb:
   - path: '/en/'
     text: 'Home'

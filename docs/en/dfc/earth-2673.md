@@ -1,6 +1,6 @@
 ---
 categoryTitle: 'Earth, 2673'
-sidebar_position: 1
+position: 2
 breadcrumb:
   - path: '/en/'
     text: 'Home'

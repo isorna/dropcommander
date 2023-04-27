@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Deployment'
-sidebar_position: 2
+categoryTitle: 'Deployment'
+position: 2
 breadcrumb:
   - path: '/en/'
     text: 'Home'
-  - path: '/dzc/'
+  - path: '/en/dzc/'
     text: 'Dropzone Commander'
   - path: ''
     text: 'Deployment'

@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Close Quarters'
-sidebar_position: 8
+categoryTitle: 'Close Quarters'
+position: 8
 breadcrumb:
   - path: '/en/'
     text: 'Home'
-  - path: '/dzc/'
+  - path: '/en/dzc/'
     text: 'Dropzone Commander'
   - path: ''
     text: 'Close Quarters'

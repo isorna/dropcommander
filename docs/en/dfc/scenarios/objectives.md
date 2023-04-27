@@ -1,6 +1,6 @@
 ---
 categoryTitle: 'Scenario Objectives'
-sidebar_position: 2
+position: 2
 breadcrumb:
   - path: '/en/'
     text: 'Home'

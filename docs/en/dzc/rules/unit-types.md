@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Unit Types'
-sidebar_position: 2
+categoryTitle: 'Unit Types'
+position: 2
 breadcrumb:
   - path: '/en/'
     text: 'Home'
-  - path: '/dzc/'
+  - path: '/en/dzc/'
     text: 'Dropzone Commander'
   - path: ''
     text: 'Unit Types'

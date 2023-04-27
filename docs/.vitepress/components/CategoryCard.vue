@@ -1,22 +1,15 @@
 <template>
-  <a :href="href">
-    <div class="card">
-      <div class="flex">
-        <div class="media" v-if="image">
-          <img :src="image" :alt="categoryTitle" />
-        </div>
-        <div class="details">
-          <h2 class="title">{{ categoryTitle }}</h2>
-          <p class="excerpt" v-if="excerpt">{{ truncateText(excerpt, 50) }}</p>
-        </div>
-      </div>
-    </div>
+  <a :href="href" class="link">
+    <article class="card">
+      <img v-if="image" :src="image" class="image" :alt="categoryTitle" />
+      <h2 class="title">{{ categoryTitle }}</h2>
+      <p class="details" v-if="excerpt">{{ truncateText(excerpt, 50) }}</p>
+    </article>
   </a>
 </template>
 
-<script>
-export default {
-  props: {
+<script setup>
+  const props = defineProps({
     categoryTitle: {
       type: String,
       required: true
@@ -33,56 +26,56 @@ export default {
       type: String,
       required: false
     }
-  },
-  methods: {
-    truncateText (text, length) {
-      if (text.length > length) {
-        return `${text.substring(0, length)}...`
-      }
-      return text
+  })
+
+  const truncateText = (text, length) => {
+    if (text.length > length) {
+      return `${text.substring(0, length)}...`
     }
+    return text
   }
-}
 </script>
 
 <style scoped>
-.card {
-  border-radius: 0.5rem;
-  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
-  overflow: hidden;
-  width: 100%;
-}
-
-.card:hover {
-  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.25);
-  transition: ease-in-out 0.2s all;
-}
-
-.flex {
-  display: flex;
-}
-
-.media {
-  width: 45%;
+.link {
+  background-color: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-bg-soft);
+  border-radius: 12px;
+  display: block;
   height: 100%;
-  object-fit: cover;
-  object-position: center;
+  transition: border-color .25s,background-color .25s;
 }
-
-.details {
-  margin-left: 1.2rem;
+.link:hover {
+  background-color: var(--vp-c-bg-soft-up);
+  border-color: var(--vp-c-brand);
+  text-decoration: none;
 }
-
+.card {
+  display: block;
+  height: 100%;
+  padding: 24px;
+}
+.image {
+  float: left;
+  height: 96px;
+  width: 96px;
+  margin-right: 8px;
+}
 .title {
-  border-top: none;
-  margin: 0 0;
+  color: var(--vp-c-text-1);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  border: unset;
+  letter-spacing: unset;
+  margin: unset;
+  padding: unset;
 }
-
-.excerpt {
-  margin: 0 0;
-  font-size: 0.9rem;
-  color: #999;
+.details {
+  padding-top: 8px;
+  color: var(--vp-c-text-2);
+  font-size: 14px;
+  font-weight: 500;
+  margin: unset;
 }
 </style>

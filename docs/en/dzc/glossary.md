@@ -1,6 +1,13 @@
 ---
-sidebar_label: 'Glossary'
-sidebar_position: 6
+categoryTitle: 'Glossary'
+position: 7
+breadcrumb:
+  - path: '/en/'
+    text: 'Home'
+  - path: '/en/dzc/'
+    text: 'Dropzone Commander'
+  - path: ''
+    text: 'Glossary'
 ---
 
 # Glossary

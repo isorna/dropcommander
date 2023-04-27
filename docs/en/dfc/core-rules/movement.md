@@ -1,6 +1,6 @@
 ---
 categoryTitle: 'Movement'
-sidebar_position: 5
+position: 5
 breadcrumb:
   - path: '/en/'
     text: 'Home'

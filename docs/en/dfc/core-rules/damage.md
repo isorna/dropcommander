@@ -1,6 +1,6 @@
 ---
 categoryTitle: 'Damage'
-sidebar_position: 7
+position: 7
 breadcrumb:
   - path: '/en/'
     text: 'Home'

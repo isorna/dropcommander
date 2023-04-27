@@ -1,48 +1,28 @@
 ---
-sidebar_label: 'Contents'
-sidebar_position: 0
+categoryTitle: 'Dropzone Commander'
+position: 0
 breadcrumb:
   - path: '/en/'
     text: 'Home'
-  - path: '/dzc/'
-    text: 'Dropzone Commander'
   - path: ''
-    text: 'Contents'
+    text: 'Dropzone Commander'
 ---
 
-# Contents
+# Dropzone Commander
 
-## Dropzone Commander V2.2.0
+<script setup>
+  import { pages } from '/pages.js'
+  const slug = '/en/dzc/'
+  const filteredPages = pages.filter(page => page?.href.indexOf(slug) > -1)
+  const selectedPages = [
+    filteredPages.find(page => page.href == `${slug}contents.html`),
+    filteredPages.find(page => page.href == `${slug}earth-2673.html`),
+    filteredPages.find(page => page.href == `${slug}rules/index.html`),
+    filteredPages.find(page => page.href == `${slug}scenarios/index.html`),
+    filteredPages.find(page => page.href == `${slug}building-your-army.html`),
+    filteredPages.find(page => page.href == `${slug}special-rules.html`),
+    filteredPages.find(page => page.href == `${slug}glossary.html`),
+  ]
+</script>
 
-[Earth, 2673](earth-2673)
-
-### Rules
-
-* [The Basics](rules/the-basics)
-* [Unit Types](rules/unit-types)
-* [Command](rules/command)
-* [Rounds & Activations](rules/rounds-activations)
-* [Actions](rules/actions)
-* [Moving](rules/moving)
-* [Shooting](rules/shooting)
-* [Close Quarters](rules/close-quarters)
-* [Transports](rules/transports)
-* [Aircraft](rules/aircraft)
-* [Behemoths](rules/behemoths)
-* [Scenery](rules/scenery)
-* [Collateral Damage](rules/collateral-damage)
-* [Features](rules/features)
-
-### Scenarios
-
-* [Scenarios Rules](scenarios/rules)
-* [Deployment](scenarios/deployment)
-* [Aerial Advantage](scenarios/aerial-advantage)
-* [Duration](scenarios/duration)
-* [Victory Conditions](scenarios/victory-conditions)
-* [Objectives](scenarios/objectives)
-* [Game Scenarios](scenarios/game-scenarios)
-
-### [Building Your Army](building-your-army)
-
-### [Special Rules](special-rules)
+<CategoryCardsContainer :pages="selectedPages" />

@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Building Your Army'
-sidebar_position: 4
+categoryTitle: 'Building Your Army'
+position: 5
 breadcrumb:
   - path: '/en/'
     text: 'Home'
-  - path: '/dzc/'
+  - path: '/en/dzc/'
     text: 'Dropzone Commander'
   - path: ''
     text: 'Building Your Army'

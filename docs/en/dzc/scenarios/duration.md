@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Duration'
-sidebar_position: 4
+categoryTitle: 'Duration'
+position: 4
 breadcrumb:
   - path: '/en/'
     text: 'Home'
-  - path: '/dzc/'
+  - path: '/en/dzc/'
     text: 'Dropzone Commander'
   - path: ''
     text: 'Duration'

@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Features'
-sidebar_position: 14
+categoryTitle: 'Features'
+position: 14
 breadcrumb:
   - path: '/en/'
     text: 'Home'
-  - path: '/dzc/'
+  - path: '/en/dzc/'
     text: 'Dropzone Commander'
   - path: ''
     text: 'Features'

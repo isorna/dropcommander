@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Command'
-sidebar_position: 3
+categoryTitle: 'Command'
+position: 3
 breadcrumb:
   - path: '/en/'
     text: 'Home'
-  - path: '/dzc/'
+  - path: '/en/dzc/'
     text: 'Dropzone Commander'
   - path: ''
     text: 'Command'

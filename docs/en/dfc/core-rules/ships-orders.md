@@ -1,6 +1,6 @@
 ---
 categoryTitle: 'Ship’s Orders'
-sidebar_position: 4
+position: 4
 breadcrumb:
   - path: '/en/'
     text: 'Home'

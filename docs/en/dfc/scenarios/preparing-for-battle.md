@@ -1,6 +1,6 @@
 ---
 categoryTitle: 'Preparing For Battle'
-sidebar_position: 1
+position: 1
 breadcrumb:
   - path: '/en/'
     text: 'Home'

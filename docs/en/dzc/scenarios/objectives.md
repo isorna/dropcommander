@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Objectives'
-sidebar_position: 6
+categoryTitle: 'Objectives'
+position: 6
 breadcrumb:
   - path: '/en/'
     text: 'Home'
-  - path: '/dzc/'
+  - path: '/en/dzc/'
     text: 'Dropzone Commander'
   - path: ''
     text: 'Objectives'
