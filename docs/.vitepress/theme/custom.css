@@ -1,3 +1,5 @@
+/* stylelint-disable selector-class-pattern */
+
 /* .vitepress/theme/custom.css */
 :root {
   --vp-c-brand: #2e8555;
@@ -6,4 +8,17 @@
   --menu-link-sublist-icon-filter: none;
   --menu-link-sublist-icon-filter-dark: invert(100%) sepia(94%) saturate(17%) hue-rotate(223deg) brightness(104%) contrast(98%);
   --transition-fast: 200ms;
+}
+
+@media (min-width: 768px) {
+  .VPHomeFeatures .VPFeature .box {
+    display: block;
+  }
+
+  .VPHomeFeatures .VPFeature .VPImage {
+    float: left;
+    margin-right: 1em;
+    height: 96px;
+    width: 96px;
+  }
 }
