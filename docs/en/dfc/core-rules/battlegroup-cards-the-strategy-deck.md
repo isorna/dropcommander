@@ -2,9 +2,9 @@
 sidebar_label: 'Battlegroup Cards & the Strategy Deck'
 sidebar_position: 2
 breadcrumb:
-  - path: '/'
+  - path: '/en/'
     text: 'Home'
-  - path: '/dfc/'
+  - path: '/en/dfc/'
     text: 'Dropfleet Commander'
   - path: ''
     text: 'Battelgroup Cards & the Strategy Deck'

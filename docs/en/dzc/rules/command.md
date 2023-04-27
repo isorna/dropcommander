@@ -2,7 +2,7 @@
 sidebar_label: 'Command'
 sidebar_position: 3
 breadcrumb:
-  - path: '/'
+  - path: '/en/'
     text: 'Home'
   - path: '/dzc/'
     text: 'Dropzone Commander'

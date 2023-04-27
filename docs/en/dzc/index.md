@@ -2,7 +2,7 @@
 sidebar_label: 'Contents'
 sidebar_position: 0
 breadcrumb:
-  - path: '/'
+  - path: '/en/'
     text: 'Home'
   - path: '/dzc/'
     text: 'Dropzone Commander'

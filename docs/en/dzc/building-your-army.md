@@ -2,7 +2,7 @@
 sidebar_label: 'Building Your Army'
 sidebar_position: 4
 breadcrumb:
-  - path: '/'
+  - path: '/en/'
     text: 'Home'
   - path: '/dzc/'
     text: 'Dropzone Commander'

@@ -2,7 +2,7 @@
 sidebar_label: 'Aircraft'
 sidebar_position: 10
 breadcrumb:
-  - path: '/'
+  - path: '/en/'
     text: 'Home'
   - path: '/dzc/'
     text: 'Dropzone Commander'

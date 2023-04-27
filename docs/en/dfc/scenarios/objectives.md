@@ -2,9 +2,9 @@
 sidebar_label: 'Scenario Objectives'
 sidebar_position: 2
 breadcrumb:
-  - path: '/'
+  - path: '/en/'
     text: 'Home'
-  - path: '/dfc/'
+  - path: '/en/dfc/'
     text: 'Dropfleet Commander'
   - path: ''
     text: 'Scenario Objectives'

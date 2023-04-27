@@ -2,9 +2,9 @@
 sidebar_label: 'Ships characteristics'
 sidebar_position: 1
 breadcrumb:
-  - path: '/'
+  - path: '/en/'
     text: 'Home'
-  - path: '/dfc/'
+  - path: '/en/dfc/'
     text: 'Dropfleet Commander'
   - path: ''
     text: 'Ships characteristics'

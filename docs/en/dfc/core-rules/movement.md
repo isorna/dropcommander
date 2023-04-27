@@ -2,9 +2,9 @@
 sidebar_label: 'Movement'
 sidebar_position: 5
 breadcrumb:
-  - path: '/'
+  - path: '/en/'
     text: 'Home'
-  - path: '/dfc/'
+  - path: '/en/dfc/'
     text: 'Dropfleet Commander'
   - path: ''
     text: 'Movement'

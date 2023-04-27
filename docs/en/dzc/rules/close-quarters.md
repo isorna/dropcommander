@@ -2,7 +2,7 @@
 sidebar_label: 'Close Quarters'
 sidebar_position: 8
 breadcrumb:
-  - path: '/'
+  - path: '/en/'
     text: 'Home'
   - path: '/dzc/'
     text: 'Dropzone Commander'

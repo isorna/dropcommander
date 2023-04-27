@@ -2,7 +2,7 @@
 sidebar_label: 'Transports'
 sidebar_position: 9
 breadcrumb:
-  - path: '/'
+  - path: '/en/'
     text: 'Home'
   - path: '/dzc/'
     text: 'Dropzone Commander'

@@ -2,7 +2,7 @@
 sidebar_label: 'Collateral Damage'
 sidebar_position: 13
 breadcrumb:
-  - path: '/'
+  - path: '/en/'
     text: 'Home'
   - path: '/dzc/'
     text: 'Dropzone Commander'

@@ -2,7 +2,7 @@
 sidebar_label: 'Shooting'
 sidebar_position: 7
 breadcrumb:
-  - path: '/'
+  - path: '/en/'
     text: 'Home'
   - path: '/dzc/'
     text: 'Dropzone Commander'

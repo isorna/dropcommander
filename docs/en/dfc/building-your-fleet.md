@@ -2,9 +2,9 @@
 sidebar_label: 'Building Your Fleet'
 sidebar_position: 4
 breadcrumb:
-  - path: '/'
+  - path: '/en/'
     text: 'Home'
-  - path: '/dfc/'
+  - path: '/en/dfc/'
     text: 'Dropfleet Commander'
   - path: ''
     text: 'Building Your Fleet'

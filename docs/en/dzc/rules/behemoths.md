@@ -2,7 +2,7 @@
 sidebar_label: 'Behemoths'
 sidebar_position: 11
 breadcrumb:
-  - path: '/'
+  - path: '/en/'
     text: 'Home'
   - path: '/dzc/'
     text: 'Dropzone Commander'

@@ -2,7 +2,7 @@
 sidebar_label: 'Scenery'
 sidebar_position: 12
 breadcrumb:
-  - path: '/'
+  - path: '/en/'
     text: 'Home'
   - path: '/dzc/'
     text: 'Dropzone Commander'

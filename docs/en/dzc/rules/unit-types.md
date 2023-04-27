@@ -2,7 +2,7 @@
 sidebar_label: 'Unit Types'
 sidebar_position: 2
 breadcrumb:
-  - path: '/'
+  - path: '/en/'
     text: 'Home'
   - path: '/dzc/'
     text: 'Dropzone Commander'
