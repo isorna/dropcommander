@@ -38,7 +38,7 @@ If there are no Infantry units squads left to call down a Behemoth, it misses th
 
 Place the Behemoth on that point. A Behemoth **can** be placed on top of scenery pieces and friendly and enemy units. **Every Destructible scenery piece or squad within its Spread is landed on and takes 2D3 automatic Energy 12 hits** (roll once for all affected units). Damage can be dealt to any units in the squad (not just those within the Spread), allocated by the Behemoth's controlling player. Body Cover may be used as normal. **Resolve all damage before proceeding with the Behemoth's landing.**
 
-Arriving via Drop-harness is a risky manoeuvre, and may cause damage to the Behemoth on landing. When a Behemoth arrives via Drop-harness, after rolling for damage to squads and Scenery pieces, check to see which conditions on the table below are met and **roll the total number of dice listed.** Each condition can be met multiple times.** For every **1-2 rolled,** the Behemoth loses **1 Damage Point from a random Zone.** Note that any Scenery pieces or squads that were destroyed by the Behemoth landing are removed before consulting the table.
+Arriving via Drop-harness is a risky manoeuvre, and may cause damage to the Behemoth on landing. When a Behemoth arrives via Drop-harness, after rolling for damage to squads and Scenery pieces, check to see which conditions on the table below are met and **roll the total number of dice listed.** Each condition can be met multiple times. **For every 1-2 rolled,** the Behemoth loses **1 Damage Point from a random Zone.** Note that any Scenery pieces or squads that were destroyed by the Behemoth landing are removed before consulting the table.
 
 |Condition|Number of Dice per Instance|
 | :- | :-: |

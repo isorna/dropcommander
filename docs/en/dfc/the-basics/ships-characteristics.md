@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Ships characteristics'
+categoryTitle: 'Ships characteristics'
 sidebar_position: 1
 breadcrumb:
   - path: '/en/'

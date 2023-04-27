@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Ship’s Orders'
+categoryTitle: 'Ship’s Orders'
 sidebar_position: 4
 breadcrumb:
   - path: '/en/'

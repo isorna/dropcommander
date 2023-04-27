@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Scenery'
+categoryTitle: 'Scenery'
 sidebar_position: 3
 breadcrumb:
   - path: '/en/'

@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Glossary'
+categoryTitle: 'Glossary'
 sidebar_position: 7
 breadcrumb:
   - path: '/en/'

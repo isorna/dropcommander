@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Firing'
+categoryTitle: 'Firing'
 sidebar_position: 6
 breadcrumb:
   - path: '/en/'

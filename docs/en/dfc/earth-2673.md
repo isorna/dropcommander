@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Earth, 2673'
+categoryTitle: 'Earth, 2673'
 sidebar_position: 1
 breadcrumb:
   - path: '/en/'

@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Battlegroup Activation Sequence'
+categoryTitle: 'Battlegroup Activation Sequence'
 sidebar_position: 3
 breadcrumb:
   - path: '/en/'

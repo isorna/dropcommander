@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Movement'
+categoryTitle: 'Movement'
 sidebar_position: 5
 breadcrumb:
   - path: '/en/'

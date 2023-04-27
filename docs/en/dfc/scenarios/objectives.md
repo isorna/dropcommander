@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Scenario Objectives'
+categoryTitle: 'Scenario Objectives'
 sidebar_position: 2
 breadcrumb:
   - path: '/en/'

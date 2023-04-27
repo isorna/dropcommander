@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Preparing For Battle'
+categoryTitle: 'Preparing For Battle'
 sidebar_position: 1
 breadcrumb:
   - path: '/en/'

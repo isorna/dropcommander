@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Special rules'
+categoryTitle: 'Special rules'
 sidebar_position: 6
 breadcrumb:
   - path: '/en/'

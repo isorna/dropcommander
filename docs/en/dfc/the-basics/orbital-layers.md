@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Orbital Layers'
+categoryTitle: 'Orbital Layers'
 sidebar_position: 4
 breadcrumb:
   - path: '/en/'

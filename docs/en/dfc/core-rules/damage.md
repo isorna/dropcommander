@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Damage'
+categoryTitle: 'Damage'
 sidebar_position: 7
 breadcrumb:
   - path: '/en/'

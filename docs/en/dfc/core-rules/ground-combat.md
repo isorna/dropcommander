@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Ground Combat'
+categoryTitle: 'Ground Combat'
 sidebar_position: 8
 breadcrumb:
   - path: '/en/'

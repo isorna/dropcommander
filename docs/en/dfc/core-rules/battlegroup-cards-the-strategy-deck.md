@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Battlegroup Cards & the Strategy Deck'
+categoryTitle: 'Battlegroup Cards & the Strategy Deck'
 sidebar_position: 2
 breadcrumb:
   - path: '/en/'

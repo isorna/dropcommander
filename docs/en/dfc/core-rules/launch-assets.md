@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Launch Assets'
+categoryTitle: 'Launch Assets'
 sidebar_position: 9
 breadcrumb:
   - path: '/en/'

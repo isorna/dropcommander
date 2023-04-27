@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Contents'
+categoryTitle: 'Contents'
 sidebar_position: 0
 breadcrumb:
   - path: '/en/'
@@ -16,14 +16,14 @@ breadcrumb:
 
 [Earth, 2673](earth-2673)
 
-### The basics
+### [The basics](the-basics/)
 
 * [Ships Characteristics](the-basics/ships-characteristics)
 * [Game components](the-basics/game-components)
 * [Admirals](the-basics/admirals)
 * [Orbital Layers](the-basics/orbital-layers)
 
-### Core Rules
+### [Core Rules](core-rules/)
 
 * [Game Turn Sequence](core-rules/game-turn-sequence)
 * [Battlegroup Cards & the Strategy Deck](core-rules/battlegroup-cards-the-strategy-deck)
@@ -37,7 +37,7 @@ breadcrumb:
 
 ### [Building Your Fleet](building-your-fleet)
 
-### Scenarios
+### [Scenarios](scenarios/)
 
 * [Preparing For Battle](scenarios/preparing-for-battle)
 * [Scenario Objectives](scenarios/objectives)

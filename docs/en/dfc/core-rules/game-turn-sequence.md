@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Game Turn Sequence'
+categoryTitle: 'Game Turn Sequence'
 sidebar_position: 1
 breadcrumb:
   - path: '/en/'

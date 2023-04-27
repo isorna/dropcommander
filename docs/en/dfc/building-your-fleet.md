@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Building Your Fleet'
+categoryTitle: 'Building Your Fleet'
 sidebar_position: 4
 breadcrumb:
   - path: '/en/'
