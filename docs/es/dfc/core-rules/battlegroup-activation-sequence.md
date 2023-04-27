@@ -1,6 +1,13 @@
 ---
-sidebar_label: 'Secuencia de activación de grupos de batalla'
-sidebar_position: 3
+categoryTitle: 'Secuencia de activación de grupos de batalla'
+position: 3
+breadcrumb:
+  - path: '/es/'
+    text: 'Inicio'
+  - path: '/es/dfc/'
+    text: 'Dropfleet Commander'
+  - path: ''
+    text: 'Secuencia de activación de grupos de batalla'
 ---
 
 # Secuencia de activación de grupos de batalla

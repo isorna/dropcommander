@@ -1,6 +1,13 @@
 ---
-sidebar_label: 'Special Rules'
-sidebar_position: 5
+categoryTitle: 'Special Rules'
+position: 6
+breadcrumb:
+  - path: '/es/'
+    text: 'Inicio'
+  - path: '/es/dzc/'
+    text: 'Dropzone Commander'
+  - path: ''
+    text: 'Special Rules'
 ---
 
 # Special Rules
@@ -97,7 +104,7 @@ This unit doubles the usual distance of its coherency.
 
 ## Weapon Special Rules
 
-### Alternate Fire (ALT X)
+### Alternate Fire (ALT X)
 
 _Some weapons have multiple fire modes - concentrated and wide energy beams, or anti-tank and anti-air modes, to name but a few._
 

@@ -1,6 +1,13 @@
 ---
-sidebar_label: 'Scenery'
-sidebar_position: 12
+categoryTitle: 'Scenery'
+position: 12
+breadcrumb:
+  - path: '/es/'
+    text: 'Inicio'
+  - path: '/es/dzc/'
+    text: 'Dropzone Commander'
+  - path: ''
+    text: 'Scenery'
 ---
 
 # Scenery

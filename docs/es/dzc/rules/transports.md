@@ -1,6 +1,13 @@
 ---
-sidebar_label: 'Transports'
-sidebar_position: 9
+categoryTitle: 'Transports'
+position: 9
+breadcrumb:
+  - path: '/es/'
+    text: 'Inicio'
+  - path: '/es/dzc/'
+    text: 'Dropzone Commander'
+  - path: ''
+    text: 'Transports'
 ---
 
 # Transports

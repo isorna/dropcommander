@@ -1,6 +1,13 @@
 ---
-sidebar_label: 'Moving'
-sidebar_position: 6
+categoryTitle: 'Moving'
+position: 6
+breadcrumb:
+  - path: '/es/'
+    text: 'Inicio'
+  - path: '/es/dzc/'
+    text: 'Dropzone Commander'
+  - path: ''
+    text: 'Moving'
 ---
 
 # Moving

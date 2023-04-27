@@ -1,6 +1,13 @@
 ---
-sidebar_label: 'Características de las naves'
-sidebar_position: 1
+categoryTitle: 'Características de las naves'
+position: 1
+breadcrumb:
+  - path: '/es/'
+    text: 'Inicio'
+  - path: '/es/dfc/'
+    text: 'Dropfleet Commander'
+  - path: ''
+    text: 'Características de las naves'
 ---
 
 # Características de las naves

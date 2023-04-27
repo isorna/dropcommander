@@ -22,7 +22,7 @@ features:
       dark: /img/orbit.dark.png
       width: 100px
       height: 100px
-    title: Dropzone Commander
+    title: Dropzone Commander V2.2.0
     link: ./dzc/
     details: Reglas actualizadas de Dropzone Commander.
 ---

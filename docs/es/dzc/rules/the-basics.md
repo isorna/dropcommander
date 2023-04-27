@@ -1,6 +1,13 @@
 ---
-sidebar_label: 'The Basics'
-sidebar_position: 1
+categoryTitle: 'The Basics'
+position: 1
+breadcrumb:
+  - path: '/es/'
+    text: 'Inicio'
+  - path: '/es/dzc/'
+    text: 'Dropzone Commander'
+  - path: ''
+    text: 'The Basics'
 ---
 
 # The Basics

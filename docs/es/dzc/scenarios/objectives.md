@@ -1,6 +1,13 @@
 ---
-sidebar_label: 'Objectives'
-sidebar_position: 4
+categoryTitle: 'Objectives'
+position: 6
+breadcrumb:
+  - path: '/es/'
+    text: 'Inicio'
+  - path: '/es/dzc/'
+    text: 'Dropzone Commander'
+  - path: ''
+    text: 'Objectives'
 ---
 
 # Objectives

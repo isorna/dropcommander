@@ -1,6 +1,13 @@
 ---
-sidebar_label: 'Disparo'
-sidebar_position: 6
+categoryTitle: 'Disparo'
+position: 6
+breadcrumb:
+  - path: '/es/'
+    text: 'Inicio'
+  - path: '/es/dfc/'
+    text: 'Dropfleet Commander'
+  - path: ''
+    text: 'Disparo'
 ---
 
 # Disparo

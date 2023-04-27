@@ -1,6 +1,13 @@
 ---
-sidebar_label: 'Actions'
-sidebar_position: 5
+categoryTitle: 'Actions'
+position: 5
+breadcrumb:
+  - path: '/es/'
+    text: 'Inicio'
+  - path: '/es/dzc/'
+    text: 'Dropzone Commander'
+  - path: ''
+    text: 'Actions'
 ---
 
 # Actions

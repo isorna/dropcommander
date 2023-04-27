@@ -1,6 +1,13 @@
 ---
-sidebar_label: 'Preparándose para la batalla'
-sidebar_position: 1
+categoryTitle: 'Preparándose para la batalla'
+position: 1
+breadcrumb:
+  - path: '/es/'
+    text: 'Inicio'
+  - path: '/es/dfc/'
+    text: 'Dropfleet Commander'
+  - path: ''
+    text: 'Preparándose para la batalla'
 ---
 
 # Preparándose para la batalla

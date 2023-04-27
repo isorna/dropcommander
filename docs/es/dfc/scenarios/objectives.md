@@ -1,6 +1,13 @@
 ---
-sidebar_label: 'Objetivos'
-sidebar_position: 2
+categoryTitle: 'Objetivos'
+position: 2
+breadcrumb:
+  - path: '/es/'
+    text: 'Inicio'
+  - path: '/es/dfc/'
+    text: 'Dropfleet Commander'
+  - path: ''
+    text: 'Objetivos'
 ---
 
 # Objetivos
@@ -12,6 +19,7 @@ While securing a planet s orbital lanes is key to gaining victory, controlling t
 Clusters are large urbanised areas on a planet s surface. Typically, they consist of a range of regions from commercial and manufacturing through to civilian districts and military enclaves. Control of these vast areas of manufacturing, military and civilian infrastructure are vital to controlling the planet. Clusters are made up of a number of sectors and controlling these key locations is critical to controlling the Cluster.
 
 Some Scenarios will require you to Hold or Contest a Cluster in order to score Victory Points (VPs) in the game.
+
 * To **hold** a Cluster, you must hold more value in terms of Sectors in that Cluster than your opponent, or more Sectors overall if they are not given a set value in that scenario.
 * To **contest** a Cluster, you must hold 1 or more Sectors in that Cluster.
 

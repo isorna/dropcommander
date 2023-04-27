@@ -1,6 +1,13 @@
 ---
-sidebar_label: 'Reglas especiales'
-sidebar_position: 6
+categoryTitle: 'Reglas especiales'
+position: 7
+breadcrumb:
+  - path: '/es/'
+    text: 'Inicio'
+  - path: '/es/dfc/'
+    text: 'Dropfleet Commander'
+  - path: ''
+    text: 'Reglas especiales'
 ---
 
 # Reglas especiales
@@ -23,7 +30,7 @@ Los naves con la regla especial de Aegis añaden un bono al valor de defensa de 
 
 _Por ejemplo: una nave con la regla especial de Aegis (5) se encuentra dentro de 4" de una nave amistosa con una característica de PD de 4. Mientras permanezcan dentro de 4", la nave amiga cuenta con una PD de 9._
 
-### Atmospheric
+###  Atmospheric
 
 Solo los naves con la regla especial Atmospheric son capaces de entrar en la capa atmosférica durante el combate orbital.
 
@@ -57,7 +64,7 @@ Una nave con la regla especial Full-Cloak nunca puede recibir un pico de energí
 
 Los naves con la regla especial de Launch son capaces de transportar y usar Activos de Lanzamiento. Los naves con la habilidad de Launch tendrán su capacidad de lanzamiento en sus descripciones junto con el tipo de carga estándar transportada (es decir cazas, bombarderos o torpedos, según corresponda).
 
-### Monitor
+###  Monitor
 
 _Estas naves cuentan con motores de menor tamaño y con poca potencia, pero están configuradas específicamente para el rol de defensa orbital._
 
@@ -173,6 +180,7 @@ Hits from Close Action weapons can be stopped by a target's Point Defence. Resol
 Los golpes de armas de acción cercana pueden detenerse por la defensa de puntos de un objetivo.Resuelva los efectos de la defensa de puntos antes de tomar una armadura o contramedidas pasivas que salvan lanzamientos.
 
 ### Close Action (Swarmer)
+
 ### Acción cerrada (enjambre)
 
 _Swarmers are a sub-classification of close action weapons which use decoys, split projectiles and other countermeasures to make them more capable of overwhelming Point Defences._
@@ -182,6 +190,7 @@ It takes one Point Defence success more than normal to stop a point of Hull dama
 Se necesita un éxito de defensa de punto más de lo normal para detener un punto de daño del casco de un arma enjambre.Esto significa que dos éxitos son necesarios para detener un golpe normal de un enjambre, tres éxitos para un crítico.
 
 ### Close Action (Beam)
+
 ### Acción de cierre (viga)
 
 _Some close action weapon systems rely entirely on projected radiation of one form or another and so are entirely unaffected by Point Defences._
@@ -191,6 +200,7 @@ Close Action (Beam) weapon systems obey all the normal rules for close action we
 ¡Los sistemas de armas de acción cercana (haz) obedecen todas las reglas normales para los sistemas de armas de acción cercana, excepto que las defensas de punto no se pueden usar contra ellos!
 
 ### Corruptor
+
 ### Corruptor
 
 _Corruptor weapon systems cause ongoing damage to the target ship; Dangerous Malware, self-propagating corrosive materials, incendiaries or even biological organisms._
@@ -200,6 +210,7 @@ For every Critical hit scored by a Corruptor weapon, place 1 Corruptor token on 
 Por cada éxito crítico anotado por un arma corruptor, coloque 1 token de corruptor en el barco.Al comienzo de cada fase de control de daños, una nave con tokens de corruptor recibe 1 daño por cada token, sin ahorros de ningún tipo permitido.Un token de corruptor puede repararse como un efecto paralizante.
 
 ### Crippling
+
 ### paraliza
 
 _Sitting at the very peak of military technology are weapons of such power that they can inflict Crippling Damage with a single hit._
@@ -215,6 +226,7 @@ _For example, a Lock 3+ weapon would need a 5 or 6 to make an additional roll on
 Por ejemplo, un arma de bloqueo 3+ necesitaría un 5 o 6 para hacer un rollo adicional en la mesa paralizante.
 
 ### Distortion
+
 ### Distorsión
 
 _Distortion weapon systems use the opening of short-lived space/time wormholes to tear targets apart so the more accurately the weapon hits the more damaging it becomes._
@@ -224,9 +236,10 @@ The damage value of a Distortion weapon system is equal to the number of hits th
 El valor de daño de un sistema de arma de distorsión es igual al número de golpes que el sistema de armas inflige durante el ataque (antes de rodar cualquier lanzamiento de ahorro está enrollado).
 
 _For example: A Distortion weapon with 4 Attack dice hits 3 times, this gives each hit a damage value of 3, so up to 9 Hull damage will be inflicted if all saves were failed! If the same weapon were to hit with all 4 attacks, it would inflict 16 Hull damage!_
-_ Por ejemplo: un arma de distorsión con 4 golpes de dados de ataque 3 veces, esto le da a cada golpe un valor de daño de 3, por lo que se infligirán hasta 9 daños en el casco si todas las salvaciones fallaban.Si la misma arma golpeara con los 4 ataques, ¡infligiría 16 daños en el casco! _
+_Por ejemplo: un arma de distorsión con 4 golpes de dados de ataque 3 veces, esto le da a cada golpe un valor de daño de 3, por lo que se infligirán hasta 9 daños en el casco si todas las salvaciones fallaban.Si la misma arma golpeara con los 4 ataques, ¡infligiría 16 daños en el casco!_
 
 ### Escape Velocity
+
 ### Velocidad de escape
 
 _Escape Velocity weapon systems are specifically designed to target ships in higher orbital layers such as massive, ground based anti-ship weapons._
@@ -235,7 +248,8 @@ _ Los sistemas de armas de velocidad de escala están diseñados específicament
 These weapons ignore the penalties for firing through different Orbital Layers (including Atmosphere) and may be fired from Atmosphere. However, they must always target an enemy in a higher Orbital Layer than themselves.
 Estas armas ignoran las sanciones por disparar a través de diferentes capas orbitales (incluida la atmósfera) y pueden ser disparadas de la atmósfera.Sin embargo, siempre deben apuntar a un enemigo en una capa orbital más alta que ellos mismos.
 
-### Flash
+###  Flash
+
 ### Destello
 
 _Weapon systems with the Flash characteristic produce a highly visible energy signature when they connect with a target, effectively 'lighting it up' for everyone to see._
@@ -245,6 +259,7 @@ A ship that is hit by a Flash weapon system gains a Minor Spike in addition to a
 Un barco que es golpeado por un sistema de armas flash gana un pico menor además de cualquier otro efecto de daño.Además, si el sistema de armas inflige 3 o más daños del ataque, se agrega otro pico menor al objetivo.
 
 ### Fusillade (X)
+
 ### disparo (x)
 
 _Fusillade weapon systems feature enlarged capacitor banks or ammunition magazines so that they can really let loosed when the time is ripe__
@@ -406,7 +421,7 @@ _Voidgates are a stepping stone between the Mothership in orbit and the small, d
 _Voidgates son un trampolín entre la nave nodriza en órbita y las pequeñas puertas parecidas.Dado que las puertas no pueden desplegarse directamente desde el espacio, se necesita un Voidgate para ingresar a la atmósfera y proporcionar un punto de entrada para ellos.
 
 When a Mothership is launching Gates, they are **not** deployed from the Mothership itself. Instead, they are deployed from Voidgates.
-Cuando una nave nodriza está lanzando puertas, ** no ** desplegó a partir de la nave nodriza.En cambio, se implementan desde Voidgates.
+Cuando una nave nodriza está lanzando puertas, **no** desplegó a partir de la nave nodriza.En cambio, se implementan desde Voidgates.
 
 A Voidgate will have a Voidgate Capacity (Voidgate-X) in its special rules, which represents how many Gate tokens may be deployed through it each turn (note that this is frequently lower than the launch value of Motherships, meaning that you generally need multiple Voidgates to make full use of a Mothership's potential Launch capacity).
 Un Voidgate tendrá una capacidad de Voidgate (Voidgate-X) en sus reglas especiales, que representa cuántos tokens de puerta se pueden implementar a través de él en cada turno (tenga en cuenta que esto es frecuentemente más bajo que el valor de lanzamiento de las madres, lo que significa que generalmente necesita múltiplesVoidgates para hacer uso completo de la capacidad de lanzamiento potencial de una nave nodriza).
@@ -433,9 +448,10 @@ Any number of Ground Asset tokens may be picked up by a single Voidgate, but onl
 Un número de tokens de activos terrestres puede ser recogido por un solo Voidgate, pero solo uno puede ser caído por voidgate por turno usando esta regla.Los tokens recogidos pero no caídos de esta manera se destruyen automáticamente.
 
 Tokens moved in this manner count as **not** being present in their new Sector for the remainder of the turn (and therefore may not contribute to scoring that turn).
-Los tokens se movieron de esta manera cuentan como ** no ** que está presente en su nuevo sector durante el resto del turno (y, por lo tanto, puede no contribuir a la puntuación de ese giro).
+Los tokens se movieron de esta manera cuentan como **no** que está presente en su nuevo sector durante el resto del turno (y, por lo tanto, puede no contribuir a la puntuación de ese giro).
 
 ## Resistance Special Rules
+
 ## Reglas especiales de resistencia
 
 ### Elite Bridge Crew

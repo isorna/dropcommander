@@ -1,6 +1,13 @@
 ---
-sidebar_label: 'Escenografía'
-sidebar_position: 3
+categoryTitle: 'Escenografía'
+position: 3
+breadcrumb:
+  - path: '/es/'
+    text: 'Inicio'
+  - path: '/es/dfc/'
+    text: 'Dropfleet Commander'
+  - path: ''
+    text: 'Escenografía'
 ---
 
 # Escenografía

@@ -1,6 +1,13 @@
 ---
-sidebar_label: 'Tierra, 2673'
-sidebar_position: 1
+categoryTitle: 'Tierra, 2673'
+position: 2
+breadcrumb:
+  - path: '/es/'
+    text: 'Inicio'
+  - path: '/es/dfc/'
+    text: 'Dropfleet Commander'
+  - path: ''
+    text: 'Tierra, 2673'
 ---
 
 # Tierra, 2673

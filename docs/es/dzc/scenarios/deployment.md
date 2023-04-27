@@ -1,6 +1,13 @@
 ---
-sidebar_label: 'Deployment'
-sidebar_position: 2
+categoryTitle: 'Deployment'
+position: 2
+breadcrumb:
+  - path: '/es/'
+    text: 'Inicio'
+  - path: '/es/dzc/'
+    text: 'Dropzone Commander'
+  - path: ''
+    text: 'Deployment'
 ---
 
 # Deployment

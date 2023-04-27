@@ -1,6 +1,13 @@
 ---
-sidebar_label: 'Shooting'
-sidebar_position: 7
+categoryTitle: 'Shooting'
+position: 7
+breadcrumb:
+  - path: '/es/'
+    text: 'Inicio'
+  - path: '/es/dzc/'
+    text: 'Dropzone Commander'
+  - path: ''
+    text: 'Shooting'
 ---
 
 # Shooting

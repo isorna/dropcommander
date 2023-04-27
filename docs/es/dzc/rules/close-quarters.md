@@ -1,6 +1,13 @@
 ---
-sidebar_label: 'Close Quarters'
-sidebar_position: 8
+categoryTitle: 'Close Quarters'
+position: 8
+breadcrumb:
+  - path: '/es/'
+    text: 'Inicio'
+  - path: '/es/dzc/'
+    text: 'Dropzone Commander'
+  - path: ''
+    text: 'Close Quarters'
 ---
 
 # Close Quarters

@@ -1,6 +1,13 @@
 ---
-sidebar_label: 'Daño'
-sidebar_position: 7
+categoryTitle: 'Daño'
+position: 7
+breadcrumb:
+  - path: '/es/'
+    text: 'Inicio'
+  - path: '/es/dfc/'
+    text: 'Dropfleet Commander'
+  - path: ''
+    text: 'Daño'
 ---
 
 # Daño

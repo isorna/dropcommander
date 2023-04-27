@@ -1,6 +1,13 @@
 ---
-sidebar_label: 'Collateral Damage'
-sidebar_position: 13
+categoryTitle: 'Collateral Damage'
+position: 13
+breadcrumb:
+  - path: '/es/'
+    text: 'Inicio'
+  - path: '/es/dzc/'
+    text: 'Dropzone Commander'
+  - path: ''
+    text: 'Collateral Damage'
 ---
 
 # Collateral Damage

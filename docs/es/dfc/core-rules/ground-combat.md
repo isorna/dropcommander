@@ -1,6 +1,13 @@
 ---
-sidebar_label: 'Combate en tierra'
-sidebar_position: 8
+categoryTitle: 'Combate en tierra'
+position: 8
+breadcrumb:
+  - path: '/es/'
+    text: 'Inicio'
+  - path: '/es/dfc/'
+    text: 'Dropfleet Commander'
+  - path: ''
+    text: 'Combate en tierra'
 ---
 
 # Combate en tierra

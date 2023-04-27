@@ -1,13 +1,15 @@
 ---
-categoryTitle: 'Glosario'
-position: 7
+categoryTitle: 'Duration'
+position: 4
 breadcrumb:
   - path: '/es/'
     text: 'Inicio'
   - path: '/es/dzc/'
     text: 'Dropzone Commander'
   - path: ''
-    text: 'Glossary'
+    text: 'Duration'
 ---
 
-# Glosario
+# Duration
+
+How many rounds the game lasts for.

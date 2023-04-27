@@ -1,13 +1,18 @@
 ---
-sidebar_label: 'Features'
-sidebar_position: 14
+categoryTitle: 'Features'
+position: 14
+breadcrumb:
+  - path: '/es/'
+    text: 'Inicio'
+  - path: '/es/dzc/'
+    text: 'Dropzone Commander'
+  - path: ''
+    text: 'Features'
 ---
 
 # Features
 
 Scenery pieces are so varied in size and shape that it would be impossible to list them all, and although players are free to agree what rules their scenery has, a few examples are listed here for ease of reference.
-
-
 
 |Scenery Piece|Size|Armour|Damage|Special|
 | :- | :-: | :-: | :-: | :- |

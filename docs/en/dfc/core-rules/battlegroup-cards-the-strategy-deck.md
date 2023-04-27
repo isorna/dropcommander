@@ -7,7 +7,7 @@ breadcrumb:
   - path: '/en/dfc/'
     text: 'Dropfleet Commander'
   - path: ''
-    text: 'Battelgroup Cards & the Strategy Deck'
+    text: 'Battlegroup Cards & the Strategy Deck'
 ---
 
 # Battlegroup Cards & the Strategy Deck

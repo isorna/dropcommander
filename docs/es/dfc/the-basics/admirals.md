@@ -1,6 +1,13 @@
 ---
-sidebar_label: 'Almirantes'
-sidebar_position: 3
+categoryTitle: 'Almirantes'
+position: 3
+breadcrumb:
+  - path: '/es/'
+    text: 'Inicio'
+  - path: '/es/dfc/'
+    text: 'Dropfleet Commander'
+  - path: ''
+    text: 'Almirantes'
 ---
 
 # Almirantes
@@ -35,7 +42,6 @@ Las cartas de mando representan acciones y decisiones específicas tomadas por e
 
 Cuando una carta es jugada o descartada por cualquier motivo, debe ser situada boa arriba en una pila de descarte. Si un jugador durante la partida agota todo su mazo de mando, esta pila de descarte se pone boca abajo, se baraja y se transforma en un nuevo mazo de mando para robar.
 
-
 |Espionage|
 |:-|
 |**Activación**|
@@ -44,8 +50,7 @@ Cuando una carta es jugada o descartada por cualquier motivo, debe ser situada b
 |Una carta de mando enemiga utilizada.|
 |**Efecto**|
 |Puedes negar los efectos de la carta de mando enemiga.|
-|_"Esto demuestra que incluso un Shaltari puede caer en una trampa, si se prepara apropiadamente." _|
-
+|_"Esto demuestra que incluso un Shaltari puede caer en una trampa, si se prepara apropiadamente."_|
 
 Una carta de mando típica tiene una estructura como la mostrada a continuación:
 

@@ -1,6 +1,13 @@
 ---
-sidebar_label: 'Game Scenarios'
-sidebar_position: 5
+categoryTitle: 'Game Scenarios'
+position: 7
+breadcrumb:
+  - path: '/es/'
+    text: 'Inicio'
+  - path: '/es/dzc/'
+    text: 'Dropzone Commander'
+  - path: ''
+    text: 'Game Scenarios'
 ---
 
 # Game Scenarios

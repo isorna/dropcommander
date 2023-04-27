@@ -1,6 +1,13 @@
 ---
-sidebar_label: 'Activos de lanzamiento'
-sidebar_position: 9
+categoryTitle: 'Activos de lanzamiento'
+position: 9
+breadcrumb:
+  - path: '/es/'
+    text: 'Inicio'
+  - path: '/es/dfc/'
+    text: 'Dropfleet Commander'
+  - path: ''
+    text: 'Lanzamiento de activos'
 ---
 
 # Lanzamiento de activos
