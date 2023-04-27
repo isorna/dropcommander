@@ -24,12 +24,21 @@ const props = defineProps({
 <style scoped>
 .container {
   display: flex;
+  flex-direction: column;
   flex-wrap: wrap;
   margin: -8px;
   padding-top: 64px;
 }
 .item {
   padding: 8px;
-  width: 50%;
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .container {
+    flex-direction: row;
+  }
+  .item {
+    width: 50%;
+  }
 }
 </style>
