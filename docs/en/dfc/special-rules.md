@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'Special rules'
 sidebar_position: 6
+breadcrumb:
+  - path: '/'
+    text: 'Home'
+  - path: '/dfc/'
+    text: 'Dropfleet Commander'
+  - path: ''
+    text: 'Special rules'
 ---
 
 # Special rules
@@ -23,7 +30,7 @@ Ships with the Aegis special rule add a bonus to the Point Defence value of any 
 
 _For example: A ship with the Aegis (5) special rule is within 4" of a friendly ship with a PD characteristic of 4. As long as they remain within 4" the friendly ship counts as having a PD of 9._
 
-### Atmospheric
+### Atmospheric
 
 Only ships with the Atmospheric special rule are capable of entering the Atmospheric layers during Orbital Combat.
 
@@ -57,7 +64,7 @@ A ship with the Full Cloak special rule can never receive an energy spike for an
 
 Ships with the Launch special rule are capable of carrying and using Launch Assets. Launch capable ships will have their launch capacity noted in their descriptions along with the standard type load carried (i.e. Fighters, Bombers or Torpedoes as appropriate).
 
-### Monitor
+### Monitor
 
 _These ships feature undersized and underpowered drives, but are configured specifically for the orbital defence role._
 
@@ -211,7 +218,7 @@ _Escape Velocity weapon systems are specifically designed to target ships in hig
 
 These weapons ignore the penalties for firing through different Orbital Layers (including Atmosphere) and may be fired from Atmosphere. However, they must always target an enemy in a higher Orbital Layer than themselves.
 
-### Flash
+### Flash
 
 _Weapon systems with the Flash characteristic produce a highly visible energy signature when they connect with a target, effectively 'lighting it up' for everyone to see._
 

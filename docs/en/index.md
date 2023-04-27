@@ -1,12 +1,12 @@
 ---
 layout: home
-lang: es-ES
-title: Inicio
+lang: en-US
+title: Home
 
 hero:
   name: Drop Commander
   text: Universe Fansite.
-  tagline: Hecho por fans, para fans.
+  tagline: Made for fans, by fans.
 
 features:
   - icon:
@@ -16,7 +16,7 @@ features:
       height: 100px
     title: Dropfleet Commander
     link: ./dfc/
-    details: Reglas actualizadas de Dropfleet Commander.
+    details: Updated Dropfleet Commander rules.
   - icon:
       light: /img/orbit.png
       dark: /img/orbit.dark.png
@@ -24,5 +24,5 @@ features:
       height: 100px
     title: Dropzone Commander
     link: ./dzc/
-    details: Reglas actualizadas de Dropzone Commander.
+    details: Updated Dropzone Commander rules.
 ---

@@ -39,6 +39,7 @@ export default {
         document.cookie = `nf_lang=${lang.value}; expires=${expires.toUTCString()}; path=/`
       }
     })
+    // console.log('theme index setup', lang.value)
     // expose to template and other options API hooks
     // return { ... }
   },

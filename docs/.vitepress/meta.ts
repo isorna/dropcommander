@@ -4,6 +4,7 @@ export const APP_VERSION = JSON.stringify(process.env.npm_package_version)
 /** basic site info */
 export const name = `Drop Commander v${APP_VERSION.replace(/"/g, '')}`
 export const site = 'https://drop-commander.web.app'
+export const siteEN = `${site}/en/`
 export const siteES = `${site}/es/`
 export const logo = `${site}/img/android-chrome-192x192.png`
 export const keywords = 'dropzone, drofleet, striketeam, commander, ttcombat'
@@ -13,6 +14,7 @@ export const descriptionES = 'Herramientas online para el universo Drop Commande
 /** social links */
 export const ogTitle = 'Drop Commander'
 export const ogImg = `${site}/img/og.png`
+export const ogImgEN = `${site}/img/og.png`
 export const ogImgES = `${site}/img/ogES.png`
 export const github = 'https://github.com/isorna/dropcommander'
 export const twitterHandle = 'isorna'

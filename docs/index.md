@@ -7,19 +7,6 @@ hero:
   name: Drop Commander
   text: Universe Fansite.
   tagline: Made for fans, by fans.
-  image:
-    light: /img/android-chrome-512x512.png
-    dark: /img/android-chrome-512x512.png
-    alt: Drop Commander
-    width: 100px
-    height: 100px
-  actions:
-    - theme: brand
-      text: Blog
-      link: https://blog.wardice.club
-    - theme: alt
-      text: TTCombat site
-      link: https://www.ttcombat.com/
 
 features:
   - icon:
@@ -28,7 +15,7 @@ features:
       width: 100px
       height: 100px
     title: Dropfleet Commander
-    link: ./dfc/
+    link: ./en/dfc/
     details: Updated Dropfleet Commander rules.
   - icon:
       light: /img/orbit.png
@@ -36,6 +23,30 @@ features:
       width: 100px
       height: 100px
     title: Dropzone Commander
-    link: ./dzc/
+    link: ./en/dzc/
     details: Updated Dropzone Commander rules.
 ---
+<script lang="ts" setup>
+// import { useRouter } from 'vitepress'
+// import { onMounted } from 'vue'
+
+// let getUserLang = () => window.navigator.language.substring(0, 2)
+// let checkUserLang = (language) => {
+//   let userLang = getUserLang()
+//   let checkLang = (lang) => lang === userLang
+//   if (typeof language === 'string') {
+//     return checkLang(language)
+//   }
+//   return language.some(lang => checkLang(lang))
+// }
+
+// let { go } = useRouter()
+
+// onMounted(() => {
+//   if (checkUserLang(['es'])) {
+//     go('/es/')
+//   } else {
+//     go('/en/')
+//   }
+// })
+</script>

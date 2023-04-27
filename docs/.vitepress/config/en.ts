@@ -1,5 +1,5 @@
 import type { DefaultTheme, LocaleSpecificConfig } from 'vitepress'
-import { descriptionEN, github, ogImg, site } from '../meta'
+import { descriptionEN, github, ogImgEN, siteEN } from '../meta'
 // import { en as nav } from './navbar'
 // import { en as sidebar } from './sidebar'
 
@@ -27,10 +27,10 @@ export const enConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
 
   head: [
     ['meta', { name: 'twitter:description', content: descriptionEN }],
-    ['meta', { name: 'twitter:image', content: ogImg }],
+    ['meta', { name: 'twitter:image', content: ogImgEN }],
     ['meta', { name: 'og:description', content: descriptionEN }],
-    ['meta', { name: 'og:url', content: site }],
+    ['meta', { name: 'og:url', content: siteEN }],
     ['meta', { name: 'og:locale', content: 'en_US' }],
-    ['meta', { name: 'og:image', content: ogImg }],
+    ['meta', { name: 'og:image', content: ogImgEN }],
   ],
 }
