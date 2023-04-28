@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Game Turn Sequence'
+excerpt: 'A game of Dropfleet Commander is played out in a series of turns.'
 position: 1
 breadcrumb:
   - path: '/en/'
@@ -14,7 +15,7 @@ breadcrumb:
 
 A game of Dropfleet Commander is played out in a series of turns. The number of turns played will vary depending on the scenario being played but four to six turns for a game is typical. In each turn all of the ships on the tabletop will get a chance to move and shoot, known as Activating. The order that ships activate in is determined by their Strategy Rating.
 
-Every ship in a player's fleet is fielded as part of a **Group**, which is a part of a larger formation called a **Battlegroup**. During the turn, Battlegroups on the tabletop activate one after another and the sub group of ships in them take their actions individually in an order of the controlling player's choosing. Once all Battlegroups have been activated play moves to the Roundup Phase.
+Every ship in a player’s fleet is fielded as part of a **Group**, which is a part of a larger formation called a **Battlegroup**. During the turn, Battlegroups on the tabletop activate one after another and the sub group of ships in them take their actions individually in an order of the controlling player’s choosing. Once all Battlegroups have been activated play moves to the Roundup Phase.
 
 ## Planning phase
 

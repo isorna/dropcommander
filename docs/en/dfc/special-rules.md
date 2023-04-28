@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Special rules'
+excerpt: 'While most eventualities and ship types are covered in the rules above, certain ships have abilities and attributes that are out of the ordinary and require special rules to address this.'
 position: 7
 breadcrumb:
   - path: '/en/'
@@ -38,7 +39,7 @@ Only ships with the Atmospheric special rule are capable of entering the Atmosph
 
 _Some technologies integrate their crews so closely with their ship control systems that the vessels behave more like living creatures than machines._
 
-The Lock numbers of all of a Beast ship's weapon systems are reduced by one when it suffers a Crippling Damage result. However, the strain of overload causes the beast ship to suffer another Crippling Damage result at the end of each activation.
+The Lock numbers of all of a Beast ship’s weapon systems are reduced by one when it suffers a Crippling Damage result. However, the strain of overload causes the beast ship to suffer another Crippling Damage result at the end of each activation.
 
 ### Detector
 
@@ -48,7 +49,7 @@ Detector ships may always use Active Scan special orders even if their battlegro
 
 ### Dreadnought
 
-A Battlegroup containing a Dreadnought may not contain any other ships. A Dreadnought has a tonnage of 30 (hench the S2 in the profile). A Battlegroup containing a Dreadnought may exceed the normally allowed 33% of your fleet's points cost.
+A Battlegroup containing a Dreadnought may not contain any other ships. A Dreadnought has a tonnage of 30 (hench the S2 in the profile). A Battlegroup containing a Dreadnought may exceed the normally allowed 33% of your fleet’s points cost.
 
 If taken, your Admiral **must** be mounted in a Dreadnought.
 
@@ -104,7 +105,7 @@ A ship with Regenerate can make a number of damage control rolls equal to (x) in
 
 _For example, a ship with Regenerate (3) could roll up to three damage control dice to restore lost hull points during the Roundup phase of the turn._
 
-Crippling Damage shuts down the ship's ability to Regenerate lost hull points for the remainder of the game. The ship can still attempt to repair Crippling Damage results as usual, but the Regenerate ability cannot be repaired. Regenerate damage control rolls also may not be modified for any reason. Note that there is still a chance of the ship taking additional Hull damage if it rolls a 1 on a Regenerate damage control dice - things don't always work right.
+Crippling Damage shuts down the ship’s ability to Regenerate lost hull points for the remainder of the game. The ship can still attempt to repair Crippling Damage results as usual, but the Regenerate ability cannot be repaired. Regenerate damage control rolls also may not be modified for any reason. Note that there is still a chance of the ship taking additional Hull damage if it rolls a 1 on a Regenerate damage control dice - things don’t always work right.
 
 ### Stealth
 
@@ -124,7 +125,7 @@ Ships with this rule are able to turn at any point in their movement, instead of
 
 ### Air-to-Air
 
-_Weapons systems designed for use in space are less effective when trying to fire through a planet's Atmosphere - projectiles burn up due to friction and energy weapons ionise uncontrollably. A few specialist ships, however, have weapon systems purpose-made for use in atmosphere._
+_Weapons systems designed for use in space are less effective when trying to fire through a planet’s Atmosphere - projectiles burn up due to friction and energy weapons ionise uncontrollably. A few specialist ships, however, have weapon systems purpose-made for use in atmosphere._
 
 While in atmosphere, weapons with this rule ignore the usual penalty to Lock Value and gain -1 to their Lock value when firing at ships in atmosphere. All other penalties still apply, including needing a 6+ to shoot at ground targets. Air to Air weapons gain no benefit from this rule when firing from outside atmosphere. Air to Air weapons that also have the Close Action rule may be fired at targets in atmosphere in addition to other Orbital Layers.
 
@@ -146,7 +147,7 @@ _Bombardment weapons are specialised systems designed to inflict maximum damage 
 
 Weapons with this special rule can only be used on ground sectors. In order to fire a bombardment weapon a ship must be in Low Orbit. A ship cannot use a Bombardment weapon while in Atmosphere, unless specifically stated.
 
-Unlike other weapon systems bombardment weapons incur no penalties for firing through orbital layers or shooting through atmosphere - it's what they're made for.
+Unlike other weapon systems bombardment weapons incur no penalties for firing through orbital layers or shooting through atmosphere - it’s what they’re made for.
 
 ### Burnthrough (X)
 
@@ -154,7 +155,7 @@ _Burnthrough weapon systems are typically lasers or particle lances which can me
 
 If an Attack dice for a Burnthrough weapon scores equal to or above its Lock number the Attack dice can be rolled again. If the second Lock roll is successful a third Lock roll can be made and so on until a Lock roll is failed. A Burnthrough weapon can score a maximum total of (X) total Hull damage points in one activation.
 
-If a Critical Hit (i.e. rolling two or higher than the required lock number) is scored by a Burnthrough weapon, only that die will ignore the target's Armour. Any subsequent hits rolled by this weapon against the same target during the same activation ignore the target's armour too.
+If a Critical Hit (i.e. rolling two or higher than the required lock number) is scored by a Burnthrough weapon, only that die will ignore the target’s Armour. Any subsequent hits rolled by this weapon against the same target during the same activation ignore the target’s armour too.
 
 ### Calibre (X)
 
@@ -172,9 +173,9 @@ _For example; a weapon with a Lock of 5+ and the Calibre (L) rule is targeting a
 
 _Some of the most devastating weapon systems usable in space are only effective at relatively close range._
 
-Close Action weapon systems may only be used against targets that are both within their fire arc and inside the firing ship's Scan range. Close action weapons can be fired in addition to any other weapon systems permitted by a ship's orders. A ship that is unable to use any of its weapon systems due to special orders may not use its close action weapons either.
+Close Action weapon systems may only be used against targets that are both within their fire arc and inside the firing ship’s Scan range. Close action weapons can be fired in addition to any other weapon systems permitted by a ship’s orders. A ship that is unable to use any of its weapon systems due to special orders may not use its close action weapons either.
 
-Hits from Close Action weapons can be stopped by a target's Point Defence. Resolve the effects of Point Defence before taking any Armour or Passive Countermeasures saving throws.
+Hits from Close Action weapons can be stopped by a target’s Point Defence. Resolve the effects of Point Defence before taking any Armour or Passive Countermeasures saving throws.
 
 ### Close Action (Swarmer)
 
@@ -220,7 +221,7 @@ These weapons ignore the penalties for firing through different Orbital Layers (
 
 ### Flash
 
-_Weapon systems with the Flash characteristic produce a highly visible energy signature when they connect with a target, effectively 'lighting it up' for everyone to see._
+_Weapon systems with the Flash characteristic produce a highly visible energy signature when they connect with a target, effectively ’lighting it up’ for everyone to see._
 
 A ship that is hit by a Flash weapon system gains a Minor Spike in addition to any other damage effects. In addition, if the weapon system inflicts 3 or more damage from the attack, another Minor Spike is added to the target.
 
@@ -244,13 +245,13 @@ Weapons with this rule will be expressed as L (X) in their special section. This
 
 ### Link (X)
 
-_Link weapon systems are configured in such a way that they can be fired simultaneously without impacting on a ship's other functions._
+_Link weapon systems are configured in such a way that they can be fired simultaneously without impacting on a ship’s other functions._
 
 A weapon with this rule will normally be paired with a second weapon with the same Link (X) value. In order for a ship to fire more than one weapon it is normally required to declare a Weapons Free special order. However, all weapon systems with the same Link (X) number count as a single weapon system for activation purposes, although they may be fired at different targets.
 
 ### Low Power
 
-Up to 1 Low Power weapon (or multiple Low Power weapons with the Linked special rule) may be fired instead of Close Action weapons in addition to other weapons permitted by a ship's orders.
+Up to 1 Low Power weapon (or multiple Low Power weapons with the Linked special rule) may be fired instead of Close Action weapons in addition to other weapons permitted by a ship’s orders.
 
 A ship that is unable to use any of its weapon systems due to a special order (or Overcharging a weapon) may not u
 
@@ -290,11 +291,11 @@ _Scald weapon systems are ones that can pummel their targets whether with rapid 
 
 Armour against Hull damage from scald weapons suffers a +1 penalty when the firing ship is within Scan range of the target.
 
-_For example: A ship armed with Scald weapons hits a target that is within Scan range. The target's Armour is usually 3+ so against this attack it becomes 4+ instead._
+_For example: A ship armed with Scald weapons hits a target that is within Scan range. The target’s Armour is usually 3+ so against this attack it becomes 4+ instead._
 
 ### Squadron-X
 
-If a Group has assigned X or more weapons with Squadron to the same target, add a further D6 shots to the attack dice pool of those weapons. These shots are added to the attacks of one of the ships when rolling to hit (attacker's choice), resolved with the same modifiers as that ship's.
+If a Group has assigned X or more weapons with Squadron to the same target, add a further D6 shots to the attack dice pool of those weapons. These shots are added to the attacks of one of the ships when rolling to hit (attacker’s choice), resolved with the same modifiers as that ship’s.
 
 ### Subsystem Network
 
@@ -306,7 +307,7 @@ Weapons with Low Power and Subsystem Network may still use this rule even if fir
 
 If any Unstable weapon with a random Attack value is fired on a Weapons Free order, the ship suggers 1 Hull Damage per maximum Attack value rolls.
 
-If an Unstable weapon doesn't have a random attack value, the ship suggers 1 Hull Damage for using this weapon on a Weapons Free order.
+If an Unstable weapon doesn’t have a random attack value, the ship suggers 1 Hull Damage for using this weapon on a Weapons Free order.
 
 ## Shaltari Special Rules
 
@@ -314,11 +315,11 @@ If an Unstable weapon doesn't have a random attack value, the ship suggers 1 Hul
 
 _All Shaltari combat vessels are equipped with highly advanced all-encompassing energy fields that can be raised in anticipation of enemy fire or lowered in favour of stealth._
 
-At the start of any friendly Shaltari battlegroup's activation, ships in that battlegroup can choose to raise their shields. Once raised, the shields must remain raised until the battlegroup next activates where the Shaltari player can choose to deactivate the shields (or keep them raised). When the shields are raised, the following rules take effect:
+At the start of any friendly Shaltari battlegroup’s activation, ships in that battlegroup can choose to raise their shields. Once raised, the shields must remain raised until the battlegroup next activates where the Shaltari player can choose to deactivate the shields (or keep them raised). When the shields are raised, the following rules take effect:
 
 * The ship may use its Passive Countermeasures.
 * The ship must now use the larger signature value in its profile
-* The ship's Point Defence is reduced to 0. Modifiers such as those made by escorting fighters still apply.
+* The ship’s Point Defence is reduced to 0. Modifiers such as those made by escorting fighters still apply.
 * The ship may not choose the Silent Running special order.
 
 ### Shield Booster
@@ -331,7 +332,7 @@ A ship with 13+ Hull Points requires 2 ships with Shield Booster in order to rec
 
 ### Motherships & Gates
 
-_The Shaltari deploy their ground forces in a very different way to other, less advanced races. Instead of risking their troops directly in a hazardous descent while physically present aboard dropships, they employ an interconnected web of teleport gates to transfer from a distant ship in orbit directly to the surface. That way, only the gate's crew are at risk on approach rather than the whole payload of warriors. This fabulously advanced technology also brings with it the added benefit of being able to transfer forces on the ground between combat zones in the blink of an eye._
+_The Shaltari deploy their ground forces in a very different way to other, less advanced races. Instead of risking their troops directly in a hazardous descent while physically present aboard dropships, they employ an interconnected web of teleport gates to transfer from a distant ship in orbit directly to the surface. That way, only the gate’s crew are at risk on approach rather than the whole payload of warriors. This fabulously advanced technology also brings with it the added benefit of being able to transfer forces on the ground between combat zones in the blink of an eye._
 
 _Motherships (which physically house the troops) provide the fulcrum of this technology while smaller Voidgates (the equivalent of Strike Carriers) and Gates (the equivalent of dropships) provide the point of entry to the battlefield. The latter is required as this technology requires a Gate to be physically present very near to the point of materialisation._
 
@@ -344,7 +345,7 @@ _Voidgates are a stepping stone between the Mothership in orbit and the small, d
 
 When a Mothership is launching Gates, they are **not** deployed from the Mothership itself. Instead, they are deployed from Voidgates.
 
-A Voidgate will have a Voidgate Capacity (Voidgate-X) in its special rules, which represents how many Gate tokens may be deployed through it each turn (note that this is frequently lower than the launch value of Motherships, meaning that you generally need multiple Voidgates to make full use of a Mothership's potential Launch capacity).
+A Voidgate will have a Voidgate Capacity (Voidgate-X) in its special rules, which represents how many Gate tokens may be deployed through it each turn (note that this is frequently lower than the launch value of Motherships, meaning that you generally need multiple Voidgates to make full use of a Mothership’s potential Launch capacity).
 
 In order to do this, the Voidgate must be within 18" of the Mothership OR within 18" of another Voidgate that is in turn within 18" of the Mothership. You may have more than 2 Voidgates in this chain as long as it is unbroken. Only the Capacity of the Voidgate deploying the Gates is used if multiple Voidgates are chained in this way.
 

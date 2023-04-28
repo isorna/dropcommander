@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Scenarios'
+excerpt: 'Dropfleet Commander scenarios.'
 position: 0
 breadcrumb:
   - path: '/en/'

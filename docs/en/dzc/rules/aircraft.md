@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Aircraft'
+excerpt: 'In Dropzone Commander, most armies take to battle via aerial assault.'
 position: 10
 breadcrumb:
   - path: '/en/'
@@ -24,7 +25,7 @@ Aircraft can move over or onto units or scenery pieces up to 8" in height, even 
 
 When moving Aircraft, simply measure horizontal distances, much the same as any other unit. Aircraft may travel vertically (or diagonally) with no penalty to their movement.
 
-For example an Aircraft on top of a 5" high building moves off of it. It doesn't have to move 5" down to the ground, simply using its MV value to travel horizontally instead.
+For example an Aircraft on top of a 5" high building moves off of it. It doesn’t have to move 5" down to the ground, simply using its MV value to travel horizontally instead.
 
 ## Landing
 
@@ -44,7 +45,7 @@ An Aircraft can land and take off as many times as it likes during a Moving acti
 
 It is often tricky to balance Aircraft models on the table, since they can move anywhere and their height can lead to a wobbly model. It is recommended to model scenery pieces with flat tops where possible to facilitate placing Aircraft models.
 
-If an Aircraft can't be placed on a certain spot without fear of the model falling, use a token to represent the model, or simply take the Aircraft off its flying stand, and leave the stand there instead - no one wants their carefully painted miniatures to fall, but a clear flight stand can take a bit more of a beating!
+If an Aircraft can’t be placed on a certain spot without fear of the model falling, use a token to represent the model, or simply take the Aircraft off its flying stand, and leave the stand there instead - no one wants their carefully painted miniatures to fall, but a clear flight stand can take a bit more of a beating!
 
 In this situation, simply measure to the top of the flight stand as normal.
 

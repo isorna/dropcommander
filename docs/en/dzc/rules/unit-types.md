@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Unit Types'
+excerpt: 'There are several different types of unit in the game.'
 position: 2
 breadcrumb:
   - path: '/en/'
@@ -16,7 +17,7 @@ There are several different types of unit in the game. Unit types determine how 
 
 Squads have coherency values - this represents the distance they can be from each other while still maintaining combat efficiency. To be in coherency each unit in a squad must be within their coherency distance of another unit in the squad, creating a single unbroken chain or web connecting every unit in the squad.
 
-Some units have more than one profile with different unit types. These units can transition between different types as part of a Moving action provided they do not move more than half of their MV distance (rounding up). Simply declare which statline the unit is using, provided it is able to be the other type (an Aircraft wouldn't be able to become a Vehicle on top of Impassable terrain for example). Units in a squad must transition together.
+Some units have more than one profile with different unit types. These units can transition between different types as part of a Moving action provided they do not move more than half of their MV distance (rounding up). Simply declare which statline the unit is using, provided it is able to be the other type (an Aircraft wouldn’t be able to become a Vehicle on top of Impassable terrain for example). Units in a squad must transition together.
 
 ## Infantry
 

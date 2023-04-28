@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Scenario Objectives'
+excerpt: 'While securing a planet’s orbital lanes is key to gaining victory, controlling the ground is equally important.'
 position: 2
 breadcrumb:
   - path: '/en/'
@@ -12,11 +13,11 @@ breadcrumb:
 
 # Scenario Objectives
 
-While securing a planet's orbital lanes is key to gaining victory, controlling the ground is equally important. Vast swathes of the landscape are worthless, at least in the initial stages of the invasion, however, manufacturing, population and military sectors all provide an invading force resources they can use straight away from new recruits to logistical and military supplies. Capturing these areas is no less important than having orbital dominance and in games of Dropfleet Commander, controlling clusters and sectors is frequently the key to victory.
+While securing a planet’s orbital lanes is key to gaining victory, controlling the ground is equally important. Vast swathes of the landscape are worthless, at least in the initial stages of the invasion, however, manufacturing, population and military sectors all provide an invading force resources they can use straight away from new recruits to logistical and military supplies. Capturing these areas is no less important than having orbital dominance and in games of Dropfleet Commander, controlling clusters and sectors is frequently the key to victory.
 
 ## Clusters
 
-Clusters are large urbanised areas on a planet's surface. Typically, they consist of a range of regions from commercial and manufacturing through to civilian districts and military enclaves. Control of these vast areas of manufacturing, military and civilian infrastructure are vital to controlling the planet. Clusters are made up of a number of sectors and controlling these key locations is critical to controlling the Cluster.
+Clusters are large urbanised areas on a planet’s surface. Typically, they consist of a range of regions from commercial and manufacturing through to civilian districts and military enclaves. Control of these vast areas of manufacturing, military and civilian infrastructure are vital to controlling the planet. Clusters are made up of a number of sectors and controlling these key locations is critical to controlling the Cluster.
 
 Some Scenarios will require you to Hold or Contest a Cluster in order to score Victory Points (VPs) in the game.
 
@@ -96,7 +97,7 @@ The player holding a Critical Location scores 2VP at the end of the Roundup Phas
 
 ### Surveying a Cluster
 
-To survey a cluster, a ship must be in low orbit, within 6" of the centre point of the cluster and be on standard orders that turn. This happens at the end of a ship's movement. Only one ship per battlegroup of Tonnage 5 or more may survey a cluster per turn. You may not survey a cluster in turn 1.
+To survey a cluster, a ship must be in low orbit, within 6" of the centre point of the cluster and be on standard orders that turn. This happens at the end of a ship’s movement. Only one ship per battlegroup of Tonnage 5 or more may survey a cluster per turn. You may not survey a cluster in turn 1.
 
 When surveying a cluster roll 1 dice, on a roll of 1-4 you gain 1vp, on a roll of a 5+ you score 1 VP and the cluster becomes a critical location. You may only survey a cluster once per game but both sides may survey the same cluster over the course of a game. Once a critical location has been rolled for a cluster then an opponent that surveys the same cluster will automatically receive 1 VP - it does not become a second critical location!
 

@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Dropzone Commander'
+excerpt: 'Dropzone Commander rules.'
 position: 0
 breadcrumb:
   - path: '/en/'

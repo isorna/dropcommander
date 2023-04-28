@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Scenery'
+excerpt: 'While the void of space doesn’t have as much scenery as a typical wargame, there are still plenty of opportunities for things to get in the way of your carefully laid plans!'
 position: 3
 breadcrumb:
   - path: '/en/'
@@ -12,7 +13,7 @@ breadcrumb:
 
 # Scenery
 
-While the void of space doesn't have as much scenery as a typical wargame, there are still plenty of opportunities for things to get in the way of your carefully laid plans!
+While the void of space doesn’t have as much scenery as a typical wargame, there are still plenty of opportunities for things to get in the way of your carefully laid plans!
 
 ## Orbital Debris
 
@@ -54,7 +55,7 @@ If a ship with Launch Asset tokens on it enters any Debris Field, roll immediate
 
 ## Space Stations
 
-In Dropfleet Commander we refer to these constructs large enough to interact with as 'Space Stations'. For simplicities sake we group these into three categories: **Small**, **Medium** and **Large**. Space Stations are treated as ships in game (in that they can be targeted etc) although they do not move and follow the exceptions below.
+In Dropfleet Commander we refer to these constructs large enough to interact with as ’Space Stations’. For simplicities sake we group these into three categories: **Small**, **Medium** and **Large**. Space Stations are treated as ships in game (in that they can be targeted etc) although they do not move and follow the exceptions below.
 
 Space Stations are always deployed in Low Orbit unless stated otherwise in the Scenario and may not change Orbital Layer.
 
@@ -78,7 +79,7 @@ Many Space Stations come equipped with military grade defences to protect them f
 
 Each Scenario will define exactly where scoring scenery should be placed. In addition, most Scenarios will define a rough amount of additional scenery (Debris Fields, Planetary Rings etc) that you should use.
 
-Sometimes, the placement of these will be defined precisely. At other times, the Scenario will require Debris Fields to be 'evenly spaced'. When the Scenario asks for this, you should stick to the following guidelines:
+Sometimes, the placement of these will be defined precisely. At other times, the Scenario will require Debris Fields to be ’evenly spaced’. When the Scenario asks for this, you should stick to the following guidelines:
 
 * No part of any Debris Field should be placed within 6" of any board edge, Space Station, Cluster or any other Debris Field.
 * There should be roughly the same quantity of Debris Fields within each table quarter.

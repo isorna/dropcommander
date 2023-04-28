@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Transports'
+excerpt: 'Transports are ubiquitous in Dropzone Commander, and have several rules tied to them to represent their carrying capacity.'
 position: 9
 breadcrumb:
   - path: '/en/'
@@ -22,7 +23,7 @@ Requirement is shown by a solid symbol, and Capacity value is shown by an outlin
 
 There are several different types of symbols, representing differing carrying ability. The symbols are accompanied by a number, indicating the amount of space either required or available.
 
-In order for a unit to be transported, its Requirement symbol must **match** a Transport's Capacity symbol and the Transport cannot carry more than the number listed in total. Some units will have different Capacity symbols. Some share the same number, and others have different Capacity for different types of passengers.
+In order for a unit to be transported, its Requirement symbol must **match** a Transport’s Capacity symbol and the Transport cannot carry more than the number listed in total. Some units will have different Capacity symbols. Some share the same number, and others have different Capacity for different types of passengers.
 
 Some units will have both Capacity and Requirement symbols, showing that they are Transports that can in turn be carried by another, larger Transport.
 
@@ -38,9 +39,9 @@ Transports most often are part of the Auxiliary category, which are unlimited in
 
 A Transport may have multiple squads embarked in it at once, but **may only have units from a single Battlegroup embarked at once.**
 
-An Auxiliary Transport with units embarked **must activate** with those units's Battlegroup. Any empty Auxiliary Transports can be activated with any Battlegroup, following the normal rules. However, any Auxiliary Transports cannot interact with units from a different Battlegroup to the one with which they are activated.
+An Auxiliary Transport with units embarked **must activate** with those units’s Battlegroup. Any empty Auxiliary Transports can be activated with any Battlegroup, following the normal rules. However, any Auxiliary Transports cannot interact with units from a different Battlegroup to the one with which they are activated.
 
-Any unit that can be embarked in a Transport may choose to be before the game starts, meaning that the Transport deploys with the rest of its embarked units's Battlegroup.
+Any unit that can be embarked in a Transport may choose to be before the game starts, meaning that the Transport deploys with the rest of its embarked units’s Battlegroup.
 
 Although Transports usually operate independently, sometimes you may need to use multiple Transports to carry a single squad, so they will have to act together out of necessity.
 
@@ -50,7 +51,7 @@ Squads may choose to either embark into or disembark from a transport **as part 
 
 If a squad is **in coherency** and **at least one unit** **ends** its moving action within 2" of a transport in the same Battlegroup, it may embark into the transport(s), providing their transport values match. Remove the squad from the board - it is now embarked in the Transport(s).
 
-A squad embarked in a Transport is **ignored** for all game purposes - they cannot shoot or be shot, don't count as moving when their Transport moves etc. Commanders in Transports still may use their Command Value, and Influence radius. Simply measure from the Transport they re embarked in.
+A squad embarked in a Transport is **ignored** for all game purposes - they cannot shoot or be shot, don’t count as moving when their Transport moves etc. Commanders in Transports still may use their Command Value, and Influence radius. Simply measure from the Transport they re embarked in.
 
 A squad embarked in a Transport may choose to disembark when it makes a Moving action. Place them on the board within 2" of the Transport **in coherency,** and then make their moving action like normal. If any units cannot be placed (due to impassable scenery or other units being in the way for example), the squad cannot disembark.
 
@@ -70,7 +71,7 @@ An Aerial Transport that moves **no further than half its MV value and lands** i
 
 Unless otherwise noted, units can only embark into or disembark from an Aerial Transport when it has landed.
 
-_In this example, we see a Condor that has moved half its MV of 18". It lands and a Bear disembarks. It is placed within 2". When the Bear activates it then drives 6" forward. On the Legionnaires's activation they disembark from the Bear and are placed within 2". They then decide to make their full move of 2"._
+_In this example, we see a Condor that has moved half its MV of 18". It lands and a Bear disembarks. It is placed within 2". When the Bear activates it then drives 6" forward. On the Legionnaires’s activation they disembark from the Bear and are placed within 2". They then decide to make their full move of 2"._
 
 ## Transports & Shooting
 

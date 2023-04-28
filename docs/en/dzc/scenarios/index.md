@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Scenarios'
+excerpt: 'Dropzone Commander scenarios'
 position: 0
 breadcrumb:
   - path: '/en/'

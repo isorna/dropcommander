@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Objectives'
+excerpt: 'An Objective is a catch-all name for something that your army will generally need to discover, capture, or extract from the combat zone in order to win the game.'
 position: 6
 breadcrumb:
   - path: '/en/'
@@ -16,7 +17,7 @@ An Objective is a catch-all name for something that your army will generally nee
 
 **Objectives are best represented by small, double-sided tokens, 30mm in diameter.** Measure to the centre of the token as normal.
 
-Objectives are set up on the board after scenery is setup but before deployment. Unless otherwise stated, players take turns to place Objectives. Objectives can be found in many places, including forests, buildings, road intersections, and even wrecked vehicles. When placing Objectives they may be placed anywhere on the battlefield at least 6" away from any board edge or from each other. They may be placed inside Garrisons - simply put the token on top of the Garrison. **If an Objective that isn't being carried is in a Garrison that is destroyed, the Objective is removed from the game.** Objectives inside Garrisons may only be interacted with by a unit inside that same Garrison.
+Objectives are set up on the board after scenery is setup but before deployment. Unless otherwise stated, players take turns to place Objectives. Objectives can be found in many places, including forests, buildings, road intersections, and even wrecked vehicles. When placing Objectives they may be placed anywhere on the battlefield at least 6" away from any board edge or from each other. They may be placed inside Garrisons - simply put the token on top of the Garrison. **If an Objective that isn’t being carried is in a Garrison that is destroyed, the Objective is removed from the game.** Objectives inside Garrisons may only be interacted with by a unit inside that same Garrison.
 
 Objectives have several special rules that can be used in any combination in a scenario.
 
@@ -34,7 +35,7 @@ A friendly Infantry or Vehicle squad **in coherency** with at least 1 unit **wit
 
 When searching, **roll 1 dice for the squad** searching. If there are **enemy units within 2" or in the same Garrison,** the dice roll is modified by **-1.** Add the resulting number to the number of the current round. **If the result is 7 or more,** the Objective permanently becomes an Open Objective and the unit claims it.
 
-A Transport that doesn't have the Aircraft type may choose to make a scan action, counting as both of its actions for the round. Place a **Scan Token** by the unit. Before a squad makes a search roll, you may **remove any friendly Scan Tokens within 2" to add +1 to the search roll per token.** If the searching unit is in a Garrison, measure the distance to any edge of the Garrison. If the Transport makes a Moving action, remove its Scan Token. **A unit may only have 1 Scan Token at a time.**
+A Transport that doesn’t have the Aircraft type may choose to make a scan action, counting as both of its actions for the round. Place a **Scan Token** by the unit. Before a squad makes a search roll, you may **remove any friendly Scan Tokens within 2" to add +1 to the search roll per token.** If the searching unit is in a Garrison, measure the distance to any edge of the Garrison. If the Transport makes a Moving action, remove its Scan Token. **A unit may only have 1 Scan Token at a time.**
 
 ## Mobile Objectives
 

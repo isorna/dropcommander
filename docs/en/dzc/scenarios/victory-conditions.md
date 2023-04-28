@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Victory Conditions'
+excerpt: 'Games use two methods of determining victory: Victory Points and Kill Points.'
 position: 5
 breadcrumb:
   - path: '/en/'

@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Damage'
+excerpt: 'Every Attack Dice that equals or exceeds its Lock number inflicts the number of Damage points indicated for the weapon system.'
 position: 7
 breadcrumb:
   - path: '/en/'
@@ -18,29 +19,29 @@ Every Attack Dice that equals or exceeds its Lock number inflicts the number of 
 
 Some weapon system are unpredictable and will inflict a variable number of damage points on each hit scored (e.g. D6, D6+1 etc.). Roll any additional dice needed to determine the actual amount of damage inflicted before any Armour saving throws are made.
 
-_For example; A ship's description includes a rail gun battery with a Lock of 4+, 3 Attack and 1 Damage. This means that when the weapon system is fired three dice are rolled and each one scores a hit on roll of 4, 5 or 6. Each hit scored by the rail gun battery inflicts 1 Hull damage on the target._
+_For example; A ship’s description includes a rail gun battery with a Lock of 4+, 3 Attack and 1 Damage. This means that when the weapon system is fired three dice are rolled and each one scores a hit on roll of 4, 5 or 6. Each hit scored by the rail gun battery inflicts 1 Hull damage on the target._
 
 ## 5. Roll Armour saving throws and deduct Hull points
 
 When a ship suffers Hull damage its Passive countermeasures (if it has any) and Armour may be able to prevent the damage being applied.
 
-Roll a D6 for each point of Hull damage inflicted and compare it to the Armour saving throw shown in the ship's description. Any D6 that scores equal to or above the ship's indicated saving throw for Armour blocks one point of damage so that it has no effect.
+Roll a D6 for each point of Hull damage inflicted and compare it to the Armour saving throw shown in the ship’s description. Any D6 that scores equal to or above the ship’s indicated saving throw for Armour blocks one point of damage so that it has no effect.
 
 When a ship has more than one saving throw, players choose the best applicable save and compare their roll to this.
 
-Any unsaved damage will remove Hull points from the target ship. Track the Hull damage lost by ships by using the damage wheel on the model's base, counters or dice. Ships that have no Hull points left are destroyed and must roll for catastrophic damage to see how fiery their demise is.
+Any unsaved damage will remove Hull points from the target ship. Track the Hull damage lost by ships by using the damage wheel on the model’s base, counters or dice. Ships that have no Hull points left are destroyed and must roll for catastrophic damage to see how fiery their demise is.
 
 ### Passive countermeasures
 
-_Some advanced ships have additional 'passive' countermeasures like energy shields, ablative clouds and force fields to protect their ships in addition to regular armour._
+_Some advanced ships have additional ’passive’ countermeasures like energy shields, ablative clouds and force fields to protect their ships in addition to regular armour._
 
 Passive countermeasures are shown by an additional Armour characteristic (e.g. 3+/4+ indicating a Passive Countermeasure save of 4+). Passive countermeasures are highly effective because they give a ship protection against critical hits which would otherwise punch through armour completely.
 
-The downside to passive countermeasures is that they often increase a ship's Signature and may prevent it using its Point Defence while they re operational - any negatives are covered in the ship's specific information, or in faction specific rules (e.g. for the Shaltari)
+The downside to passive countermeasures is that they often increase a ship’s Signature and may prevent it using its Point Defence while they re operational - any negatives are covered in the ship’s specific information, or in faction specific rules (e.g. for the Shaltari)
 
 **When a ship has more than one saving throw, players choose the best applicable save and compare their roll to this.**
 
-_e.g. A ship has a 3+/4+ save. It receives five hits   three are normal hits, and the remaining two are critical hits. The ship's owner rolls three dice needing 3+ for the normal hits, as this is their best save. They cannot take normal saves against the critical hits, but may take Passive Countermeasure saves, so they roll the remaining two save needing 4+, as this is the best save they can take against these hits._
+_e.g. A ship has a 3+/4+ save. It receives five hits   three are normal hits, and the remaining two are critical hits. The ship’s owner rolls three dice needing 3+ for the normal hits, as this is their best save. They cannot take normal saves against the critical hits, but may take Passive Countermeasure saves, so they roll the remaining two save needing 4+, as this is the best save they can take against these hits._
 
 ### Shields up!
 
@@ -48,17 +49,17 @@ Passive Countermeasures work in a variety of different ways for different races.
 
 Some (usually the less powerful) Passive Countermeasures may be constantly in use, whereas very strong versions require the player to choice to deploy them or not (as they will often have negative tactics effects as well).
 
-Players must choose to raise shields at the same time that special orders are chosen for a Battlegroup. Each ship can opt to use Passive Countermeasures or not, and if used they will remain operative until the ship's next activation in the following turn. Mark ships using Passive Countermeasures with tokens. Keep in mind that raising shields will often have negative tactical effects as well as the positives of Passive Countermeasures.
+Players must choose to raise shields at the same time that special orders are chosen for a Battlegroup. Each ship can opt to use Passive Countermeasures or not, and if used they will remain operative until the ship’s next activation in the following turn. Mark ships using Passive Countermeasures with tokens. Keep in mind that raising shields will often have negative tactical effects as well as the positives of Passive Countermeasures.
 
 ### Point Defence (PD)
 
 Ships usually have their Point Defence as another line of defence to specifically protect them against damage inflicted by **Launch Assets and Close Action weapon systems.**
 
-When a ship receives damage from these sources roll a number of dice equal to the ship's PD characteristic. **Each Point Defence dice that succeeds in scoring a 5 or 6 will block one point of Hull Damage before Armour saves are taken.**
+When a ship receives damage from these sources roll a number of dice equal to the ship’s PD characteristic. **Each Point Defence dice that succeeds in scoring a 5 or 6 will block one point of Hull Damage before Armour saves are taken.**
 
 Critical hits **can** be stopped by Point Defence but each point of critical hit damage blocked takes **two** Point Defence successes instead of one.
 
-_For example; A cruiser with a PD characteristic of 6 is attacked and suffers four normal points of Hull damage and two points of critical Hull damage from Close Action weapon systems. Rolling six dice for Point Defence it gets 1, 2, 3, 4, 5, 6.   two successes. The ship's Point Defence can stop two points of ordinary Hull damage or one of the points of critical Hull damage._
+_For example; A cruiser with a PD characteristic of 6 is attacked and suffers four normal points of Hull damage and two points of critical Hull damage from Close Action weapon systems. Rolling six dice for Point Defence it gets 1, 2, 3, 4, 5, 6.   two successes. The ship’s Point Defence can stop two points of ordinary Hull damage or one of the points of critical Hull damage._
 
 ## 6. Roll for Crippling Damage
 
@@ -72,7 +73,7 @@ When a ship experiences Crippling Damage, roll a D6 and consult the relevant tab
 
 ### Extra damage results and Armour saving throws
 
-Many Crippling Damage results inflict additional Hull damage on the ship. Armour saving throws never apply against Crippling Damage as it represents the ship suffering internal collapses, cascade failures and systems quite literally melting down. It's worth noting that smaller ships like frigates are quite likely to be destroyed outright by Crippling Damage.
+Many Crippling Damage results inflict additional Hull damage on the ship. Armour saving throws never apply against Crippling Damage as it represents the ship suffering internal collapses, cascade failures and systems quite literally melting down. It’s worth noting that smaller ships like frigates are quite likely to be destroyed outright by Crippling Damage.
 
 ### Crippling Damage Table
 

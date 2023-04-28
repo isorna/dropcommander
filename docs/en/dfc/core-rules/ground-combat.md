@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Ground Combat'
+excerpt: 'Although much of Dropfleet Commander focuses on the fighting in orbit, most objectives and key points being fought over are actually on the planet’s surface.'
 position: 8
 breadcrumb:
   - path: '/en/'
@@ -12,11 +13,11 @@ breadcrumb:
 
 # Ground Combat
 
-_Although much of Dropfleet Commander focuses on the fighting in orbit, most objectives and key points being fought over are actually on the planet's surface. Ground to space combat is a tricky business because the combined effects of a planet's gravity well and atmosphere place a thick  veil  between the two battlefields. Often a fleet's primary purposes will be to escort strike carriers and mother ships capable of sending invasion forces down to strategic objectives on the surface, or else to bombard those same objectives into oblivion._
+_Although much of Dropfleet Commander focuses on the fighting in orbit, most objectives and key points being fought over are actually on the planet’s surface. Ground to space combat is a tricky business because the combined effects of a planet’s gravity well and atmosphere place a thick  veil  between the two battlefields. Often a fleet’s primary purposes will be to escort strike carriers and mother ships capable of sending invasion forces down to strategic objectives on the surface, or else to bombard those same objectives into oblivion._
 
 ## Clusters & Sectors
 
-While the fleet battles are unfolding in orbit, the often more critical battles are unfolding on the planet's surface with legions of troops engaged in gruelling battles for control over the planet's key strategic points. In game terms these strategic points are called 'Clusters' and they are made up of several 'Sectors'.
+While the fleet battles are unfolding in orbit, the often more critical battles are unfolding on the planet’s surface with legions of troops engaged in gruelling battles for control over the planet’s key strategic points. In game terms these strategic points are called ’Clusters’ and they are made up of several ’Sectors’.
 
 ### Clusters
 
@@ -34,7 +35,7 @@ Space Stations are very large and require substantial Ground Assets to control. 
 
 ## Ground Assets
 
-Ground assets are units on a planet's surface that fight over things worth defending, capturing or blowing up depending on your perspective. They can be anything from regiments of soldiers to formations of tanks to emplaced weapon systems. Ground assets normally can't shoot at ships or influence the orbital battle directly, but they are vital for securing strategic objectives on the surface.
+Ground assets are units on a planet’s surface that fight over things worth defending, capturing or blowing up depending on your perspective. They can be anything from regiments of soldiers to formations of tanks to emplaced weapon systems. Ground assets normally can’t shoot at ships or influence the orbital battle directly, but they are vital for securing strategic objectives on the surface.
 
 Ground Assets are usually deployed to the surface by Dropships or Bulk Landers (see Launch Assets for more details).
 
@@ -71,7 +72,7 @@ If only one player rolls a 6, they win Initiative, regardless of Admiral Value.
 
 ### Movement
 
-The player with the lowest Initiative selects a Cluster and moves any number of Ground Asset tokens into any other Sector in that Cluster. However, if enemy Infantry or Armour tokens are already in a Sector containing friendly tokens, you can't move tokens from that Sector.
+The player with the lowest Initiative selects a Cluster and moves any number of Ground Asset tokens into any other Sector in that Cluster. However, if enemy Infantry or Armour tokens are already in a Sector containing friendly tokens, you can’t move tokens from that Sector.
 
 Once the tokens are moved, the player with the next lowest Initiative may choose a Cluster they have not selected this turn and move Ground Assets. Repeat this until every player has moved any Ground Assets in that Cluster they wish to, before the player with the highest Initiative selects another Cluster and the process repeats until all Clusters have been selected.
 

@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Earth, 2673'
+excerpt: 'After 160 years as refugees, humanity has returned to Earth.'
 position: 2
 breadcrumb:
   - path: '/en/'

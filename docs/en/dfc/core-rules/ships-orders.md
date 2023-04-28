@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Ship’s Orders'
+excerpt: 'When activating any ships in a Battlegroup, the player may opt to use Standard Orders or one of many special orders.'
 position: 4
 breadcrumb:
   - path: '/en/'
@@ -16,7 +17,7 @@ When activating any ships in a Battlegroup, the player may opt to use Standard O
 
 Choose whether or not to have a ship on special orders before moving or shooting with it. Special orders are powerful abilities that allow greater tactical flexibility. Each comes with their own pros and cons, often trading usefulness for an increased visibility (see Spikes for more details).
 
-**All the ships in a battlegroup have to work together so only one  special  order can be chosen each time the battlegroup activates.** The individual ships in each of the battlegroup's groups can opt to use the battlegroup special order chosen for that turn or to use Standard Orders instead.
+**All the ships in a battlegroup have to work together so only one  special  order can be chosen each time the battlegroup activates.** The individual ships in each of the battlegroup’s groups can opt to use the battlegroup special order chosen for that turn or to use Standard Orders instead.
 
 **Ships outside their group cohesion range (see above) can only use standard orders.**
 
@@ -46,7 +47,7 @@ A ship on Max Thrust may not use launch assets.
 
 The ship may not turn, and must move between half and full its Thrust value.
 
-It may not fire any weapons systems. Remove all energy spikes from the ship at the end of its activation. **The ship's Signature is reduced to 0 until the start of its next activation.** Use the status wheel on the ship's base to indicate that it is silent running.
+It may not fire any weapons systems. Remove all energy spikes from the ship at the end of its activation. **The ship’s Signature is reduced to 0 until the start of its next activation.** Use the status wheel on the ship’s base to indicate that it is silent running.
 
 A ship on Silent Running may not use launch assets.
 

@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'The Basics'
+excerpt: 'Models in Dropzone Commander are referred to as units.'
 position: 1
 breadcrumb:
   - path: '/en/'
@@ -14,14 +15,14 @@ breadcrumb:
 
 ## Stat Sheets
 
-Models in Dropzone Commander are referred to as units. Sometimes a unit will be a single battle tank or dropship, and other times it will be a single base of infantry. Each unit in the game is represented by a stat sheet. These sheets show all sorts of information about the unit's attributes and abilities. It shows their strength, protection, weapons, and even details such as the type of unit it is and the points it costs a player to field them in a game. An example of a stat sheet is shown below.
+Models in Dropzone Commander are referred to as units. Sometimes a unit will be a single battle tank or dropship, and other times it will be a single base of infantry. Each unit in the game is represented by a stat sheet. These sheets show all sorts of information about the unit’s attributes and abilities. It shows their strength, protection, weapons, and even details such as the type of unit it is and the points it costs a player to field them in a game. An example of a stat sheet is shown below.
 
 **All stat sheets can be found at [www.dropzonecommander.com](https://www.dropzonecommander.com)**
 
 **Hazard Suit Team** (35 pts)
 
 **EXOTIC**
-**Category -** This defines the unit's role within a Battlegroup.
+**Category -** This defines the unit’s role within a Battlegroup.
 
 |Move|Countermeasures|Armour|Damage Points|Type|Special|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -66,15 +67,15 @@ Re-roll successful Collatoral Damage hits against this unit.
 
 ## The Golden Rule
 
-Dropzone Commander is a game designed for fun and tense battles. The rules are written to minimise disagreements, but will never be ironclad - particularly in high stakes competitive settings. In situations where it's not immediately obvious how to proceed, always remember the Golden Rule: the object of the game is to win, the point of the game is for both players to have fun.
+Dropzone Commander is a game designed for fun and tense battles. The rules are written to minimise disagreements, but will never be ironclad - particularly in high stakes competitive settings. In situations where it’s not immediately obvious how to proceed, always remember the Golden Rule: the object of the game is to win, the point of the game is for both players to have fun.
 
-In a fun game, it's good practice to allow your opponent a little leeway, whether measuring line of sight, planning their actions, or any number of other options that come up during a game. If your opponent wants to do something fun and interesting, put yourself in their shoes - who knows when you ll want to try something equally as daring?
+In a fun game, it’s good practice to allow your opponent a little leeway, whether measuring line of sight, planning their actions, or any number of other options that come up during a game. If your opponent wants to do something fun and interesting, put yourself in their shoes - who knows when you ll want to try something equally as daring?
 
-Failing that, if you still can't decide on a way to proceed, roll a dice! It's easier to do that than to spend a long time poring over rules - roll off, then make a note to double-check after the game is over.
+Failing that, if you still can’t decide on a way to proceed, roll a dice! It’s easier to do that than to spend a long time poring over rules - roll off, then make a note to double-check after the game is over.
 
 ## Dice
 
-Dropzone Commander uses 6-sided dice, often referred to as D6. Unless otherwise stated, when instructed to roll a dice, it will be a D6. Occasionally a D3 dice will also be needed, although it's easy enough to simulate these using D6 (1/2 = 1, 3/4 = 2, 5/6 = 3).
+Dropzone Commander uses 6-sided dice, often referred to as D6. Unless otherwise stated, when instructed to roll a dice, it will be a D6. Occasionally a D3 dice will also be needed, although it’s easy enough to simulate these using D6 (1/2 = 1, 3/4 = 2, 5/6 = 3).
 
 **Often dice will have modifiers to their rolls. A plus penalty (such as a +2 penalty) will increase the number needed to roll, whereas a minus bonus (such as a -1 bonus) will reduce the number needed to roll.**
 
@@ -92,13 +93,13 @@ Unless otherwise specified, **distance is measured to and from the centre point 
 
 ## Line of Sight
 
-Dropzone Commander uses true line of sight. To check if a unit has line of sight to another unit, draw a straight line between the miniatures. The easiest way to do this is to get close to the unit itself for a "miniature's eye view" of its surroundings. If any part of the main body or base of the target can be seen from the centre point of the main body or base of the unit, it is in line of sight. If only weapons, arms, or legs can be seen for example, it is out of line of sight.
+Dropzone Commander uses true line of sight. To check if a unit has line of sight to another unit, draw a straight line between the miniatures. The easiest way to do this is to get close to the unit itself for a "miniature’s eye view" of its surroundings. If any part of the main body or base of the target can be seen from the centre point of the main body or base of the unit, it is in line of sight. If only weapons, arms, or legs can be seen for example, it is out of line of sight.
 
 **Units in the same squad (friendly and enemy) are ignored when checking line of sight.**
 
-The centre of an Infantry unit's base must be visible for it to be in line of sight (this represents the ability of infantry to hug the terrain and hide just around corners).
+The centre of an Infantry unit’s base must be visible for it to be in line of sight (this represents the ability of infantry to hug the terrain and hide just around corners).
 
-How you measure line of sight is up to you. Straight poles and laser pens are commonly used. How precise you are with line of sight measurements during games is also up to you. Being diligent will improve game accuracy, but may slow the game down - as with most things, it's best to take a balanced approach.
+How you measure line of sight is up to you. Straight poles and laser pens are commonly used. How precise you are with line of sight measurements during games is also up to you. Being diligent will improve game accuracy, but may slow the game down - as with most things, it’s best to take a balanced approach.
 
 ## Friendly & Enemy units
 
@@ -108,7 +109,7 @@ When abilities say they affect any or every friendly unit, that does include the
 
 ## Units, Squads & Battlegroups
 
-Dropzone categorises miniatures in three ways: units, squads, and Battlegroups. These three categories are used in different ways in many of the rules, so it's important to note the differences between them.
+Dropzone categorises miniatures in three ways: units, squads, and Battlegroups. These three categories are used in different ways in many of the rules, so it’s important to note the differences between them.
 
 **Units** are a single model, or base of models. Identical **units** band together to form **squads** - small fighting groups that take to the battle together. **Units within a squad perform actions simultaneously.** If there is only 1 unit in a squad, it is still counted as a squad for all purposes.
 

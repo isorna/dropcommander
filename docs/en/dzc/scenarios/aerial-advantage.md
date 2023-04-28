@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Aerial Advantage'
+excerpt: 'Aircraft are able to react to dropzones much quicker than conventional ground-based war machines, and commanders are often the first to battle to oversee their forces.'
 position: 3
 breadcrumb:
   - path: '/en/'

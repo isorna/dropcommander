@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Special Rules'
+excerpt: 'Unit Special Rules'
 position: 6
 breadcrumb:
   - path: '/en/'
@@ -26,7 +27,7 @@ Embarking and disembarking otherwise follows the usual rules, including a free e
 
 An Access unit cannot embark more than its Capacity in a single round, nor can it disembark more than its Capacity in a single round.
 
-Units in Holding aren't affected if an Access unit is destroyed, since they re technically not inside them! However, if all
+Units in Holding aren’t affected if an Access unit is destroyed, since they re technically not inside them! However, if all
 
 Access units are destroyed there is no way for any in Holding units to return to the game, so they count as destroyed.
 
@@ -56,9 +57,9 @@ This unit has two stats on its MV value - a minimum and a maximum. Unlike other 
 
 **Fast units may only turn on their axis a maximum of 90 degrees after completing their move, and cannot land.**
 
-Due to the speed of these units, it's common for them to travel away from the battlefield. Unlike other units, a Fast unit **can move off the board as part of their move.** If they do so, they re put In Readiness, coming on from the usual point of the table edge for your army in subsequent rounds.
+Due to the speed of these units, it’s common for them to travel away from the battlefield. Unlike other units, a Fast unit **can move off the board as part of their move.** If they do so, they re put In Readiness, coming on from the usual point of the table edge for your army in subsequent rounds.
 
-A Fast unit can elect to **fly high** as part of its Moving action. When flying high, it ignores all Impassable scenery, but cannot make Shooting actions in the same round. If a unit otherwise couldn't complete its move (due to Impassable scenery over 8" being in the way), it **must** fly high.
+A Fast unit can elect to **fly high** as part of its Moving action. When flying high, it ignores all Impassable scenery, but cannot make Shooting actions in the same round. If a unit otherwise couldn’t complete its move (due to Impassable scenery over 8" being in the way), it **must** fly high.
 
 Unless explicitly mentioned in the scenario special rules, **units with this special rule always begin the game In Reserve, and are ignored for determining Victory Points at any time, but still concede Kill Points.**
 
@@ -66,7 +67,7 @@ Unless explicitly mentioned in the scenario special rules, **units with this spe
 
 _Certain units are specially trained to sneak onto a battlefield prior to full scale engagement, allowing them to set up in an advantageous position._
 
-Infiltrate units are denoted with a number value. This unit may be Directly Deployed even when the scenario would not normally allow it to do so, ignoring the Aerial Advantage rule. It may deploy up to the listed number of inches from a friendly table edge. Infantry with this special rule may deploy directly into a Garrison if within range. The rest of this unit's Battlegroup deploys normally, and this unit can make actions even if the rest of its Battlegroup are In Readiness or In Reserve.
+Infiltrate units are denoted with a number value. This unit may be Directly Deployed even when the scenario would not normally allow it to do so, ignoring the Aerial Advantage rule. It may deploy up to the listed number of inches from a friendly table edge. Infantry with this special rule may deploy directly into a Garrison if within range. The rest of this unit’s Battlegroup deploys normally, and this unit can make actions even if the rest of its Battlegroup are In Readiness or In Reserve.
 
 A unit deploying using this rule cannot deploy in a Transport, but a Transport with this rule confers it to any units deployed in it.
 
@@ -80,11 +81,11 @@ This unit cannot be Hull Down.
 
 _Highly trained special forces soldiers are adept at dropping rapidly down to Terra Firma from an airborne dropship and into the fray with lethal speed, surprise, and aggression. They most often carry breaching charges or similar in order to make their arrival as quick and surprising as possible._
 
-This unit may disembark from Aerial Transports that haven't landed. Some units with this rule will have a number listed after. That is the number of inches further than normal an Aerial Transport they re embarked in can move and still disembark this unit (up to its maximum MV value).
+This unit may disembark from Aerial Transports that haven’t landed. Some units with this rule will have a number listed after. That is the number of inches further than normal an Aerial Transport they re embarked in can move and still disembark this unit (up to its maximum MV value).
 
 They may also disembark straight into a Garrison from any direction (including the roof if the Aerial Transport is on top of it!), regardless of whether it has an entrance point.
 
-Additionally, if this unit shoots with Close Quarters weapons in the turn it enters a Garrison via this rule, it doesn't have to re-roll successful damage rolls.
+Additionally, if this unit shoots with Close Quarters weapons in the turn it enters a Garrison via this rule, it doesn’t have to re-roll successful damage rolls.
 
 ### Rare
 
@@ -116,7 +117,7 @@ _These are weapons specifically designed to shoot down aircraft via advanced tra
 
 **AA weapons are the only weapons able to target Aircraft.** AA weapons may target other units as normal.
 
-AA weapons are denoted with a number after them. This number modifies the target's Evasion Countermeasures by the amount listed.
+AA weapons are denoted with a number after them. This number modifies the target’s Evasion Countermeasures by the amount listed.
 
 _For example a weapon with AA -2 targeting an enemy unit with E+3 would reduce it to E+1._
 
@@ -154,7 +155,7 @@ Area weapons with the AA special rule may target Aircraft as normal, but only ot
 
 ### Articulated
 
-_Some vehicles (most notably UCM battle tanks) feature folding turrets which have been designed to fire over low obstructions, improving visibility while simultaneously protecting the vehicle's hull._
+_Some vehicles (most notably UCM battle tanks) feature folding turrets which have been designed to fire over low obstructions, improving visibility while simultaneously protecting the vehicle’s hull._
 
 Line of sight may be measured from a point 1" above the hull when firing an Articulated weapon.
 
@@ -172,7 +173,7 @@ A Destroyer weapon is denoted by a DS with a number after it.
 
 If a Destroyer weapon hits its target by rolling equal to or higher than the X value shown, it automatically causes a Critical hit without needing to roll for damage.
 
-If a shooter's Accuracy is modified above the X value, it still misses as normal, the X value instead becoming the lowest number required to hit - in this instance any hit would automatically become a Destroyer hit!
+If a shooter’s Accuracy is modified above the X value, it still misses as normal, the X value instead becoming the lowest number required to hit - in this instance any hit would automatically become a Destroyer hit!
 
 Passive Countermeasures may still be used against Destroyer hits.
 
@@ -188,7 +189,7 @@ _For example a weapon with DV-3 (Behemoths) hits a Behemoth once. Roll one dice 
 
 This special rule may target particular unit types (such as Infantry, Vehicles etc), or even types of scenery pieces. It may even affect every type of unit, denoted by "All". Sometimes a Devastator weapon has more than one value for different types of units, and sometimes a unit can be affected by multiple types (such as a Large Vehicle for example). In this situation, simply pick the highest applicable number.
 
-Note that if a weapon is **Devastator (Scenery), on a Critical the damage isn't multiplied by 2** and it still only receives 1 Collateral Damage token.
+Note that if a weapon is **Devastator (Scenery), on a Critical the damage isn’t multiplied by 2** and it still only receives 1 Collateral Damage token.
 
 ### Flame
 
@@ -196,7 +197,7 @@ _Flame weapons have been seen on the battlefield for millennia, primarily used f
 
 These weapons may target enemy Infantry that are in Garrisons, whether they have moved to an edge or not. Simply target the edge of a Garrison as if they were on that edge.
 
-Units in Garrisons occupied by friendly Infantry can be targeted by Flame weapons, however **any missed shots are counted as successful hits against one of those friendly units,** allocated by the target's player.
+Units in Garrisons occupied by friendly Infantry can be targeted by Flame weapons, however **any missed shots are counted as successful hits against one of those friendly units,** allocated by the target’s player.
 
 **Neither Body Cover nor Soft Cover can be used against Flame weapons, and they ignore Evasion Countermeasures.**
 

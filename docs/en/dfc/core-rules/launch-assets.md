@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Launch Assets'
+excerpt: 'Ships may carry smaller subordinate craft on board in the form of strike craft like Dropships, Fighters and Bombers or munitions - ship-killing Torpedoes and similar systems.'
 position: 9
 breadcrumb:
   - path: '/en/'
@@ -12,11 +13,11 @@ breadcrumb:
 
 # Launch Assets
 
-Ships may carry smaller subordinate craft on board in the form of strike craft like Dropships, Fighters and Bombers or munitions   ship-killing Torpedoes and similar systems. Collectively these are called **Launch Assets** in Dropfleet and they all operate using the same game rules. Launch Assets are represented by tokens on the tabletop - either flat counters or bases with teeny tiny models on them.
+Ships may carry smaller subordinate craft on board in the form of strike craft like Dropships, Fighters and Bombers or munitions - ship-killing Torpedoes and similar systems. Collectively these are called **Launch Assets** in Dropfleet and they all operate using the same game rules. Launch Assets are represented by tokens on the tabletop - either flat counters or bases with teeny tiny models on them.
 
 An individual Launch Asset token represents a flight of Fighters/Bombers or a group of Torpedoes. Standard sizes for Strike Craft and munitions markers are the 20mm x 20mm tokens supplied. Note that Dropships and Bulk Landers do not have tokens as they resolve instantly and do not spend any time on the table.
 
-In the rules that follow all models that can deploy Launch Assets are referred to as 'carriers'. A carrier will most likely be a ship in practice, but it could be a ground- based airfield, orbital dock or other launch facility. In such cases these are still counted as  carriers  for rules purposes when it comes to Launch Assets.
+In the rules that follow all models that can deploy Launch Assets are referred to as ’carriers’. A carrier will most likely be a ship in practice, but it could be a ground- based airfield, orbital dock or other launch facility. In such cases these are still counted as  carriers  for rules purposes when it comes to Launch Assets.
 
 ## Carrier Characteristics
 
@@ -65,7 +66,7 @@ This step is always resolved in the following order:
 
 The player with the lowest Initiative selects a Group with which to launch. They place all tokens they wish to launch from this Group next to the ship(s) or Sectors they are targeting.
 
-Much like Close Action weapons, Launch Assets do not count against the number of weapon systems the ship may fire during a turn due to special orders, but likewise **if the carrier can't fire for any reason it cannot use Launch Assets**.
+Much like Close Action weapons, Launch Assets do not count against the number of weapon systems the ship may fire during a turn due to special orders, but likewise **if the carrier can’t fire for any reason it cannot use Launch Assets**.
 
 Once the tokens are placed, the player with the next lowest Initiative may choose to launch those assets from a Group that has not launched yet this turn.
 
@@ -79,8 +80,8 @@ _Note: If you choose to activate a Ship Group it must launch something, you may 
 
 Launch Assets have to travel to their target and may even have to spend some time hunting for it, space is big, they are small and their sensor gear is limited in comparison to that of a ship. The time to target depends on the range from the launching carrier to the target:
 
-* If the target is **within the asset's Thrust** it's a quick sprint and the Launch Asset takes effect this turn.
-* If the target is **more than its Thrust but within double its Thrust** a longer journey is necessary and there is a slight delay before the launch assets arrive. Place the launch assets in contact with the target's base (or with each other if there is no more room left around the base), they will take effect at the end of the target's activation in the next game turn. **Dropships and Bulk Landers cannot use this option, and must launch to a target within their Thrust.**
+* If the target is **within the asset’s Thrust** it’s a quick sprint and the Launch Asset takes effect this turn.
+* If the target is **more than its Thrust but within double its Thrust** a longer journey is necessary and there is a slight delay before the launch assets arrive. Place the launch assets in contact with the target’s base (or with each other if there is no more room left around the base), they will take effect at the end of the target’s activation in the next game turn. **Dropships and Bulk Landers cannot use this option, and must launch to a target within their Thrust.**
 
 Note that Launch Assets can be used against targets that are outside the normal Scan + Signature range, simply measure a straight line between the launching ship and its target. If that line would take them through a Debris Field, they must test to see if they are destroyed. Roll once for each Launch Asset each time it moves through a Debris Field. A Fine Debris Field removes Launch Assets on a 3+ and a Dense Debris Field removes Launch Assets on a 5+.
 
@@ -100,15 +101,15 @@ Once all the Groups containing Launch Assets have deployed their assets, you mus
 
 Firstly, place any ground tokens from Dropships and Bulk Landers. Next, starting with the player with the highest Initiative, select 1 enemy ship to resolve the effects of any tokens against it. Then the player with the next highest Initiative selects 1 enemy ship to resolve and so on until all the of the launch asset tokens have been resolved.
 
-Launch assets generally function like a special kind of weapon system, but because of their unique properties there's some special rules that apply to them.
+Launch assets generally function like a special kind of weapon system, but because of their unique properties there’s some special rules that apply to them.
 
-The effects of a Launch Asset depend on its type and what it's in contact with.
+The effects of a Launch Asset depend on its type and what it’s in contact with.
 
 **Once a launch asset has taken effect the token is removed immediately.**
 
 ### Fighters
 
-_Fighters are lightweight, agile craft intended as dedicated interceptors of opposing Strike Craft and Close Action weapons. Fighters serve an interceptor role for ships by flying in close support and improving a friendly unit's Point Defence._
+_Fighters are lightweight, agile craft intended as dedicated interceptors of opposing Strike Craft and Close Action weapons. Fighters serve an interceptor role for ships by flying in close support and improving a friendly unit’s Point Defence._
 
 Fighters lack the firepower necessary to make a dent on larger enemies so in Dropfleet they are limited to a purely defensive role.
 
@@ -132,9 +133,9 @@ _Bombers are Strike Craft that carry serious ship-killing weaponry, typically de
 
 **Bombers make an attack with their profile when arriving at an enemy ship.**
 
-When Bombers from multiple sources attack the same target they coordinate their run to overwhelm its Point Defence. Roll all of the Bomber's attacks together when they take effect and treat it as a single attack versus the target's Point Defence so the defender only rolls for  PD once for the ship instead of against each token's attack separately.
+When Bombers from multiple sources attack the same target they coordinate their run to overwhelm its Point Defence. Roll all of the Bomber’s attacks together when they take effect and treat it as a single attack versus the target’s Point Defence so the defender only rolls for  PD once for the ship instead of against each token’s attack separately.
 
-_For example: 6 Bomber tokens launched from 2 carriers attack an enemy ship together. Each Bomber makes 2 attacks normally, but in this case they make a coordinated attack and roll all 12 attacks at once. The enemy ship's Point Defence will only roll once against the massed attack instead of separately against each Bomber._
+_For example: 6 Bomber tokens launched from 2 carriers attack an enemy ship together. Each Bomber makes 2 attacks normally, but in this case they make a coordinated attack and roll all 12 attacks at once. The enemy ship’s Point Defence will only roll once against the massed attack instead of separately against each Bomber._
 
 ### Fire Ships
 
@@ -142,7 +143,7 @@ Fire Ships are a unique type of bomber. They follow all the same rules, but are 
 
 ### Dropships
 
-_Dropships are transporters used for rapidly deploying armoured forces down to a planet's surface. They are agile, well armoured and armed for their size to weather the storm of defensive fire they invariably attract._
+_Dropships are transporters used for rapidly deploying armoured forces down to a planet’s surface. They are agile, well armoured and armed for their size to weather the storm of defensive fire they invariably attract._
 
 **Dropships may only be launched by carriers that are in Atmosphere or Low Orbit if targeting a Space Station.**
 
@@ -168,7 +169,7 @@ For speed of play and ease of use, most players will find it easier to declare w
 
 _Torpedoes are very large, ship-killing missiles that are much more dangerous than the types ordinarily categorised as Close Action weapons. Torpedoes are heavily armoured and well protected against opposing Point Defences with decoys and jamming to ensure they will get close enough to the target to deliver a potentially devastating hit._
 
-The relatively slow acceleration of Torpedoes means they **never attack enemy ships immediately even if the target is within their Thrust range,** instead place the Torpedo in contact with the target and execute the attack at the **end of the target's next activation.**
+The relatively slow acceleration of Torpedoes means they **never attack enemy ships immediately even if the target is within their Thrust range,** instead place the Torpedo in contact with the target and execute the attack at the **end of the target’s next activation.**
 
 **Torpedoes make an attack with their profile when arriving at an enemy ship. Point Defence has no effect against damage inflicted by Torpedoes.**
 
@@ -178,11 +179,11 @@ When firing Torpedoes at a Space Station, resolve the effects immediately.
 
 A ship which activates when it has Launch Assets in contact with its base can use hard manoeuvring to try and  shake off  the Launch Assets and spoil their attack run. If the ship uses **Course Change or Max Thrust** special orders roll a D6 for each enemy Launch Asset targeting the ship. On a roll of 5+ the Launch Asset
 
-is shaken off and removed. On a roll of 1-4 the Launch Asset doggedly pursues and takes effect at the end of the target's activation as normal.
+is shaken off and removed. On a roll of 1-4 the Launch Asset doggedly pursues and takes effect at the end of the target’s activation as normal.
 
 ### Outmanoeuvring Torpedoes
 
-Torpedoes are relentless in their pursuit of a target and not so easy to shake off. Only remove a Torpedo marker if a 6 is rolled, on a 5 the Torpedo does not attack this turn but instead remains in contact with the target ship's base ready to attack again after the target's **next** activation. On a 1-4 the Torpedo attacks at the end of the activation as normal.
+Torpedoes are relentless in their pursuit of a target and not so easy to shake off. Only remove a Torpedo marker if a 6 is rolled, on a 5 the Torpedo does not attack this turn but instead remains in contact with the target ship’s base ready to attack again after the target’s **next** activation. On a 1-4 the Torpedo attacks at the end of the activation as normal.
 
 #### Bombers stats
 

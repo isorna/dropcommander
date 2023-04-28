@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Ships characteristics'
+excerpt: 'The strengths and weakness of different ships and weapon systems in the game are shown through their characteristics.'
 position: 1
 breadcrumb:
   - path: '/en/'
@@ -12,7 +13,7 @@ breadcrumb:
 
 # Ships characteristics
 
-The strengths and weakness of different ships and weapon systems in the game are shown through their characteristics. These show how fast they are, how much damage they can take and so on. You can see an example of a ship's stat sheet below.
+The strengths and weakness of different ships and weapon systems in the game are shown through their characteristics. These show how fast they are, how much damage they can take and so on. You can see an example of a ship’s stat sheet below.
 
 **UCM Lysander - Stealth Lighter** (27 pts)
 
@@ -48,7 +49,7 @@ Each ship has its own unique stats bar. Each column shows a different aspect of 
 
 ### Name
 
-What the ship type is called. Certain ships may have individual and unique names, but they always belong to a  class  of ship. The name of the ship's class is shown here.
+What the ship type is called. Certain ships may have individual and unique names, but they always belong to a  class  of ship. The name of the ship’s class is shown here.
 
 ### Scan
 
@@ -58,15 +59,15 @@ The Scan characteristic shows how good a ship is at spotting the enemy through a
 
 _Signature shows how visible a ship is on enemy sensors and how far away it can be spotted. Most ships use forms of active countermeasures like chaff, ECM (electronic countermeasures jamming) and other technologies to hide the ship by reducing its signature as much as possible._
 
-These countermeasures are considered to be in constant use and are taken into account in the ship's overall Signature. Certain kinds of damage, hard manoeuvring and firing weapon systems can all act to temporarily increase a ship's Signature. Signature can also be reduced in some circumstances, such as by issuing the Silent Running order for example.
+These countermeasures are considered to be in constant use and are taken into account in the ship’s overall Signature. Certain kinds of damage, hard manoeuvring and firing weapon systems can all act to temporarily increase a ship’s Signature. Signature can also be reduced in some circumstances, such as by issuing the Silent Running order for example.
 
 ### Thrust
 
-Thrust is a ship's maximum move distance per game turn in inches. Several factors such as the ship's orders or battle damage can affect available Thrust. Under ordinary circumstances a ship must move at least half of its available Thrust for movement each turn (see the Orders and Special Orders sections of the rules for more details).
+Thrust is a ship’s maximum move distance per game turn in inches. Several factors such as the ship’s orders or battle damage can affect available Thrust. Under ordinary circumstances a ship must move at least half of its available Thrust for movement each turn (see the Orders and Special Orders sections of the rules for more details).
 
 ### Hull
 
-Hull is the number of damage points a ship can withstand before it is destroyed. Hull is a function of overall size and inherent structural integrity. This means it is possible for ships with good armour to have a weak hull and vice versa. Lost Hull points can be tracked on a ship's base using the pegs and number system provided, or if players prefer with a dice/counter placed beside the ship.
+Hull is the number of damage points a ship can withstand before it is destroyed. Hull is a function of overall size and inherent structural integrity. This means it is possible for ships with good armour to have a weak hull and vice versa. Lost Hull points can be tracked on a ship’s base using the pegs and number system provided, or if players prefer with a dice/counter placed beside the ship.
 
 ### Armour (A)
 
@@ -92,9 +93,9 @@ There are four main Tonnage categories in Dropfleet commander: **Light (L), Medi
 
 ### Special
 
-This section lists any special rules that may apply to the ship. This represents particular traits of a ship's design, special abilities or weaknesses the vessel may have. A detailed list of all common ship Special Rules can be found in the  Ship Special Rules  Section.
+This section lists any special rules that may apply to the ship. This represents particular traits of a ship’s design, special abilities or weaknesses the vessel may have. A detailed list of all common ship Special Rules can be found in the  Ship Special Rules  Section.
 
-Some ships have unique rules that are specific to that faction and ship class alone, such as sensor jamming abilities or situational bonuses. Any unique Special Rules not in the  Special  section of a ship's stats bar will be shown following the bar with details of the unique rules used.
+Some ships have unique rules that are specific to that faction and ship class alone, such as sensor jamming abilities or situational bonuses. Any unique Special Rules not in the  Special  section of a ship’s stats bar will be shown following the bar with details of the unique rules used.
 
 ## Weapon System Characteristics
 
@@ -102,11 +103,11 @@ Most ships in Dropfleet are armed with one or more weapon systems. These can ran
 
 ### Lock
 
-Lock is the weapon system's  to hit  roll and represents a combination of tracking speed and power-up delay as well as inherent accuracy. When rolling to hit, each of the weapon system's Attack dice scores a hit if it equals or beats the Lock value.
+Lock is the weapon system’s  to hit  roll and represents a combination of tracking speed and power-up delay as well as inherent accuracy. When rolling to hit, each of the weapon system’s Attack dice scores a hit if it equals or beats the Lock value.
 
 ### Attack
 
-Attack shows the number of Attack dice the weapon system rolls, with each dice typically representing a salvo or volley from the same weapon system. Each attack dice has to score equal or higher than the weapon's Lock value to score a hit.
+Attack shows the number of Attack dice the weapon system rolls, with each dice typically representing a salvo or volley from the same weapon system. Each attack dice has to score equal or higher than the weapon’s Lock value to score a hit.
 
 ### Damage
 

@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Movement'
+excerpt: 'A group does not have to maintain a specific formation when it moves and each ship can move individually.'
 position: 5
 breadcrumb:
   - path: '/en/'
@@ -12,7 +13,7 @@ breadcrumb:
 
 # Movement
 
-A group does not have to maintain a specific formation when it moves and each ship can move individually. For a move to be legal all of the Group's ships must obey the coherency rules at the end of their movement.
+A group does not have to maintain a specific formation when it moves and each ship can move individually. For a move to be legal all of the Group’s ships must obey the coherency rules at the end of their movement.
 
 ## Moving between orbital layers
 
@@ -32,4 +33,4 @@ Only large ships have the mass to survive the desperate defensive fire thrown up
 * The ship must choose Standard Orders this turn and may not fire.
 * If the ship ends its activation within 3 of an enemy ship it may attempt to ram them.
 
-Roll a dice. On a 1-2 the attempt has failed and the enemy ship succeeds in destroying the Ramming ship; remove the ship from play and do not roll for Catastrophic Damage. On the roll of a 3+ the Ramming action is a success and they have successfully crashed into/detonated their jump drives/unleashed a devastating final volley. Remove the Ramming ship and do not roll on the Catastrophic Damage table. The target ship takes a number of Lock 3+ hits equal to the Ramming ship's original Hull value.
+Roll a dice. On a 1-2 the attempt has failed and the enemy ship succeeds in destroying the Ramming ship; remove the ship from play and do not roll for Catastrophic Damage. On the roll of a 3+ the Ramming action is a success and they have successfully crashed into/detonated their jump drives/unleashed a devastating final volley. Remove the Ramming ship and do not roll on the Catastrophic Damage table. The target ship takes a number of Lock 3+ hits equal to the Ramming ship’s original Hull value.

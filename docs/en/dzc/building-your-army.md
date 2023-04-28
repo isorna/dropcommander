@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Building Your Army'
+excerpt: 'The battlefields of the 27th Century are dangerous places, with armies fighting for supremacy over entire worlds and solar systems, trying to take control of the galaxy for resources and survival.'
 position: 5
 breadcrumb:
   - path: '/en/'
@@ -26,7 +27,7 @@ The size of a game is agreed with your opponent beforehand. Dropzone Commander i
 
 Numbers in the table represent the number of Battlegroups of a given type that are permitted. Fixed values indicate compulsory numbers of certain types, while a range of some types may be allowed.
 
-Unless otherwise stated, a single Battlegroup may not come to **more than 33%** of your army's total allowed points cost for **Clashes and Battles, and 50% for Skirmishes.** This does **not include** the points cost of any mounted Commanders, who are bought outside of the Army Roster structure. **A Battlegroup containing a Behemoth cannot have any other units and can exceed the points percentage limit in an army.**
+Unless otherwise stated, a single Battlegroup may not come to **more than 33%** of your army’s total allowed points cost for **Clashes and Battles, and 50% for Skirmishes.** This does **not include** the points cost of any mounted Commanders, who are bought outside of the Army Roster structure. **A Battlegroup containing a Behemoth cannot have any other units and can exceed the points percentage limit in an army.**
 
 ### Skirmish 500-999 points
 
@@ -52,9 +53,9 @@ Unless otherwise stated, a single Battlegroup may not come to **more than 33%** 
 
 **Auxiliary Transports must begin the game with at least half Capacity filled.**
 
-Unlike normal squads, Auxiliary squads do not belong to a particular Battlegroup. Instead, **each time a player activates a Battlegroup,** they may choose to activate **as many Auxiliary squads as they wish** as part of that Battlegroup, acting as any other unit in that Battlegroup. Simply declare which Auxiliary squads are being activated at the start of the Battlegroup's activation. **Auxiliary squads may still only be activated once per round.**
+Unlike normal squads, Auxiliary squads do not belong to a particular Battlegroup. Instead, **each time a player activates a Battlegroup,** they may choose to activate **as many Auxiliary squads as they wish** as part of that Battlegroup, acting as any other unit in that Battlegroup. Simply declare which Auxiliary squads are being activated at the start of the Battlegroup’s activation. **Auxiliary squads may still only be activated once per round.**
 
-If there are Auxiliary squads left over which are yet to complete their actions after every available Battlegroup has been activated, then these remain inactivated that turn (so don't forget to activate them with a Battlegroup at some point).
+If there are Auxiliary squads left over which are yet to complete their actions after every available Battlegroup has been activated, then these remain inactivated that turn (so don’t forget to activate them with a Battlegroup at some point).
 
 ## Making Battlegroups
 

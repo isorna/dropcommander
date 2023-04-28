@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Game Scenarios'
+excerpt: 'Dropzone Commander official game scenarios'
 position: 7
 breadcrumb:
   - path: '/en/'
@@ -22,7 +23,7 @@ Some key objectives have been detected inside a small landing area at the heart 
 
 ### Setup
 
-* 4' x4' board.
+* 4’ x4’ board.
 
 ### Deployment
 
@@ -43,7 +44,7 @@ If a squad carrying an Objective ends its activation with at least 1 unit within
 
 This scenario works best with plenty of scenery.
 
-It's recommended that every Objective be placed within a Garrison, although it can be played in a more open environment with a few forests or sparse bunkers to protect the Objectives.
+It’s recommended that every Objective be placed within a Garrison, although it can be played in a more open environment with a few forests or sparse bunkers to protect the Objectives.
 
 ### Variant: "Primary Target"
 
@@ -59,7 +60,7 @@ Armies are about to clash and your orders are refreshingly simple - annihilate t
 
 ### Setup
 
-* 4' x4' board.
+* 4’ x4’ board.
 * 1 large Garrison in the centre of the board (shown in green as example).
 * 2 large Garrisons at least 12" from board edges (shown in purple as examples).
 * When playing with 3-4 players or in a Battle, add 2 extra large Garrisons (shown in orange as examples).
@@ -92,7 +93,7 @@ The enemy is taking hold of key planetary defences, and it is your mission to ta
 
 ### Setup
 
-* 4' x4' board.
+* 4’ x4’ board.
 * 3 Garrisons , one in the centre of the board and two others in opposite quarters (shown in green as examples).
 * When playing with 3-4 players or in a Battle, add 2 extra Garrisons (shown in orange as examples).
 
@@ -128,7 +129,7 @@ Careful intelligence gathering and sector by sector control is necessary in this
 
 ### Setup
 
-* 4' x4' board.
+* 4’ x4’ board.
 * 5-10 Garrisons in a Skirmish. 10-15 Garrisons in a Clash.
 * 15-20 Garrisons in a Battle.
 

@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Scenery'
+excerpt: 'Battlefields of the future are hardly ever featureless wastelands, and normally include various kinds of scenery which can strongly affect the game.'
 position: 12
 breadcrumb:
   - path: '/en/'
@@ -44,15 +45,15 @@ _Barricades, walls, or small piles of rubble._ Infantry targets in or within 1" 
 
 ## Destructible
 
-_Buildings, forests, or barricades._ Scenery pieces with this rule have Armour and Damage Points and can be destroyed. Although most scenery could fall into this category, it's simpler to let mostly Garrisons be Destructible.
+_Buildings, forests, or barricades._ Scenery pieces with this rule have Armour and Damage Points and can be destroyed. Although most scenery could fall into this category, it’s simpler to let mostly Garrisons be Destructible.
 
 The Armour and Damage Points of a Destructible scenery piece can vary a lot, but for ease of play, several types are included in the Features section on page 40. When shooting at a Destructible scenery piece, weapons **hit on a 2+ before Accuracy modifiers** (for example disembarking and then shooting would hit on a 4+). Scenery cannot be Hull Down.
 
-**If a weapon scores a Critical on a Destructible scenery piece, it only loses 1 Damage Point.** However, it also receives a **Collateral Damage token.** It's easiest to use a dice to keep track of Collateral Damage toekns. See Collateral Damage on page 39 for rules on resolving Collateral Damage.
+**If a weapon scores a Critical on a Destructible scenery piece, it only loses 1 Damage Point.** However, it also receives a **Collateral Damage token.** It’s easiest to use a dice to keep track of Collateral Damage toekns. See Collateral Damage on page 39 for rules on resolving Collateral Damage.
 
-**When a Destructible piece of scenery with 10 or more starting Damage Points is destroyed, roll 1D3.** Any units within that many inches (measured from the edges of the scenery piece) take that many automatic hits with an **Energy value equal to the scenery piece's Armour.** Body Cover may not be used against these hits.
+**When a Destructible piece of scenery with 10 or more starting Damage Points is destroyed, roll 1D3.** Any units within that many inches (measured from the edges of the scenery piece) take that many automatic hits with an **Energy value equal to the scenery piece’s Armour.** Body Cover may not be used against these hits.
 
-**Each unit inside a Garrison that is destroyed instead takes 2D3 hits.** Roll once and apply the result to each unit inside. **If an Objective that isn't being carried (see Objectives for details) is in a Garrison that is destroyed, the Objective is removed from the game.**
+**Each unit inside a Garrison that is destroyed instead takes 2D3 hits.** Roll once and apply the result to each unit inside. **If an Objective that isn’t being carried (see Objectives for details) is in a Garrison that is destroyed, the Objective is removed from the game.**
 
 After resolving the damage, remove the scenery piece from the game and replace it with a flat piece of Tough scenery no bigger than the original size. Any piece with 9 or less starting Damage Points is simply removed.
 
@@ -80,7 +81,7 @@ Any scenery piece with the Garrison rule may be occupied by Infantry units. A Ga
 
 If an Infantry squad is **in coherency** and **at least one unit** ends its moving action within 2" of an entrance, the whole squad can enter the garrison. An entrance refers to anywhere the unit could feasibly enter the garrison, such as doors or windows in the case of buildings, or simply the edge of the scenery piece for forests and other open garrisons. Infantry can disembark from a Transport straight into a Garrison (see Transports for more details).
 
-Once infantry are inside, remove them from the table and indicate their presence inside in some way. The easiest way to do this is to place them in the middle of the Garrison. Indeed, it's often a good idea to design Garrison scenery pieces with a flat roof or clearing in the centre for this purpose.
+Once infantry are inside, remove them from the table and indicate their presence inside in some way. The easiest way to do this is to place them in the middle of the Garrison. Indeed, it’s often a good idea to design Garrison scenery pieces with a flat roof or clearing in the centre for this purpose.
 
 When entering a Garrison, an Infantry squad may choose to occupy the centre, or any edge.
 
@@ -92,11 +93,11 @@ If a Garrison has **more enemy squads occupying it than friendly squads,** any s
 
 ### Moving in a Garrison
 
-Infantry inside a Garrison may choose to move through it. While a Garrison may have multiple storeys, it's assumed that the Infantry squads cover all of the storeys in their time inside, so these levels have no bearing on gameplay.
+Infantry inside a Garrison may choose to move through it. While a Garrison may have multiple storeys, it’s assumed that the Infantry squads cover all of the storeys in their time inside, so these levels have no bearing on gameplay.
 
 **All units are always counted as being within 1" of every other unit** (friendly and enemy) in the same Garrison. This means that all Infantry squads count as being **in coherency.**
 
-To move in a Garrison, simply choose an edge of the Garrison for your Infantry units to move to, regardless of its distance away. **Units in the same squad can move to different edges,** or not move at all, but **no units can move to the same edge as an enemy unit.** While this movement counts as an action, **the units count as remaining stationary for the purposes of their weapons's M&F distance.**
+To move in a Garrison, simply choose an edge of the Garrison for your Infantry units to move to, regardless of its distance away. **Units in the same squad can move to different edges,** or not move at all, but **no units can move to the same edge as an enemy unit.** While this movement counts as an action, **the units count as remaining stationary for the purposes of their weapons’s M&F distance.**
 
 The easiest way of representing infantry movement inside a Garrison is to move the units to the edge they re occupying. While most scenery pieces have easy-to- identify edges, some will be a bit more complicated. In this situation, simply agree with your opponent at the start of the game.
 
@@ -118,4 +119,4 @@ Sometimes, Garrisons are linked by a walkways or similar structure. Garrisons no
 
 Linked Garrisons are a great way of making massive structures. Simply agree with your opponent which parts of a Garrison count as separate linked areas. This allows troops to occupy specific areas of a big Garrison, and allows for certain parts to be destroyed piecemeal!
 
-Often a large structure that counts as a Linked Garrison won't come in multiple parts, which means that each linked Garrison won't be able to be removed when destroyed. In this situation it's best to just use your imagination! The scenery piece still follows the same rules, even if it cannot be physically taken apart.
+Often a large structure that counts as a Linked Garrison won’t come in multiple parts, which means that each linked Garrison won’t be able to be removed when destroyed. In this situation it’s best to just use your imagination! The scenery piece still follows the same rules, even if it cannot be physically taken apart.

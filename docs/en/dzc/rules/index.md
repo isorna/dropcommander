@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'The basics'
+excerpt: 'Dropzone Commander basic rules.'
 position: 0
 breadcrumb:
   - path: '/en/'

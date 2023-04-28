@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Deployment'
+excerpt: 'Deployment zones are different for each scenario, and although distances are specified, it may be worth changing the zones if you change the size of board you re playing on.'
 position: 2
 breadcrumb:
   - path: '/en/'

@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Building Your Fleet'
+excerpt: 'Battlegroups in Dropfleet Commander are determined by the size of game chosen and the individual forces that players choose.'
 position: 5
 breadcrumb:
   - path: '/en/'
@@ -24,7 +25,7 @@ As the game size increases, the number of Battlegroups permitted is capped. This
 
 ## The Fleet Roster
 
-Each ship has a Tonnage value as explained in the Ship Characteristics section. Players should compare that with the battlegroup types below and it will show how many of each group of that tonnage may be in each battlegroup. The large table (known as the Fleet Roster) will then show how many of each Battlegroup may be chosen for each game size. Unless otherwise stated, a single Battlegroup may not come to more than 33% of your army's total allowed points cost for Clashes and Battles, and 50% for skirmishes. This does not include the points cost of your Admiral.
+Each ship has a Tonnage value as explained in the Ship Characteristics section. Players should compare that with the battlegroup types below and it will show how many of each group of that tonnage may be in each battlegroup. The large table (known as the Fleet Roster) will then show how many of each Battlegroup may be chosen for each game size. Unless otherwise stated, a single Battlegroup may not come to more than 33% of your army’s total allowed points cost for Clashes and Battles, and 50% for skirmishes. This does not include the points cost of your Admiral.
 
 ### Battlegroup Type
 

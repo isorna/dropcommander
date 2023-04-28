@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Admirals'
+excerpt: 'Fleets seldom succeed in battle without a good Admiral.'
 position: 3
 breadcrumb:
   - path: '/en/'

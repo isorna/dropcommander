@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Dropfleet Commander'
+excerpt: 'Dropfleet Commander game rules.'
 position: 0
 breadcrumb:
   - path: '/en/'
