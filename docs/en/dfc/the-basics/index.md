@@ -1,7 +1,7 @@
 ---
 categoryTitle: 'The basics'
 excerpt: 'Dropfleet Commander basic rules.'
-position: 0
+position: 3
 breadcrumb:
   - path: '/en/'
     text: 'Home'

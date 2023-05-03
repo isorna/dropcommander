@@ -1,7 +1,7 @@
 ---
 categoryTitle: 'Core rules'
 excerpt: 'Dropfleet Commander core rules.'
-position: 0
+position: 4
 breadcrumb:
   - path: '/en/'
     text: 'Home'

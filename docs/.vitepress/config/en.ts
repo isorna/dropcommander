@@ -1,14 +1,17 @@
 import type { DefaultTheme, LocaleSpecificConfig } from 'vitepress'
 import { descriptionEN, github, ogImgEN, siteEN } from '../meta'
-// import { en as nav } from './navbar'
-// import { en as sidebar } from './sidebar'
+import { getSidebar } from '../lib/generate-sidebar'
 
 export const enConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
   description: descriptionEN,
 
   themeConfig: {
     // nav,
-    // sidebar,
+    sidebar: [
+      { text: 'Home', link: '/en/' },
+      getSidebar('/docs/', '/en/dfc/'),
+      getSidebar('/docs/', '/en/dzc/'),
+    ],
     editLink: {
       pattern: `${github}/edit/main/docs/:path`,
       text: 'Suggest changes to this page',

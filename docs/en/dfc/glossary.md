@@ -1,7 +1,7 @@
 ---
 categoryTitle: 'Glossary'
 excerpt: 'Game terms glossary index.'
-position: 8
+position: 7
 breadcrumb:
   - path: '/en/'
     text: 'Home'

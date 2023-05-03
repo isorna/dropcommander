@@ -14,7 +14,6 @@ const bloggerSvgIcon = `
 
 export const shareConfig = defineConfig({
   title: name,
-
   themeConfig: {
     logo: {
       src: logo,
