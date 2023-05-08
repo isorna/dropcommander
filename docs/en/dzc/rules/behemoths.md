@@ -13,11 +13,11 @@ breadcrumb:
 
 # Behemoths
 
-_Behemoths are among the largest land- based fighting vehicles in the 27th century. Towering over even super-heavy tanks, these colossi are capable of laying waste to entire formations single-handedly. They also feature exceedingly thick armour, making them nigh-on invulnerable to all but the most powerful weapons, usually those carried by other Behemoths._
+_Behemoths are among the largest land- based fighting vehicles in the 27th century. Towering over even super-heavy tanks, these colossi are capable of laying waste to entire formations single-handedly. They also feature exceedingly thick armour, making them nigh-on invulnerable to all but the most powerful weapons, usually those carried by other Behemoths_.
 
 To reflect their extreme size and power, Behemoths have a unique set of rules. These are fairly in depth and advanced, so we recommend new players get a few games in before scaling up their battles with the massive Behemoths.
 
-**All Behemoths have the Large special rule.**
+**All Behemoths have the Large special rule**.
 
 **Special rules and Command Cards have no effect on Behemoths unless explicitly mentioned.** Commanders in Behemoths may still use Command Cards as normal.
 
@@ -27,9 +27,9 @@ Behemoths may enter play as normal (following the normal Deployment rules to rep
 
 ## Drop-Harness
 
-_Drop-harnesses vary in design, but they all operate in a similar manner. Effectively, they are high-thrust, short burn decent arrestors, which slow a Behemoth’s free-fall to allow for a safe landing. In this manner, they may be deployed from low-orbit by Strike Carriers. Drop-harnesses detach on landing and are either discarded or return to their point of origin under their own power. They cannot, however, lift a Behemoth back up from the surface._
+_Drop-harnesses vary in design, but they all operate in a similar manner. Effectively, they are high-thrust, short burn decent arrestors, which slow a Behemoth’s free-fall to allow for a safe landing. In this manner, they may be deployed from low-orbit by Strike Carriers. Drop-harnesses detach on landing and are either discarded or return to their point of origin under their own power. They cannot, however, lift a Behemoth back up from the surface_.
 
-_This method of deployment is risky, especially in dense, urban areas populated by enemies. Infantry units deployed alongside a Behemoth often take to battle with portable scanners able to fully 3D map a limited area. Once these scans are made, damage upon landing is mitigated. Without them, it’s not unknown for a Behemoth to sustain critical damage during descent, making for little more than an extremely costly bombardment._
+_This method of deployment is risky, especially in dense, urban areas populated by enemies. Infantry units deployed alongside a Behemoth often take to battle with portable scanners able to fully 3D map a limited area. Once these scans are made, damage upon landing is mitigated. Without them, it’s not unknown for a Behemoth to sustain critical damage during descent, making for little more than an extremely costly bombardment_.
 
 When a Behemoth enters play via Drop- harness, it must be called down with a special Signal action. This can only be done when a Behemoth is In Readiness.
 
@@ -41,17 +41,17 @@ Place the Behemoth on that point. A Behemoth **can** be placed on top of scenery
 
 Arriving via Drop-harness is a risky manoeuvre, and may cause damage to the Behemoth on landing. When a Behemoth arrives via Drop-harness, after rolling for damage to squads and Scenery pieces, check to see which conditions on the table below are met and **roll the total number of dice listed.** Each condition can be met multiple times. **For every 1-2 rolled,** the Behemoth loses **1 Damage Point from a random Zone.** Note that any Scenery pieces or squads that were destroyed by the Behemoth landing are removed before consulting the table.
 
-|Condition|Number of Dice per Instance|
-| :- | :-: |
-|Landed on Impassable Scenery|5|
-|Landed on Tough scenery|2|
-|Landed within 3" of an enemy squad|2|
-|Landed on a unit|1|
-|Landed within R(C) and line of sight of an AA weapon.|1|
+| Condition                                             | Number of Dice per Instance |
+| :-                                                    | :-:                         |
+| Landed on Impassable Scenery                          | 5                           |
+| Landed on Tough scenery                               | 2                           |
+| Landed within 3" of an enemy squad                    | 2                           |
+| Landed on a unit                                      | 1                           |
+| Landed within R(C) and line of sight of an AA weapon. | 1                           |
 
 If there are any Impassable Scenery pieces left on the board within the Behemoth’s Spread after resolving these hits, the controlling player moves the Behemoth a minimum distance until it is clear. The controlling player then moves any units within its Spread a minimum distance so that the Behemoth can be placed.
 
-**Behemoths that enter via Drop-harness cannot be activated that round.**
+**Behemoths that enter via Drop-harness cannot be activated that round**.
 
 _For example, a Behemoth lands via Drop-harness on top of 2 Impassable scenery pieces, 4 units, and within 3" of 3 enemy squads. Upon landing the Behemoth destroys one of the Impassable scenery pieces, and 2 of the units it lands on. After this is resolved, the Behemoth must roll a total of 10 dice (5 for the Impassable scenery piece, 2 for the units underneath it, and 3 for the enemy squads within 3 ). From those rolls it takes 3 points of damage which are randomly allocated to different Zones. The controlling player then moves the Behemoth a minimum distance away from the Impassable scenery piece. Any units under it are then moved, and finally it is placed, ready to begin the game._
 
