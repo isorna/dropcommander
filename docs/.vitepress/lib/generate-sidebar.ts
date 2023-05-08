@@ -27,6 +27,8 @@ function getFrontmatterData(filePath: string): Record<string, any> {
  * Iterate folderContent and return an array with the values of each SidebarItem,
  * sorted by position frontmatter attribute.
  *
+ * Exclude index.md file, /_api and /_assets folders from beign parsed.
+ *
  * @param folderContent: string []
  * @param documentRoot: string
  * @param contentDirectory: string
@@ -44,7 +46,8 @@ function getSidebarItems(folderContent: string[], documentRoot:string, contentDi
         position
       }
     })
-  const contentFolders = folderContent.filter(file => !file.endsWith('.md') && fs.statSync(path.resolve(process.cwd(), documentRoot, contentDirectory, file, '/')).isDirectory())
+  // Exclude /_api and /_asssets folders as they doesn't contain documents
+  const contentFolders = folderContent.filter(file => !file.endsWith('.md') && !file.endsWith('_api') && !file.endsWith('_assets') && fs.statSync(path.resolve(process.cwd(), documentRoot, contentDirectory, file, '/')).isDirectory())
     .map((folderName: string) => {
       const folderPath = path.join(process.cwd(), documentRoot, contentDirectory, folderName)
       const folder = fs.readdirSync(folderPath).filter((file: string) => fs.statSync(folderPath).isDirectory())
