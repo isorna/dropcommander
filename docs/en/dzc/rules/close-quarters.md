@@ -19,7 +19,7 @@ These weapons are denoted by a Range value of CQ, and make a few changes to the 
 
 Close Quarters weapons require the attacking unit to be in the same Garrison as the target, **and are the only weapons that can be used against a unit in that situation.**
 
-**If a squad chooses to shoot with Close Quarters weapons, it cannot use any other weapon profiles during that activation.**
+**If a squad chooses to shoot with Close Quarters weapons, it cannot use any other weapon profiles during that activation**.
 
 Close Quarters weapons allocate shots to a **squad** instead of a **unit.**
 
