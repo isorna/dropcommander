@@ -1,0 +1,38 @@
+properties:
+  layout:
+    type: string
+  lang:
+    type: string
+  title:
+    type: string
+  hero:
+    type: object
+    properties:
+      name: string
+      text: string
+      tagline: string
+  features:
+    type: array
+    items:
+      type: object
+      required:
+        - title
+        - link
+        - details
+      properties:
+        title: string
+        link: string
+        details: string
+        icon:
+          type: object
+          properties:
+            light: string
+            dark: string
+            width: string
+            height: string
+
+required:
+  - layout
+  - lang
+  - title
+  - hero

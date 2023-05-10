@@ -21,6 +21,20 @@
     [
       "remark-lint-maximum-line-length",
       "false"
-    ]
+    ],
+    ["remark-lint-frontmatter-schema", {
+      "schemas": {
+        "./docs/index.schema.yaml": [
+          "./docs/en/index.md",
+          "./docs/es/index.md"
+        ],
+        "./docs/doc.schema.yaml": [
+          "./docs/en/dfc/**/*.md",
+          "./docs/en/dzc/**/*.md",
+          "./docs/es/dfc/**/*.md",
+          "./docs/es/dzc/**/*.md"
+        ]
+      }
+    }]
   ]
 }

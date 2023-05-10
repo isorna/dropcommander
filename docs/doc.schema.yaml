@@ -1,0 +1,24 @@
+properties:
+  categoryTitle:
+    type: string
+  position:
+    type: number
+  excerpt:
+    type: string
+  breadcrumb:
+    type: array
+    items:
+      type: object
+      required:
+        - path
+        - text
+      properties:
+        path:
+          type: string
+        text:
+          type: string
+
+required:
+  - categoryTitle
+  - position
+  - excerpt
