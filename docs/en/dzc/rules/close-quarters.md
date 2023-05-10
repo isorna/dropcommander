@@ -21,9 +21,9 @@ Close Quarters weapons require the attacking unit to be in the same Garrison as 
 
 **If a squad chooses to shoot with Close Quarters weapons, it cannot use any other weapon profiles during that activation**.
 
-Close Quarters weapons allocate shots to a **squad** instead of a **unit.**
+Close Quarters weapons allocate shots to a **squad** instead of a **unit**.
 
-**Close Quarters weapons automatically hit, but cannot inflict Criticals.**
+**Close Quarters weapons automatically hit, but cannot inflict Criticals**.
 
 Damage from a Close Quarters weapon is resolved against a squad, with the most damaged unit losing Damage Points first, or the controlling player deciding if there is a tie.
 
