@@ -8,9 +8,12 @@ properties:
   hero:
     type: object
     properties:
-      name: string
-      text: string
-      tagline: string
+      name:
+        type: string
+      text:
+        type: string
+      tagline:
+        type: string
   features:
     type: array
     items:
@@ -20,16 +23,23 @@ properties:
         - link
         - details
       properties:
-        title: string
-        link: string
-        details: string
+        title:
+          type: string
+        link:
+          type: string
+        details:
+          type: string
         icon:
           type: object
           properties:
-            light: string
-            dark: string
-            width: string
-            height: string
+            light:
+              type: string
+            dark:
+              type: string
+            width:
+              type: string
+            height:
+              type: string
 
 required:
   - layout
