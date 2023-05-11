@@ -7,9 +7,9 @@ export const esConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
   themeConfig: {
     // nav,
     sidebar: [
-      { text: 'Home', link: '/en/' },
-      getSidebar('/docs/', '/en/dfc/'),
-      getSidebar('/docs/', '/en/dzc/'),
+      { text: 'Inicio', link: '/es/' },
+      getSidebar('/docs/', '/es/dfc/'),
+      getSidebar('/docs/', '/es/dzc/'),
     ],
     editLink: {
       pattern: `${github}/edit/main/docs/es/:path`,

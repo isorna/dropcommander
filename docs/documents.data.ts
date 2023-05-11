@@ -28,7 +28,6 @@ export default createContentLoader('**/*.md', {
   render: false,
   excerpt: false,
   transform (rawData) {
-    console.log('transform')
     // map, sort, or filter the raw data as you wish.
     // the final result is what will be shipped to the client.
     return rawData

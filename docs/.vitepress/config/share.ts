@@ -28,7 +28,6 @@ export const shareConfig = defineConfig({
     ],
     outline: 'deep',
   },
-
   lastUpdated: true,
   useWebFonts: true,
   appearance: 'dark',
@@ -55,7 +54,6 @@ export const shareConfig = defineConfig({
   //     md.use(ImagePlugin)
   //   },
   // },
-
   head: [
     ['meta', { name: 'google-site-verification', content: googleVerify }],
     ['meta', { name: 'keywords', content: keywords }],
@@ -68,20 +66,16 @@ export const shareConfig = defineConfig({
     ['meta', { name: 'application-name', content: name }],
     ['meta', { name: 'apple-mobile-web-app-title', content: name }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'default' }],
-
     ['link', { rel: 'shortcut icon', href: '/img/favicon.ico' }],
     ['link', { rel: 'icon', type: 'image/x-icon', href: '/img/favicon.ico' }],
     ['link', { rel: 'mask-icon', href: '/img/safari-pinned-tab.svg', color: '#2e8555' }],
     ['meta', { name: 'theme-color', content: '#2e8555' }],
-
     ['link', { rel: 'apple-touch-icon', sizes: '120x120', href: '/img/apple-touch-icon.png' }],
-
     // webfont
     ['link', { rel: 'dns-prefetch', href: 'https://fonts.googleapis.com' }],
     ['link', { rel: 'dns-prefetch', href: 'https://fonts.gstatic.com' }],
     ['link', { rel: 'preconnect', crossorigin: 'anonymous', href: 'https://fonts.googleapis.com' }],
     ['link', { rel: 'preconnect', crossorigin: 'anonymous', href: 'https://fonts.gstatic.com' }],
-
     // scripts
     [
       'script',

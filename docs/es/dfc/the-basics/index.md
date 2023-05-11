@@ -1,7 +1,7 @@
 ---
 categoryTitle: 'Lo básico'
 excerpt: 'Reglas básicas de Dropfleet Commander.'
-position: 0
+position: 3
 breadcrumb:
   - path: '/es/'
     text: 'Inicio'

@@ -1,7 +1,7 @@
 ---
 categoryTitle: 'Reglas fundamentales'
 excerpt: 'Reglas fundamentales de Dropfleet Commander.'
-position: 0
+position: 4
 breadcrumb:
   - path: '/es/'
     text: 'Inicio'
