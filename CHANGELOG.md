@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.3.0](https://github.com/isorna/dropcommander/compare/v1.2.0...v1.3.0) (2023-05-11)
+
+
+### Features
+
+* **build system:** :sparkles: refactor category pages, using vitepress built-in createContentLoader method ([5244d36](https://github.com/isorna/dropcommander/commit/5244d363e8a20a6dc295ca5136a9857b0a80ec80))
+* **components:** :sparkles: documentation categories sorted with a new CategoryCard component ([8a1eff8](https://github.com/isorna/dropcommander/commit/8a1eff87f723a908afacfbeea96af4f3484dadac))
+* **components:** :sparkles: dynamic category pages ([8f1c1bb](https://github.com/isorna/dropcommander/commit/8f1c1bb5659db5e85e83dc8d40f025105f223365))
+* **project dependencies:** :sparkles: automatic sidebar configuration and front-matter integration ([b744459](https://github.com/isorna/dropcommander/commit/b7444590aa5f4544264fb10b9f14a824944b9349))
+
+
+### Bug Fixes
+
+* **components:** :lipstick: fix small screen rendering for category cards ([6a7b49a](https://github.com/isorna/dropcommander/commit/6a7b49a6af476c55ea153c8b614df38ed10e2ca6))
+* **project dependencies:** :fire: remove unused file ([fc2f8ad](https://github.com/isorna/dropcommander/commit/fc2f8adcaa56083189a53f0897330a2d25c693e7))
+
 ## [1.2.0](https://github.com/isorna/dropcommander/compare/v1.1.0...v1.2.0) (2023-04-26)
 
 
