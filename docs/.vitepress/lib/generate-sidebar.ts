@@ -1,33 +1,13 @@
-import { SidebarItem } from './types'
 import fs from "fs"
 import path from "path"
-import fm from 'front-matter'
-
-/**
- * Get frontmatter data from a provided file,
- * and return its categoryTitle and position attributes.
- *
- * @param filePath: string
- * @returns {
- *  text: string,
- *  position: number
- * }
- */
-function getFrontmatterData(filePath: string): Record<string, any> {
-  const fileData = fs.readFileSync(filePath, 'utf8')
-  const fileFrontmatterContent = fm(fileData) as Record<string, any>
-
-  return {
-    text: fileFrontmatterContent.attributes.categoryTitle,
-    position: fileFrontmatterContent.attributes.position
-  }
-}
+import { SidebarItem } from './types'
+import { getFrontmatterData } from './common'
 
 /**
  * Iterate folderContent and return an array with the values of each SidebarItem,
  * sorted by position frontmatter attribute.
  *
- * Exclude index.md file, /_api and /_assets folders from beign parsed.
+ * Exclude index.md file, /public, /_api and /_assets folders from beign parsed.
  *
  * @param folderContent: string []
  * @param documentRoot: string
@@ -46,8 +26,8 @@ function getSidebarItems(folderContent: string[], documentRoot:string, contentDi
         position
       }
     })
-  // Exclude /_api and /_asssets folders as they doesn't contain documents
-  const contentFolders = folderContent.filter(file => !file.endsWith('.md') && !file.endsWith('_api') && !file.endsWith('_assets') && fs.statSync(path.resolve(process.cwd(), documentRoot, contentDirectory, file, '/')).isDirectory())
+  // Exclude /public, /_api and /_asssets folders as they doesn't contain documents
+  const contentFolders = folderContent.filter(file => !file.endsWith('.md') && !file.endsWith('.ts') && !file.endsWith('public') && !file.endsWith('_api') && !file.endsWith('_assets') && fs.statSync(path.resolve(process.cwd(), documentRoot, contentDirectory, file, '/')).isDirectory())
     .map((folderName: string) => {
       const folderPath = path.join(process.cwd(), documentRoot, contentDirectory, folderName)
       const folder = fs.readdirSync(folderPath).filter((file: string) => fs.statSync(folderPath).isDirectory())

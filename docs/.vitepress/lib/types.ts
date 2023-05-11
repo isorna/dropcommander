@@ -10,7 +10,7 @@ export interface PageData {
   lastUpdated?: number
 }
 
-type BreadcrumbItem = {
+interface BreadcrumbItem {
   path: string
   text: string
 }

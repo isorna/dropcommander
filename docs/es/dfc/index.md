@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Dropfleet Commander'
+excerpt: 'Reglas de juego de Dropfleet Commander.'
 position: 0
 breadcrumb:
   - path: '/es/'
@@ -11,7 +12,7 @@ breadcrumb:
 # Dropfleet Commander
 
 <script setup>
-  import { pages } from '/pages.js'
+  import { data as pages } from '/documents.data'
   const slug = '/es/dfc/'
   const filteredPages = pages.filter(page => page?.href.indexOf(slug) > -1)
   const selectedPages = [

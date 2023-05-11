@@ -4,7 +4,6 @@ import { getSidebar } from '../lib/generate-sidebar'
 
 export const enConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
   description: descriptionEN,
-
   themeConfig: {
     // nav,
     sidebar: [
@@ -27,7 +26,6 @@ export const enConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
     },
     returnToTopLabel: 'Return to top'
   },
-
   head: [
     ['meta', { name: 'twitter:description', content: descriptionEN }],
     ['meta', { name: 'twitter:image', content: ogImgEN }],

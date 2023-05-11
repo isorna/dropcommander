@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Dropzone Commander'
+excerpt: 'Reglas de Dropzone Commander.'
 position: 0
 breadcrumb:
   - path: '/es/'
@@ -11,7 +12,7 @@ breadcrumb:
 # Dropzone Commander
 
 <script setup>
-  import { pages } from '/pages.js'
+  import { data as pages } from '/documents.data'
   const slug = '/es/dzc/'
   const filteredPages = pages.filter(page => page?.href.indexOf(slug) > -1)
   const selectedPages = [

@@ -12,7 +12,7 @@ breadcrumb:
 # Dropfleet Commander
 
 <script setup>
-  import { pages } from '/pages.js'
+  import { data as pages } from '/documents.data'
   const slug = '/en/dfc/'
   const filteredPages = pages.filter(page => page?.href.indexOf(slug) > -1)
   const selectedPages = [
