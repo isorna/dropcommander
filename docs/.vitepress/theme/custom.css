@@ -10,6 +10,9 @@
   --transition-fast: 200ms;
 }
 
+/*
+* Custom home page boxes
+*/
 @media (width >= 768px) {
   .VPHomeFeatures .VPFeature .box {
     display: block;
