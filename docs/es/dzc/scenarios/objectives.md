@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Objectives'
+excerpt: 'An Objective is a catch-all name for something that your army will generally need to discover, capture, or extract from the combat zone in order to win the game.'
 position: 6
 breadcrumb:
   - path: '/es/'
@@ -20,13 +21,13 @@ Objectives are set up on the board after scenery is setup but before deployment.
 
 Objectives have several special rules that can be used in any combination in a scenario.
 
-### Open Objectives
+## Open Objectives
 
 These Objectives are easy to see and obtain. If a friendly Infantry or Vehicle unit **in coherency** is **within 2" of the Objective or in the same Garrison as it, they claim the Objective.** Objectives can be reclaimed by other players if they meet those criteria and there are no enemy units that also meet that criteria.
 
 Unless otherwise noted, all Objectives not in Garrisons are Open Objectives.
 
-### Hidden Objectives
+## Hidden Objectives
 
 These Objectives are harder to find, even if a commander knows their general location. A Hidden Objective must be discovered. Unless otherwise noted, all Objectives in Garrisons are Hidden Objectives.
 
@@ -36,13 +37,13 @@ When searching, **roll 1 dice for the squad** searching. If there are **enemy un
 
 A Transport that doesn t have the Aircraft type may choose to make a scan action, counting as both of its actions for the round. Place a **Scan Token** by the unit. Before a squad makes a search roll, you may **remove any friendly Scan Tokens within 2" to add +1 to the search roll per token.** If the searching unit is in a Garrison, measure the distance to any edge of the Garrison. If the Transport makes a Moving action, remove its Scan Token. **A unit may only have 1 Scan Token at a time.**
 
-### Mobile Objectives
+## Mobile Objectives
 
 Mobile Objectives can be picked up and moved. This will stop an enemy getting the Objective, and some scenarios will even call for Objectives to be extracted from the board.
 
 If a Mobile Objective has been **claimed** by an Infantry or Vehicle unit, their squad automatically counts as carrying it. The Objective is moved with the squad. Only Infantry or Vehicle squads may carry Objectives, but they may in turn embark into non-Vehicle units such as Aircraft.
 
-**A squad may only carry one Objective at any time.**
+**A squad may only carry one Objective at any time.**.
 
 Mobile Objectives can be passed to another friendly Infantry or Vehicle squad (even from another squad or Battlegroup) if any units are within 2" of each other at any point during either of their activations. If a squad is in a Garrison, they **cannot pass** an Objective to a squad outside of that same Garrison. Equally a squad outside a Garrison **cannot pass** an Objective to a squad inside a Garrison.
 
