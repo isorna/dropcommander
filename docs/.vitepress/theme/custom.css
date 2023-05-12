@@ -10,7 +10,7 @@
   --transition-fast: 200ms;
 }
 
-@media (min-width: 768px) {
+@media (width >= 768px) {
   .VPHomeFeatures .VPFeature .box {
     display: block;
   }
