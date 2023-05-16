@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Glosario'
+excerpt: 'Glosario de términos'
 position: 7
 breadcrumb:
   - path: '/es/'

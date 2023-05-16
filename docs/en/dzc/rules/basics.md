@@ -17,25 +17,78 @@ breadcrumb:
 
 Models in Dropzone Commander are referred to as units. Sometimes a unit will be a single battle tank or dropship, and other times it will be a single base of infantry. Each unit in the game is represented by a stat sheet. These sheets show all sorts of information about the unit’s attributes and abilities. It shows their strength, protection, weapons, and even details such as the type of unit it is and the points it costs a player to field them in a game. An example of a stat sheet is shown below.
 
-**All stat sheets can be found at [www.dropzonecommander.com](https://www.dropzonecommander.com)**
+**All stat sheets can be found at [www.dropzonecommander.com](https://www.dropzonecommander.com)**.
 
-**Hazard Suit Team** (35 pts)
+**Hazard Suit Team** (35 pts) **EXOTIC**
 
-**EXOTIC**
-**Category -** This defines the unit’s role within a Battlegroup.
+**Unit´s name** (Points cost) **Category** - This defines the unit’s role within a Battlegroup.
 
-|Move|Countermeasures|Armour|Damage Points|Type|Special|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|1"|-|9|3|Infantry 4+|Resilient|
+<table>
+  <thead>
+    <tr>
+      <th>Move</th>
+      <th>Countermeasures</th>
+      <th>Armour</th>
+      <th>Damage Points</th>
+      <th>Type</th>
+      <th>Special</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1&quot;</td>
+      <td>-</td>
+      <td>9</td>
+      <td>3</td>
+      <td>Infantry 4+</td>
+      <td>Resilient</td>
+    </tr>
+  </tbody>
+</table>
 
 **Troops:** 1
 
 **Squad Size:** 2
 
-|Weapon|M&F|Arc|R(F)|R(C)|Shots|Acc|E|Special|
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|Light Rail Guns|0"|F/S/R|∞|24"|3|2+|6|Focus-2, RW-1|
-|Powered Armour|-|F/S/R|CQ|CQ|3|-|5|RW-1|
+<table>
+  <thead>
+    <tr>
+      <th>Weapon</th>
+      <th>M&amp;F</th>
+      <th>Arc</th>
+      <th>R(F)</th>
+      <th>R(C)</th>
+      <th>Shots</th>
+      <th>Acc</th>
+      <th>E</th>
+      <th>Special</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Light Rail Guns</td>
+      <td>0&quot;</td>
+      <td>F/S/R</td>
+      <td>∞</td>
+      <td>24&quot;</td>
+      <td>3</td>
+      <td>2+</td>
+      <td>6</td>
+      <td>Focus-2, RW-1</td>
+    </tr>
+    <tr>
+      <td>Powered Armour</td>
+      <td>-</td>
+      <td>F/S/R</td>
+      <td>CQ</td>
+      <td>CQ</td>
+      <td>3</td>
+      <td>-</td>
+      <td>5</td>
+      <td>RW-1</td>
+    </tr>
+  </tbody>
+</table>
 
 ::: tip Hazard Suit
 Re-roll successful Collatoral Damage hits against this unit.
@@ -77,25 +130,25 @@ Failing that, if you still can’t decide on a way to proceed, roll a dice! It�
 
 Dropzone Commander uses 6-sided dice, often referred to as D6. Unless otherwise stated, when instructed to roll a dice, it will be a D6. Occasionally a D3 dice will also be needed, although it’s easy enough to simulate these using D6 (1/2 = 1, 3/4 = 2, 5/6 = 3).
 
-**Often dice will have modifiers to their rolls. A plus penalty (such as a +2 penalty) will increase the number needed to roll, whereas a minus bonus (such as a -1 bonus) will reduce the number needed to roll.**
+**Often dice will have modifiers to their rolls. A plus penalty (such as a +2 penalty) will increase the number needed to roll, whereas a minus bonus (such as a -1 bonus) will reduce the number needed to roll**.
 
-_For example, a weapon suffers a +2 penalty to its 3+ AC value. The player now needs to roll a 5+ to hit with the weapon._
+_For example, a weapon suffers a +2 penalty to its 3+ AC value. The player now needs to roll a 5+ to hit with the weapon_.
 
-A roll may have multiple modifiers, which are all added or subtracted together. **However, a roll of a 1 is always a failure.**
+A roll may have multiple modifiers, which are all added or subtracted together. **However, a roll of a 1 is always a failure**.
 
-Sometimes you may be instructed to re-roll dice. **A dice may only ever be re-rolled once.**
+Sometimes you may be instructed to re-roll dice. **A dice may only ever be re-rolled once**.
 
 ## Measuring
 
 All distances in the game are measured in inches, noted with inverted commas (for example 6" is 6 inches). You are allowed to measure distances at any time.
 
-Unless otherwise specified, **distance is measured to and from the centre point of a unit.** When measuring, judge the distance from centre to centre, even measuring diagonally, for example when measuring to Aircraft in the air.
+Unless otherwise specified, **distance is measured to and from the centre point of a unit**. When measuring, judge the distance from centre to centre, even measuring diagonally, for example when measuring to Aircraft in the air.
 
 ## Line of Sight
 
 Dropzone Commander uses true line of sight. To check if a unit has line of sight to another unit, draw a straight line between the miniatures. The easiest way to do this is to get close to the unit itself for a "miniature’s eye view" of its surroundings. If any part of the main body or base of the target can be seen from the centre point of the main body or base of the unit, it is in line of sight. If only weapons, arms, or legs can be seen for example, it is out of line of sight.
 
-**Units in the same squad (friendly and enemy) are ignored when checking line of sight.**
+**Units in the same squad (friendly and enemy) are ignored when checking line of sight**.
 
 The centre of an Infantry unit’s base must be visible for it to be in line of sight (this represents the ability of infantry to hug the terrain and hide just around corners).
 
@@ -111,8 +164,8 @@ When abilities say they affect any or every friendly unit, that does include the
 
 Dropzone categorises miniatures in three ways: units, squads, and Battlegroups. These three categories are used in different ways in many of the rules, so it’s important to note the differences between them.
 
-**Units** are a single model, or base of models. Identical **units** band together to form **squads** - small fighting groups that take to the battle together. **Units within a squad perform actions simultaneously.** If there is only 1 unit in a squad, it is still counted as a squad for all purposes.
+**Units** are a single model, or base of models. Identical **units** band together to form **squads** - small fighting groups that take to the battle together. **Units within a squad perform actions simultaneously**. If there is only 1 unit in a squad, it is still counted as a squad for all purposes.
 
 Squads are then formed together into **Battlegroups,** which consist of several different types of units to form a fighting force greater than the sum of its parts.
 
-**Squads in a Battlegroup are activated together.** If there is only 1 squad left in a Battlegroup, it is still counted as a Battlegroup for all purposes.
+**Squads in a Battlegroup are activated together**. If there is only 1 squad left in a Battlegroup, it is still counted as a Battlegroup for all purposes.

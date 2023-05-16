@@ -13,7 +13,7 @@ breadcrumb:
 
 # Orbital Layers
 
-_The basic Dropfleet rules cover fighting in space, but the truth is that battles out in the void between stars are rare events. The true prize in any interstellar conflict is gaining control of the planets in a solar system. Because of this the majority of combat between ships occurs in close proximity to a habitable (or at least colonisable) planet, moon or comparable celestial body._
+_The basic Dropfleet rules cover fighting in space, but the truth is that battles out in the void between stars are rare events. The true prize in any interstellar conflict is gaining control of the planets in a solar system. Because of this the majority of combat between ships occurs in close proximity to a habitable (or at least colonisable) planet, moon or comparable celestial body_.
 
 Once an enemy fleet moves in to try to knock down satellite coverage and bombard targets on the surface it is only a matter of time before a full-blown invasion will be launched. This is the point where a defending fleet is forced to stand and fight or surrender control of the planet altogether.
 
@@ -33,6 +33,6 @@ Few ships are Atmosphere-capable, and even Strike Craft or munitions have to be 
 
 ## Limitations in Atmosphere
 
-**Atmosphere may only be entered by ships with the Atmospheric special rule.** Any other ships are destroyed on entry. Ships in Atmosphere have their available Thrust reduced to 2". Ships moving into Atmosphere therefore lose any remaining movement apart from this 2".
+**Atmosphere may only be entered by ships with the Atmospheric special rule**. Any other ships are destroyed on entry. Ships in Atmosphere have their available Thrust reduced to 2". Ships moving into Atmosphere therefore lose any remaining movement apart from this 2".
 
 **Ships moving out of Atmosphere into Low Orbit must do so at the start of their movement,** and follow the rules for moving up an Orbital Layer and do not suffer this penalty. (see Moving between Orbital Layers).

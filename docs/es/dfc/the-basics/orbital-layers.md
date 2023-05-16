@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Capas orbitales'
+excerpt: 'Las reglas básicas de Dropfleet cubren el combate espacial, pero la verdad es que batallas en mitad del espacio son bastantes raras.'
 position: 4
 breadcrumb:
   - path: '/es/'
@@ -12,7 +13,7 @@ breadcrumb:
 
 # Capas orbitales
 
-_Las reglas básicas de Dropfleet cubren el combate espacial, pero la verdad es que batallas en mitad del espacio son bastantes raras. El verdadero motivo de las batallas espaciales es la conquista de planetas en el sistema solar. Debido a esto la mayoría de combates ocurren cerca de planetas habitables (o al menos conolizables), lunas o cuerpos celestiales._
+_Las reglas básicas de Dropfleet cubren el combate espacial, pero la verdad es que batallas en mitad del espacio son bastantes raras. El verdadero motivo de las batallas espaciales es la conquista de planetas en el sistema solar. Debido a esto la mayoría de combates ocurren cerca de planetas habitables (o al menos conolizables), lunas o cuerpos celestiales_.
 
 Una vez que la flota enemiga mueve, esta intentó destruir los satélites y bombardear los objetivos que hay en tierra antes de la invasión. En este punto es donde la flota de defensa se ve en la situación o de aguantar y luchar o rendirse y con ello dar el control del planeta.
 

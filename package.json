@@ -8,7 +8,7 @@
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
-    "md:test": "remark . --frail --quiet --rc-path .remarkrc.json"
+    "md:test": "remark . --frail --quiet --ignore-path .remarkignore --rc-path .remarkrc.json"
   },
   "repository": {
     "type": "git",

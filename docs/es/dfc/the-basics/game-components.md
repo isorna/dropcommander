@@ -34,8 +34,8 @@ Ciertas circunstancias especiales pueden significar que los modificadores se apl
 Modifiers can never make results impossible or a foregone conclusion. If a modifier would make a target number of 7+ or 1+ (i.e. impossible to achieve or impossible to fail), this is reduced to a 6+ and 2+ respectively.
 Los modificadores nunca pueden hacer que los resultados fueran imposibles o una conclusión inevitable.Si un modificador hiciera un número objetivo de 7+ o 1+ (es decir, imposible de lograr o imposible de fallar), esto se reduce a un 6+ y 2+ respectivamente.
 
-_For example, if you normally needed to roll a 4+ and had a +1 modifier to the target number you would only succeed on a roll of 5 or 6. Likewise if you needed a 5+ and had a -2 modifier, you would need a 3 or more to succeed (5+, with the minus 2 modifier = 3+ to succeed)._
-_ Por ejemplo, si normalmente necesitara enrollar un 4+ y tuviera un modificador +1 al número de destino, solo tendría éxito en un rollo de 5 o 6. Del mismo modo si necesitara un 5+ y tuviera un modificador -2, lo haríaNecesita un 3 o más para tener éxito (5+, con el modificador menos 2 = 3+ para tener éxito) ._
+_For example, if you normally needed to roll a 4+ and had a +1 modifier to the target number you would only succeed on a roll of 5 or 6. Likewise if you needed a 5+ and had a -2 modifier, you would need a 3 or more to succeed (5+, with the minus 2 modifier = 3+ to succeed)_.
+_ Por ejemplo, si normalmente necesitara enrollar un 4+ y tuviera un modificador +1 al número de destino, solo tendría éxito en un rollo de 5 o 6. Del mismo modo si necesitara un 5+ y tuviera un modificador -2, lo haríaNecesita un 3 o más para tener éxito (5+, con el modificador menos 2 = 3+ para tener éxito) _.
 
 ### Rerolls
 ### vuelos
@@ -44,7 +44,7 @@ Sometimes players will have the ability to  reroll  certain dice. This lets the 
 A veces los jugadores tendrán la capacidad de revolcar ciertos dados.Esto le permite al jugador recoger dados que han producido un resultado insatisfactorio y volver a rodarlos.El resultado del vuelco siempre se mantiene incluso si es peor que el original.Es posible que los dados vuelvan a revelar nunca en ninguna circunstancia.
 
 ## Tokens
-## Tokens
+## Contadores
 
 Dropfleet Commander uses tokens and markers to track certain actions or events during a game. Many of these are designed to give both players a visual reminder of continuing effects and unit placement, but some are for convenience as it is often easier to use a dice or token next to a miniature than it is to have to keep notes.
 Dropfleet Commander usa tokens y marcadores para rastrear ciertas acciones o eventos durante un juego.Muchos de estos están diseñados para brindar a ambos jugadores un recordatorio visual de los efectos continuos y la colocación de la unidad, pero algunos son por conveniencia, ya que a menudo es más fácil usar un dados o token junto a una miniatura de lo que tiene que tener notas.
@@ -123,11 +123,11 @@ Individual ships in Dropfleet Commander always belong to a Group. Multiple Group
 Los grupos de batalla se ensamblan para formar su flota, vea la construcción de su flota para obtener más detalles.
 Battlegroups are assembled together to form your fleet, see Building Your Fleet for more details.
 
-**All ships of the same class in a Battlegroup automatically form a group together.**
+**All ships of the same class in a Battlegroup automatically form a group together**.
 ** Todos los barcos de la misma clase en un grupo de batalla forman automáticamente un grupo juntos. **
 
-_ Por ejemplo, un grupo de batalla UCM podría estar compuesto por seis fragatas de clase Toulon, dos cruceros de clase Berlín y un crucero de clase Madrid.Por lo tanto, contendría tres grupos;Uno comprende los seis toulons, uno comprende dos berlins y otro que comprende el madrid._
-_For example a UCM Battlegroup could be comprised of six Toulon Class frigates, two Berlin Class cruisers and a Madrid Class cruiser. It would therefore contain three groups; one comprising the six Toulons, one comprising two Berlins and one comprising the Madrid._
+_ Por ejemplo, un grupo de batalla UCM podría estar compuesto por seis fragatas de clase Toulon, dos cruceros de clase Berlín y un crucero de clase Madrid.Por lo tanto, contendría tres grupos;Uno comprende los seis toulons, uno comprende dos berlins y otro que comprende el madrid_.
+_For example a UCM Battlegroup could be comprised of six Toulon Class frigates, two Berlin Class cruisers and a Madrid Class cruiser. It would therefore contain three groups; one comprising the six Toulons, one comprising two Berlins and one comprising the Madrid_.
 
 Los barcos en grupos tienen que mantenerse bastante juntos para que puedan compartir rápidamente información de combate sobre enlaces seguros para coordinar instantáneamente sus acciones y obstaculizar la recopilación de inteligencia enemiga.Los barcos más pequeños con equipo de comunicaciones más limitado y la firma inferior tienen que mantenerse más juntos para retener la cohesión como unidad de combate y obtener los mismos beneficios.
 Ships in groups have to stay fairly close together so they can rapidly share combat information over secure links to instantly coordinate their actions and hinder enemy intelligence-gathering. Smaller ships with more limited communications gear and lower signature have to stay closer together to retain cohesion as a fighting unit and get the same benefits.
@@ -135,10 +135,10 @@ Ships in groups have to stay fairly close together so they can rapidly share com
 What that all means is that ships in the same group have to stay close to each other on the tabletop.
 Lo que todo significa es que los barcos en el mismo grupo tienen que permanecer cerca el uno del otro en la mesa.
 
-**Ships with a Hull characteristic of 6 or less have a group coherency of 3 .**
+**Ships with a Hull characteristic of 6 or less have a group coherency of 3 **.
 ** Se envía con un casco característico de 6 o menos tienen una coherencia grupal de 3. **
 
-**Ships with a Hull characteristic of 7 or more have a group coherency of 6 .**
+**Ships with a Hull characteristic of 7 or more have a group coherency of 6 **.
 ** Se envía con una característica de casco de 7 o más tienen una coherencia grupal de 6. **
 
 As with most of the distances in Dropfleet Commander, coherency is measured from the centre of one model to the centre of another, with the centre being the stem of the flight stand.
@@ -159,7 +159,7 @@ Algunos grupos tienen una coherencia abierta especial (sobre todo los transporti
 ## Battlegroup cohesion
 ## Cohesión de BattleGroup
 
-The individual groups that make up a battlegroup are free to split up as much as they wish, but they avoid penalties to the battlegroup s overall effectiveness by staying closer together. When it comes to comparing Strategy Ratings (see Strategy Ratings for more details), **a battlegroup temporarily increases its Strategy Rating by +1 for each of its groups that is more than 12  away from any other group in the same battlegroup.**
+The individual groups that make up a battlegroup are free to split up as much as they wish, but they avoid penalties to the battlegroup s overall effectiveness by staying closer together. When it comes to comparing Strategy Ratings (see Strategy Ratings for more details), **a battlegroup temporarily increases its Strategy Rating by +1 for each of its groups that is more than 12  away from any other group in the same battlegroup**.
 Los grupos individuales que conforman un grupo de batalla son libres de dividirse tanto como deseen, pero evitan las penalizaciones para la efectividad general del grupo de batalla al mantenerse más juntos.Cuando se trata de comparar las calificaciones de la estrategia (vea las calificaciones de la estrategia para obtener más detalles), ** un grupo de batalla aumenta temporalmente su calificación de estrategia en +1 para cada uno de sus grupos que está a más de 12 de cualquier otro grupo en el mismo grupo de batalla. **
 
 Special rules can increase or decrease the standard 12  coherency distance for battlegroups.

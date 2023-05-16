@@ -21,7 +21,7 @@ Some units have more than one profile with different unit types. These units can
 
 ## Infantry
 
-_Ground soldiers make up the bulk of most armies, deployed into the field to capture strategic points and fight enemies up close and personal._
+_Ground soldiers make up the bulk of most armies, deployed into the field to capture strategic points and fight enemies up close and personal_.
 
 Infantry are represented by bases, usually with 3-5 individual infantrymen on a base. For game purposes, the whole base is treated as a single unit, eliminating the need to move fiddly infantry separately.
 
@@ -29,17 +29,17 @@ Infantry units must be within 2" of another unit within their squad to be in coh
 
 ## Aircraft
 
-_Dropzone battles are fast and frantic, leaving little room for units unable to redeploy rapidly to deal with new threats. Aircraft transport most units to and from the battlefield, and provide air support to vulnerable ground troops._
+_Dropzone battles are fast and frantic, leaving little room for units unable to redeploy rapidly to deal with new threats. Aircraft transport most units to and from the battlefield, and provide air support to vulnerable ground troops_.
 
 Aircraft units must be within 6" of another unit within their squad to be in coherency.
 
-**Only weapons with the Anti- Aircraft (AA) special rule may shoot at Aircraft.**
+**Only weapons with the Anti- Aircraft (AA) special rule may shoot at Aircraft**.
 
 See the Aircraft section for more rules on using Aircraft.
 
 ## Behemoths
 
-_The largest weapons ever created for ground- based combat, Behemoths are engines of absolute destruction. Capable of levelling entire cities, these colossi are near impossible to destroy via conventional means._
+_The largest weapons ever created for ground- based combat, Behemoths are engines of absolute destruction. Capable of levelling entire cities, these colossi are near impossible to destroy via conventional means_.
 
 Behemoths are the biggest and most dangerous vehicles employed on the battlefield, and as such have several rules associated with their use.
 
@@ -47,7 +47,7 @@ See the Behemoth section for more rules on using Behemoths.
 
 ## Vehicles
 
-_The most common war engines in the galaxy, from treaded tanks to gravity nullifying skimmers and even walking battlesuits._
+_The most common war engines in the galaxy, from treaded tanks to gravity nullifying skimmers and even walking battlesuits_.
 
 Vehicle units must be within 3" of another unit within their squad to be in coherency.
 

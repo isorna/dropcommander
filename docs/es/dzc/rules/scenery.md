@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Scenery'
+excerpt: 'Battlefields of the future are hardly ever featureless wastelands, and normally include various kinds of scenery which can strongly affect the game.'
 position: 12
 breadcrumb:
   - path: '/es/'
@@ -14,59 +15,59 @@ breadcrumb:
 
 Battlefields of the future are hardly ever featureless wastelands, and normally include various kinds of scenery which can strongly affect the game. Dropzone Commander is best played on a table with plenty of scenery, which almost always makes a game more interesting, tactical and varied. There are hundreds of different types of scenery in a game, all of which follow certain rules. Simply agree with your opponent at the start of the game what rules each scenery piece uses.
 
-### Passable
+## Passable
 
-_A broadly horizontal space such as streets, fields, or snow to name a few._ Small contours also fall into this category. Passable scenery has no special rules associated with it. Most of a board is passable scenery.
+_A broadly horizontal space such as streets, fields, or snow to name a few_. Small contours also fall into this category. Passable scenery has no special rules associated with it. Most of a board is passable scenery.
 
-### Impassable
+## Impassable
 
-_Solid walls, massive piles of rubble, or lakes._ Steep contours also fall into this category. Impassable scenery cannot be moved through unless specified.
+_Solid walls, massive piles of rubble, or lakes_. Steep contours also fall into this category. Impassable scenery cannot be moved through unless specified.
 
-### Exceptional
+## Exceptional
 
-_Uninterrupted ground, made for fast travel such as roads and highways._ Vehicles without the Skimmer special rule spending their entire move action on Exceptional scenery gain +2" to their MV value.
+_Uninterrupted ground, made for fast travel such as roads and highways_. Vehicles without the Skimmer special rule spending their entire move action on Exceptional scenery gain +2" to their MV value.
 
-### Tough
+## Tough
 
-_Tough scenery could be particularly rocky ground, fences, or dense foliage._ Any move through Tough scenery costs 2" of MV for every 1" of it crossed.
+_Tough scenery could be particularly rocky ground, fences, or dense foliage_. Any move through Tough scenery costs 2" of MV for every 1" of it crossed.
 
-### Solid
+## Solid
 
-_Cliffs, buildings, or particularly advanced force fields._ This scenery cannot have 27line of sight drawn through it, whether a physical line of sight can be drawn or not. For example, a building with open windows can technically have line of sight drawn through it, but it is classed as Solid, so cannot.
+_Cliffs, buildings, or particularly advanced force fields_. This scenery cannot have 27line of sight drawn through it, whether a physical line of sight can be drawn or not. For example, a building with open windows can technically have line of sight drawn through it, but it is classed as Solid, so cannot.
 
-### Soft Cover
+## Soft Cover
 
-_Tall fields, chain link fences, or even more esoteric sources like artificial light dampeners._ Infantry targets in or within 1" of Soft Cover impart a +2 penalty to Accuracy rolls on weapons firing at them, providing the Soft Cover is between them and the shooter.
+_Tall fields, chain link fences, or even more esoteric sources like artificial light dampeners_. Infantry targets in or within 1" of Soft Cover impart a +2 penalty to Accuracy rolls on weapons firing at them, providing the Soft Cover is between them and the shooter.
 
-### Body Cover
+## Body Cover
 
-_Barricades, walls, or small piles of rubble._ Infantry targets in or within 1" of Body Cover impart a +1 penalty to damage rolls on weapons firing at them, providing the Body Cover is between them and the shooter. Body Cover cannot be used against CQ weapons.
+_Barricades, walls, or small piles of rubble_. Infantry targets in or within 1" of Body Cover impart a +1 penalty to damage rolls on weapons firing at them, providing the Body Cover is between them and the shooter. Body Cover cannot be used against CQ weapons.
 
-### Destructible
+## Destructible
 
-_Buildings, forests, or barricades._ Scenery pieces with this rule have Armour and Damage Points and can be destroyed. Although most scenery could fall into this category, it s simpler to let mostly Garrisons be Destructible.
+_Buildings, forests, or barricades_. Scenery pieces with this rule have Armour and Damage Points and can be destroyed. Although most scenery could fall into this category, it s simpler to let mostly Garrisons be Destructible.
 
 The Armour and Damage Points of a Destructible scenery piece can vary a lot, but for ease of play, several types are included in the Features section on page 40. When shooting at a Destructible scenery piece, weapons **hit on a 2+ before Accuracy modifiers** (for example disembarking and then shooting would hit on a 4+). Scenery cannot be Hull Down.
 
-**If a weapon scores a Critical on a Destructible scenery piece, it only loses 1 Damage Point.** However, it also receives a **Collateral Damage token.** It s easiest to use a dice to keep track of Collateral Damage toekns. See Collateral Damage on page 39 for rules on resolving Collateral Damage.
+**If a weapon scores a Critical on a Destructible scenery piece, it only loses 1 Damage Point**. However, it also receives a **Collateral Damage token**. It s easiest to use a dice to keep track of Collateral Damage toekns. See Collateral Damage on page 39 for rules on resolving Collateral Damage.
 
-**When a Destructible piece of scenery with 10 or more starting Damage Points is destroyed, roll 1D3.** Any units within that many inches (measured from the edges of the scenery piece) take that many automatic hits with an **Energy value equal to the scenery piece s Armour.** Body Cover may not be used against these hits.
+**When a Destructible piece of scenery with 10 or more starting Damage Points is destroyed, roll 1D3**. Any units within that many inches (measured from the edges of the scenery piece) take that many automatic hits with an **Energy value equal to the scenery piece s Armour**. Body Cover may not be used against these hits.
 
-**Each unit inside a Garrison that is destroyed instead takes 2D3 hits.** Roll once and apply the result to each unit inside. **If an Objective that isn't being carried (see Objectives for details) is in a Garrison that is destroyed, the Objective is removed from the game.**
+**Each unit inside a Garrison that is destroyed instead takes 2D3 hits**. Roll once and apply the result to each unit inside. **If an Objective that isn't being carried (see Objectives for details) is in a Garrison that is destroyed, the Objective is removed from the game**.
 
 After resolving the damage, remove the scenery piece from the game and replace it with a flat piece of Tough scenery no bigger than the original size. Any piece with 9 or less starting Damage Points is simply removed.
 
-### Garrison
+## Garrison
 
-_Bunkers, skyscrapers, or forests._
+_Bunkers, skyscrapers, or forests_.
 
 These scenery pieces can be garrisoned by any Infantry unit. More detailed rules for garrisons can be found on the following pages.
 
-### Flammable
+## Flammable
 
-_Forests, grass fields, or gas plants._
+_Forests, grass fields, or gas plants_.
 
-**This scenery piece resolves its Collateral Damage at Energy 2.**
+**This scenery piece resolves its Collateral Damage at Energy 2**.
 
 Additionally, if this scenery piece or a unit inside this scenery piece is targeted by a **weapon with the Flame special rule,** the scenery piece receives an additional Collateral Damage token.
 
@@ -84,7 +85,7 @@ Once infantry are inside, remove them from the table and indicate their presence
 
 When entering a Garrison, an Infantry squad may choose to occupy the centre, or any edge.
 
-A squad may choose to leave a Garrison as part of their Moving action. Place them on the board within 2" of the Garrison **in coherency and discard any remaining MV distance.** Alternatively an Infantry squad may be forced to abandon the Garrison, in which case they are placed in exactly the same way.
+A squad may choose to leave a Garrison as part of their Moving action. Place them on the board within 2" of the Garrison **in coherency and discard any remaining MV distance**. Alternatively an Infantry squad may be forced to abandon the Garrison, in which case they are placed in exactly the same way.
 
 A squad that leaves a Garrison (through moving out or abandoning it) can embark directly into a Transport, following the normal rules.
 
@@ -94,9 +95,9 @@ If a Garrison has **more enemy squads occupying it than friendly squads,** any s
 
 Infantry inside a Garrison may choose to move through it. While a Garrison may have multiple storeys, it s assumed that the Infantry squads cover all of the storeys in their time inside, so these levels have no bearing on gameplay.
 
-**All units are always counted as being within 1" of every other unit** (friendly and enemy) in the same Garrison. This means that all Infantry squads count as being **in coherency.**
+**All units are always counted as being within 1" of every other unit** (friendly and enemy) in the same Garrison. This means that all Infantry squads count as being **in coherency**.
 
-To move in a Garrison, simply choose an edge of the Garrison for your Infantry units to move to, regardless of its distance away. **Units in the same squad can move to different edges,** or not move at all, but **no units can move to the same edge as an enemy unit.** While this movement counts as an action, **the units count as remaining stationary for the purposes of their weapons's M&F distance.**
+To move in a Garrison, simply choose an edge of the Garrison for your Infantry units to move to, regardless of its distance away. **Units in the same squad can move to different edges,** or not move at all, but **no units can move to the same edge as an enemy unit**. While this movement counts as an action, **the units count as remaining stationary for the purposes of their weapons's M&F distance**.
 
 The easiest way of representing infantry movement inside a Garrison is to move the units to the edge they re occupying. While most scenery pieces have easy-to- identify edges, some will be a bit more complicated. In this situation, simply agree with your opponent at the start of the game.
 

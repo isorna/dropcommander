@@ -11,6 +11,14 @@
 }
 
 /*
+* WIP: Table styles
+*/
+.vp-doc th,
+.vp-doc td {
+  text-align: center;
+}
+
+/*
 * Custom home page boxes
 */
 @media (width >= 768px) {

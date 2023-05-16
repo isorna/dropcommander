@@ -22,6 +22,10 @@
       "remark-lint-maximum-line-length",
       "false"
     ],
+    [
+      "remark-lint-maximum-heading-length",
+      "false"
+    ],
     ["remark-lint-frontmatter-schema", {
       "schemas": {
         "./docs/index.schema.yaml": [

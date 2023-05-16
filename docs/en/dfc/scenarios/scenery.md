@@ -19,7 +19,7 @@ While the void of space doesn’t have as much scenery as a typical wargame, the
 
 Orbiting every inhabited planet are many thousands of objects ranging from space junk and wreckage through to satellites and mighty bastions of defence and commerce.
 
-In Dropfleet Commander these areas and obstacles are grouped into three distinct categories; **Debris Fields, Planetary Rings** and **Large Solid Objects.**
+In Dropfleet Commander these areas and obstacles are grouped into three distinct categories; **Debris Fields, Planetary Rings** and **Large Solid Objects**.
 
 ## Debris Fields
 
@@ -32,10 +32,36 @@ Ships shooting at a target through/in the field have the Lock of their weapon sy
 
 ### Damage to ships entering debris fields
 
-|Debris Field|Lock|Attack|Damage|Lock Penalty|Scan Penalty|
-| :-: | :-: | :-: | :-: | :-: | :-: |
-|Fine|3+|2|1|+1|-6"|
-|Dense|2+|2|1|+2|-12"|
+<table>
+  <thead>
+    <tr>
+      <th>Debris Field</th>
+      <th>Lock</th>
+      <th>Attack</th>
+      <th>Damage</th>
+      <th>Lock Penalty</th>
+      <th>Scan Penalty</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fine</td>
+      <td>3+</td>
+      <td>2</td>
+      <td>1</td>
+      <td>+1</td>
+        <td>-6&quot;</td>
+    </tr>
+    <tr>
+      <td>Dense</td>
+      <td>2+</td>
+      <td>2</td>
+      <td>1</td>
+      <td>+2</td>
+      <td>-12&quot;</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Planetary Ring
 
@@ -61,19 +87,101 @@ Space Stations are always deployed in Low Orbit unless stated otherwise in the S
 
 Due to their size Space Stations can absorb substantial damage before being destroyed. The table on the right shows the characteristics of the Space Stations as similar to ships. They do not suffer Crippling Damage and when they are reduced to 0 Hull points they are removed from play along with any Ground Asset tokens on board, they do not roll for Catastrophic Damage.
 
-|Name|Scan|Sig|Thrust|Hull|A|PD|G|T|Special|
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :- |
-|Small Space Station|6"|4"|0"|8|3+|5|-|-|-|
-|Medium Space Station|6"|6"|0"|12|3+|8|-|-|-|
-|Large Space Station|6"|8"|0"|16|3+|12|-|-|-|
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Scan</th>
+      <th>Sig</th>
+      <th>Thrust</th>
+      <th>Hull</th>
+      <th>A</th>
+      <th>PD</th>
+      <th>G</th>
+      <th>T</th>
+      <th>Special</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Small Space Station</td>
+      <td>6&quot;</td>
+      <td>4&quot;</td>
+      <td>0&quot;</td>
+      <td>8</td>
+      <td>3+</td>
+      <td>5</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Medium Space Station</td>
+      <td>6&quot;</td>
+      <td>6&quot;</td>
+      <td>0&quot;</td>
+      <td>12</td>
+      <td>3+</td>
+      <td>8</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Large Space Station</td>
+      <td>6&quot;</td>
+      <td>8&quot;</td>
+      <td>0&quot;</td>
+      <td>16</td>
+      <td>3+</td>
+      <td>12</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
 
 Many Space Stations come equipped with military grade defences to protect them from a multitude of threats. A Space Station can have any number of weapon systems mounted on it but the scenario will dictate which weapon systems, if any, a Space Station has. These weapons may be fired by the Controlling Player at the start of the Launch Assets phase (if multiple players control Space Stations then resolve the firing in Initiative Order). The weapons on a Space Station are shown on the right and each scenario will list which weapons each Space Station is using. These weapons do not need to be represented on the model as they change between scenarios. These are suggested weapon systems - feel free to invent your own for custom scenarios!
 
-|Type|Lock|Attack|Damage|Arc|Special|
-| :- | :-: | :-: | :-: | :-: | :- |
-|Mass Driver Armament|3+|2|1|F/S/R|-|
-|Laser Armament|3+|2|1|F/S/R|Burnthrough (4), Flash|
-|Missile Armament|3+|4|1|F/S/R|Close Action|
+<table>
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Lock</th>
+      <th>Attack</th>
+      <th>Damage</th>
+      <th>Arc</th>
+      <th>Special</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Mass Driver Armament</td>
+      <td>3+</td>
+      <td>2</td>
+      <td>1</td>
+      <td>F/S/R</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Laser Armament</td>
+      <td>3+</td>
+      <td>2</td>
+      <td>1</td>
+      <td>F/S/R</td>
+      <td>Burnthrough (4), Flash</td>
+    </tr>
+    <tr>
+      <td>Missile Armament</td>
+      <td>3+</td>
+      <td>4</td>
+      <td>1</td>
+      <td>F/S/R</td>
+      <td>Close Action</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Placing Scenery
 

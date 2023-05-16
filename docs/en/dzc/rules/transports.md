@@ -17,7 +17,7 @@ Transports are ubiquitous in Dropzone Commander, and have several rules tied to 
 
 ## Transport Values
 
-All Transports and units which can be transported have a Transport value in their stat sheet. There are two types of value: **Requirement** and **Capacity.** Capacity denotes what kind of unit can be transported by the Transport. Requirement denotes what a unit needs in order to be transported.
+All Transports and units which can be transported have a Transport value in their stat sheet. There are two types of value: **Requirement** and **Capacity**. Capacity denotes what kind of unit can be transported by the Transport. Requirement denotes what a unit needs in order to be transported.
 
 Requirement is shown by a solid symbol, and Capacity value is shown by an outlined symbol. **Any unit that has the outlined Capacity symbol is counted as a Transport,** and follows all the rules in this section.
 
@@ -29,15 +29,15 @@ Some units will have both Capacity and Requirement symbols, showing that they ar
 
 ARMOUR REQUIREMENT 3 ARMOUR VALUE 6
 
-_The requirement symbol on the left shows that the unit takes up 3 spaces in a transport. The capacity symbol on the right shows that the unit can transport up to six spaces of that symbol, so could transport up to 2 of the unit on the left._
+_The requirement symbol on the left shows that the unit takes up 3 spaces in a transport. The capacity symbol on the right shows that the unit can transport up to six spaces of that symbol, so could transport up to 2 of the unit on the left_.
 
 ## Auxiliary Transports
 
 Transports most often are part of the Auxiliary category, which are unlimited in the number you can choose to field in an army. Rules for Auxiliary squads can be found in the Army Roster section (see page 51).
 
-**Auxiliary Transports must begin the game with at least half Capacity filled.**
+**Auxiliary Transports must begin the game with at least half Capacity filled**.
 
-A Transport may have multiple squads embarked in it at once, but **may only have units from a single Battlegroup embarked at once.**
+A Transport may have multiple squads embarked in it at once, but **may only have units from a single Battlegroup embarked at once**.
 
 An Auxiliary Transport with units embarked **must activate** with those units’s Battlegroup. Any empty Auxiliary Transports can be activated with any Battlegroup, following the normal rules. However, any Auxiliary Transports cannot interact with units from a different Battlegroup to the one with which they are activated.
 
@@ -47,7 +47,7 @@ Although Transports usually operate independently, sometimes you may need to use
 
 ## Embarking & Disembarking
 
-Squads may choose to either embark into or disembark from a transport **as part of a movement action.**
+Squads may choose to either embark into or disembark from a transport **as part of a movement action**.
 
 If a squad is **in coherency** and **at least one unit** **ends** its moving action within 2" of a transport in the same Battlegroup, it may embark into the transport(s), providing their transport values match. Remove the squad from the board - it is now embarked in the Transport(s).
 
@@ -71,11 +71,11 @@ An Aerial Transport that moves **no further than half its MV value and lands** i
 
 Unless otherwise noted, units can only embark into or disembark from an Aerial Transport when it has landed.
 
-_In this example, we see a Condor that has moved half its MV of 18". It lands and a Bear disembarks. It is placed within 2". When the Bear activates it then drives 6" forward. On the Legionnaires’s activation they disembark from the Bear and are placed within 2". They then decide to make their full move of 2"._
+_In this example, we see a Condor that has moved half its MV of 18". It lands and a Bear disembarks. It is placed within 2". When the Bear activates it then drives 6" forward. On the Legionnaires’s activation they disembark from the Bear and are placed within 2". They then decide to make their full move of 2"_.
 
 ## Transports & Shooting
 
-**Squads may not shoot in the same round as as embarking (either before or after).**
+**Squads may not shoot in the same round as as embarking (either before or after)**.
 
 Squads may shoot in the same round **after** **disembarking,** but suffer a **+2 penalty to their Accuracy** for the action.
 
@@ -83,6 +83,6 @@ Anti-air weapons (AA) **cannot** shoot at an Aircraft (including Reaction Fire) 
 
 ## Shooting At Transports
 
-If a Transport unit is destroyed while there are units embarked, the controlling player **rolls 1D3**. On a 3 there is no effect, but on a 1-2, each unit embarked suffers that many **Energy 10 automatic hits.** Passive Countermeasures may be used as normal against these hits.
+If a Transport unit is destroyed while there are units embarked, the controlling player **rolls 1D3**. On a 3 there is no effect, but on a 1-2, each unit embarked suffers that many **Energy 10 automatic hits**. Passive Countermeasures may be used as normal against these hits.
 
 After applying any damage, place the embarked unit on the board within 2" of the destroyed Transport before removing it. If any units cannot be placed (due to impassable scenery or other units being in the way for example), they are also destroyed.

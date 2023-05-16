@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Almirantes'
+excerpt: 'Las flotas son incapaces de tener éxito en batalla sin un almirante competente.'
 position: 3
 breadcrumb:
   - path: '/es/'
@@ -12,13 +13,26 @@ breadcrumb:
 
 # Almirantes
 
-_Las flotas son incapaces de tener éxito en batalla sin un almirante competente. En situaciones cambiantes, la diferencia entre la victoria y la derrota suele venir marcada por las acciones y decisiones tomadas por los líderes de primera linea._
+_Las flotas son incapaces de tener éxito en batalla sin un almirante competente. En situaciones cambiantes, la diferencia entre la victoria y la derrota suele venir marcada por las acciones y decisiones tomadas por los líderes de primera linea_.
 
 Los almirantes tienen un coste en puntos igual que las naves, pero a diferencia de éstas, no tienen una hoja de atributos típica. En su lugar, tienen su propia tabla de atributos de Almirante, como la mostrada a continuación:
 
-|Almirante|AV|Permitido en|Pts|
-| :- | :-: | :-: | :-: |
-|UCMF Vice almirante|4|C/B|80|
+<table>
+  <thead>
+    <th>Almirante</th>
+    <th>AV</th>
+    <th>Permitido en</th>
+    <th>Pts</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>UCMF Vice almirante</td>
+      <td>4</td>
+      <td>C/B</td>
+      <td>80</td>
+    </tr>
+  </tbody>
+</table>
 
 **AV (Valor de almirante):** Representa las habilidades del almirante (Cuanto mayor es el valor, mejor es el almirante). Este atributo afecta a elementos como la tirada de iniciativa.
 
@@ -42,15 +56,28 @@ Las cartas de mando representan acciones y decisiones específicas tomadas por e
 
 Cuando una carta es jugada o descartada por cualquier motivo, debe ser situada boa arriba en una pila de descarte. Si un jugador durante la partida agota todo su mazo de mando, esta pila de descarte se pone boca abajo, se baraja y se transforma en un nuevo mazo de mando para robar.
 
-|Espionage|
-|:-|
-|**Activación**|
-|Cuando un oponente juega una carta de mando.|
-|**Objetivo**|
-|Una carta de mando enemiga utilizada.|
-|**Efecto**|
-|Puedes negar los efectos de la carta de mando enemiga.|
-|_"Esto demuestra que incluso un Shaltari puede caer en una trampa, si se prepara apropiadamente."_|
+<table>
+  <thead>
+    <th colspan="2">Espionage</th>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Activación</th>
+      <td>Cuando un oponente juega una carta de mando.</td>
+    </tr>
+    <tr>
+      <th>Objetivo</th>
+      <td>Una carta de mando enemiga utilizada.</td>
+    </tr>
+    <tr>
+      <th>Efecto</th>
+      <td>Puedes negar los efectos de la carta de mando enemiga.</td>
+    </tr>
+    <tfoot>
+      <th colspan="2"><em>“Esto demuestra que incluso un Shaltari puede caer en una trampa, si se prepara apropiadamente."</em></th>
+    </tfoot>
+  </tbody>
+</table>
 
 Una carta de mando típica tiene una estructura como la mostrada a continuación:
 

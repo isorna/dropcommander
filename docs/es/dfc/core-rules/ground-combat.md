@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Combate en tierra'
+excerpt: 'Aunque gran parte de Dropfleet Commander se centra en la lucha en órbita, la mayoría de los objetivos y puntos clave por los que se lucha se encuentran en realidad en la superficie del planeta.'
 position: 8
 breadcrumb:
   - path: '/es/'
@@ -12,7 +13,7 @@ breadcrumb:
 
 # Combate en tierra
 
-_Aunque gran parte de Dropfleet Commander se centra en la lucha en órbita, la mayoría de los objetivos y puntos clave por los que se lucha se encuentran en realidad en la superficie del planeta. El combate tierra-espacio es un asunto complicado porque los efectos combinados del pozo de gravedad y la atmósfera de un planeta colocan un velo espeso entre los dos campos de batalla. A menudo, los propósitos principales de una flota serán escoltar a los portaaviones y naves nodrizas capaces de enviar fuerzas de invasión a objetivos estratégicos en la superficie, o bien bombardear esos mismos objetivos hasta dejarlos en el olvido._
+_Aunque gran parte de Dropfleet Commander se centra en la lucha en órbita, la mayoría de los objetivos y puntos clave por los que se lucha se encuentran en realidad en la superficie del planeta. El combate tierra-espacio es un asunto complicado porque los efectos combinados del pozo de gravedad y la atmósfera de un planeta colocan un velo espeso entre los dos campos de batalla. A menudo, los propósitos principales de una flota serán escoltar a los portaaviones y naves nodrizas capaces de enviar fuerzas de invasión a objetivos estratégicos en la superficie, o bien bombardear esos mismos objetivos hasta dejarlos en el olvido_.
 
 ## Clústeres y Sectores
 
@@ -40,11 +41,32 @@ Los activos terrestres generalmente se despliegan en la superficie mediante nave
 
 Los activos terrestres se dividen en las siguientes 3 categorías: Infantería, Blindados y Baterías. En el juego, estos normalmente están representados por fichas. Cada uno de estos activos terrestres tiene sus propias reglas y habilidades.
 
-|Activo terrestre|Armadura|Attaque|
-| :-: | :-: | :-: |
-|Infantería|5+/3+|1|
-|Blindado|3+/5+|3|
-|Batería de defensa|3+/3+|0|
+<table>
+  <thead>
+    <tr>
+      <th>Activo terrestre</th>
+      <th>Armadura</th>
+      <th>Ataque</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Infantería</td>
+      <td>5+/3+</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Blindado</td>
+      <td>3+/5+</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Batería de defensa</td>
+      <td>3+/3+</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>
 
 * **Armadura:** Nuevamente, al igual que las naves, esto muestra la posibilidad de evitar sufrir daños. Cuando hay 2 valores de armadura, por ejemplo 5+/3+, el primero es su tirada de salvación contra el daño causado por el combate con unidades enemigas y el segundo es su tirada de salvación contra el daño causado por el bombardeo. (Ten en cuenta que todos tienen 1 casco efectivamente, por lo que un solo punto de daño del casco los destruirá).
 * **Attaque:** El número de dados que tira la unidad cuando está en combate con otros activos terrestres.

@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Aircraft'
+excerpt: 'In Dropzone Commander, most armies take to battle via aerial assault.'
 position: 10
 breadcrumb:
   - path: '/es/'
@@ -12,7 +13,7 @@ breadcrumb:
 
 # Aircraft
 
-_In Dropzone Commander, most armies take to battle via aerial assault. Whether through transporting troops and vehicles or through lightning-fast attack runs, the battlefields are awash with rapidly deploying aircraft._
+_In Dropzone Commander, most armies take to battle via aerial assault. Whether through transporting troops and vehicles or through lightning-fast attack runs, the battlefields are awash with rapidly deploying aircraft_.
 
 Aircraft play slightly differently to ground- based units, and this section details some of the changes to the base rules that they use.
 
@@ -52,9 +53,9 @@ In this situation, simply measure to the top of the flight stand as normal.
 
 Due to the elevation and speed of aircraft, **only specially designed Anti-Aircraft (AA) weapons may shoot at them when in the air** (see Weapon Special Rules for more details).
 
-If an Aircraft is destroyed while in the air, it crashes to the ground! The **controlling player rolls 1D3**. On a 3 there is no effect, but on a 1-2, each scenery piece and unit (friendly and enemy) within that many inches (measured horizontally) gets hit by the wreckage and suffer that many **Energy 10 automatic hits.**
+If an Aircraft is destroyed while in the air, it crashes to the ground! The **controlling player rolls 1D3**. On a 3 there is no effect, but on a 1-2, each scenery piece and unit (friendly and enemy) within that many inches (measured horizontally) gets hit by the wreckage and suffer that many **Energy 10 automatic hits**.
 
-Passive Countermeasures and Body Cover may be used as normal against these hits. **Other Aircraft are immune to these hits.**
+Passive Countermeasures and Body Cover may be used as normal against these hits. **Other Aircraft are immune to these hits**.
 
 If an Aerial Transport has embarked units, they are hit by this damage **instead** of the damage outlined in the Shooting at Transports section. They then are placed on the board following the normal rules.
 

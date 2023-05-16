@@ -19,21 +19,80 @@ The strengths and weakness of different ships and weapon systems in the game are
 
 **Points Cost (Pts) -** All ships in the game cost points to field in your fleet. Ships with a higher points cost will generally be more potent, but you will not be able to field as many. This number is for a single ship within that group.
 
-|Name|Scan|Sig|Thrust|Hull|A|PD|G|T|Special|
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :- |
-|Lysander|6"|0"|12"|2|6+|2|1-3|L|Atmospheric, Full Cloak, Launch, Open, Rare|
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Scan</th>
+      <th>Sig</th>
+      <th>Thrust</th>
+      <th>Hull</th>
+      <th>A</th>
+      <th>PD</th>
+      <th>G</th>
+      <th>T</th>
+      <th>Special</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Lysander</td>
+      <td>6&quot;</td>
+      <td>0&quot;</td>
+      <td>12&quot;</td>
+      <td>2</td>
+      <td>6+</td>
+      <td>2</td>
+      <td>1-3</td>
+      <td>L</td>
+      <td>Atmospheric, Full Cloak, Launch, Open, Rare</td>
+    </tr>
+  </tbody>
+</table>
 
 **Stats Bar -** This shows all the key characteristics of a ship. From how fast it moves, to how survivable it is, its tonnage, and much more. We ll be going into detail on the stats bar over the next few pages.
 
-|Type|Lock|Attack|Damage|Arc|Special|
-| :- | :-: | :-: | :-: | :-: | :- |
-|Barracuda Missile Bay|4+|2|1|F/S/R|Close Action|
+<table>
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Lock</th>
+      <th>Attack</th>
+      <th>Damage</th>
+      <th>Arc</th>
+      <th>Special</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Barracuda Missile Bay</td>
+      <td>4+</td>
+      <td>2</td>
+      <td>1</td>
+      <td>F/S/R</td>
+      <td>Close Action</td>
+    </tr>
+  </tbody>
+</table>
 
 **Weapon Systems -** This shows what weapons the ship is armed with. Accuracy, damage potential, arc of fire and more are shown here.
 
-|Load|Launch|Special|
-| :- | :-: | :-: |
-|Dropships|1|-|
+<table>
+  <thead>
+    <tr>
+      <th>Load</th>
+      <th>Launch</th>
+      <th>Special</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Dropships</td>
+      <td>1</td>
+      <td>-</td>
+      </tr>
+  </tbody>
+</table>
 
 **Launch Capacity -** Some ships are able to launch Dropships, Bulk Landers and more. If the ship has a launch capacity, it is shown here. Ships without any do not have this bar on their stat sheet.
 
@@ -57,7 +116,7 @@ The Scan characteristic shows how good a ship is at spotting the enemy through a
 
 ### Signature
 
-_Signature shows how visible a ship is on enemy sensors and how far away it can be spotted. Most ships use forms of active countermeasures like chaff, ECM (electronic countermeasures jamming) and other technologies to hide the ship by reducing its signature as much as possible._
+_Signature shows how visible a ship is on enemy sensors and how far away it can be spotted. Most ships use forms of active countermeasures like chaff, ECM (electronic countermeasures jamming) and other technologies to hide the ship by reducing its signature as much as possible_.
 
 These countermeasures are considered to be in constant use and are taken into account in the ship’s overall Signature. Certain kinds of damage, hard manoeuvring and firing weapon systems can all act to temporarily increase a ship’s Signature. Signature can also be reduced in some circumstances, such as by issuing the Silent Running order for example.
 
@@ -71,15 +130,15 @@ Hull is the number of damage points a ship can withstand before it is destroyed.
 
 ### Armour (A)
 
-_In comparison to civilian vessels, true warships are always  armoured  in some way to make them more resistant to damage. This can range from the basic hardening of individual components and incorporating multiple back-up systems to being sheathed in metres-thick plates of highly advanced armour._
+_In comparison to civilian vessels, true warships are always  armoured  in some way to make them more resistant to damage. This can range from the basic hardening of individual components and incorporating multiple back-up systems to being sheathed in metres-thick plates of highly advanced armour_.
 
 In game terms the Armour characteristic is a saving throw on a D6 against each point of Hull damage taken expressed as 3+, 4+ etc. When a ship is damaged roll a D6 for each point of damage inflicted on it. Each successful armour save prevents one point of Hull damage.
 
 ### Point Defence (PD)
 
-_All fighting ships carry some sort of point defence to protect themselves against small objects. Point Defences are the equivalent of Active Countermeasures on ground based units; systems that identify and neutralise incoming threats to the ship   everything from meteorites to nuclear-tipped missiles._
+_All fighting ships carry some sort of point defence to protect themselves against small objects. Point Defences are the equivalent of Active Countermeasures on ground based units; systems that identify and neutralise incoming threats to the ship   everything from meteorites to nuclear-tipped missiles_.
 
-_The exact weapons used can take many forms: pulse lasers, rapid fire gauss guns, interceptor missiles, flak rockets, energised plasma arcs   the list is endless. All of these are small, fast-firing weapon systems with the response time necessary to intercept tiny, rapidly-moving targets at close range._
+_The exact weapons used can take many forms: pulse lasers, rapid fire gauss guns, interceptor missiles, flak rockets, energised plasma arcs   the list is endless. All of these are small, fast-firing weapon systems with the response time necessary to intercept tiny, rapidly-moving targets at close range_.
 
 For the most part Point Defence relies on quantity rather than quality. The number indicated by this characteristic indicates the number of dice the ship can roll in self-defence when attacked by enemy Close Action weapons and some Launch Assets. These rules are covered later on.
 
@@ -89,7 +148,7 @@ Group indicates the normal operating parameters for ships of this class within t
 
 ### Tonnage (T)
 
-There are four main Tonnage categories in Dropfleet commander: **Light (L), Medium (M), Heavy (H) and Super Heavy (S).** There are also some ships that fall between the classes such as L2 and H2. As with the Group characteristic, Tonnage is primarily used in conjunction with Fleet Selection as players will often have to consider the Tonnage of the vessels under their command. Tonnage also figures into scenarios where victory conditions are often calculated using the tonnage of surviving vessels.
+There are four main Tonnage categories in Dropfleet commander: **Light (L), Medium (M), Heavy (H) and Super Heavy (S)**. There are also some ships that fall between the classes such as L2 and H2. As with the Group characteristic, Tonnage is primarily used in conjunction with Fleet Selection as players will often have to consider the Tonnage of the vessels under their command. Tonnage also figures into scenarios where victory conditions are often calculated using the tonnage of surviving vessels.
 
 ### Special
 
@@ -115,18 +174,18 @@ Some weapon systems hit harder than others and will do a corresponding amount of
 
 ### Arc
 
-Each weapon system has a designated fire arc it can make attacks into. There are 4 arcs: **F Front, F (N) Front Narrow, R Rear, S Side.** Side facing weapons may also have an addition notation, i.e. Right or Left. If the weapon has no extra note and only says S it may fire to either side - left or right. If it has the (Right) or (Left) notation it may only fire on that side (in addition to any other arcs shown).
+Each weapon system has a designated fire arc it can make attacks into. There are 4 arcs: **F Front, F (N) Front Narrow, R Rear, S Side**. Side facing weapons may also have an addition notation, i.e. Right or Left. If the weapon has no extra note and only says S it may fire to either side - left or right. If it has the (Right) or (Left) notation it may only fire on that side (in addition to any other arcs shown).
 
 Weapon arcs are normally 90 degrees but some weapons systems are restricted to a 22 degree narrow (N) arc instead. Ship bases include these arcs for ease of use thin ridges delineate front, side and rear arcs, and the raised area at the front the base shows the front narrow arc.
 
-_e.g. a ship has three weapons profiles. One has arc: F/S/R, the second has arc: S/R, and the last has arc: F/S (Right)._
+_e.g. a ship has three weapons profiles. One has arc: F/S/R, the second has arc: S/R, and the last has arc: F/S (Right)_.
 
-_In this case the first weapon would be able to fire from its Front arc, either Side arc or its Rear arc._
+_In this case the first weapon would be able to fire from its Front arc, either Side arc or its Rear arc_.
 
-_The second weapon could fire from either one of its Side arcs or its Rear arc._
+_The second weapon could fire from either one of its Side arcs or its Rear arc_.
 
-_The last weapon may only fire from the Front arc or the arc on its Right side, as it has the S (Right) notation._
+_The last weapon may only fire from the Front arc or the arc on its Right side, as it has the S (Right) notation_.
 
-### Special
+### Weapon special
 
 A number of weapon systems have special rules to reflect their effects. See Special Weapons Rules for more information.

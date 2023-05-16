@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Cartas de grupos de batalla y la baraja de estrategia'
+excerpt: 'El orden en el que las naves se activan se determina por la baraja de estrategia del jugador propietario, y dicha baraja se construye con cartas de Grupos de Batalla.'
 position: 2
 breadcrumb:
   - path: '/es/'
@@ -12,7 +13,7 @@ breadcrumb:
 
 # Cartas de grupos de batalla y la baraja de estrategia
 
-El orden en el que las naves se activan se determina por la baraja de estrategia del jugador propietario, y dicha baraja se construye con cartas de Grupos de Batalla.Una carta de Grupo de Batalla puede representar únicamente a una solitaria y poderosa nave, pero generalmente comprende varios grupos de naves.
+El orden en el que las naves se activan se determina por la baraja de estrategia del jugador propietario, y dicha baraja se construye con cartas de Grupos de Batalla. Una carta de Grupo de Batalla puede representar únicamente a una solitaria y poderosa nave, pero generalmente comprende varios grupos de naves.
 
 Al inicio de cada turno, ambos jugadores preparan su propia baraja de estrategia utilizando sus cartas de Grupos de Batalla disponibles, colocándolas según el orden de activación que se tiene intención de seguir en dicho turno.
 

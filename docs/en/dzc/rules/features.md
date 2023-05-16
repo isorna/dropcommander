@@ -15,21 +15,128 @@ breadcrumb:
 
 Scenery pieces are so varied in size and shape that it would be impossible to list them all, and although players are free to agree what rules their scenery has, a few examples are listed here for ease of reference.
 
-|Scenery Piece|Size|Armour|Damage|Special|
-| :- | :-: | :-: | :-: | :- |
-|Road|3" wide|-|-|Exceptional|
-|Lava stream|2" wide|-|-|Impassable|
-|Play park|4" wide|-|-|Tough, Soft Cover|
-|Wheat field|5" wide|5|15|Destructible, Flammable, Passable, Soft Cover |
-|Barricade|<4" long, 1" high|10|5|Body Cover, Destructible, Soft Cover, Tough |
-|Small forest|<4" wide, <4" tall|7|20|Destructible, Flammable, Garrison, Impassable, Soft Cover, Solid|
-|Medium forest|<6" wide, <8" tall|7|30|Destructible, Flammable, Garrison, Impassable, Soft Cover, Solid|
-|Large forest|>6" wide, <8" tall|7|40|Destructible, Flammable, Garrison, Impassable, Soft Cover, Solid|
-|Tiny shack|<4" wide, <4" tall|8|5|Destructible, Flammable, Garrison, Impassable, Soft Cover, Solid|
-|Small shack|<6" wide, <6" tall|8|10|Destructible, Flammable, Garrison, Impassable, Soft Cover, Solid|
-|Tiny building|<4" wide, <4" tall|10|5|Body Cover, Destructible, Garrison, Impassable, Soft Cover, Solid|
-|Small building|<6" wide, <6" tall|10|10|Body Cover, Destructible, Garrison, Impassable, Soft Cover, Solid|
-|Medium building|<6" wide, <8" tall|10|20|Body Cover, Destructible, Garrison, Impassable, Soft Cover, Solid|
-|Large building|>6" wide, >8" tall|10|30|Body Cover, Destructible, Garrison, Impassable, Soft Cover, Solid|
-|Medium Bunker|<6" wide, <8" tall|13|20|Body Cover, Destructible, Garrison, Impassable, Soft Cover, Solid|
-|Large Bunker|>6" wide, >8" tall|13|30|Body Cover, Destructible, Garrison, Impassable, Soft Cover, Solid|
+<table>
+  <thead>
+    <tr>
+      <th>Scenery Piece</th>
+      <th>Size</th>
+      <th>Armour</th>
+      <th>Damage</th>
+      <th>Special</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Road</td>
+      <td>3&quot; wide</td>
+      <td>-</td>
+      <td>-</td>
+      <td>Exceptional</td>
+    </tr>
+    <tr>
+      <td>Lava stream</td>
+      <td>2&quot; wide</td>
+      <td>-</td>
+      <td>-</td>
+      <td>Impassable</td>
+    </tr>
+    <tr>
+      <td>Play park</td>
+      <td>4&quot; wide</td>
+      <td>-</td>
+      <td>-</td>
+      <td>Tough, Soft Cover</td>
+    </tr>
+    <tr>
+      <td>Wheat field</td>
+      <td>5&quot; wide</td>
+      <td>5</td>
+      <td>15</td>
+      <td>Destructible, Flammable, Passable, Soft Cover</td>
+    </tr>
+    <tr>
+      <td>Barricade</td>
+      <td>&lt;4&quot; long, 1&quot; high</td>
+      <td>10</td>
+      <td>5</td>
+      <td>Body Cover, Destructible, Soft Cover, Tough</td>
+    </tr>
+    <tr>
+      <td>Small forest</td>
+      <td>&lt;4&quot; wide, &lt;4&quot; tall</td>
+      <td>7</td>
+      <td>20</td>
+      <td>Destructible, Flammable, Garrison, Impassable, Soft Cover, Solid</td>
+    </tr>
+    <tr>
+      <td>Medium forest</td>
+      <td>&lt;6&quot; wide, &lt;8&quot; tall</td>
+      <td>7</td>
+      <td>30</td>
+      <td>Destructible, Flammable, Garrison, Impassable, Soft Cover, Solid</td>
+    </tr>
+    <tr>
+      <td>Large forest</td>
+      <td>&gt;6&quot; wide, &lt;8&quot; tall</td>
+      <td>7</td>
+      <td>40</td>
+      <td>Destructible, Flammable, Garrison, Impassable, Soft Cover, Solid</td>
+    </tr>
+    <tr>
+      <td>Tiny shack</td>
+      <td>&lt;4&quot; wide, &lt;4&quot; tall</td>
+      <td>8</td>
+      <td>5</td>
+      <td>Destructible, Flammable, Garrison, Impassable, Soft Cover, Solid</td>
+    </tr>
+    <tr>
+      <td>Small shack</td>
+      <td>&lt;6&quot; wide, &lt;6&quot; tall</td>
+      <td>8</td>
+      <td>10</td>
+      <td>Destructible, Flammable, Garrison, Impassable, Soft Cover, Solid</td>
+    </tr>
+    <tr>
+      <td>Tiny building</td>
+      <td>&lt;4&quot; wide, &lt;4&quot; tall</td>
+      <td>10</td>
+      <td>5</td>
+      <td>Body Cover, Destructible, Garrison, Impassable, Soft Cover, Solid</td>
+    </tr>
+    <tr>
+      <td>Small building</td>
+      <td>&lt;6&quot; wide, &lt;6&quot; tall</td>
+      <td>10</td>
+      <td>10</td>
+      <td>Body Cover, Destructible, Garrison, Impassable, Soft Cover, Solid</td>
+    </tr>
+    <tr>
+      <td>Medium building</td>
+      <td>&lt;6&quot; wide, &lt;8&quot; tall</td>
+      <td>10</td>
+      <td>20</td>
+      <td>Body Cover, Destructible, Garrison, Impassable, Soft Cover, Solid</td>
+    </tr>
+    <tr>
+      <td>Large building</td>
+      <td>&gt;6&quot; wide, &gt;8&quot; tall</td>
+      <td>10</td>
+      <td>30</td>
+      <td>Body Cover, Destructible, Garrison, Impassable, Soft Cover, Solid</td>
+    </tr>
+    <tr>
+      <td>Medium Bunker</td>
+      <td>&lt;6&quot; wide, &lt;8&quot; tall</td>
+      <td>13</td>
+      <td>20</td>
+      <td>Body Cover, Destructible, Garrison, Impassable, Soft Cover, Solid</td>
+    </tr>
+    <tr>
+      <td>Large Bunker</td>
+      <td>&gt;6&quot; wide, &gt;8&quot; tall</td>
+      <td>13</td>
+      <td>30</td>
+      <td>Body Cover, Destructible, Garrison, Impassable, Soft Cover, Solid</td>
+    </tr>
+  </tbody>
+</table>

@@ -21,13 +21,13 @@ A ship may move voluntarily up or down one orbital layer (e.g. from High Orbit t
 
 Ships may go down an Orbital Layer at any point in their movement for no penalty to their movement (other than those associated with going into Atmosphere - see the Atmosphere section for details).
 
-**A ship must expend 4  of its available Thrust to move up an Orbital Layer. A ship that does not have 4  of Thrust available may not move up a layer.**
+**A ship must expend 4  of its available Thrust to move up an Orbital Layer. A ship that does not have 4  of Thrust available may not move up a layer**.
 
 ## Ramming
 
 With the vast speeds involved in space travel, when two objects collide it mostly results in both objects being obliterated. With this in mind, even the most insane or bloodthirsty captains will avoid ramming their ship into another for risk of both being consumed in the inevitable explosion. However, in certain circumstances, when there is nothing else to loose, incredibly desperate captains have been known to rush dangerously close towards the enemy in the hopes of taking them with them. In such circumstances it is often the close range exchanges of weapon systems or the critical overloading of the ships jump drives that do the most damage, on rare occasions though the doomed ship will manage to make contact with their target, frequently consuming both in the destructive energies unleashed.
 
-Only large ships have the mass to survive the desperate defensive fire thrown up by the enemy ship and as such, **only ships of medium tonnage or larger my attempt this manoeuvre.** As a captain must be desperate to attempt such an action his ship must abide by the following criteria:
+Only large ships have the mass to survive the desperate defensive fire thrown up by the enemy ship and as such, **only ships of medium tonnage or larger my attempt this manoeuvre**. As a captain must be desperate to attempt such an action his ship must abide by the following criteria:
 
 * The ship must have two or fewer Hull Points remaining.
 * The ship must choose Standard Orders this turn and may not fire.

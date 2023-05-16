@@ -13,7 +13,7 @@ breadcrumb:
 
 # Moving
 
-Units within a squad may be moved **up to their maximum MV value.** A unit doesn’t have to move its full MV, but any remaining distance is lost.
+Units within a squad may be moved **up to their maximum MV value**. A unit doesn’t have to move its full MV, but any remaining distance is lost.
 
 Simply pick a point within the unit’s MV and move it there. Unless otherwise noted, units cannot move onto or over other units, however units in the same squad are ignored during movement (although still cannot end their move on another unit).
 

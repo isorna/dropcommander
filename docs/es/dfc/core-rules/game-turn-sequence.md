@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Secuencia del turno de juego'
+excerpt: 'Una partida de Dropfleet Commander se juega en una serie de turnos.'
 position: 1
 breadcrumb:
   - path: '/es/'
@@ -37,6 +38,6 @@ Cada nave en la flota de un jugador se despliega como parte de un **Grupo**, el 
 1. **Combate terrestre:** Resuelve cualquier movimiento de activos terrestres y combates.
 1. **Lanzamiento de activos:** Resuelve cualquier lanzamiento de activos.
 1. **Control de daños:** Lanza para determinar el control de daños de las naves afectadas por Daño paralizante.
-1. **Caída orbital.** Resuelve cualquier efecto de Caída orbital.
+1. **Caída orbital**. Resuelve cualquier efecto de Caída orbital.
 1. **Contar puntos de victoria**: Indicados en cada uno de los escenarios.
-1. **Eliminar cualquier exceso de dados y marcadores del tablero.**
+1. **Eliminar cualquier exceso de dados y marcadores del tablero**.

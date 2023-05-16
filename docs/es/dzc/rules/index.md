@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'The basics'
+categoryTitle: 'Core rules'
 excerpt: 'Reglas básicas de Dropzone Commander.'
 position: 0
 breadcrumb:
@@ -8,9 +8,9 @@ breadcrumb:
   - path: '/es/dzc/'
     text: 'Dropzone Commander'
   - path: ''
-    text: 'The basics'
+    text: 'Core rules'
 ---
-# The basics
+# Core rules
 
 <script setup>
   import { data as pages } from '/documents.data'

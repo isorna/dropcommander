@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Disparo'
+excerpt: 'Una vez un grupo de naves finaliza su movimiento, todas sus naves pueden disparar sistemas de armas si las órdenes impartidas a las mismas lo permiten.'
 position: 6
 breadcrumb:
   - path: '/es/'
@@ -24,7 +25,7 @@ Una vez un grupo de naves finaliza su movimiento, todas sus naves pueden dispara
 1. Realizar tiradas de Daño incapacitante si los puntos de Casco se reducen al 50% o menos.
 1. Realizar tiradas de Daño catastrófico si el valor de puntos de Casco se reduce a 0 o menos.
 
-## 1. Comprobar Rango de detección y arco de fuego.
+## 1. Comprobar Rango de detección y arco de fuego
 
 En el combate espacial pocas armas tienen un alcance máximo real. Sin verse afectados por los efectos de la atmósfera y la gravedad - da igual que el disparo proceda de un percutor cinético o de un rayo térmico - los proyectiles pueden lanzarse a distancias infinitas.
 
@@ -32,7 +33,7 @@ Sin embargo, las naves necesitan ser capaces de predecir con precisión donde se
 
 Todo esto significa que cuando se disparan armas en Dropfleet, las características de Escáner y Señal se utilizan para determinar el rango efectivo de una nave.
 
-**Escáner del atacante + Señal del objetivo = Rango del arma del atacante.**
+**Escáner del atacante + Señal del objetivo = Rango del arma del atacante**.
 
 El rango que una nave tiene para detectar a su objetivo es igual a la suma de la característica Señal del objetivo y el valor de Escáner del atacante.
 
@@ -46,12 +47,12 @@ Las armas de corto alcance tienen un rango corto, y solo utilizan el valor de Es
 
 Ciertos eventos causan la aparición de Picos de energía que se colocan en las naves para marcar su estado actual. Los Picos de energía representan todo tipo de acciones o eventos que ayudan al enemigo en detectar y fijar blanco en una nave (uso de motores, disparar armas, o incluso fugas causadas por el daño en una nave o acciones de escaneado de naves enemigas). Los Picos de energía se clasifican en dos tipos: Menores y Mayores.
 
-* **Un Pico de energía Menor incrementa la Señal de una nave en 6 hasta que es eliminado.**
-* **Un Pico de energía Mayor incrementa las Señal de una nave en 12 hasta que es eliminado.**
+* **Un Pico de energía Menor incrementa la Señal de una nave en 6 hasta que es eliminado**.
+* **Un Pico de energía Mayor incrementa las Señal de una nave en 12 hasta que es eliminado**.
 
 Una nave solo puede tener un Pico a la vez. Si una nave tiene un Pico menor y obtiene otro mas, se convierte en un Pico mayor. Si una nave ya tiene un Pico mayor, ya brilla como un arbol de Navidad gigante y no recibe más picos hasta que el Pico mayor ha sido eliminado o reducido a Pico menor.
 
-_Por ejemplo; una nave con una Señal de 6 gana un Pico menor. Su Señal contará como 12 hasta que el Pico sea eliminado. Si la nave gana otro Pico menor, el que tenía se transforma en su lugar en un Pico mayor, y la Señal de la nave cuenta como 18 hasta que el Pico mayor es eliminado._
+_Por ejemplo; una nave con una Señal de 6 gana un Pico menor. Su Señal contará como 12 hasta que el Pico sea eliminado. Si la nave gana otro Pico menor, el que tenía se transforma en su lugar en un Pico mayor, y la Señal de la nave cuenta como 18 hasta que el Pico mayor es eliminado_.
 
 Usa el dial de estado de la base de la nave para marcar apropiadamente sus Picos de energía, girándolo apropiadamente cuando se ganan o pierden Picos. Los jugadores pueden utilizar marcadores alternativos para ello si desean.
 
@@ -63,7 +64,7 @@ Las naves solo pueden disparar cada sistema de armas contra un único objetivo, 
 
 Varios sistemas de armas lanza un número aleatorio de dados de ataque (por ejemplo, 1d6 o 1d3) los cuales se determinan cada vez que dicho arma dispara. Realiza una tirada para determinar cuantos ataques son generados por el sistema de armas antes de distribuir los dados en el objetivo correspondiente disponible.
 
-Generalmente un grupo activo generalmente contiene  varias naves con sistemas de armas para disparar. **Todos los dados de ataque del Grupo deben ser ubicados entre los diferentes objetivos válidos disponibles antes de realizar cualquier tirada para impactar.** Esto ayuda a agilizar el juego y previene que un jugador optimice excesivamente sus disparos de una forma poco realista.
+Generalmente un grupo activo generalmente contiene  varias naves con sistemas de armas para disparar. **Todos los dados de ataque del Grupo deben ser ubicados entre los diferentes objetivos válidos disponibles antes de realizar cualquier tirada para impactar**. Esto ayuda a agilizar el juego y previene que un jugador optimice excesivamente sus disparos de una forma poco realista.
 
 ### Armas de corto alcance
 
@@ -77,11 +78,11 @@ Cada sistema de armas tiene una característica de Puntería que indica el núme
 
 ### Impacto crítico
 
-**Cualquier dado de ataque que obtenga un resultado que supere en 2 o más el valor de Puntería del sistema de armas se considera que ha infligido un impacto crítico. El daño causado por este dado de ataque ignora la Salvación por armadura del objetivo, no pudiendo utilizarla para bloquear dicho daño.**
+**Cualquier dado de ataque que obtenga un resultado que supere en 2 o más el valor de Puntería del sistema de armas se considera que ha infligido un impacto crítico. El daño causado por este dado de ataque ignora la Salvación por armadura del objetivo, no pudiendo utilizarla para bloquear dicho daño**.
 
 las Contramedidas pasivas pueden seguir utilizándose para salvar daño producido por impactos críticos utilizando su valor de Armadura adicional (ver siguientes apartados para detalles adicionales).
 
-_por ejemplo, si un sistema de armas tiene un valor de Puntería de 4+, cada dado de ataque que resulte en un 6 ignorará la Salvación por armadura del objeetivo a la hora de determinar el daño causado en el Casco. Un sistema de armas con una Puntería de 3+ ignorará salvaciones por armadura en tiradas con resultados de 5 o 6._
+_por ejemplo, si un sistema de armas tiene un valor de Puntería de 4+, cada dado de ataque que resulte en un 6 ignorará la Salvación por armadura del objeetivo a la hora de determinar el daño causado en el Casco. Un sistema de armas con una Puntería de 3+ ignorará salvaciones por armadura en tiradas con resultados de 5 o 6_.
 
 ### Disparar entre Capas orbitales
 
@@ -91,9 +92,9 @@ Una nave que dispare de una capa orbital a otra sufre un penalizador de +1 al va
 
 _La dificultad de disparar entre Capas orbitales aumenta al intentar disparar a través de la Atmósfera, donde disparar cualquier tipo de arma se vuelve altamente impreciso debido a pérdidas de energía, dispersiones de plasma, etc. he difficulty of shooting between Orbital Layers is compounded when shooting through Atmosphere, where firing anything from a laser to a mass driver becomes highly inaccurate as energy bleeds off and is lost, plasma disperses etc. Apuntar y causar daño de forma efectiva a naves o ciudades en la Atmósfera es más o menos similar a golpear un objeto en el fondo de un estanque lleno de limo.
 
-**A menos que un sistema de armas esté específicamente diseñado para atacar en este tipo de situaciones, cualquier sistema de armas que dispare en la atmósfera o a ua nave ubicada en la Atmósfera tendrá un valor de Puntería para dicho ataque de 6+, independientemente de cualquier otro modificador. Además, el rango de detección para disparar se limita al valor de Escáner.** La Señal y Picos de energía son ignorados.
+**A menos que un sistema de armas esté específicamente diseñado para atacar en este tipo de situaciones, cualquier sistema de armas que dispare en la atmósfera o a ua nave ubicada en la Atmósfera tendrá un valor de Puntería para dicho ataque de 6+, independientemente de cualquier otro modificador. Además, el rango de detección para disparar se limita al valor de Escáner**. La Señal y Picos de energía son ignorados.
 
-**Los sistemas de armas de corto alcance no pueden ser disparados hacia dentro o hacia fuera de la atmósfera.**
+**Los sistemas de armas de corto alcance no pueden ser disparados hacia dentro o hacia fuera de la atmósfera**.
 
 Ciertas reglas como Bombardeo o Aire/aire ignoran los penalizadores por disparar a través de capas orbitales. Dichas excepciones están cubiertas en la sección de reglas especiales o en los perfiles individuales de cada nave.
 
@@ -103,7 +104,7 @@ A veces, el mejor curso de acción es destruir el mismo planeta por el que se es
 
 **Los Sectores solo pueden ser elegidos como objetivo por naves en Órbita baja** y siguen las mismas normas que cualquier otro elemento situado en la Atmósfera.
 
-Si un Sector recibe daño, se realizan salvaciones igual que si fuera cualquier otra nave. Los Daños Críticos ignoran las salvaciones por armadura al igual que contra naves, pero dado que la mayoría de armas tendrán un valor de Puntería de 6+, únicamente las armas especializadas podrán causar impactos críticos. (por ejemplo, armas con la regla especial Bombardeo). **Únicamente pueden elegirse Sectores como objetivo de un sistema de armas si no contiene ningún activo terrestre amigo.**
+Si un Sector recibe daño, se realizan salvaciones igual que si fuera cualquier otra nave. Los Daños Críticos ignoran las salvaciones por armadura al igual que contra naves, pero dado que la mayoría de armas tendrán un valor de Puntería de 6+, únicamente las armas especializadas podrán causar impactos críticos. (por ejemplo, armas con la regla especial Bombardeo). **Únicamente pueden elegirse Sectores como objetivo de un sistema de armas si no contiene ningún activo terrestre amigo**.
 
 Si un Sector sufre un punto de daño y el Sector está ocupado por Activos terrestres debes realizar una tirada para evaluar daños colaterales. Cada punto de daño causará un punto de daño en un Activo terrestre en dicho sector (las tiradas de salvación por armadura se tiran normalmente - ver la sección Activos terrestres para más detalles). El jugador que infligió el daño elige como distribuir este daño. Debe causarse un punto de daño a cada Activo terrestre antes de poder causar un segundo punto de daño a cualquiera de ellos.
 
@@ -111,7 +112,7 @@ Un sector que pierde todos sus puntos de Casco se convierte en ruinas. Cualquier
 
 ### Ataque nuclear a una zona desde la órbita
 
-_Todas las naves principales cargan un pequeño cargamento de cabezas nucleares para utilizar en circunstancias muy específicas._
+_Todas las naves principales cargan un pequeño cargamento de cabezas nucleares para utilizar en circunstancias muy específicas_.
 
 En partidas de Dropfleet Commander puede darse el caso que te encuentres en posición de lanzar uno de estos devastadores ataques contra un Sector, no obstante, para estar sobre aviso, esto puede suponer una reducción en el total de tus puntos de victoria por destruir infraestructura valiosa (ver la sección Escenarios para mas detalles).
 
@@ -124,4 +125,3 @@ En partidas de Dropfleet Commander puede darse el caso que te encuentres en posi
 * No puede haber naves enemigas a 12" del Sector objetivo.
 
 Si el misil nuclear es lanzado, el Sector es destruido con una tirada de 2+. Si es destruido, cualquier activo terrestre que hubiese en él es eliminado del juego. ¡No quedará nada reseñable salvo ruinas! **Cada Sector localizado en la Zona de guerra también sufre 1 punto de daño** si el Sector objetivo fue destruido (las salvaciones por armadura se realizan de la forma habitual).
-

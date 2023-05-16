@@ -29,36 +29,134 @@ Each ship has a Tonnage value as explained in the Ship Characteristics section. 
 
 ### Battlegroup Type
 
-|Game Size|Pathfinder|Line|Vanguard|Flag|Max|Launch Capacity|
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|Skirmish (500-999 pts)|0-2|1-2|0-1|0|4|10|
-|Clash (1000-1999 pts)|1-2|1-3|0-2|0-1|6|15|
-|Battle (2000-3000 pts)|1-3|1-4|0-3|0-2|7|20|
+<table>
+  <thead>
+    <th>Game Size</th>
+    <th>Pathfinder</th>
+    <th>Line</th>
+    <th>Vanguard</th>
+    <th>Flag</th>
+    <th>Max</th>
+    <th>Launch Capacity</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Skirmish (500-999 pts)</td>
+      <td>0-2</td>
+      <td>1-2</td>
+      <td>0-1</td>
+      <td>0</td>
+      <td>4</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>Clash (1000-1999 pts)</td>
+      <td>1-2</td>
+      <td>1-3</td>
+      <td>0-2</td>
+      <td>0-1</td>
+      <td>6</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td>Battle (2000-3000 pts)</td>
+      <td>1-3</td>
+      <td>1-4</td>
+      <td>0-3</td>
+      <td>0-2</td>
+      <td>7</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>
 
-|Pathfinder Battlegroup|Groups|
-| :- | :-: |
-|Light|1-3|
-|Medium|0-1|
-|Max|3|
+<table>
+  <thead>
+    <th>Pathfinder Battlegroup</th>
+    <th>Groups</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Light</td>
+      <td>1-3</td>
+    </tr>
+    <tr>
+      <td>Medium</td>
+      <td>0-1</td>
+    </tr>
+    <tr>
+      <td>Max</td>
+      <td>3</td>
+    </tr>
+  </tbody>
+</table>
 
-|Line Battlegroup|Groups|
-| :- | :-: |
-|Light|0-2|
-|Medium|1-3|
-|Max|3|
+<table>
+  <thead>
+    <th>Line Battlegroup</th>
+    <th>Groups</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Light</td>
+      <td>0-2</td>
+    </tr>
+    <tr>
+      <td>Medium</td>
+      <td>1-3</td>
+    </tr>
+    <tr>
+      <td>Max</td>
+      <td>3</td>
+    </tr>
+  </tbody>
+</table>
 
-|Vanguard Battlegroup|Groups|
-| :- | :-: |
-|Light|0-1|
-|Medium|0-1|
-|Heavy|1-2|
-|Max|3|
+<table>
+  <thead>
+    <th>Vanguard Battlegroup</th>
+    <th>Groups</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Light</td>
+      <td>0-1</td>
+    </tr>
+    <tr>
+      <td>Medium</td>
+      <td>0-1</td>
+    </tr>
+    <tr>
+      <td>Heavy</td>
+      <td>1-2</td>
+    </tr>
+    <tr>
+      <td>Max</td>
+      <td>3</td>
+    </tr>
+  </tbody>
+</table>
 
-|Flag Battlegroup|Groups|
-| :- | :-: |
-|Light|0-1|
-|Super Heavy|1-2|
-|Max|3|
+<table>
+  <thead>
+    <th>Flag Battlegroup</th>
+    <th>Groups</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Light</td>
+      <td>0-1</td>
+    </tr>
+    <tr>
+      <td>Super Heavy</td>
+      <td>1-2</td>
+    </tr>
+    <tr>
+      <td>Max</td>
+      <td>3</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Launch Capacity
 
@@ -68,11 +166,35 @@ Fighters, Bombers and Torpedoes are expensive resources and as such fleets only 
 
 Once you have built your fleet, you will need to determine your Strategy Rating for each Battlegroup in your fleet. To determine the Strategy Rating of each Battlegroup simply total up the Tonnage Value of each ship in the Battlegroup using the table below.
 
-|Tonnage|Tonnage Value|
-| :- | :-: |
-|Light|1|
-|Light 2 (L2)|2|
-|Medium|5|
-|Heavy|10|
-|Super Heavy|15|
-|Super Heavy 2 (S2)|30|
+<table>
+  <thead>
+    <th>Tonnage</th>
+    <th>Tonnage Value</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Light</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Light 2 (L2)</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Medium</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Heavy</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>Super Heavy</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td>Super Heavy 2 (S2)</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>

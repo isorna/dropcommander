@@ -13,7 +13,7 @@ breadcrumb:
 
 # Ground Combat
 
-_Although much of Dropfleet Commander focuses on the fighting in orbit, most objectives and key points being fought over are actually on the planet’s surface. Ground to space combat is a tricky business because the combined effects of a planet’s gravity well and atmosphere place a thick  veil  between the two battlefields. Often a fleet’s primary purposes will be to escort strike carriers and mother ships capable of sending invasion forces down to strategic objectives on the surface, or else to bombard those same objectives into oblivion._
+_Although much of Dropfleet Commander focuses on the fighting in orbit, most objectives and key points being fought over are actually on the planet’s surface. Ground to space combat is a tricky business because the combined effects of a planet’s gravity well and atmosphere place a thick  veil  between the two battlefields. Often a fleet’s primary purposes will be to escort strike carriers and mother ships capable of sending invasion forces down to strategic objectives on the surface, or else to bombard those same objectives into oblivion_.
 
 ## Clusters & Sectors
 
@@ -41,11 +41,32 @@ Ground Assets are usually deployed to the surface by Dropships or Bulk Landers (
 
 Ground assets are broken up into the following 3 categories: Infantry, Armour and Batteries. In game, these are normally represented by tokens. Each of these Ground Assets have their own rules and abilities.
 
-|Ground Asset|Armour|Attack|
-| :-: | :-: | :-: |
-|Infantry|5+/3+|1|
-|Armour|3+/5+|3|
-|Defence Battery|3+/3+|0|
+<table>
+  <thead>
+    <tr>
+      <th>Ground Asset</th>
+      <th>Armour</th>
+      <th>Attack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Infantry</td>
+      <td>5+/3+</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Armour</td>
+      <td>3+/5+</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Defence Battery</td>
+      <td>3+/3+</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>
 
 * **Armour:** Again just like ships this shows the chance to avoid taking damage. Where there are 2 armour values, for example 5+/3+, the first is their saving throw from damage caused by combat with enemy units and the second is their save from damage caused by bombardment. (note they all have 1 hull effectively, so a single point of Hull Damage will destroy them).
 * **Attack:** The number of dice the unit rolls when in combat with other Ground Assets.

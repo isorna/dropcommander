@@ -28,11 +28,36 @@ Players score VPs for holding and/or contesting Clusters at the end of the Round
 
 Clusters come in three sizes, each containing a different number of Sectors, and scoring different VPs, although some scenarios may specify different amounts.
 
-|Cluster|Sectors|Hold|Contest|
-| :-: | :-: | :-: | :-: |
-|Small|2|2VP|0VP|
-|Medium|3|3VP|1VP|
-|Large|4|4VP|2VP|
+<table>
+  <thead>
+    <tr>
+      <th>Cluster</th>
+      <th>Sectors</th>
+      <th>Hold</th>
+      <th>Contest</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Small</td>
+      <td>2</td>
+      <td>2VP</td>
+      <td>0VP</td>
+    </tr>
+    <tr>
+      <td>Medium</td>
+      <td>3</td>
+      <td>3VP</td>
+      <td>1VP</td>
+    </tr>
+    <tr>
+      <td>Large</td>
+      <td>4</td>
+      <td>4VP</td>
+      <td>2VP</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Sectors
 
@@ -42,14 +67,61 @@ In order to hold a Sector, you must have more infantry/armoured tokens in that s
 
 Each Sector has a value and the player that controls the highest total value of Sectors controls that Cluster.
 
-|Sector|Hull|Armour|Value|Special|
-| :- | :-: | :-: | :-: | :- |
-|Commercial|8|4+|1|-|
-|Industrial|4|4+|2|-|
-|Military|4|3+|1|Defence Weapons|
-|Orbital Defence|6|3+|1|Orbital Gun|
-|Power Plant|6|4+|4|Volatile|
-|Comms Station|4|5+|1|Scanner Uplink|
+<table>
+  <thead>
+    <tr>
+      <th>Sector</th>
+      <th>Hull</th>
+      <th>Armour</th>
+      <th>Value</th>
+      <th>Special</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Commercial</td>
+      <td>8</td>
+      <td>4+</td>
+      <td>1</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Industrial</td>
+      <td>4</td>
+      <td>4+</td>
+      <td>2</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Military</td>
+      <td>4</td>
+      <td>3+</td>
+      <td>1</td>
+      <td>Defence Weapons</td>
+    </tr>
+    <tr>
+      <td>Orbital Defence</td>
+      <td>6</td>
+      <td>3+</td>
+      <td>1</td>
+      <td>Orbital Gun</td>
+    </tr>
+    <tr>
+      <td>Power Plant</td>
+      <td>6</td>
+      <td>4+</td>
+      <td>4</td>
+      <td>Volatile</td>
+    </tr>
+    <tr>
+      <td>Comms Station</td>
+      <td>4</td>
+      <td>5+</td>
+      <td>1</td>
+      <td>Scanner Uplink</td>
+    </tr>
+  </tbody>
+</table>
 
 * Moon (LSO)
 * Cluster (of Sectors)
@@ -65,17 +137,55 @@ Some Sectors have special rules which bring additional benefits or risks to the 
 
 This militarised sector has weapons powerful enough to damage ships in orbit. At the beginning of the Ground Combat step, the holder of this Sector may fire the following weapon against a ship in range with the following profile. Range is measured from the centre of the Cluster and all Clusters count as having a Scan of 6".
 
-|Type|Lock|Attack|Damage|Arc|Special|
-| :- | :-: | :-: | :-: | :-: | :- |
-|Defence Weapons|3+|2|1|F/S/R|Escape Velocity|
+<table>
+  <thead>
+      <tr>
+        <th>Type</th>
+        <th>Lock</th>
+        <th>Attack</th>
+        <th>Damage</th>
+        <th>Arc</th>
+        <th>Special</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+        <td>Defence Weapons</td>
+        <td>3+</td>
+        <td>2</td>
+        <td>1</td>
+        <td>F/S/R</td>
+        <td>Escape Velocity</td>
+      </tr>
+  </tbody>
+</table>
 
 ### Orbital Gun
 
 This represents surface based weapons designed to do terrible damage to orbiting ships. At the beginning of the Ground Combat step, the holder of this Sector may fire the following weapon against a ship in range with the following profile. Range is measured from the centre of the Cluster and all Clusters count as having a Scan of 6".
 
-|Type|Lock|Attack|Damage|Arc|Special|
-| :- | :-: | :-: | :-: | :-: | :- |
-|Orbital Gun|2+|1|2|F/S/R|Escape Velocity|
+<table>
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Lock</th>
+      <th>Attack</th>
+      <th>Damage</th>
+      <th>Arc</th>
+      <th>Special</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Orbital Gun</td>
+      <td>2+</td>
+      <td>1</td>
+      <td>2</td>
+      <td>F/S/R</td>
+      <td>Escape Velocity</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Volatile
 

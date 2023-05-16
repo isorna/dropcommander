@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Características de las naves'
+excerpt: 'Las fortalezas y debilidades de las diferentes naves y sistemas de armamento en el juego se ve ven a través de sus características.'
 position: 1
 breadcrumb:
   - path: '/es/'
@@ -18,21 +19,80 @@ Las fortalezas y debilidades de las diferentes naves y sistemas de armamento en 
 
 **Coste en puntos (Pts) -** Todas las naves en el juego tiene un coste en puntos. Las naves con un coste superior generalmente son más potentes, pero no podrás llevar tantas como quieras. Estos puntos son por nave que va en el grupo de batalla.
 
-|Nombre|Radar|Señal|Movimiento|Casco|A|PD|G|T|Especial|
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :- |
-|Lysander|6"|0"|12"|2|6+|2|1-3|L|Atmosférico, Camuflaje completo, Lanzamiento, Abierto, Rara|
+<table>
+  <thead>
+    <tr>
+      <th>Nombre</th>
+      <th>Radar</th>
+      <th>Señal</th>
+      <th>Movimiento</th>
+      <th>Casco</th>
+      <th>A</th>
+      <th>PD</th>
+      <th>G</th>
+      <th>T</th>
+      <th>Especial</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Lysander</td>
+      <td>6&quot;</td>
+      <td>0&quot;</td>
+      <td>12&quot;</td>
+      <td>2</td>
+      <td>6+</td>
+      <td>2</td>
+      <td>1-3</td>
+      <td>L</td>
+      <td>Atmosférico, Camuflaje completo, Lanzamiento, Abierto, Rara</td>
+    </tr>
+  </tbody>
+</table>
 
 **Barra de estadísticas -** Esto enseña todas las características clave de la nave. Cuanto se mueve, cuanta supervivencia tiene, cual es su tonelaje y mucho más. Entraremos en detalles en la barra de estadísticas en las próximas páginas.
 
-|Tipo|Precisión|Ataques|Daño|Arco|Especial|
-| :- | :-: | :-: | :-: | :-: | :- |
-|Barracuda Missile Bay|4+|2|1|F/S/R|Corto alcance|
+<table>
+  <thead>
+    <tr>
+      <th>Tipo</th>
+      <th>Precisión</th>
+      <th>Ataques</th>
+      <th>Daño</th>
+      <th>Arco</th>
+      <th>Especial</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Barracuda Missile Bay</td>
+      <td>4+</td>
+      <td>2</td>
+      <td>1</td>
+      <td>F/S/R</td>
+      <td>Corto alcance</td>
+    </tr>
+  </tbody>
+</table>
 
 **Sistema de armas -** Aquí se muestra que armas lleva una nave. Precisión, daño potencial, arco de disparo y demás aparecen aquí.
 
-|Carga|Lanzamientos|Especial|
-| :- | :-: | :-: |
-|Descarga de naves|1
+<table>
+  <thead>
+    <tr>
+      <th>Carga</th>
+      <th>Lanzamientos</th>
+      <th>Especial</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>DroDescarga de navespships</td>
+      <td>1</td>
+      <td>-</td>
+      </tr>
+  </tbody>
+</table>
 
 **Capacidad de lanzamiento -** Alguna naves son capaces de lanzar naves, módulos de aterrizaje y demás. Si la nave tiene capacidad de lanzamiento, se enseña aquí. Naves sin esa capacitar no tiene esta característica.
 
@@ -56,7 +116,7 @@ La característica de radar nos enseña como de buena es la nave para detectar a
 
 ### Señal
 
-_La característica de se al nos dice como de visible es nuestra nave a los radares de las naves enemigas y desde que distancia pueden ser descubiertas. La mayoría de de naves tienen contramedidas, bengalas ECM(sistema de interferencias electrónicos) y otras tecnologías para ocultar o reducir la señal de la nave._
+_La característica de se al nos dice como de visible es nuestra nave a los radares de las naves enemigas y desde que distancia pueden ser descubiertas. La mayoría de de naves tienen contramedidas, bengalas ECM(sistema de interferencias electrónicos) y otras tecnologías para ocultar o reducir la señal de la nave_.
 
 Estas contramedidas sonconsideradas en uso constante y son tenidas en cuenta para el resultado final de la señal de la nave. Ciertos tipos de daño, maniobras difíciles y disparo de armas puede incrementar la señal de la nave de forma temporal. En ciertas circunstancias la señal se puede reducir, como con la orden modo silencioso por ejemplo.
 
@@ -70,15 +130,15 @@ El casco son los puntos de daño que puede aguantar antes de quedar destruida. E
 
 ### Armadura (A)
 
-_En comparación con las naves civiles, las naves de guerra  siempre van acorazadas de una forma que son más resistentes al daño. Esto puede ir desde un blinjade mejor en los componentes e incorporar componentes duplicados de emergencia detrás de metros de grosor de blindaje._
+_En comparación con las naves civiles, las naves de guerra  siempre van acorazadas de una forma que son más resistentes al daño. Esto puede ir desde un blinjade mejor en los componentes e incorporar componentes duplicados de emergencia detrás de metros de grosor de blindaje_.
 
 En términos de juego, la característica Armadura es una tirada de salvación en 1D6 contra cada punto de daño recibido en el casco expresado como 3+, 4+, etc. Cuando un barco está dañado, tira 1D6 por cada punto de daño infligido. Cada salvación por armadura exitosa previene un punto de daño al casco.
 
 ### Defensa de punto (PD)
 
-_Todas las naves de combate llevan algún tipo de defensa de punto que le protege contra pequeños objetos. Los puntos de defensa son equivalente a contramedidas de las unidades de tierra. Los sistemas identifica y neutraliza las posibles amenazas hacia la naves como meteoritos o misiles nucleares._
+_Todas las naves de combate llevan algún tipo de defensa de punto que le protege contra pequeños objetos. Los puntos de defensa son equivalente a contramedidas de las unidades de tierra. Los sistemas identifica y neutraliza las posibles amenazas hacia la naves como meteoritos o misiles nucleares_.
 
-_Las armas pueden ser de diferentes tipos: lásers, armas de gauss, misiles, antiaéreos, arcos de plasma, etc. Todos ellos son pequeños, sistemas rápidos de disparar con el tiempo de respuesta necesario para interceptar amenazas en el corto alcance._
+_Las armas pueden ser de diferentes tipos: lásers, armas de gauss, misiles, antiaéreos, arcos de plasma, etc. Todos ellos son pequeños, sistemas rápidos de disparar con el tiempo de respuesta necesario para interceptar amenazas en el corto alcance_.
 
 Principalmente la defensa de punto depende más de la cantidad que la calidad. El número que indica esta característica es el número de dados que una nave puede tirar para hacer autodefensa al enemigo cuando ataca con armas que tengan la regla armas de corto alcance o sobre cazas, bombarderos o toreros. Estas reglas son explicadas en otro apartado.
 
@@ -118,14 +178,14 @@ Cada sistema de armas tiene designando un arco de fuego. Hay cuatro o arcos **F 
 
 Los arcos de las armas normalmente son de 90 grados pero algunas sistemas de armas lo tienen restringido a 22 grados como el F(N). Las bases de las naves incluyen estos arcos para facilitar su uso, las crestas delgadas delinean los arcos delantero, lateral y trasero, y el área elevada en la parte delantera de la base muestra el arco estrecho delantero.
 
-_Por ejemplo una nave con tres perfiles de sistemas de armas. Una tiene un arco de F/S/R, el segundo tiene un arco de S/R y el tercero tiene un arco de F/S(Right)._
+_Por ejemplo una nave con tres perfiles de sistemas de armas. Una tiene un arco de F/S/R, el segundo tiene un arco de S/R y el tercero tiene un arco de F/S(Right)_.
 
-_En este caso el primer sistema de armas es capaz de disparar por todos los arcos (frontal, laterales o posterior)._
+_En este caso el primer sistema de armas es capaz de disparar por todos los arcos (frontal, laterales o posterior)_.
 
-_El segundo sistema de armas puede disparar por los dos laterales o por la parte posterior._
+_El segundo sistema de armas puede disparar por los dos laterales o por la parte posterior_.
 
-_El último sistema de armas sólo puede disparar por el arco frontal y por su lateral derecho, al tener la anotación (Right)._
+_El último sistema de armas sólo puede disparar por el arco frontal y por su lateral derecho, al tener la anotación (Right)_.
 
-### Especial
+### Especial de las armas
 
 Varios sistemas de armas tienen reglas especiales para reflejar sus efectos. Consulta las Reglas de armas especiales para obtener más información.

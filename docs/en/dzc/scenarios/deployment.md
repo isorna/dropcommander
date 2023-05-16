@@ -19,7 +19,7 @@ After setting up scenery, each player rolls a dice, re-rolling any ties. The pla
 
 The scenario will specify if and how many Battlegroups are Directly Deployed, In Readiness, or In Reserve.
 
-After picking a deployment zone, the player with the highest roll chooses a Battlegroup to deploy, followed by the next highest player and so on, cycling through players until all Battlegroups have been deployed. **Any unit that can be embarked in a Transport may choose to be before the game starts, meaning that the Transport deploys with the rest of the Battlegroup.**
+After picking a deployment zone, the player with the highest roll chooses a Battlegroup to deploy, followed by the next highest player and so on, cycling through players until all Battlegroups have been deployed. **Any unit that can be embarked in a Transport may choose to be before the game starts, meaning that the Transport deploys with the rest of the Battlegroup**.
 
 Other Auxiliary squads can be deployed as part of a Battlegroup, or deployed all together after all other Battlegroups.
 

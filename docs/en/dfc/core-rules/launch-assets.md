@@ -23,10 +23,27 @@ In the rules that follow all models that can deploy Launch Assets are referred t
 
 Each Carrier has characteristics for its Launch Capability. An example of which is below:
 
-|Load|Launch|Special|
-| :-: | :-: | :-: |
-|Torpedoes|1|-|
-|Fighters & Bombers|6|-|
+<table>
+  <thead>
+    <tr>
+      <th>Load</th>
+      <th>Launch</th>
+      <th>Special</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Torpedoes</td>
+      <td>1</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Fighters &amp; Bombers</td>
+      <td>6</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
 
 * **Load:** The type of launch assets the carrier can use. There may be a choice of different types but the carrier is still limited by its overall capacity and launch ability.
 * **Launch:** How many tokens the carrier can launch in one turn.
@@ -35,15 +52,55 @@ Each Carrier has characteristics for its Launch Capability. An example of which 
 
 Launch Assets often  work similarly to a weapon profile, although some have their own unique rules. Some examples are shown below.
 
-|Type|Thrust|Lock|Attack|Damage|
-| :-: | :-: | :-: | :-: | :-: |
-|UCM Bomber|12"|3+|2|1|
-|UCM Torpedo|9"|2+|6|1|
+<table>
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Thrust</th>
+      <th>Lock</th>
+      <th>Attack</th>
+      <th>Damage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>UCM Bomber</td>
+      <td>12&quot;</td>
+      <td>3+</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>UCM Torpedo</td>
+      <td>9&quot;</td>
+      <td>2+</td>
+      <td>6</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
 
-|Type|Thrust|Point Defence Bonus|
-| :-: | :-: | :-: |
-|UCM Fighter|20"|+3|
-|UCM Dropship|3"|-|
+<table>
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Thrust</th>
+      <th>Point Defence Bonus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>UCM Fighter</td>
+      <td>20&quot;</td>
+      <td>+3</td>
+    </tr>
+    <tr>
+      <td>UCM Dropship</td>
+      <td>3&quot;</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
 
 * **Thrust:** The maximum distance it can travel to reach its target in a single phase.
 * **Lock, Attack, Damage & Special:** All function identically to weapon system characteristics.
@@ -72,7 +129,7 @@ Once the tokens are placed, the player with the next lowest Initiative may choos
 
 Repeat this until every player has launched that asset, then move onto the next asset type.
 
-**A ship that launches any Launch Assets gains a Minor Spike.**
+**A ship that launches any Launch Assets gains a Minor Spike**.
 
 _Note: If you choose to activate a Ship Group it must launch something, you may not choose not to launch anything as a way to make your opponent reveal their plans!_
 
@@ -81,7 +138,7 @@ _Note: If you choose to activate a Ship Group it must launch something, you may 
 Launch Assets have to travel to their target and may even have to spend some time hunting for it, space is big, they are small and their sensor gear is limited in comparison to that of a ship. The time to target depends on the range from the launching carrier to the target:
 
 * If the target is **within the asset’s Thrust** it’s a quick sprint and the Launch Asset takes effect this turn.
-* If the target is **more than its Thrust but within double its Thrust** a longer journey is necessary and there is a slight delay before the launch assets arrive. Place the launch assets in contact with the target’s base (or with each other if there is no more room left around the base), they will take effect at the end of the target’s activation in the next game turn. **Dropships and Bulk Landers cannot use this option, and must launch to a target within their Thrust.**
+* If the target is **more than its Thrust but within double its Thrust** a longer journey is necessary and there is a slight delay before the launch assets arrive. Place the launch assets in contact with the target’s base (or with each other if there is no more room left around the base), they will take effect at the end of the target’s activation in the next game turn. **Dropships and Bulk Landers cannot use this option, and must launch to a target within their Thrust**.
 
 Note that Launch Assets can be used against targets that are outside the normal Scan + Signature range, simply measure a straight line between the launching ship and its target. If that line would take them through a Debris Field, they must test to see if they are destroyed. Roll once for each Launch Asset each time it moves through a Debris Field. A Fine Debris Field removes Launch Assets on a 3+ and a Dense Debris Field removes Launch Assets on a 5+.
 
@@ -105,17 +162,17 @@ Launch assets generally function like a special kind of weapon system, but becau
 
 The effects of a Launch Asset depend on its type and what it’s in contact with.
 
-**Once a launch asset has taken effect the token is removed immediately.**
+**Once a launch asset has taken effect the token is removed immediately**.
 
 ### Fighters
 
-_Fighters are lightweight, agile craft intended as dedicated interceptors of opposing Strike Craft and Close Action weapons. Fighters serve an interceptor role for ships by flying in close support and improving a friendly unit’s Point Defence._
+_Fighters are lightweight, agile craft intended as dedicated interceptors of opposing Strike Craft and Close Action weapons. Fighters serve an interceptor role for ships by flying in close support and improving a friendly unit’s Point Defence_.
 
 Fighters lack the firepower necessary to make a dent on larger enemies so in Dropfleet they are limited to a purely defensive role.
 
 Fighter tokens can take effect at various times throughout the game.
 
-**Fighters may take effect from when they are placed onwards, even if launched using twice their thrust range.**
+**Fighters may take effect from when they are placed onwards, even if launched using twice their thrust range**.
 
 Fighters can be launched against friendly or enemy ships, and their rules change depending on their target:
 
@@ -123,19 +180,19 @@ Fighters can be launched against friendly or enemy ships, and their rules change
 
 Once the Fighter marker has taken effect it returns to its carrier and is removed from play. Any Fighters which have not taken effect by the following Roundup Phase are removed as they are forced to fly back and refuel.
 
-_For example: 4 UCM Fighters are launched to protect a friendly target. The target gains +12 PD and the Fighters stay with it until the owning player chooses to use the Fighters to supplement its Point Defence against an attack from Launch Assets or Close Action weapons. The owning player can choose to add some, all or none of the escorting Fighter markers to its defence when attacked, gaining +3PD for each._
+_For example: 4 UCM Fighters are launched to protect a friendly target. The target gains +12 PD and the Fighters stay with it until the owning player chooses to use the Fighters to supplement its Point Defence against an attack from Launch Assets or Close Action weapons. The owning player can choose to add some, all or none of the escorting Fighter markers to its defence when attacked, gaining +3PD for each_.
 
 **Enemy Ships:** Remove one enemy Fighter token from this ship (they keep each other occupied in dogfighting!) This may only be done when resolving launch asset effects (during the roundup phase) just before Bombers take effect.
 
 ### Bombers
 
-_Bombers are Strike Craft that carry serious ship-killing weaponry, typically deploying a mixture of stand-off missiles and one-shot, high-intensity energy weapons._
+_Bombers are Strike Craft that carry serious ship-killing weaponry, typically deploying a mixture of stand-off missiles and one-shot, high-intensity energy weapons_.
 
-**Bombers make an attack with their profile when arriving at an enemy ship.**
+**Bombers make an attack with their profile when arriving at an enemy ship**.
 
 When Bombers from multiple sources attack the same target they coordinate their run to overwhelm its Point Defence. Roll all of the Bomber’s attacks together when they take effect and treat it as a single attack versus the target’s Point Defence so the defender only rolls for  PD once for the ship instead of against each token’s attack separately.
 
-_For example: 6 Bomber tokens launched from 2 carriers attack an enemy ship together. Each Bomber makes 2 attacks normally, but in this case they make a coordinated attack and roll all 12 attacks at once. The enemy ship’s Point Defence will only roll once against the massed attack instead of separately against each Bomber._
+_For example: 6 Bomber tokens launched from 2 carriers attack an enemy ship together. Each Bomber makes 2 attacks normally, but in this case they make a coordinated attack and roll all 12 attacks at once. The enemy ship’s Point Defence will only roll once against the massed attack instead of separately against each Bomber_.
 
 ### Fire Ships
 
@@ -143,21 +200,21 @@ Fire Ships are a unique type of bomber. They follow all the same rules, but are 
 
 ### Dropships
 
-_Dropships are transporters used for rapidly deploying armoured forces down to a planet’s surface. They are agile, well armoured and armed for their size to weather the storm of defensive fire they invariably attract._
+_Dropships are transporters used for rapidly deploying armoured forces down to a planet’s surface. They are agile, well armoured and armed for their size to weather the storm of defensive fire they invariably attract_.
 
-**Dropships may only be launched by carriers that are in Atmosphere or Low Orbit if targeting a Space Station.**
+**Dropships may only be launched by carriers that are in Atmosphere or Low Orbit if targeting a Space Station**.
 
-**Dropships may target Ground Sectors or Space Stations within their Thrust.**
+**Dropships may target Ground Sectors or Space Stations within their Thrust**.
 
 When they do, they deliver one Armour or Infantry token to the Sector or Space Station.
 
 ### Bulk lander
 
-_Bulk landers are large, lightly armoured landing craft used by troopships to deploy large numbers of ground troops or anti-ship weapon emplacements. Bulk Landers are considerably slower and more vulnerable than Dropships, as they are not designed for 1st wave assaults on entrenched positions, but rather as occupying or reinforcing troops once a beachhead is secured._
+_Bulk landers are large, lightly armoured landing craft used by troopships to deploy large numbers of ground troops or anti-ship weapon emplacements. Bulk Landers are considerably slower and more vulnerable than Dropships, as they are not designed for 1st wave assaults on entrenched positions, but rather as occupying or reinforcing troops once a beachhead is secured_.
 
-**Bulk landers may only be launched by carriers that are in Low Orbit or Atmosphere.**
+**Bulk landers may only be launched by carriers that are in Low Orbit or Atmosphere**.
 
-**Bulk Landers may target Ground Sectors or Space Stations within their Thrust.** When they do, they deliver three  Infantry tokens or one Defence Battery token to the Sector or Space Station.
+**Bulk Landers may target Ground Sectors or Space Stations within their Thrust**. When they do, they deliver three  Infantry tokens or one Defence Battery token to the Sector or Space Station.
 
 ### A Note on Dropships & Bulk Landers
 
@@ -167,11 +224,11 @@ For speed of play and ease of use, most players will find it easier to declare w
 
 ### Torpedoes
 
-_Torpedoes are very large, ship-killing missiles that are much more dangerous than the types ordinarily categorised as Close Action weapons. Torpedoes are heavily armoured and well protected against opposing Point Defences with decoys and jamming to ensure they will get close enough to the target to deliver a potentially devastating hit._
+_Torpedoes are very large, ship-killing missiles that are much more dangerous than the types ordinarily categorised as Close Action weapons. Torpedoes are heavily armoured and well protected against opposing Point Defences with decoys and jamming to ensure they will get close enough to the target to deliver a potentially devastating hit_.
 
-The relatively slow acceleration of Torpedoes means they **never attack enemy ships immediately even if the target is within their Thrust range,** instead place the Torpedo in contact with the target and execute the attack at the **end of the target’s next activation.**
+The relatively slow acceleration of Torpedoes means they **never attack enemy ships immediately even if the target is within their Thrust range,** instead place the Torpedo in contact with the target and execute the attack at the **end of the target’s next activation**.
 
-**Torpedoes make an attack with their profile when arriving at an enemy ship. Point Defence has no effect against damage inflicted by Torpedoes.**
+**Torpedoes make an attack with their profile when arriving at an enemy ship. Point Defence has no effect against damage inflicted by Torpedoes**.
 
 When firing Torpedoes at a Space Station, resolve the effects immediately.
 
@@ -187,40 +244,186 @@ Torpedoes are relentless in their pursuit of a target and not so easy to shake o
 
 #### Bombers stats
 
-|Type|Thrust|Lock|Attack|Damage|Special|
-| :-: | :-: | :-: | :-: | :-: | :-: |
-|UCM|12"|3+|2|1|-|
-|Scourge|15"|3+|2|1|Scald|
-|PHR|12"|2+|2|1|-|
-|Shaltari|15"|3+|2|1|-|
-|Resistance|12"|4+|3|1|-|
+<table>
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Thrust</th>
+      <th>Lock</th>
+      <th>Attack</th>
+      <th>Damage</th>
+      <th>Special</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>UCM</td>
+      <td>12&quot;</td>
+      <td>3+</td>
+      <td>2</td>
+      <td>1</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Scourge</td>
+      <td>15&quot;</td>
+      <td>3+</td>
+      <td>2</td>
+      <td>1</td>
+      <td>Scald</td>
+    </tr>
+    <tr>
+      <td>PHR</td>
+      <td>12&quot;</td>
+      <td>2+</td>
+      <td>2</td>
+      <td>1</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Shaltari</td>
+      <td>15&quot;</td>
+      <td>3+</td>
+      <td>2</td>
+      <td>1</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Resistance</td>
+      <td>12&quot;</td>
+      <td>4+</td>
+      <td>3</td>
+      <td>1</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
 
 #### Torpedoes stats
 
-|Type|Thrust|Lock|Attack|Damage|Special|
-| :-: | :-: | :-: | :-: | :-: | :-: |
-|UCM|9"|2+|4|2|-|
-|Scourge|9"|3+|3|2|Corruptor|
-|PHR|9"|2+|4|2|-|
-|Shaltari|-|-|-|-|-|
-|Resistance|12"|2+|6|1|-|
+<table>
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Thrust</th>
+      <th>Lock</th>
+      <th>Attack</th>
+      <th>Damage</th>
+      <th>Special</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>UCM</td>
+      <td>9&quot;</td>
+      <td>2+</td>
+      <td>4</td>
+      <td>2</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Scourge</td>
+      <td>9&quot;</td>
+      <td>3+</td>
+      <td>3</td>
+      <td>2</td>
+      <td>Corruptor</td>
+    </tr>
+    <tr>
+      <td>PHR</td>
+      <td>9&quot;</td>
+      <td>2+</td>
+      <td>4</td>
+      <td>2</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Shaltari</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Resistance</td>
+      <td>12&quot;</td>
+      <td>2+</td>
+      <td>6</td>
+      <td>1</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
 
 #### Fighters stats
 
-|Type|Thrust|PD Bonus|
-| :-: | :-: | :-: |
-|UCM|20"|+3|
-|Scourge|24"|+3|
-|PHR|20"|+4|
-|Shaltari|24"|+4|
-|Resistance|20"|+5|
+<table>
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Thrust</th>
+      <th>PD Bonus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>UCM</td>
+      <td>20&quot;</td>
+      <td>+3</td>
+    </tr>
+    <tr>
+      <td>Scourge</td>
+      <td>24&quot;</td>
+      <td>+3</td>
+    </tr>
+    <tr>
+      <td>PHR</td>
+      <td>20&quot;</td>
+      <td>+4</td>
+    </tr>
+    <tr>
+      <td>Shaltari</td>
+      <td>24&quot;</td>
+      <td>+4</td>
+    </tr>
+    <tr>
+      <td>Resistance</td>
+      <td>20&quot;</td>
+      <td>+5</td>
+    </tr>
+  </tbody>
+</table>
 
 #### Dropships/Bulk Landers stats
 
-|Type|Thrust|
-| :-: | :-: |
-|UCM|3" / 6"|
-|Scourge|3" / 6"|
-|PHR|3" / 6"|
-|Shaltari|3" / 6"|
-|Resistance|3" / 6"|
+<table>
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Thrust</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>UCM</td>
+      <td>3&quot; / 6&quot;</td>
+    </tr>
+    <tr>
+      <td>Scourge</td>
+      <td>3&quot; / 6&quot;</td>
+    </tr>
+    <tr>
+      <td>PHR</td>
+      <td>3&quot; / 6&quot;</td>
+    </tr>
+    <tr>
+      <td>Shaltari</td>
+      <td>3&quot; / 6&quot;</td>
+    </tr>
+    <tr>
+      <td>Resistance</td>
+      <td>3&quot; / 6&quot;</td>
+    </tr>
+  </tbody>
+</table>

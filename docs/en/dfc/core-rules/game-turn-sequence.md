@@ -38,6 +38,6 @@ Every ship in a player’s fleet is fielded as part of a **Group**, which is a p
 1. **Ground Combat:** Resolve any ground asset movement and combats.
 1. **Launch Assets:** Resolve any launch assets.
 1. **Damage Control:** Roll for damage control on ships suffering from ongoing crippling damage results.
-1. **Orbital Decay.** Resolve any orbital decay.
+1. **Orbital Decay**. Resolve any orbital decay.
 1. **Collect Victory Points**: Indicated by the scenario being played.
-1. **Remove any excess dice and tokens from the table.**
+1. **Remove any excess dice and tokens from the table**.

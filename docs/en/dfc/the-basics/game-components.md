@@ -27,7 +27,7 @@ Certain special circumstances can mean that modifiers apply to dice rolls. These
 
 Modifiers can never make results impossible or a foregone conclusion. If a modifier would make a target number of 7+ or 1+ (i.e. impossible to achieve or impossible to fail), this is reduced to a 6+ and 2+ respectively.
 
-_For example, if you normally needed to roll a 4+ and had a +1 modifier to the target number you would only succeed on a roll of 5 or 6. Likewise if you needed a 5+ and had a -2 modifier, you would need a 3 or more to succeed (5+, with the minus 2 modifier = 3+ to succeed)._
+_For example, if you normally needed to roll a 4+ and had a +1 modifier to the target number you would only succeed on a roll of 5 or 6. Likewise if you needed a 5+ and had a -2 modifier, you would need a 3 or more to succeed (5+, with the minus 2 modifier = 3+ to succeed)_.
 
 ### Rerolls
 
@@ -86,17 +86,17 @@ Individual ships in Dropfleet Commander always belong to a Group. Multiple Group
 
 Battlegroups are assembled together to form your fleet, see Building Your Fleet for more details.
 
-**All ships of the same class in a Battlegroup automatically form a group together.**
+**All ships of the same class in a Battlegroup automatically form a group together**.
 
-_For example a UCM Battlegroup could be comprised of six Toulon Class frigates, two Berlin Class cruisers and a Madrid Class cruiser. It would therefore contain three groups; one comprising the six Toulons, one comprising two Berlins and one comprising the Madrid._
+_For example a UCM Battlegroup could be comprised of six Toulon Class frigates, two Berlin Class cruisers and a Madrid Class cruiser. It would therefore contain three groups; one comprising the six Toulons, one comprising two Berlins and one comprising the Madrid_.
 
 Ships in groups have to stay fairly close together so they can rapidly share combat information over secure links to instantly coordinate their actions and hinder enemy intelligence-gathering. Smaller ships with more limited communications gear and lower signature have to stay closer together to retain cohesion as a fighting unit and get the same benefits.
 
 What that all means is that ships in the same group have to stay close to each other on the tabletop.
 
-**Ships with a Hull characteristic of 6 or less have a group coherency of 3 .**
+**Ships with a Hull characteristic of 6 or less have a group coherency of 3**.
 
-**Ships with a Hull characteristic of 7 or more have a group coherency of 6 .**
+**Ships with a Hull characteristic of 7 or more have a group coherency of 6**.
 
 As with most of the distances in Dropfleet Commander, coherency is measured from the centre of one model to the centre of another, with the centre being the stem of the flight stand.
 
@@ -110,7 +110,7 @@ Some Groups have a special open coherency (most notably strike carriers and othe
 
 ## Battlegroup cohesion
 
-The individual groups that make up a battlegroup are free to split up as much as they wish, but they avoid penalties to the battlegroup’s overall effectiveness by staying closer together. When it comes to comparing Strategy Ratings (see Strategy Ratings for more details), **a battlegroup temporarily increases its Strategy Rating by +1 for each of its groups that is more than 12  away from any other group in the same battlegroup.**
+The individual groups that make up a battlegroup are free to split up as much as they wish, but they avoid penalties to the battlegroup’s overall effectiveness by staying closer together. When it comes to comparing Strategy Ratings (see Strategy Ratings for more details), **a battlegroup temporarily increases its Strategy Rating by +1 for each of its groups that is more than 12  away from any other group in the same battlegroup**.
 
 Special rules can increase or decrease the standard 12  coherency distance for battlegroups.
 

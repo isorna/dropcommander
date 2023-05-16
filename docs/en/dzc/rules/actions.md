@@ -13,7 +13,7 @@ breadcrumb:
 
 # Actions
 
-Squads in Dropzone Commander may perform **2 actions** during their activation. There are a few actions to choose from, but the most common are **moving** and **shooting**. Unless otherwise stated, **a squad cannot perform the same action twice in one activation.**
+Squads in Dropzone Commander may perform **2 actions** during their activation. There are a few actions to choose from, but the most common are **moving** and **shooting**. Unless otherwise stated, **a squad cannot perform the same action twice in one activation**.
 
 Not all units have to perform actions in a round, but at least 1 unit must perform an action during a Battlegroup’s activation.
 

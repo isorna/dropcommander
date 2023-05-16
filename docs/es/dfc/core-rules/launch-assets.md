@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Activos de lanzamiento'
+excerpt: 'Las naves pueden llevar a bordo naves subordinadas más pequeñas en forma de naves de ataque como módulos de aterrizaje, cazas, bombarderos o municiones como torpedos que causen destructivos efectos en las naves objetivo y sistemas similares.'
 position: 9
 breadcrumb:
   - path: '/es/'
@@ -22,10 +23,27 @@ En las reglas que se describen a continuación, todos los modelos que pueden imp
 
 Cada transporte tiene una característica para indicar su Capacidad de Lanzamiento. A continuación se muestra un ejemplo:
 
-|Carga|Lanzamiento|Especial|
-| :-: | :-: | :-: |
-|Torpedos|1|-|
-|Cazas & Bombarderos|6|-|
+<table>
+  <thead>
+    <tr>
+      <th>Carga</th>
+      <th>Lanzamiento</th>
+      <th>Especial</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Torpedos</td>
+      <td>1</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Cazas &amp; Bombarderos</td>
+      <td>6</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
 
 * **Carga:** El tipo de activo de lanzamiento que el transporte puede utilizar. Puede tener una selección de varios tipos pero cada trasnporte está limitado por su propia capacidad de lanzamiento total y su habilizad de lanzamiento.
 * **Lanzamiento:** Indica el número de marcadores que el transporte puede lanzar cada vez en un turno.
@@ -34,15 +52,55 @@ Cada transporte tiene una característica para indicar su Capacidad de Lanzamien
 
 Los activos de lanzamiento generalmente funcionan de una manera similar a un perfil de arma, aunque algunos tienen sus propias reglas especiales. A continuación se muestran varios ejemplos:
 
-|Tipo|Impulso|Puntería|Ataque|Daño|
-| :-: | :-: | :-: | :-: | :-: |
-|Bombardero UCM|12"|3+|2|1|
-|Torpedo UCM|9"|2+|6|1|
+<table>
+  <thead>
+    <tr>
+      <th>Tipo</th>
+      <th>Impulso</th>
+      <th>Puntería</th>
+      <th>Ataque</th>
+      <th>Daño</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Bombardero UCM</td>
+      <td>12&quot;</td>
+      <td>3+</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Torpedo UCM</td>
+      <td>9&quot;</td>
+      <td>2+</td>
+      <td>6</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
 
-|Tipo|Impulso|Mejora de Defensa de Punto|
-| :-: | :-: | :-: |
-|Caza UCM|20"|+3|
-|Nave de desembarco UCM|3"|-|
+<table>
+  <thead>
+    <tr>
+      <th>Tipo</th>
+      <th>Impulso</th>
+      <th>Mejora de Defensa de Punto</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Caza UCM</td>
+      <td>20&quot;</td>
+      <td>+3</td>
+    </tr>
+    <tr>
+      <td>Nave de desembarco UCM</td>
+      <td>3&quot;</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
 
 * **Impulso:** La máxima distancia que el Activo de lanzamiento puede viajar para alcanzar su objetivo en una misma fase.
 * **Puntería, Ataque, Daño&Especial:** Todas estas características funcionan exactamente igual que las características de los Sistemas de armas.
@@ -71,7 +129,7 @@ Una vez que se colocan los marcadores, el jugador con la siguiente Iniciativa m�
 
 Este paso se repite hasta que todos los jugadores hayan lanzado ese tipo de activo, a continuación, se pasa al siguiente tipo de activo y se repite de nuevo la secuencia.
 
-**Una nave que lanza cualquier Activo de Lanzamiento gana un Pico Menor.**
+**Una nave que lanza cualquier Activo de Lanzamiento gana un Pico Menor**.
 
 _Nota: si eliges activar un grupo de naves, dicho grupo debe realizar algún tipo de lanzamiento, ¡no puedes elegir no lanzar nada como una forma de hacer que tu oponente revele sus planes!_
 
@@ -80,7 +138,7 @@ _Nota: si eliges activar un grupo de naves, dicho grupo debe realizar algún tip
 Los activos de lanzamiento tienen que viajar a su objetivo e incluso pueden tener que pasar algún tiempo buscándolo, el espacio es grande, los Activos son pequeños y su equipo de sensores es limitado en comparación con el de una nave. El tiempo hasta el objetivo depende del rango desde el transporte que realiza el lanzamiento hasta el objetivo:
 
 * Si el objetivo está **dentro del Impulso del activo**, es un sprint rápido y el Activo de lanzamiento surte efecto este turno.
-* Si el objetivo es **más que su impulso pero dentro del doble de su valor de Impulso**, es necesario un viaje más largo y hay un ligero retraso antes de que lleguen los activos hasta su objetivo. Coloque los activos de lanzamiento en contacto con la base del objetivo (o lo más próximo posible a ésta si no queda más espacio alrededor de la base), teniendo en cuenta que dichos marcadores tendrán efecto al final de la activación del objetivo en el próximo turno de juego. **Las naves de descenso y Módulos de aterrizaje no pueden usar esta opción y deben lanzarse a un objetivo dentro de su Impulso.**
+* Si el objetivo es **más que su impulso pero dentro del doble de su valor de Impulso**, es necesario un viaje más largo y hay un ligero retraso antes de que lleguen los activos hasta su objetivo. Coloque los activos de lanzamiento en contacto con la base del objetivo (o lo más próximo posible a ésta si no queda más espacio alrededor de la base), teniendo en cuenta que dichos marcadores tendrán efecto al final de la activación del objetivo en el próximo turno de juego. **Las naves de descenso y Módulos de aterrizaje no pueden usar esta opción y deben lanzarse a un objetivo dentro de su Impulso**.
 
 Hay que tener en cuenta que los Activos de lanzamiento se pueden usar contra objetivos que están fuera del rango normal de Escáner + Señal, simplemente se traza una línea recta entre la nave que realiza de lanzamiento y su objetivo. Si esa línea los lleva a través de un campo de escombros, realizarse una tirada para ver si son destruidos. Tira una vez por cada activo de lanzamiento cada vez que se mueva a través de un campo de escombros. Un campo de escombros ligero elimina activos de lanzamiento con un resultado de 3+ y un campo de escombros denso elimina activos de lanzamiento con un resultado de 5+.
 
@@ -104,16 +162,16 @@ Los activos de lanzamiento generalmente funcionan como un tipo especial de siste
 
 Los efectos de un activo de lanzamiento dependen de su tipo y con qué está en contacto.
 
-**Una vez que un activo de lanzamiento ha tenido efecto, el marcador se elimina de inmediato.**
+**Una vez que un activo de lanzamiento ha tenido efecto, el marcador se elimina de inmediato**.
 
 ### Cazas
 
-_Los cazas son naves ligeras y ágiles pensadas como interceptores dedicados a bloquear armas de ataque y de corto alcance opuestas. Los cazas desempeñan un papel de interceptor para las naves al volar en apoyo cercano y mejorar la Defensa de punto de una unidad amiga._
+_Los cazas son naves ligeras y ágiles pensadas como interceptores dedicados a bloquear armas de ataque y de corto alcance opuestas. Los cazas desempeñan un papel de interceptor para las naves al volar en apoyo cercano y mejorar la Defensa de punto de una unidad amiga_.
 
 Los cazas carecen de la potencia de fuego necesaria para hacer mella en los enemigos más grandes, por lo que en Dropfleet están limitados a un papel puramente defensivo.
 
 Las fichas de caza pueden surtir efecto en varios momentos a lo largo del juego.
-**Los cazas pueden surtir efecto desde el momento en que se colocan en adelante, incluso si se lanzan usando el doble de su rango de Impulso.**
+**Los cazas pueden surtir efecto desde el momento en que se colocan en adelante, incluso si se lanzan usando el doble de su rango de Impulso**.
 
 Los cazas pueden lanzarse contra naves amigas o enemigas, y sus reglas cambian según el objetivo:
 
@@ -121,19 +179,19 @@ Los cazas pueden lanzarse contra naves amigas o enemigas, y sus reglas cambian s
 
 Una vez que el marcador de caza ha hecho efecto, vuelve a su hangar y se retira del juego. Todos los Cazas que no hayan entrado en vigor en la siguiente fase de final de ronda se eliminan, ya que se ven obligados a volar de regreso a su transporte y repostar.
 
-_Por ejemplo: Se lanzan 4 cazas UCM  para proteger un objetivo amigo. El objetivo gana +12 PD y los cazas permanecen con él hasta que el jugador propietario elige usar los cazas para complementar su Defensa de Punto contra un ataque de Activos de lanzamiento o Corto alcance. El jugador que controla los cazas puede optar por usar algunos, todos o ninguno de los marcadores de caza que escoltan a la nave a su defensa cuando es atacada, ganando +3PD por cada uno._
+_Por ejemplo: Se lanzan 4 cazas UCM  para proteger un objetivo amigo. El objetivo gana +12 PD y los cazas permanecen con él hasta que el jugador propietario elige usar los cazas para complementar su Defensa de Punto contra un ataque de Activos de lanzamiento o Corto alcance. El jugador que controla los cazas puede optar por usar algunos, todos o ninguno de los marcadores de caza que escoltan a la nave a su defensa cuando es atacada, ganando +3PD por cada uno_.
 
 **Naves enemigas:** Elimina una ficha de Caza enemiga de esta nave (¡están ocupados combatiendo contra otros cazas!). Esto solo se puede hacer cuando se resuelven los efectos de activos de lanzamiento (durante la fase de final de ronda) justo antes de que los Bombarderos surtan efecto.
 
 ### Bombarderos
 
-_Los bombarderos son naves de ataque que llevan armamento pesado para destruir naves, típicamente desplegando una mezcla de misiles de separación y armas de energía de alta intensidad en un mismo disparo._
+_Los bombarderos son naves de ataque que llevan armamento pesado para destruir naves, típicamente desplegando una mezcla de misiles de separación y armas de energía de alta intensidad en un mismo disparo_.
 
-**Los Bombarderos ejecutan un ataque con su perfil cuando alcanzan una nave enemiga.**
+**Los Bombarderos ejecutan un ataque con su perfil cuando alcanzan una nave enemiga**.
 
 Cuando bombarderos de múltiples fuentes atacan al mismo objetivo, coordinan su ataque para abrumar sus sistemas de defensa de punto. Tira todos los ataques de Bombardero juntos cuando surtan efecto y trátalos como un solo ataque contra la Defensa de punto del objetivo, de modo que el defensor solo realiza una tirada de PD una vez para la nave en lugar de contra el ataque de cada ficha por separado.
 
-_Por ejemplo: 6 fichas de Bombardero lanzadas desde 2 transportes atacan juntos una nave enemiga. Cada Bombardero realiza 2 ataques normalmente, pero en este caso realizan un ataque coordinado y tiran los 12 ataques a la vez. La Defensa de punto de la nave enemiga solo se tirará una vez contra el ataque en masa en lugar de hacerlo por separado contra cada bombardero._
+_Por ejemplo: 6 fichas de Bombardero lanzadas desde 2 transportes atacan juntos una nave enemiga. Cada Bombardero realiza 2 ataques normalmente, pero en este caso realizan un ataque coordinado y tiran los 12 ataques a la vez. La Defensa de punto de la nave enemiga solo se tirará una vez contra el ataque en masa en lugar de hacerlo por separado contra cada bombardero_.
 
 ### Naves incendiarias
 
@@ -141,21 +199,21 @@ Las naves incendiarias son un tipo único de bombardero. Siguen todas las mismas
 
 ### Naves de descenso
 
-_Las naves de descenso son transportes que se utilizan para desplegar rápidamente fuerzas blindadas en la superficie de un planeta. Son ágiles, están bien blindados y armadas para su tamaño para capear la tormenta de fuego defensivo que invariablemente atraen._
+_Las naves de descenso son transportes que se utilizan para desplegar rápidamente fuerzas blindadas en la superficie de un planeta. Son ágiles, están bien blindados y armadas para su tamaño para capear la tormenta de fuego defensivo que invariablemente atraen_.
 
-**Las naves de descenso solo pueden ser lanzadas por portaaviones que estén en atmósfera o en órbita baja si tienen como objetivo una estación espacial.**
+**Las naves de descenso solo pueden ser lanzadas por portaaviones que estén en atmósfera o en órbita baja si tienen como objetivo una estación espacial**.
 
-**Las naves de descenso pueden apuntar a sectores terrestres o estaciones espaciales dentro de su valor de Impulso.**
+**Las naves de descenso pueden apuntar a sectores terrestres o estaciones espaciales dentro de su valor de Impulso**.
 
 Cuando se usan, se agrega una ficha de Blindado o Infantería al Sector o Estación Espacial.
 
 ### Módulo de aterrizaje
 
-_Los Módulos de aterrizaje son naves de desembarco grandes y ligeramente blindadas que utilizan las naves de transporte de tropas para desplegar un gran número de tropas terrestres o emplazamientos de armas antinave. Los Módulos de aterrizaje son considerablemente más lentos y más vulnerables que las naves de descenso, ya que no están diseñados para asaltos de primera ola en posiciones atrincheradas, sino como tropas de ocupación o refuerzo una vez que se asegura una cabeza de playa._
+_Los Módulos de aterrizaje son naves de desembarco grandes y ligeramente blindadas que utilizan las naves de transporte de tropas para desplegar un gran número de tropas terrestres o emplazamientos de armas antinave. Los Módulos de aterrizaje son considerablemente más lentos y más vulnerables que las naves de descenso, ya que no están diseñados para asaltos de primera ola en posiciones atrincheradas, sino como tropas de ocupación o refuerzo una vez que se asegura una cabeza de playa_.
 
-**Los Módulos de aterrizaje solo pueden ser lanzados por transportes que estén en órbita baja o atmósfera.**
+**Los Módulos de aterrizaje solo pueden ser lanzados por transportes que estén en órbita baja o atmósfera**.
 
-**Los Módulos de aterrizaje pueden apuntar a Sectores Terrestres o Estaciones Espaciales dentro de su Impulso.** Cuando se usan, agregan tres fichas de Infantería o una ficha de Batería de Defensa al Sector o Estación Espacial.
+**Los Módulos de aterrizaje pueden apuntar a Sectores Terrestres o Estaciones Espaciales dentro de su Impulso**. Cuando se usan, agregan tres fichas de Infantería o una ficha de Batería de Defensa al Sector o Estación Espacial.
 
 ### Nota sobre Naves de descenso y Módulos de aterrizaje
 
@@ -165,11 +223,11 @@ Para mayor velocidad de juego y facilidad de uso, a la mayoría de los jugadores
 
 ### Torpedos
 
-_Los torpedos son misiles enormes que destruyen naves y son mucho más peligrosos que los tipos de armas que normalmente se clasifican como armas de corto alcance. Los torpedos están fuertemente blindados y bien protegidos contra las defensas de punto enemigas con señuelos y interferencias para garantizar que se acerquen lo suficiente al objetivo para asestar un golpe potencialmente devastador._
+_Los torpedos son misiles enormes que destruyen naves y son mucho más peligrosos que los tipos de armas que normalmente se clasifican como armas de corto alcance. Los torpedos están fuertemente blindados y bien protegidos contra las defensas de punto enemigas con señuelos y interferencias para garantizar que se acerquen lo suficiente al objetivo para asestar un golpe potencialmente devastador_.
 
-La aceleración relativamente lenta de los torpedos significa que **nunca atacan a las naves enemigas de inmediato, incluso si el objetivo está dentro de su rango de Impulso,** en lugar de eso, se coloca la ficha de torpedo en contacto con el objetivo y el ataque se efectúa al **final de la siguiente activación del objetivo.**
+La aceleración relativamente lenta de los torpedos significa que **nunca atacan a las naves enemigas de inmediato, incluso si el objetivo está dentro de su rango de Impulso,** en lugar de eso, se coloca la ficha de torpedo en contacto con el objetivo y el ataque se efectúa al **final de la siguiente activación del objetivo**.
 
-**Los torpedos atacan con su perfil al llegar a una nave enemiga. La Defensa de punto no tiene efecto contra el daño infligido por Torpedos.**
+**Los torpedos atacan con su perfil al llegar a una nave enemiga. La Defensa de punto no tiene efecto contra el daño infligido por Torpedos**.
 
 Cuando dispare torpedos a una estación espacial, resuelva los efectos inmediatamente.
 
@@ -183,40 +241,186 @@ Los torpedos son implacables en la búsqueda de un objetivo y no son tan fácile
 
 #### Atributos de Bombarderos
 
-|Tipo|Impulso|Puntería|Ataque|Daño|Especial|
-| :-: | :-: | :-: | :-: | :-: | :-: |
-|UCM|12"|3+|2|1|-|
-|Scourge|15"|3+|2|1|Scald|
-|PHR|12"|2+|2|1|-|
-|Shaltari|15"|3+|2|1|-|
-|Resistance|12"|4+|3|1|-|
+<table>
+  <thead>
+    <tr>
+      <th>Tipo</th>
+      <th>Impulso</th>
+      <th>Puntería</th>
+      <th>Ataque</th>
+      <th>Daño</th>
+      <th>Especial</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>UCM</td>
+      <td>12&quot;</td>
+      <td>3+</td>
+      <td>2</td>
+      <td>1</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Scourge</td>
+      <td>15&quot;</td>
+      <td>3+</td>
+      <td>2</td>
+      <td>1</td>
+      <td>Scald</td>
+    </tr>
+    <tr>
+      <td>PHR</td>
+      <td>12&quot;</td>
+      <td>2+</td>
+      <td>2</td>
+      <td>1</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Shaltari</td>
+      <td>15&quot;</td>
+      <td>3+</td>
+      <td>2</td>
+      <td>1</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Resistance</td>
+      <td>12&quot;</td>
+      <td>4+</td>
+      <td>3</td>
+      <td>1</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
 
 #### Atributos de Torpedos
 
-|Tipo|Impulso|Puntería|Ataque|Daño|Especial|
-| :-: | :-: | :-: | :-: | :-: | :-: |
-|UCM|9"|2+|4|2|-|
-|Scourge|9"|3+|3|2|Corruptor|
-|PHR|9"|2+|4|2|-|
-|Shaltari|-|-|-|-|-|
-|Resistance|12"|2+|6|1|-|
+<table>
+  <thead>
+    <tr>
+      <th>Tipo</th>
+      <th>Impulso</th>
+      <th>Puntería</th>
+      <th>Ataque</th>
+      <th>Daño</th>
+      <th>Especial</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>UCM</td>
+      <td>9&quot;</td>
+      <td>2+</td>
+      <td>4</td>
+      <td>2</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Scourge</td>
+      <td>9&quot;</td>
+      <td>3+</td>
+      <td>3</td>
+      <td>2</td>
+      <td>Corruptor</td>
+    </tr>
+    <tr>
+      <td>PHR</td>
+      <td>9&quot;</td>
+      <td>2+</td>
+      <td>4</td>
+      <td>2</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Shaltari</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Resistance</td>
+      <td>12&quot;</td>
+      <td>2+</td>
+      <td>6</td>
+      <td>1</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
 
 #### Atributos de Cazas
 
-|Tipo|Impulso|Mejora de PD|
-| :-: | :-: | :-: |
-|UCM|20"|+3|
-|Scourge|24"|+3|
-|PHR|20"|+4|
-|Shaltari|24"|+4|
-|Resistance|20"|+5|
+<table>
+  <thead>
+    <tr>
+      <th>Tipo</th>
+      <th>Impulso</th>
+      <th>Mejora de PD</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>UCM</td>
+      <td>20&quot;</td>
+      <td>+3</td>
+    </tr>
+    <tr>
+      <td>Scourge</td>
+      <td>24&quot;</td>
+      <td>+3</td>
+    </tr>
+    <tr>
+      <td>PHR</td>
+      <td>20&quot;</td>
+      <td>+4</td>
+    </tr>
+    <tr>
+      <td>Shaltari</td>
+      <td>24&quot;</td>
+      <td>+4</td>
+    </tr>
+    <tr>
+      <td>Resistance</td>
+      <td>20&quot;</td>
+      <td>+5</td>
+    </tr>
+  </tbody>
+</table>
 
 #### Atributos de Naves de descenso/Módulos de aterrizaje
 
-|Tipo|Impulso|
-| :-: | :-: |
-|UCM|3" / 6"|
-|Scourge|3" / 6"|
-|PHR|3" / 6"|
-|Shaltari|3" / 6"|
-|Resistance|3" / 6"|
+<table>
+  <thead>
+    <tr>
+      <th>Tipo</th>
+      <th>Impulso</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>UCM</td>
+      <td>3&quot; / 6&quot;</td>
+    </tr>
+    <tr>
+      <td>Scourge</td>
+      <td>3&quot; / 6&quot;</td>
+    </tr>
+    <tr>
+      <td>PHR</td>
+      <td>3&quot; / 6&quot;</td>
+    </tr>
+    <tr>
+      <td>Shaltari</td>
+      <td>3&quot; / 6&quot;</td>
+    </tr>
+    <tr>
+      <td>Resistance</td>
+      <td>3&quot; / 6&quot;</td>
+    </tr>
+  </tbody>
+</table>

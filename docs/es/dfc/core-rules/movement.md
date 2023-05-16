@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Movimiento'
+excerpt: 'Un grupo no tiene que mantener una formación específica cuando se mueve, y cada nave puede moverse individualmente.'
 position: 5
 breadcrumb:
   - path: '/es/'
@@ -20,13 +21,13 @@ Una nave puede cambiar de capa orbital voluntariamente, ascendiendo o descendien
 
 Las naves pueden descender a una Capa orbital directamente inferior a la que se encuentran en cualquier punto de su movimiento sin penalización a su capacidad de movimiento (exceptuando el descenso a la capa de Atmósfera, la cual tiene sus propias reglas especiales - ver la sección Atmósfera para consultar detalles).
 
-**Una nave debe gastar 4 de su Impulso disponible para moverse a una Capa orbital directamente superior a la que se encuentre actualmente. Si no posee un valor mínimo de 4 de Impulso disponible, no puede realizar dicho cambio.**
+**Una nave debe gastar 4 de su Impulso disponible para moverse a una Capa orbital directamente superior a la que se encuentre actualmente. Si no posee un valor mínimo de 4 de Impulso disponible, no puede realizar dicho cambio**.
 
 ## Embestida
 
 Con las amplias velocidades involucradas en el viaje espacial, cuando dos objetos colisionan generalmente el resultado es la destrucción de ambos objetos. Teniendo esto en mente, incluso el más loco o sanguinario capitán suele evitar embestir su nave contra otra para evitar el riesgo de que ambas sean consumidas en la inevitable explosión. Sin embargo, en determinadas circunstancias, cuando no hay nada que perder, capitanes increiblemente desesperados han sido conocidos por avalanzarse peligrosamente cerca del enemigo con la esperanza de llevárselo junto a ellos. En tales circunstancias, a menudo son los intercambios de corto alcance de los sistemas de armas, o la sobrecarga crítica de los impulsores de salto de las naves los que causan el mayor daño, aunque en raras ocasiones la nave condenada logrará hacer contacto con su objetivo, consumiendo con frecuencia a ambas en las destructivas energías desatadas.
 
-Únicamente las naves de cierta envergadura tienen la masa para sobrevivir al desesperado fuego devensivo arrojado por la nave enemiga, y por ello, **únicamente naves de tonelaje medio o superior pueden intentar esta maniobra.** Dado que un capitán debe estar totalmente desesperado para ejecutar una acción semejante, su nave debe cumplir una serie de criterios:
+Únicamente las naves de cierta envergadura tienen la masa para sobrevivir al desesperado fuego devensivo arrojado por la nave enemiga, y por ello, **únicamente naves de tonelaje medio o superior pueden intentar esta maniobra**. Dado que un capitán debe estar totalmente desesperado para ejecutar una acción semejante, su nave debe cumplir una serie de criterios:
 
 * La nave debe tene 2 o menos puntos de Casco restantes.
 * La nave debe escoger órdenes estandar este turno y no puede disparar.

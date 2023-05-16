@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Victory Conditions'
+excerpt: 'Games use two methods of determining victory: Victory Points and Kill Points.'
 position: 5
 breadcrumb:
   - path: '/es/'
@@ -12,7 +13,7 @@ breadcrumb:
 
 # Victory Conditions
 
-Games use two methods of determining victory: **Victory Points** and **Kill Points.**
+Games use two methods of determining victory: **Victory Points** and **Kill Points**.
 
 Victory Points are the most important, and are most often earned by capturing Objectives. Victory Points are usually calculated at the end of the game - the player with the most wins.
 

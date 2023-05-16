@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Construyendo tu flota'
+excerpt: 'Los grupos de batalla en Dropfleet Commander son determinados por el tamaño de la partida escogida entre los jugadores y por las facciones a jugar.'
 position: 5
 breadcrumb:
   - path: '/es/'
@@ -28,36 +29,134 @@ Cada nave tiene un valor de **tonelaje** que se detalla en las características 
 
 ### Tipos de grupos de batalla
 
-|Tamaño de partida|Explorador|Linea|Vanguardia|Buque insignia |Max|Capadidad de lanzamiento|
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|Escaramuza (500-999 pts)|0-2|1-2|0-1|0|4|10|
-|Choque (1000-1999 pts)|1-2|1-3|0-2|0-1|6|15|
-|Batalla (2000-3000 pts)|1-3|1-4|0-3|0-2|7|20|
+<table>
+  <thead>
+    <th>Tamaño de partida</th>
+    <th>Explorador</th>
+    <th>Línea</th>
+    <th>Vanguardia</th>
+    <th>Buque insignia</th>
+    <th>Max</th>
+    <th>Capadidad de lanzamiento</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Escaramuza (500-999 pts)</td>
+      <td>0-2</td>
+      <td>1-2</td>
+      <td>0-1</td>
+      <td>0</td>
+      <td>4</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>Choque (1000-1999 pts)</td>
+      <td>1-2</td>
+      <td>1-3</td>
+      <td>0-2</td>
+      <td>0-1</td>
+      <td>6</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td>Batalla (2000-3000 pts)</td>
+      <td>1-3</td>
+      <td>1-4</td>
+      <td>0-3</td>
+      <td>0-2</td>
+      <td>7</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>
 
-|Grupo de batalla de exploradores|Grupos|
-| :- | :-: |
-|Ligero|1-3|
-|Mediano|0-1|
-|Max|3|
+<table>
+  <thead>
+    <th>Grupo de batalla de exploradores</th>
+    <th>Grupos</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ligero</td>
+      <td>1-3</td>
+    </tr>
+    <tr>
+      <td>Mediano</td>
+      <td>0-1</td>
+    </tr>
+    <tr>
+      <td>Max</td>
+      <td>3</td>
+    </tr>
+  </tbody>
+</table>
 
-|Grupo de batalla de linea|Grupos|
-| :- | :-: |
-|Linea|0-2|
-|Mediano|1-3|
-|Max|3|
+<table>
+  <thead>
+    <th>Line Battlegroup</th>
+    <th>Grupos</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ligero</td>
+      <td>0-2</td>
+    </tr>
+    <tr>
+      <td>Mediano</td>
+      <td>1-3</td>
+    </tr>
+    <tr>
+      <td>Max</td>
+      <td>3</td>
+    </tr>
+  </tbody>
+</table>
 
-|Grupo de batalla de vanguardia|Grupos|
-| :- | :-: |
-|Ligero|0-1|
-|Mediano|0-1|
-|Pesado|1-2|
-|Max|3|
+<table>
+  <thead>
+    <th>Vanguard Battlegroup</th>
+    <th>Grupos</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ligero</td>
+      <td>0-1</td>
+    </tr>
+    <tr>
+      <td>Mediano</td>
+      <td>0-1</td>
+    </tr>
+    <tr>
+      <td>Pesado</td>
+      <td>1-2</td>
+    </tr>
+    <tr>
+      <td>Max</td>
+      <td>3</td>
+    </tr>
+  </tbody>
+</table>
 
-|Grupo de batalla de buque insignia|Grupos|
-| :- | :-: |
-|Ligero|0-1|
-|Super pesado|1-2|
-|Max|3|
+<table>
+  <thead>
+    <th>Flag Battlegroup</th>
+    <th>Grupos</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ligero</td>
+      <td>0-1</td>
+    </tr>
+    <tr>
+      <td>Super Pesado</td>
+      <td>1-2</td>
+    </tr>
+    <tr>
+      <td>Max</td>
+      <td>3</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Capacidad de lanzamiento
 
@@ -67,11 +166,35 @@ Cazas, Bombarderos y Torpedos son recursos caros y las flotas tienen un número 
 
 Una vez que has construido la flota, necesitas determinar tu calificación de estrategia por cada grupo de batalla en tu flota. Para determinar esto se suma el valor tonelaje de cada nave en el grupo de batalla usando la tabla que hay abajo.
 
-|Tonelaje|Valor de tonelaje|
-| :- | :-: |
-|Ligero|1|
-|Ligero 2 (L2)|2|
-|Mediano|5|
-|Pesado|10|
-|Super pesado|15|
-|Super pesado 2 (S2)|30|
+<table>
+  <thead>
+    <th>Tonelaje</th>
+    <th>Valor de tonelaje</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ligero</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Ligero 2 (L2)</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Mediano</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Pesado</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>Super pesado</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td>Super pesado 2 (S2)</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>

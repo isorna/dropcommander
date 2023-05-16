@@ -13,13 +13,26 @@ breadcrumb:
 
 # Admirals
 
-_Fleets seldom succeed in battle without a good Admiral. In fluid situations, the actions and decisions of frontline leaders often separates victory from defeat._
+_Fleets seldom succeed in battle without a good Admiral. In fluid situations, the actions and decisions of frontline leaders often separates victory from defeat_.
 
 Admirals cost points just like ships, but they do not have a Core Stat Sheet. Instead, they have an Admiral Stat sheet, such as below:
 
-|Admiral|AV|Allowed|Pts|
-| :- | :-: | :-: | :-: |
-|UCMF Vice Admiral|4|C/B|80|
+<table>
+  <thead>
+    <th>Admiral</th>
+    <th>AV</th>
+    <th>Allowed</th>
+    <th>Pts</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>UCMF Vice Admiral</td>
+      <td>4</td>
+      <td>C/B</td>
+      <td>80</td>
+    </tr>
+  </tbody>
+</table>
 
 **AV (Admiral Value):** Represents the abilities of an Admiral (higher numbers are better). This affects things such as the roll to determine Initiative.
 
@@ -43,15 +56,28 @@ Command Cards represent the specific actions and decisions made by the Admiral. 
 
 When a card is played or discarded for any reason it should be placed face-up in a discard pile. If a player runs out of cards in their deck, this discard pile should be turned face-down and shuffled into a new deck to draw from.
 
-|Espionage|
-|:-|
-|**Play**|
-|When an Opponent plays a Command Card.|
-|**Target**|
-|One Enemy Command Card use.|
-|**Effect**|
-|You may negate the effects of this enemy Command Card.|
-|_“Just goes to show that even Shaltari can fall into a trap, provided it’s set properly."_|
+<table>
+  <thead>
+    <th colspan="2">Espionage</th>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Play</th>
+      <td>When an Opponent plays a Command Card.</td>
+    </tr>
+    <tr>
+      <th>Target</th>
+      <td>One Enemy Command Card use.</td>
+    </tr>
+    <tr>
+      <th>Effect</th>
+      <td>You may negate the effects of this enemy Command Card.</td>
+    </tr>
+    <tfoot>
+      <th colspan="2"><em>“Just goes to show that even Shaltari can fall into a trap, provided it’s set properly."</em></th>
+    </tfoot>
+  </tbody>
+</table>
 
 A typical Command Card is set out as follows:
 

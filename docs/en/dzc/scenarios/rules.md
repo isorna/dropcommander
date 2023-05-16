@@ -13,7 +13,7 @@ breadcrumb:
 
 # Scenarios
 
-_All warfare is meaningless without a purpose, be it noble or nefarious. Whilst every great campaign has overall goals, specific actions on the ground will have smaller but no less significant aims. Sometimes, the apparently small accomplishments of a few troops in the right place at the right time can tip the outcome of an entire campaign._
+_All warfare is meaningless without a purpose, be it noble or nefarious. Whilst every great campaign has overall goals, specific actions on the ground will have smaller but no less significant aims. Sometimes, the apparently small accomplishments of a few troops in the right place at the right time can tip the outcome of an entire campaign_.
 
 The scenarios detailed in this part of the book lend purpose to your games, and are designed to represent the type of actions that are typically suited to highly mobile forces.
 

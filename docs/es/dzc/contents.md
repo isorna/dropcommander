@@ -17,7 +17,7 @@ breadcrumb:
 
 [Earth, 2673](earth-2673)
 
-### [Rules](rules/)
+### [Core rules](rules/)
 
 * [The Basics](rules/the-basics)
 * [Unit Types](rules/unit-types)

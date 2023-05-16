@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Command'
+excerpt: 'Armies seldom succeed in battle without a good commander.'
 position: 3
 breadcrumb:
   - path: '/es/'
@@ -12,7 +13,7 @@ breadcrumb:
 
 # Command
 
-_Armies seldom succeed in battle without a good commander. In fluid situations, the actions and decisions of front-line leaders often separate victory from defeat._
+_Armies seldom succeed in battle without a good commander. In fluid situations, the actions and decisions of front-line leaders often separate victory from defeat_.
 
 ## Commanders
 
@@ -24,14 +25,47 @@ A commander must be mounted in a unit with the **Command category or with the Co
 
 Commanders cost points, although never contribute to a Battlegroup s points limit, since they are only mounted in a unit directly before the game. Armies can include any of the following Commanders:
 
-|Command Value|Influence|Points|
-| :-: | :-: | :-: |
-|1|4"|0|
-|2|8"|35|
-|3|12"|65|
-|4|16"|95|
-|5|20"|125|
-|6|24"|155|
+<table>
+  <thead>
+    <tr>
+        <th>Command Value</th>
+        <th>Influence</th>
+        <th>Points</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>4&quot;</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>8&quot;</td>
+      <td>35</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>12&quot;</td>
+      <td>65</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>16&quot;</td>
+      <td>95</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>20&quot;</td>
+      <td>125</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>24&quot;</td>
+      <td>155</td>
+    </tr>
+  </tbody>
+</table>
 
 **Command Value -** Command Value is used for various things, including Command Cards and rolling for Initiative.
 
@@ -41,7 +75,7 @@ Commanders cost points, although never contribute to a Battlegroup s points limi
 
 ### Shooting at Commanders
 
-_Commanders are prime targets, but are often accompanied by a protective detail._
+_Commanders are prime targets, but are often accompanied by a protective detail_.
 
 When a friendly Commander has shots allocated to it, the **controlling player** may choose to allocate the shots to any other unit in the same squad, provided it is a valid target, and isn't Hull Down if the Commander isn't Hull Down (see Shooting for details on Hull Down).
 
@@ -67,7 +101,7 @@ A deck of Command Cards is **30 different cards,** chosen by the player at the s
 
 When Command Cards are discarded, they may not be used again in the game. A commander with a high Command Value will be able to play more Command Cards in a round, but will cycle through those cards quicker, so be sure not to run out of cards before the game is over!
 
-If a commander is killed, you must immediately remove Command Cards in your hand down to the next highest friendly Command Value present on the table. **If there are no friendly Commanders present on the table, you may still have and use 1 Command Card.**
+If a commander is killed, you must immediately remove Command Cards in your hand down to the next highest friendly Command Value present on the table. **If there are no friendly Commanders present on the table, you may still have and use 1 Command Card**.
 
 Famous Commanders often come with their own unique Command Cards, which can be added to a deck provided the Famous Commander is used in the battle. These can be used by any commander once the game starts, and stay in the deck even if the Famous Commander unit is destroyed.
 

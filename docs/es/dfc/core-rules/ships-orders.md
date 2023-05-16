@@ -1,5 +1,6 @@
 ---
 categoryTitle: 'Órdenes de las naves'
+excerpt: 'Cuando una nave de un Grupo de Batalla se activa, el jugador puede elegir entre darle Órdenes estándar o una de las diversas ordenes especiales.'
 position: 4
 breadcrumb:
   - path: '/es/'
@@ -16,9 +17,9 @@ Cuando una nave de un Grupo de Batalla se activa, el jugador puede elegir entre 
 
 Antes de realizar cualquier acción con una nave (mover, disparar o girar), el jugador debe declarar si va a utilizar alguna orden especial. Las órdenes especiales son poderosas habilidades que permiten una mayor flexibilidad táctica. Cada una viene con sus propios pros y contras, a menudo suponiendo una mejora en la utilidad de la acción a cambio de una mayor visibilidad (consultar la sección Picos para obtener más detalles).
 
-**Todas las naves de un grupo de batalla deben trabajar juntas, por tanto, solo se puede impartir una única orden especial cada vez que dicho Grupo de batalla se activa.** A título individual, cada nave perteneciente al grupo de batalla puede elegir entre utilizar la orden especial o utilizar una Orden estándar en su lugar.
+**Todas las naves de un grupo de batalla deben trabajar juntas, por tanto, solo se puede impartir una única orden especial cada vez que dicho Grupo de batalla se activa**. A título individual, cada nave perteneciente al grupo de batalla puede elegir entre utilizar la orden especial o utilizar una Orden estándar en su lugar.
 
-**Las naves que se encuentren fuera de rango de coherencia (ver arriba) solo pueden utilizar órdenes estándar.**
+**Las naves que se encuentren fuera de rango de coherencia (ver arriba) solo pueden utilizar órdenes estándar**.
 
 ## Órdenes estándar
 
@@ -46,7 +47,7 @@ Una nave que utilice Impulso máximo no puede utilizar Lanzamiento de activos.
 
 La nave no puede girar, y debe mover entre la mitad y su valor total de Impulso.
 
-La nave no puede disparar ningún sistema de armas. Elimina todos los picos de energía de la nave al final de su activación. **La Señak de la nave se reduce a 0 hasta el inicio de su siguiente activación.** Utiliza el indicador apropiado en el dial de la base de la nave para señalar que se encuentra en Movimiento sigiloso.
+La nave no puede disparar ningún sistema de armas. Elimina todos los picos de energía de la nave al final de su activación. **La Señak de la nave se reduce a 0 hasta el inicio de su siguiente activación**. Utiliza el indicador apropiado en el dial de la base de la nave para señalar que se encuentra en Movimiento sigiloso.
 
 Una nave que realice un Movimiento sigiloso no puede realizar Lanzamiento de activos.
 
@@ -58,8 +59,8 @@ La nave no puede girar, pero debe mover entre la mitad y su valor máximo de Imp
 
 La nave no puede girar, y debe moverse entre la mitad y el máximo de su valor de Impulso. Tras esto, puede disparar hasta un sistema de armas. También coloca un Pico menor en una única nave enemiga sobre el tablero de juego. Añade un Pico mayor a la nave al final de su activación. h
 
-**Las naves que se encuentren en la Atmósfera y/o posean menos de 4 puntos de casco en su perfil inicial no pueden utilizar esta orden.**
+**Las naves que se encuentren en la Atmósfera y/o posean menos de 4 puntos de casco en su perfil inicial no pueden utilizar esta orden**.
 
-**Solo una nave por grupo puede utilizar esta orden.**
+**Solo una nave por grupo puede utilizar esta orden**.
 
 Una nave que utilice Activar escáner puede intentar revelar una nave que realiza Movimiento sigiloso, aunque el éxito no está asegurado. Cuando se elige la nave objetivo enemiga sobre la que aplicar Activar escáner, lanza un dado. Con un resultado de 4+, la nave que realizaba Movimiento sigiloso es descubierta, y se debe cambiar el indicador del dial de la base de la misma a su estado normal, señalando que se aplica su valor normal de Señal. En este caso no se añaden Picos adicionales a la nave revelada, salvo que posteriormente se le aplique otro Activar escáner u otro efecto que añada Picos, en cuyo caso, se aplicarán normalmente.
