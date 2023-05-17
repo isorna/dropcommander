@@ -24,3 +24,17 @@ features:
       width: '100px'
       height: '100px'
 ---
+
+{{ $frontmatter.lang }}
+
+<script lang="ts" setup>
+import { onMounted } from 'vue'
+import { useData } from 'vitepress'
+const { frontmatter } = useData()
+
+onMounted(() => {
+  let expires = new Date()
+  expires.setFullYear(expires.getFullYear()+1)
+  document.cookie = `nf_lang=${frontmatter.value.lang}; expires=${expires.toUTCString()}; path=/`
+})
+</script>

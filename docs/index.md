@@ -27,26 +27,29 @@ features:
     details: Updated Dropzone Commander rules.
 ---
 <script lang="ts" setup>
-// import { useRouter } from 'vitepress'
-// import { onMounted } from 'vue'
+import { useRouter } from 'vitepress'
+import { onMounted } from 'vue'
 
-// let getUserLang = () => window.navigator.language.substring(0, 2)
-// let checkUserLang = (language) => {
-//   let userLang = getUserLang()
-//   let checkLang = (lang) => lang === userLang
-//   if (typeof language === 'string') {
-//     return checkLang(language)
-//   }
-//   return language.some(lang => checkLang(lang))
-// }
+let getUserLang = () => window.navigator.language.substring(0, 2)
+// nf_lang is set up during theme setup hook:
+let getCookieLang = () => document.cookie.split(';').filter((setting) => setting.indexOf('nf_lang') >= 0)[0]?.split('=')[1]
+let checkUserLang = (language) => {
+  let userLang = getUserLang()
+  let cookieLang = getCookieLang()
+  let checkLang = (lang) => (cookieLang && lang === cookieLang) ?? lang === userLang
+  if (typeof language === 'string') {
+    return checkLang(language)
+  }
+  return language.some(lang => checkLang(lang))
+}
 
-// let { go } = useRouter()
+let { go } = useRouter()
 
-// onMounted(() => {
-//   if (checkUserLang(['es'])) {
-//     go('/es/')
-//   } else {
-//     go('/en/')
-//   }
-// })
+onMounted(() => {
+  if (checkUserLang(['es-ES'])) {
+    go('/es/')
+  } else {
+    go('/en/')
+  }
+})
 </script>

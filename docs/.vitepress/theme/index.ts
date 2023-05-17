@@ -1,8 +1,8 @@
 // /theme/index.ts
-import { watchEffect } from 'vue'
+// import { watchEffect } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 import type { EnhanceAppContext } from 'vitepress'
-import { useData, inBrowser } from 'vitepress'
+// import { useData, inBrowser } from 'vitepress'
 import Layout from '../components/Layout.vue'
 import CategoryCardsContainer from '../components/CategoryCardsContainer.vue'
 import './custom.css'
@@ -28,14 +28,14 @@ export default {
   setup() {
     // this function will be executed inside VitePressApp's
     // setup hook. all composition APIs are available here.
-    const { lang } = useData()
-    watchEffect(() => {
-      if (inBrowser) {
-        let expires = new Date()
-        expires.setFullYear(expires.getFullYear()+1)
-        document.cookie = `nf_lang=${lang.value}; expires=${expires.toUTCString()}; path=/`
-      }
-    })
+    // const { lang } = useData()
+    // watchEffect(() => {
+    //   if (inBrowser) {
+    //     let expires = new Date()
+    //     expires.setFullYear(expires.getFullYear()+1)
+    //     document.cookie = `nf_lang=${lang.value}; expires=${expires.toUTCString()}; path=/`
+    //   }
+    // })
     // expose to template and other options API hooks
     // return { ... }
   },
