@@ -7,6 +7,13 @@
 
 * **i18n:** :globe_with_meridians: save user's i18n preferences, and redirect page on load to selected language ([db51c86](https://github.com/isorna/dropcommander/commit/db51c86e6fb29d3bd71c99fa6e6c19c964544554))
 
+## [1.4.0](https://github.com/isorna/dropcommander/compare/v1.3.0...v1.4.0) (2023-05-17)
+
+
+### Features
+
+* **i18n:** :globe_with_meridians: save user's i18n preferences, and redirect page on load to selected language ([db51c86](https://github.com/isorna/dropcommander/commit/db51c86e6fb29d3bd71c99fa6e6c19c964544554))
+
 ## [1.3.0](https://github.com/isorna/dropcommander/compare/v1.2.0...v1.3.0) (2023-05-11)
 
 
