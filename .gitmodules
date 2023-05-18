@@ -1,0 +1,3 @@
+[submodule "dropcommander-translations-dfc-fr"]
+	path = docs/fr
+	url = https://github.com/isorna/dropcommander-translations-dfc-fr.git
