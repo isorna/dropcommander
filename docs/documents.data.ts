@@ -22,7 +22,11 @@ export { data }
 
 // More info here: https://vitepress.dev/guide/data-loading
 // EXAMPLE: https://github.com/vuejs/blog/blob/main/.vitepress/theme/posts.data.ts
-
+/**
+ * Creates a contentLoader for all documents (*.md) inside current folder,
+ * so that it can be used from each document with:
+ * import { data as pages } from '/documents.data'
+ */
 export default createContentLoader('**/*.md', {
   includeSrc: false,
   render: false,
