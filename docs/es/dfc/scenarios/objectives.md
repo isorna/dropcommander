@@ -11,7 +11,7 @@ breadcrumb:
     text: 'Objetivos'
 ---
 
-# Objetivos
+# {{ $frontmatter.title }}
 
 While securing a planet s orbital lanes is key to gaining victory, controlling the ground is equally important. Vast swathes of the landscape are worthless, at least in the initial stages of the invasion, however, manufacturing, population and military sectors all provide an invading force resources they can use straight away from new recruits to logistical and military supplies. Capturing these areas is no less important than having orbital dominance and in games of Dropfleet Commander, controlling clusters and sectors is frequently the key to victory.
 

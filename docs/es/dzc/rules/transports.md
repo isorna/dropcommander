@@ -11,7 +11,7 @@ breadcrumb:
     text: 'Transports'
 ---
 
-# Transports
+# {{ $frontmatter.title }}
 
 Transports are ubiquitous in Dropzone Commander, and have several rules tied to them to represent their carrying capacity.
 

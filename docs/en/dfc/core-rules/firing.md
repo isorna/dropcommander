@@ -11,7 +11,7 @@ breadcrumb:
     text: 'Firing'
 ---
 
-# Firing
+# {{ $frontmatter.title }}
 
 Once a group has moved, all of its ships may fire weapon systems if their orders permit them to do so.
 

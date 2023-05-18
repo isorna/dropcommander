@@ -11,7 +11,7 @@ breadcrumb:
     text: 'Movimiento'
 ---
 
-# Movimiento
+# {{ $frontmatter.title }}
 
 Un grupo no tiene que mantener una formación específica cuando se mueve, y cada nave puede moverse individualmente. No obstante, para que el movimiento de un grupo sea legal, todas las naves que forman dicho grupo deben cumplir las reglas de coherencia al final de su movimiento.
 

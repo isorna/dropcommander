@@ -11,7 +11,7 @@ breadcrumb:
     text: 'Behemoths'
 ---
 
-# Behemoths
+# {{ $frontmatter.title }}
 
 _Behemoths are among the largest land- based fighting vehicles in the 27th century. Towering over even super-heavy tanks, these colossi are capable of laying waste to entire formations single-handedly. They also feature exceedingly thick armour, making them nigh-on invulnerable to all but the most powerful weapons, usually those carried by other Behemoths_.
 

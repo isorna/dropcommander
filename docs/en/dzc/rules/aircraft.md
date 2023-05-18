@@ -11,7 +11,7 @@ breadcrumb:
     text: 'Aircraft'
 ---
 
-# Aircraft
+# {{ $frontmatter.title }}
 
 _In Dropzone Commander, most armies take to battle via aerial assault. Whether through transporting troops and vehicles or through lightning-fast attack runs, the battlefields are awash with rapidly deploying aircraft_.
 

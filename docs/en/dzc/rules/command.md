@@ -11,7 +11,7 @@ breadcrumb:
     text: 'Command'
 ---
 
-# Command
+# {{ $frontmatter.title }}
 
 _Armies seldom succeed in battle without a good commander. In fluid situations, the actions and decisions of front-line leaders often separate victory from defeat_.
 

@@ -11,7 +11,7 @@ breadcrumb:
     text: 'Contents'
 ---
 
-# Contents
+# {{ $frontmatter.title }}
 
 ## Dropfleet Commander V1.3.1
 

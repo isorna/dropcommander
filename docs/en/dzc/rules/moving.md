@@ -11,7 +11,7 @@ breadcrumb:
     text: 'Moving'
 ---
 
-# Moving
+# {{ $frontmatter.title }}
 
 Units within a squad may be moved **up to their maximum MV value**. A unit doesn’t have to move its full MV, but any remaining distance is lost.
 

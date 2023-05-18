@@ -11,6 +11,6 @@ breadcrumb:
     text: 'Duration'
 ---
 
-# Duration
+# {{ $frontmatter.title }}
 
 How many rounds the game lasts for.

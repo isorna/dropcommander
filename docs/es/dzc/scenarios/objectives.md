@@ -11,7 +11,7 @@ breadcrumb:
     text: 'Objectives'
 ---
 
-# Objectives
+# {{ $frontmatter.title }}
 
 An Objective is a catch-all name for something that your army will generally need to discover, capture, or extract from the combat zone in order to win the game. Objectives could be valuable pieces of intel, technology, or strategic points - all operate in the same way.
 

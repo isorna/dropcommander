@@ -11,7 +11,7 @@ breadcrumb:
     text: 'Shooting'
 ---
 
-# Shooting
+# {{ $frontmatter.title }}
 
 To shoot at an enemy, the process is as simple as going through the weapon profile one statistic at a time.
 

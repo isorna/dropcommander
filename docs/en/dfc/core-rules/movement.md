@@ -11,7 +11,7 @@ breadcrumb:
     text: 'Movement'
 ---
 
-# Movement
+# {{ $frontmatter.title }}
 
 A group does not have to maintain a specific formation when it moves and each ship can move individually. For a move to be legal all of the Group’s ships must obey the coherency rules at the end of their movement.
 

@@ -11,7 +11,7 @@ breadcrumb:
     text: 'Contents'
 ---
 
-# Contents
+# {{ $frontmatter.title }}
 
 ## Dropzone Commander V2.2.0
 

@@ -11,4 +11,4 @@ breadcrumb:
     text: 'Glossary'
 ---
 
-# Glossary
+# {{ $frontmatter.title }}

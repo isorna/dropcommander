@@ -11,7 +11,7 @@ breadcrumb:
     text: 'Almirantes'
 ---
 
-# Almirantes
+# {{ $frontmatter.title }}
 
 _Las flotas son incapaces de tener éxito en batalla sin un almirante competente. En situaciones cambiantes, la diferencia entre la victoria y la derrota suele venir marcada por las acciones y decisiones tomadas por los líderes de primera linea_.
 

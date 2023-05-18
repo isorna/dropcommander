@@ -11,7 +11,7 @@ breadcrumb:
     text: 'Daño'
 ---
 
-# Daño
+# {{ $frontmatter.title }}
 
 ## 4. Daño total infligido al casco
 

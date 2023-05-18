@@ -24,9 +24,6 @@ features:
       width: '100px'
       height: '100px'
 ---
-
-{{ $frontmatter.lang }}
-
 <script lang="ts" setup>
 import { onMounted } from 'vue'
 import { useData } from 'vitepress'

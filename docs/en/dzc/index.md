@@ -9,7 +9,7 @@ breadcrumb:
     text: 'Dropzone Commander'
 ---
 
-# Dropzone Commander
+# {{ $frontmatter.title }}
 
 <script setup>
   import { data as pages } from '/documents.data'

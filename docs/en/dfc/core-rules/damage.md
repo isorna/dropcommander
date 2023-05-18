@@ -11,7 +11,7 @@ breadcrumb:
     text: 'Damage'
 ---
 
-# Damage
+# {{ $frontmatter.title }}
 
 ## 4. Total up Hull damage inflicted
 

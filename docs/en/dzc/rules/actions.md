@@ -11,7 +11,7 @@ breadcrumb:
     text: 'Actions'
 ---
 
-# Actions
+# {{ $frontmatter.title }}
 
 Squads in Dropzone Commander may perform **2 actions** during their activation. There are a few actions to choose from, but the most common are **moving** and **shooting**. Unless otherwise stated, **a squad cannot perform the same action twice in one activation**.
 

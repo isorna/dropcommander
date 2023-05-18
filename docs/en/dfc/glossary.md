@@ -11,7 +11,7 @@ breadcrumb:
     text: 'Glossary'
 ---
 
-# Glossary
+# {{ $frontmatter.title }}
 
 * Ships Characteristics
   * Points (Pts)

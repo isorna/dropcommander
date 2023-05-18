@@ -11,7 +11,7 @@ breadcrumb:
     text: 'Scenery'
 ---
 
-# Scenery
+# {{ $frontmatter.title }}
 
 Battlefields of the future are hardly ever featureless wastelands, and normally include various kinds of scenery which can strongly affect the game. Dropzone Commander is best played on a table with plenty of scenery, which almost always makes a game more interesting, tactical and varied. There are hundreds of different types of scenery in a game, all of which follow certain rules. Simply agree with your opponent at the start of the game what rules each scenery piece uses.
 

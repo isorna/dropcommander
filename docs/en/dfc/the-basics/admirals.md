@@ -11,7 +11,7 @@ breadcrumb:
     text: 'Admirals'
 ---
 
-# Admirals
+# {{ $frontmatter.title }}
 
 _Fleets seldom succeed in battle without a good Admiral. In fluid situations, the actions and decisions of frontline leaders often separates victory from defeat_.
 

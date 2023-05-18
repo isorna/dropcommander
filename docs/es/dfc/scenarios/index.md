@@ -10,7 +10,7 @@ breadcrumb:
   - path: ''
     text: 'Escenarios'
 ---
-# Scenarios
+# {{ $frontmatter.title }}
 
 <script setup>
   import { data as pages } from '/documents.data'
