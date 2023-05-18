@@ -11,16 +11,16 @@ features:
     link: './dfc/'
     details: 'Reglas actualizadas de Dropfleet Commander.'
     icon:
-      light: '/moon-landing.png'
-      dark: '/moon-landing.dark.png'
+      light: '/img/ui/moon-landing.png'
+      dark: '/img/ui/moon-landing.dark.png'
       width: '100px'
       height: '100px'
   - title: 'Dropzone Commander V2.2.0'
     link: './dzc/'
     details: 'Reglas actualizadas de Dropzone Commander.'
     icon:
-      light: '/orbit.png'
-      dark: '/orbit.dark.png'
+      light: '/img/ui/orbit.png'
+      dark: '/img/ui/orbit.dark.png'
       width: '100px'
       height: '100px'
 ---

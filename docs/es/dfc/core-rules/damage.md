@@ -303,6 +303,7 @@ Hay que tener en cuenta que la explosión únicamente afecta a naves que se encu
     <tr>
       <td>7+</td>
       <td><strong>Burbuja de distorsión:</strong> Las naves sufren 1D6 Puntos de Daño en Casco (haz una tirada individual para cada nave). La Armadura y Contramedidas pasivas <strong>no</strong> pueden ser utilizadas.</td>
+    </tr>
   </tbody>
 </table>
 

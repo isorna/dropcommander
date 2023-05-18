@@ -19,7 +19,7 @@ breadcrumb:
 
 ### [Core rules](rules/)
 
-* [The Basics](rules/the-basics)
+* [The Basics](rules/basics)
 * [Unit Types](rules/unit-types)
 * [Command](rules/command)
 * [Rounds & Activations](rules/rounds-activations)
