@@ -2,13 +2,6 @@
 title: 'Scenarios'
 excerpt: 'Dropfleet Commander scenarios.'
 position: 5
-breadcrumb:
-  - path: '/en/'
-    text: 'Home'
-  - path: '/en/dfc/'
-    text: 'Dropfleet Commander'
-  - path: ''
-    text: 'Scenarios'
 ---
 # {{ $frontmatter.title }}
 

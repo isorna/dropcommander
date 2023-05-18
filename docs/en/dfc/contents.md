@@ -2,13 +2,6 @@
 title: 'Contents'
 excerpt: 'Dropfleet Commander V1.3.1'
 position: 1
-breadcrumb:
-  - path: '/en/'
-    text: 'Home'
-  - path: '/en/dfc/'
-    text: 'Dropfleet Commander'
-  - path: ''
-    text: 'Contents'
 ---
 
 # {{ $frontmatter.title }}

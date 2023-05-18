@@ -2,13 +2,6 @@
 title: 'Escenografía'
 excerpt: 'While the void of space doesn t have as much scenery as a typical wargame, there are still plenty of opportunities for things to get in the way of your carefully laid plans!'
 position: 3
-breadcrumb:
-  - path: '/es/'
-    text: 'Inicio'
-  - path: '/es/dfc/'
-    text: 'Dropfleet Commander'
-  - path: ''
-    text: 'Escenografía'
 ---
 
 # {{ $frontmatter.title }}

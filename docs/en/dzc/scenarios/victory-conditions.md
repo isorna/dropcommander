@@ -2,13 +2,6 @@
 title: 'Victory Conditions'
 excerpt: 'Games use two methods of determining victory: Victory Points and Kill Points.'
 position: 5
-breadcrumb:
-  - path: '/en/'
-    text: 'Home'
-  - path: '/en/dzc/'
-    text: 'Dropzone Commander'
-  - path: ''
-    text: 'Victory Conditions'
 ---
 
 # Victory Conditions

@@ -2,13 +2,6 @@
 title: 'Ships characteristics'
 excerpt: 'The strengths and weakness of different ships and weapon systems in the game are shown through their characteristics.'
 position: 1
-breadcrumb:
-  - path: '/en/'
-    text: 'Home'
-  - path: '/en/dfc/'
-    text: 'Dropfleet Commander'
-  - path: ''
-    text: 'Ships characteristics'
 ---
 
 # Ships characteristics

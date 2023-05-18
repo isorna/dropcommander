@@ -2,13 +2,6 @@
 title: 'Preparándose para la batalla'
 excerpt: 'After choosing a game size and preparing your fleet, you must choose a scenario.'
 position: 1
-breadcrumb:
-  - path: '/es/'
-    text: 'Inicio'
-  - path: '/es/dfc/'
-    text: 'Dropfleet Commander'
-  - path: ''
-    text: 'Preparándose para la batalla'
 ---
 
 # Preparándose para la batalla

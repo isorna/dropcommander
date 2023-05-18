@@ -2,13 +2,6 @@
 title: 'Ship’s Orders'
 excerpt: 'When activating any ships in a Battlegroup, the player may opt to use Standard Orders or one of many special orders.'
 position: 4
-breadcrumb:
-  - path: '/en/'
-    text: 'Home'
-  - path: '/en/dfc/'
-    text: 'Dropfleet Commander'
-  - path: ''
-    text: 'Ship´s Orders'
 ---
 
 # Ship’s Orders

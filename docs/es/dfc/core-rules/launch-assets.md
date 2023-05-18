@@ -2,13 +2,6 @@
 title: 'Activos de lanzamiento'
 excerpt: 'Las naves pueden llevar a bordo naves subordinadas más pequeñas en forma de naves de ataque como módulos de aterrizaje, cazas, bombarderos o municiones como torpedos que causen destructivos efectos en las naves objetivo y sistemas similares.'
 position: 9
-breadcrumb:
-  - path: '/es/'
-    text: 'Inicio'
-  - path: '/es/dfc/'
-    text: 'Dropfleet Commander'
-  - path: ''
-    text: 'Lanzamiento de activos'
 ---
 
 # Lanzamiento de activos

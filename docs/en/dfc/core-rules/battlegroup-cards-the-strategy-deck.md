@@ -2,13 +2,6 @@
 title: 'Battlegroup Cards & the Strategy Deck'
 excerpt: 'The order that ships activate in is dictated by the owning player’s strategy deck and this deck is made up of Battlegroup cards.'
 position: 2
-breadcrumb:
-  - path: '/en/'
-    text: 'Home'
-  - path: '/en/dfc/'
-    text: 'Dropfleet Commander'
-  - path: ''
-    text: 'Battlegroup Cards & the Strategy Deck'
 ---
 
 # Battlegroup Cards & the Strategy Deck

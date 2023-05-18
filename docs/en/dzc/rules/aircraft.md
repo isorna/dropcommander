@@ -2,13 +2,6 @@
 title: 'Aircraft'
 excerpt: 'In Dropzone Commander, most armies take to battle via aerial assault.'
 position: 10
-breadcrumb:
-  - path: '/en/'
-    text: 'Home'
-  - path: '/en/dzc/'
-    text: 'Dropzone Commander'
-  - path: ''
-    text: 'Aircraft'
 ---
 
 # {{ $frontmatter.title }}

@@ -2,13 +2,6 @@
 title: 'Battlegroup Activation Sequence'
 excerpt: 'When a Battlegroup’s card is flipped all the groups in the Battlegroup proceed to activate one at a time in a sequence decided by the owning player.'
 position: 3
-breadcrumb:
-  - path: '/en/'
-    text: 'Home'
-  - path: '/en/dfc/'
-    text: 'Dropfleet Commander'
-  - path: ''
-    text: 'Battlegroup Activation Sequence'
 ---
 
 # Battlegroup Activation Sequence

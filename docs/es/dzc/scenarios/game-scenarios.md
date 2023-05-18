@@ -2,13 +2,6 @@
 title: 'Game Scenarios'
 excerpt: 'Dropzone Commander official game scenarios'
 position: 7
-breadcrumb:
-  - path: '/es/'
-    text: 'Inicio'
-  - path: '/es/dzc/'
-    text: 'Dropzone Commander'
-  - path: ''
-    text: 'Game Scenarios'
 ---
 
 # Game Scenarios

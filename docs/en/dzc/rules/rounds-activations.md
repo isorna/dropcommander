@@ -2,13 +2,6 @@
 title: 'Rounds & Activations'
 excerpt: 'A game is played out as a series of rounds.'
 position: 4
-breadcrumb:
-  - path: '/en/'
-    text: 'Home'
-  - path: '/en/dzc/'
-    text: 'Dropzone Commander'
-  - path: ''
-    text: 'Rounds & Activations'
 ---
 
 # Rounds & Activations

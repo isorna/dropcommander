@@ -2,13 +2,6 @@
 title: 'Scenarios'
 excerpt: 'All warfare is meaningless without a purpose, be it noble or nefarious.'
 position: 1
-breadcrumb:
-  - path: '/es/'
-    text: 'Inicio'
-  - path: '/es/dzc/'
-    text: 'Dropzone Commander'
-  - path: ''
-    text: 'Scenarios'
 ---
 
 # {{ $frontmatter.title }}

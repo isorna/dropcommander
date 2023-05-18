@@ -2,13 +2,6 @@
 title: 'Close Quarters'
 excerpt: 'These weapons are denoted by a Range value of CQ, and make a few changes to the standard rules.'
 position: 8
-breadcrumb:
-  - path: '/es/'
-    text: 'Inicio'
-  - path: '/es/dzc/'
-    text: 'Dropzone Commander'
-  - path: ''
-    text: 'Close Quarters'
 ---
 
 # Close Quarters

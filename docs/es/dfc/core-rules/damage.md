@@ -2,13 +2,6 @@
 title: 'Daño'
 excerpt: 'Cada dado de ataque que iguale o supere el valor de Puntería del arma inflige el número de puntos de Daño indicados en el perfil del arma.'
 position: 7
-breadcrumb:
-  - path: '/es/'
-    text: 'Inicio'
-  - path: '/es/dfc/'
-    text: 'Dropfleet Commander'
-  - path: ''
-    text: 'Daño'
 ---
 
 # {{ $frontmatter.title }}

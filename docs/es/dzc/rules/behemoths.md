@@ -2,13 +2,6 @@
 title: 'Behemoths'
 excerpt: 'Behemoths are among the largest land- based fighting vehicles in the 27th century.'
 position: 11
-breadcrumb:
-  - path: '/es/'
-    text: 'Inicio'
-  - path: '/es/dzc/'
-    text: 'Dropzone Commander'
-  - path: ''
-    text: 'Behemoths'
 ---
 
 # {{ $frontmatter.title }}

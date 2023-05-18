@@ -2,13 +2,6 @@
 title: 'Core rules'
 excerpt: 'Dropfleet Commander core rules.'
 position: 4
-breadcrumb:
-  - path: '/en/'
-    text: 'Home'
-  - path: '/en/dfc/'
-    text: 'Dropfleet Commander'
-  - path: ''
-    text: 'Core rules'
 ---
 # Core rules
 

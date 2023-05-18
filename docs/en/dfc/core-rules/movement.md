@@ -2,13 +2,6 @@
 title: 'Movement'
 excerpt: 'A group does not have to maintain a specific formation when it moves and each ship can move individually.'
 position: 5
-breadcrumb:
-  - path: '/en/'
-    text: 'Home'
-  - path: '/en/dfc/'
-    text: 'Dropfleet Commander'
-  - path: ''
-    text: 'Movement'
 ---
 
 # {{ $frontmatter.title }}

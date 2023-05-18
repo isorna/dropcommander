@@ -2,13 +2,6 @@
 title: 'Preparing For Battle'
 excerpt: 'After choosing a game size and preparing your fleet, you must choose a scenario.'
 position: 1
-breadcrumb:
-  - path: '/en/'
-    text: 'Home'
-  - path: '/en/dfc/'
-    text: 'Dropfleet Commander'
-  - path: ''
-    text: 'Preparing For Battle'
 ---
 
 # Preparing For Battle

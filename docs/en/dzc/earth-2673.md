@@ -2,13 +2,6 @@
 title: 'Earth, 2673'
 excerpt: 'After 160 years as refugees, humanity has returned to Earth.'
 position: 2
-breadcrumb:
-  - path: '/en/'
-    text: 'Home'
-  - path: '/en/dzc/'
-    text: 'Dropzone Commander'
-  - path: ''
-    text: 'Earth, 2673'
 ---
 
 # Earth, 2673

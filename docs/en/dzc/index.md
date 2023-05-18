@@ -2,11 +2,6 @@
 title: 'Dropzone Commander'
 excerpt: 'Dropzone Commander rules.'
 position: 0
-breadcrumb:
-  - path: '/en/'
-    text: 'Home'
-  - path: ''
-    text: 'Dropzone Commander'
 ---
 
 # {{ $frontmatter.title }}

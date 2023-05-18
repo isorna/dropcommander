@@ -2,13 +2,6 @@
 title: 'Shooting'
 excerpt: 'To shoot at an enemy, the process is as simple as going through the weapon profile one statistic at a time.'
 position: 7
-breadcrumb:
-  - path: '/es/'
-    text: 'Inicio'
-  - path: '/es/dzc/'
-    text: 'Dropzone Commander'
-  - path: ''
-    text: 'Shooting'
 ---
 
 # {{ $frontmatter.title }}

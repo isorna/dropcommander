@@ -2,13 +2,6 @@
 title: 'The Basics'
 excerpt: 'Models in Dropzone Commander are referred to as units.'
 position: 1
-breadcrumb:
-  - path: '/es/'
-    text: 'Inicio'
-  - path: '/es/dzc/'
-    text: 'Dropzone Commander'
-  - path: ''
-    text: 'The Basics'
 ---
 
 # The Basics

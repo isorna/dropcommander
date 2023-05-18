@@ -2,13 +2,6 @@
 title: 'Moving'
 excerpt: 'Units within a squad may be moved up to their maximum MV value.'
 position: 6
-breadcrumb:
-  - path: '/es/'
-    text: 'Inicio'
-  - path: '/es/dzc/'
-    text: 'Dropzone Commander'
-  - path: ''
-    text: 'Moving'
 ---
 
 # {{ $frontmatter.title }}

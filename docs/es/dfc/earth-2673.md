@@ -2,13 +2,6 @@
 title: 'Tierra, 2673'
 excerpt: 'Tras pasar 160 años como refugiados, la humanidad finalmente ha regresado a la Tierra.'
 position: 2
-breadcrumb:
-  - path: '/es/'
-    text: 'Inicio'
-  - path: '/es/dfc/'
-    text: 'Dropfleet Commander'
-  - path: ''
-    text: 'Tierra, 2673'
 ---
 
 # Tierra, 2673

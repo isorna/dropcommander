@@ -2,13 +2,6 @@
 title: 'Special Rules'
 excerpt: 'Unit Special Rules'
 position: 6
-breadcrumb:
-  - path: '/en/'
-    text: 'Home'
-  - path: '/en/dzc/'
-    text: 'Dropzone Commander'
-  - path: ''
-    text: 'Special Rules'
 ---
 
 # Special Rules

@@ -2,13 +2,6 @@
 title: 'Capas orbitales'
 excerpt: 'Las reglas básicas de Dropfleet cubren el combate espacial, pero la verdad es que batallas en mitad del espacio son bastantes raras.'
 position: 4
-breadcrumb:
-  - path: '/es/'
-    text: 'Inicio'
-  - path: '/es/dfc/'
-    text: 'Dropfleet Commander'
-  - path: ''
-    text: 'Capas orbitales'
 ---
 
 # Capas orbitales

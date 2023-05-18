@@ -2,13 +2,6 @@
 title: 'Características de las naves'
 excerpt: 'Las fortalezas y debilidades de las diferentes naves y sistemas de armamento en el juego se ve ven a través de sus características.'
 position: 1
-breadcrumb:
-  - path: '/es/'
-    text: 'Inicio'
-  - path: '/es/dfc/'
-    text: 'Dropfleet Commander'
-  - path: ''
-    text: 'Características de las naves'
 ---
 
 # Características de las naves

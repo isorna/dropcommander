@@ -2,13 +2,6 @@
 title: 'Glosario'
 excerpt: 'Glosario de términos'
 position: 7
-breadcrumb:
-  - path: '/es/'
-    text: 'Inicio'
-  - path: '/es/dfc/'
-    text: 'Dropfleet Commander'
-  - path: ''
-    text: 'Glosario'
 ---
 
 # {{ $frontmatter.title }}

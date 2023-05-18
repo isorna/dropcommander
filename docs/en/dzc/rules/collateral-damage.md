@@ -2,13 +2,6 @@
 title: 'Collateral Damage'
 excerpt: 'Burning foliage and falling masonry are just as dangerous to occupying forces as a direct hit from a tank shell.'
 position: 13
-breadcrumb:
-  - path: '/en/'
-    text: 'Home'
-  - path: '/en/dzc/'
-    text: 'Dropzone Commander'
-  - path: ''
-    text: 'Collateral Damage'
 ---
 
 # Collateral Damage

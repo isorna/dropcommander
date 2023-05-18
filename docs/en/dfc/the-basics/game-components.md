@@ -2,13 +2,6 @@
 title: 'Game components'
 excerpt: 'Game components used in DZC.'
 position: 2
-breadcrumb:
-  - path: '/en/'
-    text: 'Home'
-  - path: '/en/dfc/'
-    text: 'Dropfleet Commander'
-  - path: ''
-    text: 'Game components'
 ---
 
 # Game components

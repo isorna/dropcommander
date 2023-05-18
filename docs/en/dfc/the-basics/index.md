@@ -2,13 +2,6 @@
 title: 'The basics'
 excerpt: 'Dropfleet Commander basic rules.'
 position: 3
-breadcrumb:
-  - path: '/en/'
-    text: 'Home'
-  - path: '/en/dfc/'
-    text: 'Dropfleet Commander'
-  - path: ''
-    text: 'The basics'
 ---
 # The basics
 

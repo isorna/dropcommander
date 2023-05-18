@@ -2,13 +2,6 @@
 title: 'Core rules'
 excerpt: 'Reglas básicas de Dropzone Commander.'
 position: 0
-breadcrumb:
-  - path: '/es/'
-    text: 'Inicio'
-  - path: '/es/dzc/'
-    text: 'Dropzone Commander'
-  - path: ''
-    text: 'Core rules'
 ---
 # Core rules
 

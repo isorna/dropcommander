@@ -2,13 +2,6 @@
 title: 'Cartas de grupos de batalla y la baraja de estrategia'
 excerpt: 'El orden en el que las naves se activan se determina por la baraja de estrategia del jugador propietario, y dicha baraja se construye con cartas de Grupos de Batalla.'
 position: 2
-breadcrumb:
-  - path: '/es/'
-    text: 'Inicio'
-  - path: '/es/dfc/'
-    text: 'Dropfleet Commander'
-  - path: ''
-    text: 'Cartas de grupos de batalla y la baraja de estrategia'
 ---
 
 # Cartas de grupos de batalla y la baraja de estrategia

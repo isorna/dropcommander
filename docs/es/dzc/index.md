@@ -2,11 +2,6 @@
 title: 'Dropzone Commander'
 excerpt: 'Reglas de Dropzone Commander.'
 position: 0
-breadcrumb:
-  - path: '/es/'
-    text: 'Inicio'
-  - path: ''
-    text: 'Dropzone Commander'
 ---
 
 # Dropzone Commander

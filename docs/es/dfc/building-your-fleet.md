@@ -2,13 +2,6 @@
 title: 'Construyendo tu flota'
 excerpt: 'Los grupos de batalla en Dropfleet Commander son determinados por el tamaño de la partida escogida entre los jugadores y por las facciones a jugar.'
 position: 5
-breadcrumb:
-  - path: '/es/'
-    text: 'Inicio'
-  - path: '/es/dfc/'
-    text: 'Dropfleet Commander'
-  - path: ''
-    text: 'Construyendo tu flota'
 ---
 
 # Construyendo tu flota

@@ -2,13 +2,6 @@
 title: 'Componentes del juego'
 excerpt: 'Componentes necesarios para jugar a DZC.'
 position: 2
-breadcrumb:
-  - path: '/es/'
-    text: 'Inicio'
-  - path: '/es/dfc/'
-    text: 'Dropfleet Commander'
-  - path: ''
-    text: 'Componentes del juego'
 ---
 
 # Componentes del juego

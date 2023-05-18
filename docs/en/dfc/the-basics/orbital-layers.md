@@ -2,13 +2,6 @@
 title: 'Orbital Layers'
 excerpt: 'The basic Dropfleet rules cover fighting in space, but the truth is that battles out in the void between stars are rare events.'
 position: 4
-breadcrumb:
-  - path: '/en/'
-    text: 'Home'
-  - path: '/en/dfc/'
-    text: 'Dropfleet Commander'
-  - path: ''
-    text: 'Orbital Layers'
 ---
 
 # Orbital Layers

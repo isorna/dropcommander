@@ -2,13 +2,6 @@
 title: 'Objetivos'
 excerpt: 'While securing a planet s orbital lanes is key to gaining victory, controlling the ground is equally important.'
 position: 2
-breadcrumb:
-  - path: '/es/'
-    text: 'Inicio'
-  - path: '/es/dfc/'
-    text: 'Dropfleet Commander'
-  - path: ''
-    text: 'Objetivos'
 ---
 
 # {{ $frontmatter.title }}

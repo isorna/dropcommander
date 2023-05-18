@@ -2,11 +2,6 @@
 title: 'Dropfleet Commander'
 excerpt: 'Dropfleet Commander game rules.'
 position: 0
-breadcrumb:
-  - path: '/en/'
-    text: 'Home'
-  - path: ''
-    text: 'Dropfleet Commander'
 ---
 
 # Dropfleet Commander

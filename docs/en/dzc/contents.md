@@ -2,13 +2,6 @@
 title: 'Contents'
 excerpt: 'Dropzone Commander V2.2.0'
 position: 1
-breadcrumb:
-  - path: '/en/'
-    text: 'Home'
-  - path: '/en/dzc/'
-    text: 'Dropzone Commander'
-  - path: ''
-    text: 'Contents'
 ---
 
 # {{ $frontmatter.title }}

@@ -2,13 +2,6 @@
 title: 'Command'
 excerpt: 'Armies seldom succeed in battle without a good commander.'
 position: 3
-breadcrumb:
-  - path: '/en/'
-    text: 'Home'
-  - path: '/en/dzc/'
-    text: 'Dropzone Commander'
-  - path: ''
-    text: 'Command'
 ---
 
 # {{ $frontmatter.title }}

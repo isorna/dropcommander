@@ -2,11 +2,6 @@
 title: 'Dropfleet Commander'
 excerpt: 'Reglas de juego de Dropfleet Commander.'
 position: 0
-breadcrumb:
-  - path: '/es/'
-    text: 'Inicio'
-  - path: ''
-    text: 'Dropfleet Commander'
 ---
 
 # Dropfleet Commander

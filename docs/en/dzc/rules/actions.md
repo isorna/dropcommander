@@ -2,13 +2,6 @@
 title: 'Actions'
 excerpt: 'Squads in Dropzone Commander may perform 2 actions during their activation.'
 position: 5
-breadcrumb:
-  - path: '/en/'
-    text: 'Home'
-  - path: '/en/dzc/'
-    text: 'Dropzone Commander'
-  - path: ''
-    text: 'Actions'
 ---
 
 # {{ $frontmatter.title }}

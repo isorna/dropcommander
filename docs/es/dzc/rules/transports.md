@@ -2,13 +2,6 @@
 title: 'Transports'
 excerpt: 'Transports are ubiquitous in Dropzone Commander, and have several rules tied to them to represent their carrying capacity.'
 position: 9
-breadcrumb:
-  - path: '/es/'
-    text: 'Inicio'
-  - path: '/es/dzc/'
-    text: 'Dropzone Commander'
-  - path: ''
-    text: 'Transports'
 ---
 
 # {{ $frontmatter.title }}

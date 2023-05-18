@@ -2,13 +2,6 @@
 title: 'Scenery'
 excerpt: 'Battlefields of the future are hardly ever featureless wastelands, and normally include various kinds of scenery which can strongly affect the game.'
 position: 12
-breadcrumb:
-  - path: '/es/'
-    text: 'Inicio'
-  - path: '/es/dzc/'
-    text: 'Dropzone Commander'
-  - path: ''
-    text: 'Scenery'
 ---
 
 # {{ $frontmatter.title }}

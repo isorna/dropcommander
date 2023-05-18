@@ -2,13 +2,6 @@
 title: 'Unit Types'
 excerpt: 'There are several different types of unit in the game.'
 position: 2
-breadcrumb:
-  - path: '/en/'
-    text: 'Home'
-  - path: '/en/dzc/'
-    text: 'Dropzone Commander'
-  - path: ''
-    text: 'Unit Types'
 ---
 
 # Unit Types

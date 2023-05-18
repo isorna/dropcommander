@@ -2,13 +2,6 @@
 title: 'Almirantes'
 excerpt: 'Las flotas son incapaces de tener éxito en batalla sin un almirante competente.'
 position: 3
-breadcrumb:
-  - path: '/es/'
-    text: 'Inicio'
-  - path: '/es/dfc/'
-    text: 'Dropfleet Commander'
-  - path: ''
-    text: 'Almirantes'
 ---
 
 # {{ $frontmatter.title }}

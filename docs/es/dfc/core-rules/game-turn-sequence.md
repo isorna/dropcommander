@@ -2,13 +2,6 @@
 title: 'Secuencia del turno de juego'
 excerpt: 'Una partida de Dropfleet Commander se juega en una serie de turnos.'
 position: 1
-breadcrumb:
-  - path: '/es/'
-    text: 'Inicio'
-  - path: '/es/dfc/'
-    text: 'Dropfleet Commander'
-  - path: ''
-    text: 'Secuencia del turno de juego'
 ---
 
 # Secuencia del turno de juego

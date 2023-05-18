@@ -2,13 +2,6 @@
 title: 'Objectives'
 excerpt: 'An Objective is a catch-all name for something that your army will generally need to discover, capture, or extract from the combat zone in order to win the game.'
 position: 6
-breadcrumb:
-  - path: '/es/'
-    text: 'Inicio'
-  - path: '/es/dzc/'
-    text: 'Dropzone Commander'
-  - path: ''
-    text: 'Objectives'
 ---
 
 # {{ $frontmatter.title }}
