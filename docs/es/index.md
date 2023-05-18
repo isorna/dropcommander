@@ -4,7 +4,7 @@ lang: 'es-ES'
 title: 'Inicio'
 hero:
   name: 'Drop Commander'
-  text: 'Universe Fansite.'
+  text: 'Sitio de fans del universo.'
   tagline: 'Hecho por fans, para fans.'
 features:
   - title: 'Dropfleet Commander V1.3.1'
