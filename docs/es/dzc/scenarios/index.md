@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Scenarios'
+title: 'Scenarios'
 excerpt: 'Escenarios para Dropzone Commander.'
 position: 0
 breadcrumb:

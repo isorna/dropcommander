@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Core rules'
+title: 'Core rules'
 excerpt: 'Reglas básicas de Dropzone Commander.'
 position: 0
 breadcrumb:

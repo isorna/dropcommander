@@ -3,7 +3,7 @@
     <!-- <div v-for="(category, index) in pages" :key="index" class="item"> -->
       <CategoryCard
         v-for="(category, index) in pages" :key="index"
-        :categoryTitle="category.categoryTitle"
+        :title="category.title"
         :excerpt="category?.excerpt"
         :image="category?.img"
         :href="category?.href" />

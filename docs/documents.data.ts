@@ -6,7 +6,7 @@ interface BreadcrumbItem {
 }
 
 interface FrontmatterData {
-  categoryTitle: string
+  title: string
   excerpt: string
   position: number
   breadcrumb?: BreadcrumbItem[]
@@ -41,7 +41,7 @@ export default createContentLoader('**/*.md', {
       .map(page => {
         // console.log('en el map', page.url)
         return {
-          categoryTitle: page.frontmatter.categoryTitle,
+          title: page.frontmatter.title,
           position: page.frontmatter.position,
           excerpt: page.frontmatter.excerpt,
           href: page.url,

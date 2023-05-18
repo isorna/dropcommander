@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Contents'
+title: 'Contents'
 excerpt: 'Dropzone Commander V2.2.0'
 position: 1
 breadcrumb:

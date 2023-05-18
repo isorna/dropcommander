@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Core rules'
+title: 'Core rules'
 excerpt: 'Dropfleet Commander core rules.'
 position: 4
 breadcrumb:

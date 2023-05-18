@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'The Basics'
+title: 'The Basics'
 excerpt: 'Models in Dropzone Commander are referred to as units.'
 position: 1
 breadcrumb:

@@ -1,5 +1,5 @@
 properties:
-  categoryTitle:
+  title:
     type: string
   position:
     type: number
@@ -19,6 +19,6 @@ properties:
           type: string
 
 required:
-  - categoryTitle
+  - title
   - position
   - excerpt

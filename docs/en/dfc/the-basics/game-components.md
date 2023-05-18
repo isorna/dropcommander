@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Game components'
+title: 'Game components'
 excerpt: 'Game components used in DZC.'
 position: 2
 breadcrumb:

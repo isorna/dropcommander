@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Ships characteristics'
+title: 'Ships characteristics'
 excerpt: 'The strengths and weakness of different ships and weapon systems in the game are shown through their characteristics.'
 position: 1
 breadcrumb:

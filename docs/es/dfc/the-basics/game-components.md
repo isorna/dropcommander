@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Componentes del juego'
+title: 'Componentes del juego'
 excerpt: 'Componentes necesarios para jugar a DZC.'
 position: 2
 breadcrumb:

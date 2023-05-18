@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Ship’s Orders'
+title: 'Ship’s Orders'
 excerpt: 'When activating any ships in a Battlegroup, the player may opt to use Standard Orders or one of many special orders.'
 position: 4
 breadcrumb:

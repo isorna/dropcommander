@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Secuencia de activación de grupos de batalla'
+title: 'Secuencia de activación de grupos de batalla'
 excerpt: 'Cuando un Grupo de batalla se activa dando la vuelta a su carta, todos los grupos de naves pertenecientes a ese Grupo de Batalla se activan sucesivamente en una secuencia decidida por el jugador poseedor de dicho Grupo.'
 position: 3
 breadcrumb:

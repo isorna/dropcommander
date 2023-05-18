@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Características de las naves'
+title: 'Características de las naves'
 excerpt: 'Las fortalezas y debilidades de las diferentes naves y sistemas de armamento en el juego se ve ven a través de sus características.'
 position: 1
 breadcrumb:

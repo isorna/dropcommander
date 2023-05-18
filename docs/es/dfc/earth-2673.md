@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Tierra, 2673'
+title: 'Tierra, 2673'
 excerpt: 'Tras pasar 160 años como refugiados, la humanidad finalmente ha regresado a la Tierra.'
 position: 2
 breadcrumb:

@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Battlegroup Cards & the Strategy Deck'
+title: 'Battlegroup Cards & the Strategy Deck'
 excerpt: 'The order that ships activate in is dictated by the owning player’s strategy deck and this deck is made up of Battlegroup cards.'
 position: 2
 breadcrumb:

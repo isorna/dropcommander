@@ -16,7 +16,7 @@ interface BreadcrumbItem {
 }
 
 export interface FrontmatterData {
-  categoryTitle: string
+  title: string
   excerpt: string
   position: number
   breadcrumb: BreadcrumbItem[]

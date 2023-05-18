@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Scenarios'
+title: 'Scenarios'
 excerpt: 'Dropfleet Commander scenarios.'
 position: 5
 breadcrumb:

@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Command'
+title: 'Command'
 excerpt: 'Armies seldom succeed in battle without a good commander.'
 position: 3
 breadcrumb:

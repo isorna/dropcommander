@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Combate en tierra'
+title: 'Combate en tierra'
 excerpt: 'Aunque gran parte de Dropfleet Commander se centra en la lucha en órbita, la mayoría de los objetivos y puntos clave por los que se lucha se encuentran en realidad en la superficie del planeta.'
 position: 8
 breadcrumb:

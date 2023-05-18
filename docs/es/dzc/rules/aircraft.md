@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Aircraft'
+title: 'Aircraft'
 excerpt: 'In Dropzone Commander, most armies take to battle via aerial assault.'
 position: 10
 breadcrumb:

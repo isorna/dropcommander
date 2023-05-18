@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Lo básico'
+title: 'Lo básico'
 excerpt: 'Reglas básicas de Dropfleet Commander.'
 position: 3
 breadcrumb:

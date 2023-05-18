@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Shooting'
+title: 'Shooting'
 excerpt: 'To shoot at an enemy, the process is as simple as going through the weapon profile one statistic at a time.'
 position: 7
 breadcrumb:

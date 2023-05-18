@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Órdenes de las naves'
+title: 'Órdenes de las naves'
 excerpt: 'Cuando una nave de un Grupo de Batalla se activa, el jugador puede elegir entre darle Órdenes estándar o una de las diversas ordenes especiales.'
 position: 4
 breadcrumb:

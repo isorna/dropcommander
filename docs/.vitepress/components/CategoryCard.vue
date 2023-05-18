@@ -2,9 +2,9 @@
   <article class="card">
     <a :href="href" class="link">
       <header>
-        <h2 class="title">{{ categoryTitle }}</h2>
+        <h2 class="title">{{ title }}</h2>
       </header>
-      <img v-if="image" :src="image" class="image" :alt="categoryTitle" />
+      <img v-if="image" :src="image" class="image" :alt="title" />
       <div class="content">
         <p class="details" v-if="excerpt">{{ truncateText(excerpt, 50) }}</p>
       </div>
@@ -14,7 +14,7 @@
 
 <script setup>
   const props = defineProps({
-    categoryTitle: {
+    title: {
       type: String,
       required: true
     },

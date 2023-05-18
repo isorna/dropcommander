@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Launch Assets'
+title: 'Launch Assets'
 excerpt: 'Ships may carry smaller subordinate craft on board in the form of strike craft like Dropships, Fighters and Bombers or munitions - ship-killing Torpedoes and similar systems.'
 position: 9
 breadcrumb:

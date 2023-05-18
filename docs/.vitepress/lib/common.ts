@@ -3,7 +3,7 @@ import fm from 'front-matter'
 
 /**
  * Get frontmatter data from a provided file,
- * and return its categoryTitle and position attributes.
+ * and return its title and position attributes.
  *
  * @param filePath: string
  * @returns {
@@ -16,7 +16,7 @@ export function getFrontmatterData(filePath: string): Record<string, any> {
  const fileFrontmatterContent = fm(fileData) as Record<string, any>
 
  return {
-   text: fileFrontmatterContent.attributes.categoryTitle,
+   text: fileFrontmatterContent.attributes.title,
    position: fileFrontmatterContent.attributes.position
  }
 }

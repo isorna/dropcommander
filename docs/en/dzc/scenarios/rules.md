@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Scenarios'
+title: 'Scenarios'
 excerpt: 'All warfare is meaningless without a purpose, be it noble or nefarious.'
 position: 1
 breadcrumb:

@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Scenario Objectives'
+title: 'Scenario Objectives'
 excerpt: 'While securing a planet’s orbital lanes is key to gaining victory, controlling the ground is equally important.'
 position: 2
 breadcrumb:

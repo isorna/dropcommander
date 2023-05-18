@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Dropfleet Commander'
+title: 'Dropfleet Commander'
 excerpt: 'Dropfleet Commander game rules.'
 position: 0
 breadcrumb:

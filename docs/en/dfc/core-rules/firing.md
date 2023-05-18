@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Firing'
+title: 'Firing'
 excerpt: 'Once a group has moved, all of its ships may fire weapon systems if their orders permit them to do so.'
 position: 6
 breadcrumb:

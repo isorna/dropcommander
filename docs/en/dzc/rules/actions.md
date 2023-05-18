@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Actions'
+title: 'Actions'
 excerpt: 'Squads in Dropzone Commander may perform 2 actions during their activation.'
 position: 5
 breadcrumb:

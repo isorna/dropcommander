@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Transports'
+title: 'Transports'
 excerpt: 'Transports are ubiquitous in Dropzone Commander, and have several rules tied to them to represent their carrying capacity.'
 position: 9
 breadcrumb:

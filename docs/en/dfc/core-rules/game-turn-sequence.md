@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Game Turn Sequence'
+title: 'Game Turn Sequence'
 excerpt: 'A game of Dropfleet Commander is played out in a series of turns.'
 position: 1
 breadcrumb:

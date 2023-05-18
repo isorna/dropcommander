@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Almirantes'
+title: 'Almirantes'
 excerpt: 'Las flotas son incapaces de tener éxito en batalla sin un almirante competente.'
 position: 3
 breadcrumb:

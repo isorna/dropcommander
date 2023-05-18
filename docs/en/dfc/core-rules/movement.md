@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Movement'
+title: 'Movement'
 excerpt: 'A group does not have to maintain a specific formation when it moves and each ship can move individually.'
 position: 5
 breadcrumb:

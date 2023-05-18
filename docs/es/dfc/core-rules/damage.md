@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Daño'
+title: 'Daño'
 excerpt: 'Cada dado de ataque que iguale o supere el valor de Puntería del arma inflige el número de puntos de Daño indicados en el perfil del arma.'
 position: 7
 breadcrumb:

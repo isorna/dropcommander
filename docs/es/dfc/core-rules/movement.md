@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Movimiento'
+title: 'Movimiento'
 excerpt: 'Un grupo no tiene que mantener una formación específica cuando se mueve, y cada nave puede moverse individualmente.'
 position: 5
 breadcrumb:

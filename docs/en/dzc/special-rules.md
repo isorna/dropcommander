@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Special Rules'
+title: 'Special Rules'
 excerpt: 'Unit Special Rules'
 position: 6
 breadcrumb:

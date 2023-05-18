@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Contenidos'
+title: 'Contenidos'
 excerpt: 'Dropfleet Commander V1.3.1'
 position: 1
 breadcrumb:

@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Dropzone Commander'
+title: 'Dropzone Commander'
 excerpt: 'Dropzone Commander rules.'
 position: 0
 breadcrumb:

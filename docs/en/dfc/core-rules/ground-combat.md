@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Ground Combat'
+title: 'Ground Combat'
 excerpt: 'Although much of Dropfleet Commander focuses on the fighting in orbit, most objectives and key points being fought over are actually on the planet’s surface.'
 position: 8
 breadcrumb:

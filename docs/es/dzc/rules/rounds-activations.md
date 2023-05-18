@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Rounds & Activations'
+title: 'Rounds & Activations'
 excerpt: 'A game is played out as a series of rounds.'
 position: 4
 breadcrumb:

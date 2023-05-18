@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Reglas fundamentales'
+title: 'Reglas fundamentales'
 excerpt: 'Reglas fundamentales de Dropfleet Commander.'
 position: 4
 breadcrumb:

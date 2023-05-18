@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Secuencia del turno de juego'
+title: 'Secuencia del turno de juego'
 excerpt: 'Una partida de Dropfleet Commander se juega en una serie de turnos.'
 position: 1
 breadcrumb:

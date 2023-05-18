@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Building Your Fleet'
+title: 'Building Your Fleet'
 excerpt: 'Battlegroups in Dropfleet Commander are determined by the size of game chosen and the individual forces that players choose.'
 position: 5
 breadcrumb:

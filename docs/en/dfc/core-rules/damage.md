@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Damage'
+title: 'Damage'
 excerpt: 'Every Attack Dice that equals or exceeds its Lock number inflicts the number of Damage points indicated for the weapon system.'
 position: 7
 breadcrumb:

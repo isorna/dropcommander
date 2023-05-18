@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Close Quarters'
+title: 'Close Quarters'
 excerpt: 'These weapons are denoted by a Range value of CQ, and make a few changes to the standard rules.'
 position: 8
 breadcrumb:

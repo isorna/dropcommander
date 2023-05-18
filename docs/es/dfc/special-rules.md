@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Reglas especiales'
+title: 'Reglas especiales'
 excerpt: 'Aunque la mayoría de las eventualidades y los tipos de naves están cubiertas en las reglas anteriores, ciertas naves tienen habilidades y atributos que están fuera de lo común y requieren de reglas especiales para representarlas'
 position: 7
 breadcrumb:

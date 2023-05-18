@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Disparo'
+title: 'Disparo'
 excerpt: 'Una vez un grupo de naves finaliza su movimiento, todas sus naves pueden disparar sistemas de armas si las órdenes impartidas a las mismas lo permiten.'
 position: 6
 breadcrumb:

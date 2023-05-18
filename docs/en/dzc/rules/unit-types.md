@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Unit Types'
+title: 'Unit Types'
 excerpt: 'There are several different types of unit in the game.'
 position: 2
 breadcrumb:

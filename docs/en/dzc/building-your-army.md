@@ -1,5 +1,5 @@
 ---
-categoryTitle: 'Building Your Army'
+title: 'Building Your Army'
 excerpt: 'The battlefields of the 27th Century are dangerous places, with armies fighting for supremacy over entire worlds and solar systems, trying to take control of the galaxy for resources and survival.'
 position: 5
 breadcrumb:
