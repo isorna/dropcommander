@@ -1,15 +1,3 @@
-export interface PageData {
-  relativePath: string
-  title: string
-  titleTemplate?: string | boolean
-  description: string
-  headers: Header[]
-  frontmatter: Record<string, any>
-  params?: Record<string, any>
-  isNotFound?: boolean
-  lastUpdated?: number
-}
-
 interface BreadcrumbItem {
   path: string
   text: string
@@ -19,11 +7,12 @@ export interface FrontmatterData {
   title: string
   excerpt: string
   position: number
-  breadcrumb: BreadcrumbItem[]
+  breadcrumb?: BreadcrumbItem[]
 }
 
 export interface Page extends FrontmatterData {
   href: string
+  image?: string
 }
 
 export interface Options {

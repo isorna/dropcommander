@@ -1,21 +1,5 @@
+import type { Page } from '.vitepress/lib/types'
 import { createContentLoader } from 'vitepress'
-
-interface BreadcrumbItem {
-  path: string
-  text: string
-}
-
-interface FrontmatterData {
-  title: string
-  excerpt: string
-  position: number
-  breadcrumb?: BreadcrumbItem[]
-}
-
-interface Page extends FrontmatterData {
-  href: string
-  image?: string
-}
 
 declare const data: Page[]
 export { data }

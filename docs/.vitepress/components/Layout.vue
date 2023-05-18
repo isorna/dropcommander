@@ -3,13 +3,13 @@
 import DefaultTheme from 'vitepress/theme';
 import BreadCrumb from './BreadCrumb.vue';
 import { useData } from 'vitepress'
-const { frontmatter } = useData()
+const { page } = useData()
 </script>
 
 <template>
   <DefaultTheme.Layout>
-    <template #doc-before>
-      <BreadCrumb :breadCrumb="frontmatter.breadcrumb" />
+    <template #doc-before v-if="page">
+      <BreadCrumb :page="page" />
     </template>
   </DefaultTheme.Layout>
 </template>

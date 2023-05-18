@@ -1,18 +1,44 @@
 <!--.vitepress/theme/BreadCrumb.vue-->
 <script setup lang="ts">
-defineProps({
-  breadCrumb: Array<{ path: string, text: string }>
-})
+import { PageData } from 'vitepress';
+import { Page } from '.vitepress/lib/types';
+import { data as pages } from '../../documents.data'
+
+defineProps<{ page: PageData }>()
+
+function getBreadcrumbArray (page: PageData): Page[] {
+  const breadcrumbString = page.filePath.split('/')
+  const breadcrumbArray: Page[] = []
+
+  breadcrumbString.reduce((previousValue, currentValue) => {
+    let reducedValue = `${previousValue}/${currentValue}`
+    let path = ''
+
+    if (currentValue.endsWith('.md')) {
+      if (!currentValue.endsWith('index.md')) {
+        path = `${reducedValue}`.replace('.md', '.html')
+      }
+    } else {
+      path = `${reducedValue}/index.html`
+    }
+    if (path !== '') breadcrumbArray.push(pages.find((page) => page.href === path) as Page)
+
+    return reducedValue
+  }, '')
+
+  return breadcrumbArray
+}
 </script>
 
 <template>
-  <nav aria-label="Breadcrumb" class="breadcrumb" v-if="breadCrumb">
+  <nav aria-label="Breadcrumb" class="breadcrumb" v-if="page">
     <ul>
-        <li v-for="(crumb, index) in breadCrumb" :key="crumb.path">
-          <a v-if="index < breadCrumb.length - 1"
+        <li v-for="(crumb, index) in getBreadcrumbArray(page)" :key="crumb.href">
+          <a v-if="index < getBreadcrumbArray(page).length - 1"
             class="crumb"
-            :href="crumb.path">{{ crumb.text }}</a>
-          <span v-else aria-current="page" class="current">{{ crumb.text }}</span>
+            :href="crumb.href"
+            :title="crumb.excerpt || ''">{{ crumb.title }}</a>
+          <span v-else aria-current="page" class="current">{{ crumb.title }}</span>
         </li>
     </ul>
   </nav>
@@ -27,14 +53,14 @@ defineProps({
 }
 .breadcrumb ul {
   display: flex;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
   list-style: none;
   margin: 0;
   padding: 0;
 }
 .breadcrumb ul li {
   display: flex;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
 }
 .breadcrumb li:not(:first-child)::before {
   content: "/";
@@ -46,7 +72,7 @@ defineProps({
   padding: 0.125rem 0.35rem;
   text-overflow: ellipsis;
   white-space: nowrap;
-  max-width: 7rem;
+  max-width: 5rem;
 }
 .crumb {
   border-radius: 9999px;
