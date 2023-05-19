@@ -26,7 +26,8 @@
     "./.vitepress/**/*.vue",
     "./.vitepress/components.d.ts",
     "./**/*.data.ts",
-    "../env.d.ts"
+    "../env.d.ts",
+    "./*.config.ts"
   ],
-  "exclude": ["dist", "node_modules"]
+  "exclude": ["dist", "node_modules", "dev-dist"]
 }

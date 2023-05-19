@@ -3,6 +3,7 @@
     "vue.volar",
     "vue.vscode-typescript-vue-plugin",
     "redhat.vscode-yaml",
-    "nickdemayo.vscode-json-editor"
+    "nickdemayo.vscode-json-editor",
+    "pwabuilder.pwa-studio"
   ]
 }

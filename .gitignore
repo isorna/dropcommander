@@ -12,6 +12,7 @@ node_modules
 build
 dist
 dist-ssr
+dev-dist
 coverage
 *.local
 __hidden
