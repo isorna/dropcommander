@@ -1,6 +1,9 @@
-[submodule "dropcommander-translations-dfc-fr"]
-	path = docs/fr
-	url = https://github.com/isorna/dropcommander-translations-dfc-fr.git
-[submodule "dropcommander-translations-dfc-es"]
+[submodule "dropcommander-translations-es"]
 	path = docs/es
-	url = https://github.com/isorna/dropcommander-translations-dfc-es.git
+	url = https://github.com/isorna/dropcommander-translations-es.git
+[submodule "dropcommander-translations-fr"]
+	path = docs/fr
+	url = https://github.com/isorna/dropcommander-translations-fr.git
+[submodule "dropcommander-translations-en"]
+	path = docs/en
+	url = https://github.com/isorna/dropcommander-translations-en.git
