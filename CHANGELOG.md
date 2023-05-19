@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.7.0](https://github.com/isorna/dropcommander/compare/v1.6.0...v1.7.0) (2023-05-19)
+
+
+### Features
+
+* **api:** :sparkles: add latest profile apis ([e4b30dc](https://github.com/isorna/dropcommander/commit/e4b30dcb446017983124217252e02d4082b60d84))
+* **api:** :sparkles: create new apis ([dd56929](https://github.com/isorna/dropcommander/commit/dd56929c9a184fc10d9802ed20d7ec2e2c6df9b1))
+* **pwa:** :sparkles: integrate pwa with vite-pwa ([472b02e](https://github.com/isorna/dropcommander/commit/472b02ee715df9f037415121ce9346d5452e83ef))
+
 ## [1.6.0](https://github.com/isorna/dropcommander/compare/v1.5.0...v1.6.0) (2023-05-19)
 
 
