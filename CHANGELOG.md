@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/isorna/dropcommander/compare/v1.4.0...v1.5.0) (2023-05-19)
+
+
+### Features
+
+* **components:** :sparkles: automatically create breadcrumbs from pageData ([da29556](https://github.com/isorna/dropcommander/commit/da295561e795c865d0b6ae76b90c8db49e5d7f46))
+
 ## [1.4.0](https://github.com/isorna/dropcommander/compare/v1.3.0...v1.4.0) (2023-05-17)
 
 
