@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.0](https://github.com/isorna/dropcommander/compare/v1.5.0...v1.6.0) (2023-05-19)
+
+
+### Features
+
+* **git:** :truck: use git submodules for each translation ([96e8a72](https://github.com/isorna/dropcommander/commit/96e8a72f025ced8f7a461723efb024ac026464b9))
+
 ## [1.5.0](https://github.com/isorna/dropcommander/compare/v1.4.0...v1.5.0) (2023-05-19)
 
 
