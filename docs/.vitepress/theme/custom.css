@@ -11,6 +11,19 @@
 }
 
 /*
+* dark mode image styles
+*/
+html.dark .VPSocialLink {
+  filter: grayscale(1);
+}
+
+@media (prefers-color-scheme: dark) {
+  .VPSocialLink {
+    filter: grayscale(1);
+  }
+}
+
+/*
 * WIP: Table styles
 */
 .vp-doc th,
