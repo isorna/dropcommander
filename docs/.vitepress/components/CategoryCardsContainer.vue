@@ -1,16 +1,4 @@
-<template>
-  <div class="container">
-    <!-- <div v-for="(category, index) in pages" :key="index" class="item"> -->
-      <CategoryCard
-        v-for="(category, index) in pages" :key="index"
-        :title="category.title"
-        :excerpt="category?.excerpt"
-        :image="category?.img"
-        :href="category?.href" />
-    <!-- </div> -->
-  </div>
-</template>
-
+<!--.vitepress/theme/CategoryCardsContainer.vue-->
 <script setup>
 import CategoryCard from './CategoryCard.vue'
 
@@ -22,28 +10,22 @@ const props = defineProps({
 })
 </script>
 
+<template>
+  <div class="container">
+    <CategoryCard
+      v-for="(category, index) in pages" :key="index"
+      :title="category.title"
+      :excerpt="category?.excerpt"
+      :image="category?.img"
+      :href="category?.href" />
+  </div>
+</template>
+
 <style scoped>
 .container {
-  /* display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  margin: -8px;
-  padding-top: 64px; */
   padding-top: 64px;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
   grid-gap: 20px;
 }
-/* .item {
-  padding: 8px;
-  width: 100%;
-} */
-/* @media (min-width: 768px) {
-  .container {
-    flex-direction: row;
-  }
-  .item {
-    width: 50%;
-  }
-} */
 </style>

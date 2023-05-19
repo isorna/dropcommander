@@ -1,3 +1,32 @@
+<!--.vitepress/theme/CategoryCardsContainer.vue-->
+<script setup>
+const props = defineProps({
+  title: {
+    type: String,
+    required: true
+  },
+  excerpt: {
+    type: String,
+    required: false
+  },
+  image: {
+    type: String,
+    required: false
+  },
+  href: {
+    type: String,
+    required: false
+  }
+})
+
+const truncateText = (text, length) => {
+  if (text.length > length) {
+    return `${text.substring(0, length)}...`
+  }
+  return text
+}
+</script>
+
 <template>
   <article class="card">
     <a :href="href" class="link">
@@ -12,40 +41,9 @@
   </article>
 </template>
 
-<script setup>
-  const props = defineProps({
-    title: {
-      type: String,
-      required: true
-    },
-    excerpt: {
-      type: String,
-      required: false
-    },
-    image: {
-      type: String,
-      required: false
-    },
-    href: {
-      type: String,
-      required: false
-    }
-  })
-
-  const truncateText = (text, length) => {
-    if (text.length > length) {
-      return `${text.substring(0, length)}...`
-    }
-    return text
-  }
-</script>
-
 <style scoped>
 .card {
-  /* display: block;
-  height: 100%; */
   display: grid;
-  /* grid-template-rows: max-content 100px 1fr; */
 }
 .link {
   background-color: var(--vp-c-bg-soft);
@@ -62,10 +60,6 @@
   text-decoration: none;
 }
 .image {
-  /* float: left;
-  height: 96px;
-  width: 96px;
-  margin-right: 8px; */
   object-fit: cover;
   width: 100%;
   height: 100%;

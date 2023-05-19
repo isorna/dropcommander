@@ -1,14 +1,10 @@
 // /theme/index.ts
-// import { watchEffect } from 'vue'
-import DefaultTheme from 'vitepress/theme'
 import type { EnhanceAppContext } from 'vitepress'
-// import { useData, inBrowser } from 'vitepress'
+import DefaultTheme from 'vitepress/theme'
 import Layout from '../components/Layout.vue'
 import CategoryCardsContainer from '../components/CategoryCardsContainer.vue'
+import ShipCard from '../components/dfc/ShipCard.vue'
 import './custom.css'
-// import { createMediumZoomProvider, usePageAnalytics } from './components/composables'
-// if (inBrowser)
-//   import('./pwa')
 
 export default {
   ...DefaultTheme,
@@ -23,6 +19,7 @@ export default {
 
     // register your custom global components
     app.component('CategoryCardsContainer', CategoryCardsContainer)
+    app.component('ShipCard', ShipCard)
     // usePageAnalytics('G-V5E08LL4GP', 'b1d9002033c7e550e55a51a23dca4f31')
   },
   setup() {
