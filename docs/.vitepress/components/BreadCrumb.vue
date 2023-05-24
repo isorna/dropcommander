@@ -53,14 +53,12 @@ function getBreadcrumbArray (page: PageData): Page[] {
 }
 .breadcrumb ul {
   display: flex;
-  /* flex-wrap: wrap; */
   list-style: none;
   margin: 0;
   padding: 0;
 }
 .breadcrumb ul li {
   display: flex;
-  /* flex-wrap: wrap; */
 }
 .breadcrumb li:not(:first-child)::before {
   content: "/";
