@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.8.0](https://github.com/isorna/dropcommander/compare/v1.7.0...v1.8.0) (2023-05-24)
+
+
+### Features
+
+* **components:** :sparkles: new DFC ship card component, includes i18n api too ([327f7de](https://github.com/isorna/dropcommander/commit/327f7de882bfabdbbb3d17eb7467fd4050d13563))
+* **components:** :sparkles: new ship profile component ([105dc87](https://github.com/isorna/dropcommander/commit/105dc8752bdf2131cdebd08149a21fffe18eca4b))
+
 ## [1.7.0](https://github.com/isorna/dropcommander/compare/v1.6.0...v1.7.0) (2023-05-19)
 
 
