@@ -30,7 +30,7 @@ const profile = props.api.filter(item => item.slug !== 'index')
   .filter((item) => item.Name === props.name)[0]
 
 // DEBUG:
-console.log('%cSHIP PROFILE', 'color: red; font-weight: bold', profile)
+// console.log('%cSHIP PROFILE', 'color: red; font-weight: bold', profile)
 </script>
 <template>
   <div class="profile">
