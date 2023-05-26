@@ -23,13 +23,13 @@ export default createContentLoader('./es/dfc/**/*.md', {
         return a.frontmatter.position - b.frontmatter.position
       })
       .map(page => {
-        // console.log('en el map', page.url)
+        const frontmatter = page.frontmatter
         return {
-          title: page.frontmatter.title,
-          position: page.frontmatter.position,
-          excerpt: page.frontmatter.excerpt,
+          title: frontmatter?.title,
+          position: frontmatter?.position,
+          excerpt: frontmatter?.excerpt,
           href: page.url,
-          image: page?.frontmatter.image
+          image: frontmatter?.image
         }
       }) as Page[]
   }
