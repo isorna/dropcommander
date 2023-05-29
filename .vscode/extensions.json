@@ -4,6 +4,8 @@
     "vue.vscode-typescript-vue-plugin",
     "redhat.vscode-yaml",
     "nickdemayo.vscode-json-editor",
-    "pwabuilder.pwa-studio"
+    "pwabuilder.pwa-studio",
+    "codium.codium",
+    "postman.postman-for-vscode"
   ]
 }

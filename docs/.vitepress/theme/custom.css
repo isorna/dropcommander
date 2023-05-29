@@ -46,3 +46,15 @@ html.dark .VPSocialLink {
     width: 96px;
   }
 }
+
+/*
+* TODO: header parallax animation (Chrome 115+)
+* https://twitter.com/bramus/status/1662052557211017217?t=7rg6w53WC2Tp_UdLOxtqMA&s=03
+* https://scroll-driven-animations.style/#card-cover-to-fixed-header
+*/
+
+/* header {
+  animation: shrink;
+  animation-timeline: scroll();
+  animation-range: 0 90vh;
+} */
