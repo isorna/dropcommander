@@ -2,12 +2,57 @@
 
 /* .vitepress/theme/custom.css */
 :root {
-  --vp-c-brand: #2e8555;
-  --vp-c-brand-light: #33925d;
+  --opacity: 100%;
   --menu-link-sublist-icon: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24"><path fill="rgba(0,0,0,0.5)" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path></svg>');
   --menu-link-sublist-icon-filter: none;
   --menu-link-sublist-icon-filter-dark: invert(100%) sepia(94%) saturate(17%) hue-rotate(223deg) brightness(104%) contrast(98%);
   --transition-fast: 200ms;
+
+  /* NEW CUSTOM COLORS */
+  --light-orange-gradient: rgba(247 238 159 / 100%);
+  --dark-orange-gradient: rgba(248 105 41 / 100%);
+  --bright-orange: rgba(254 103 12 / 100%);
+  --dark-orange: rgba(42 8 6 / 100%);
+  --light-turquoise-gradient: rgba(214 252 252 / 100%);
+  --dark-turquoise-gradient: rgba(5 115 159 / 100%);
+  --bright-turquoise: rgba(4 255 248 / 100%);
+  --dark-turquoise: rgba(5 49 75 / 100%);
+  --medium-blue: rgba(13 70 86 / 100%);
+  --dark-blue: rgba(1 45 54 / 100%);
+  --darkest-blue: rgba(4 25 36 / 100%);
+
+  /* MODIFIED VP FONTS */
+  --font-family-titles: 'Black Ops One', sans-serif;
+  --font-family-text: sans-serif;
+  --vp-font-family-base: var(--font-family-titles);
+
+  /* color de la fuente los inputs --vp-c-text-3 */
+
+  /* MODIFIED VP COLORS */
+  --vp-c-brand: var(--bright-orange);
+  --vp-c-brand-light: var(--bright-turquoise);
+  --vp-c-bg: var(--darkest-blue);
+  --vp-c-gutter: var(--bright-turquoise);
+  --vp-c-text-1: var(--bright-turquoise);
+  --vp-c-text-2: var(--dark-turquoise-gradient);
+  --vp-c-bg-soft: var(--dark-blue);
+  --vp-c-bg-soft-up: var(--medium-blue);
+  --vp-sidebar-bg-color: var(--darkest-blue);
+
+  /* MODIFIED VP dimensions */
+  --vp-sidebar-width: 20rem;
+}
+
+/*
+* Custom component fonts
+*/
+.main p,
+.main ul,
+.main ol,
+.breadcrumb,
+.VPFeature .details,
+.VPSidebarItem .level-2 .text {
+  font-family: var(--font-family-text);
 }
 
 /*

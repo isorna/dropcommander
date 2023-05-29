@@ -93,6 +93,7 @@ const profile = props.api.filter(item => item.slug !== 'index')
   --clip-path: polygon(9% 20%,100% 0%,87% 90%,0 78%);
   color: var(--white);
   display: inline-block;
+  font-family: inherit;
   font-size: 40px;
   line-height: 100px;
   white-space: nowrap;
@@ -115,6 +116,7 @@ const profile = props.api.filter(item => item.slug !== 'index')
 }
 .profile .profile-card__designation,
 .profile .profile-card__points {
+  font-family: inherit;
   position: absolute;
   right: 20px;
   text-align: right;
@@ -125,6 +127,7 @@ const profile = props.api.filter(item => item.slug !== 'index')
   top: 70px;
 }
 .profile .profile-card__stats {
+  font-family: inherit;
   display: flex;
   font-size: 15px;
   justify-content: flex-start;
@@ -132,6 +135,7 @@ const profile = props.api.filter(item => item.slug !== 'index')
 }
 .profile .profile-card__stat,
 .profile .profile-card__weapon {
+  font-family: inherit;
   position: relative;
   margin: 0 5px 10px;
 }
@@ -144,6 +148,7 @@ const profile = props.api.filter(item => item.slug !== 'index')
 }
 .profile .profile-card__stat__title,
 .profile .profile-card__stat__text {
+  font-family: inherit;
   display: block;
   position: relative;
   transform: rotate(355deg);
@@ -197,6 +202,7 @@ const profile = props.api.filter(item => item.slug !== 'index')
   align-items: center;
 }
 .profile .profile-card__weapon-title__box {
+  font-family: inherit;
   --bg-color: var(--white);
   --bg-color-tr: var(--white-tr);
   display: block;
@@ -228,6 +234,7 @@ const profile = props.api.filter(item => item.slug !== 'index')
 }
 .profile .profile-card__special,
 .profile .profile-card__special-rules {
+  font-family: inherit;
   margin: 10px 0 0;
 }
 .profile .profile-card__stat + .profile-card__special {
