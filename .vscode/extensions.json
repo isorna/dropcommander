@@ -6,6 +6,7 @@
     "nickdemayo.vscode-json-editor",
     "pwabuilder.pwa-studio",
     "codium.codium",
-    "postman.postman-for-vscode"
+    "postman.postman-for-vscode",
+    "wallabyjs.console-ninja"
   ]
 }
