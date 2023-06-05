@@ -7,6 +7,7 @@
     "pwabuilder.pwa-studio",
     "codium.codium",
     "postman.postman-for-vscode",
-    "wallabyjs.console-ninja"
+    "wallabyjs.console-ninja",
+    "github.vscode-github-actions"
   ]
 }
