@@ -8,6 +8,8 @@
     "codium.codium",
     "postman.postman-for-vscode",
     "wallabyjs.console-ninja",
-    "github.vscode-github-actions"
+    "github.vscode-github-actions",
+    "humao.rest-client",
+    "zixuanchen.vitest-explorer"
   ]
 }
