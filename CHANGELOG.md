@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.9.0](https://github.com/isorna/dropcommander/compare/v1.8.0...v1.9.0) (2024-04-15)
+
+
+### Features
+
+* :sparkles: added light mode styles, fixed some url bugs ([62a1233](https://github.com/isorna/dropcommander/commit/62a1233a2aef2dc050ae2544c68fb5348a527860))
+
+
+### Performance Improvements
+
+* **tools:** :rotating_light: update stylelint configuration and dependencies ([5966d5a](https://github.com/isorna/dropcommander/commit/5966d5a9d707f0a001f0c6cd11176b2ae799860d))
+
 ## [1.8.0](https://github.com/isorna/dropcommander/compare/v1.7.0...v1.8.0) (2023-05-24)
 
 
