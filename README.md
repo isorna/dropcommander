@@ -13,6 +13,7 @@ npm run docs:dev
 ## TO DO
 
 * [x] Review category cards' styles.
-* [ ] Create light mode styles.
+* [x] Create light mode styles.
+* [ ] Review vitepress build process error logs.
 
 > Alvaro Isorna

@@ -12,6 +12,7 @@ node_modules
 build
 docs/.vitepress/cache
 docs/.vitepress/dist
+.firebase
 dist
 dist-ssr
 dev-dist
