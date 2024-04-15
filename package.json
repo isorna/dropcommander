@@ -3,6 +3,7 @@
   "version": "1.8.0",
   "description": "Drop Commander universe tools",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "vitest",
     "docs:dev": "vitepress dev docs",

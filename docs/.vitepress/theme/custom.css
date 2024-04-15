@@ -28,17 +28,6 @@
 
   /* color de la fuente los inputs --vp-c-text-3 */
 
-  /* MODIFIED VP COLORS */
-  --vp-c-brand: var(--bright-orange);
-  --vp-c-brand-light: var(--bright-turquoise);
-  --vp-c-bg: var(--darkest-blue);
-  --vp-c-gutter: var(--bright-turquoise);
-  --vp-c-text-1: var(--bright-turquoise);
-  --vp-c-text-2: var(--dark-turquoise-gradient);
-  --vp-c-bg-soft: var(--dark-blue);
-  --vp-c-bg-soft-up: var(--medium-blue);
-  --vp-sidebar-bg-color: var(--darkest-blue);
-
   /* MODIFIED VP dimensions */
   --vp-sidebar-width: 20rem;
 }
@@ -54,15 +43,36 @@
 .VPSidebarItem .level-2 .text {
   font-family: var(--font-family-text);
 }
+.VPFeature .details {
+  font-weight: 600;
+  line-height: 24px;
+}
+.VPFeature.link:hover {
+  --vp-c-brand-1: var(--bright-orange);
+}
 
 /*
 * dark mode image styles
 */
+html.dark {
+  /* MODIFIED VP COLORS */
+  --vp-c-brand: var(--bright-orange);
+  --vp-c-brand-light: var(--bright-turquoise);
+  --vp-c-bg: var(--darkest-blue);
+  --vp-sidebar-bg-color: var(--darkest-blue);
+  --vp-c-divider: var(--vp-c-bg-soft-up);
+  --vp-c-gutter: var(--vp-c-bg-soft-up);
+  --vp-c-text-1: var(--bright-turquoise);
+  --vp-c-text-2: var(--dark-turquoise-gradient);
+  --vp-c-bg-soft: var(--dark-blue);
+  --vp-c-bg-soft-up: var(--medium-blue);
+}
 html.dark .VPSocialLink {
   filter: grayscale(1);
 }
 
 @media (prefers-color-scheme: dark) {
+  --vp-c-divider: var(--vp-c-bg-soft-up);
   .VPSocialLink {
     filter: grayscale(1);
   }

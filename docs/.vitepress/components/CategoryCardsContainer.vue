@@ -14,7 +14,7 @@ const props = defineProps({
   <div class="container">
     <CategoryCard
       v-for="(category, index) in pages" :key="index"
-      :title="category.title"
+      :title="category?.title || ''"
       :excerpt="category?.excerpt"
       :image="category?.img"
       :href="category?.href" />

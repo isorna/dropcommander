@@ -53,6 +53,7 @@ const truncateText = (text, length) => {
   height: 100%;
   transition: border-color .25s,background-color .25s;
   padding: 24px;
+  text-decoration: none;
 }
 .link:hover {
   background-color: var(--vp-c-bg-soft-up);
@@ -78,7 +79,8 @@ const truncateText = (text, length) => {
   padding-top: 8px;
   color: var(--vp-c-text-2);
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
+  line-height: 24px;
   margin: unset;
 }
 </style>

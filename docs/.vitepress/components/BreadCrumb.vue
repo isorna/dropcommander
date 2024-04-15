@@ -19,7 +19,7 @@ function getBreadcrumbArray (page: PageData): Page[] {
         path = `${reducedValue}`.replace('.md', '.html')
       }
     } else {
-      path = `${reducedValue}/index.html`
+      path = `${reducedValue}/`
     }
     if (path !== '') breadcrumbArray.push(pages.find((page) => page.href === path) as Page)
 
@@ -33,12 +33,14 @@ function getBreadcrumbArray (page: PageData): Page[] {
 <template>
   <nav aria-label="Breadcrumb" class="breadcrumb" v-if="page">
     <ul>
-        <li v-for="(crumb, index) in getBreadcrumbArray(page)" :key="crumb.href">
-          <a v-if="index < getBreadcrumbArray(page).length - 1"
-            class="crumb"
-            :href="crumb.href"
-            :title="crumb.excerpt || ''">{{ crumb.title }}</a>
-          <span v-else aria-current="page" class="current">{{ crumb.title }}</span>
+        <li v-for="(crumb, index) in getBreadcrumbArray(page)" :key="index">
+          <template v-if="crumb && crumb.href">
+            <a v-if="index < getBreadcrumbArray(page).length - 1"
+              class="crumb"
+              :href="crumb.href"
+              :title="crumb.excerpt || ''">{{ crumb.title }}</a>
+            <span v-else aria-current="page" class="current">{{ crumb.title }}</span>
+          </template>
         </li>
     </ul>
   </nav>
