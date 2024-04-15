@@ -10,7 +10,8 @@ lerna-debug.log*
 node_modules
 .DS_Store
 build
-/docs/.vitepress/cache/
+docs/.vitepress/cache
+docs/.vitepress/dist
 dist
 dist-ssr
 dev-dist
