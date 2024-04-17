@@ -17,5 +17,8 @@ npm run docs:dev
 * [ ] Review vitepress build process error logs.
 * [x] Update PWA default colors.
 * [ ] Check PWA version on startup and update it if necessary.
+* [ ] Update DFC docs version to v1.7.
+* [ ] Check that DZC docs version is up to date (v2.2).
+* [ ] Apply FAQs to rulesets.
 
 > Alvaro Isorna

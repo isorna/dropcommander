@@ -21,8 +21,8 @@ export const enConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
       copyright: 'MIT Licensed | Copyright © 2022-present <a href="https://www.ttcombat.com/">TTCombat</a>.',
     },
     docFooter: {
-      prev: 'Next page',
-      next: 'Previous page'
+      prev: 'Previous page',
+      next: 'Next page'
     },
     returnToTopLabel: 'Return to top'
   },
