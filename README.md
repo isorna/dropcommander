@@ -15,5 +15,7 @@ npm run docs:dev
 * [x] Review category cards' styles.
 * [x] Create light mode styles.
 * [ ] Review vitepress build process error logs.
+* [x] Update PWA default colors.
+* [ ] Check PWA version on startup and update it if necessary.
 
 > Alvaro Isorna

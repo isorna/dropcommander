@@ -35,7 +35,7 @@ export default withPwa(defineConfig({
     manifest: {
       name: 'Drop Commander',
       short_name: 'DC',
-      start_url: '/',
+      start_url: '/?utm_source=homescreen',
       icons: [
           {
               src: '/img/android-chrome-192x192.png',
@@ -48,7 +48,7 @@ export default withPwa(defineConfig({
               type: 'image/png'
           }
       ],
-      theme_color: '#3b9235',
+      theme_color: '#041924',
       background_color: '#ffffff',
       display: 'standalone',
       orientation: 'portrait-primary',
@@ -57,7 +57,7 @@ export default withPwa(defineConfig({
           name: 'Dropfleet Commander',
           short_name: 'DFC',
           description: 'DFC Rules',
-          url: 'en/dfc/',
+          url: '/en/dfc/?utm_source=homescreen',
           icons: [
             {
               src: '/img/ui/orbit.png',
@@ -70,7 +70,7 @@ export default withPwa(defineConfig({
           name: 'Dropzone Commander',
           short_name: 'DZC',
           description: 'DZC Rules',
-          url: 'en/dzc/',
+          url: '/en/dzc/?utm_source=homescreen',
           icons: [
             {
               src: '/img/ui/moon-landing.png',
