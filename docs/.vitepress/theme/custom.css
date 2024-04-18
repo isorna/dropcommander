@@ -40,7 +40,8 @@
 .main ol,
 .breadcrumb,
 .VPFeature .details,
-.VPSidebarItem .level-2 .text {
+.VPSidebarItem .level-2 .text,
+td {
   font-family: var(--font-family-text);
 }
 .VPFeature .details {
