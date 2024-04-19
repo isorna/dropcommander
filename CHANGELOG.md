@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.10.0](https://github.com/isorna/dropcommander/compare/v1.9.0...v1.10.0) (2024-04-19)
+
+
+### Features
+
+* :sparkles: update dfc docs to v1.7, add faqs and scenarios ([18024f4](https://github.com/isorna/dropcommander/commit/18024f4cab41b51429ed12e6369a6d11120d647e))
+* :sparkles: update dfc docs to v1.7, add faqs and scenarios ([8ae5653](https://github.com/isorna/dropcommander/commit/8ae56539a126e44c7eef5834991527fef1e4d959))
+
 ## [1.9.0](https://github.com/isorna/dropcommander/compare/v1.8.0...v1.9.0) (2024-04-15)
 
 
