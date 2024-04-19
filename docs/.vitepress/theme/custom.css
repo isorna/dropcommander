@@ -86,6 +86,10 @@ html.dark .VPSocialLink {
 .vp-doc td {
   text-align: center;
 }
+.icon--centered {
+  display: block;
+  margin: 0 auto;
+}
 
 /*
 * Custom home page boxes
