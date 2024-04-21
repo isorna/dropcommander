@@ -11,5 +11,6 @@ const { page } = useData()
     <template #doc-before v-if="page">
       <BreadCrumb :page="page" />
     </template>
+    <template #layout-bottom><ReloadPrompt /></template>
   </DefaultTheme.Layout>
 </template>

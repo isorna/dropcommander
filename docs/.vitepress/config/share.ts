@@ -31,6 +31,11 @@ export const shareConfig = defineConfig({
   lastUpdated: true,
   useWebFonts: true,
   appearance: 'dark',
+  markdown: {
+    image: {
+      lazyLoading: true,
+    }
+  },
   // cleanUrls: 'without-subfolders',
   buildEnd: async (siteConfig) => {
     // TODO: generate RSS???

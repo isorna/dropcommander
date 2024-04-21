@@ -10,16 +10,16 @@ hero:
 
 features:
   - icon:
-      light: /img/ui/moon-landing.png
-      dark: /img/ui/moon-landing.dark.png
+      light: /img/ui/orbit.png
+      dark: /img/ui/orbit.dark.png
       width: 100px
       height: 100px
     title: Dropfleet Commander V1.3.1
     link: ./en/dfc/
     details: Updated Dropfleet Commander rules.
   - icon:
-      light: /img/ui/orbit.png
-      dark: /img/ui/orbit.dark.png
+      light: /img/ui/moon-landing.png
+      dark: /img/ui/moon-landing.dark.png
       width: 100px
       height: 100px
     title: Dropzone Commander V2.2.0

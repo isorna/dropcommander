@@ -4,11 +4,21 @@ import DefaultTheme from 'vitepress/theme'
 import Layout from '../components/Layout.vue'
 import CategoryCardsContainer from '../components/CategoryCardsContainer.vue'
 import ShipCard from '../components/dfc/ShipCard.vue'
+// import RegisterSW from '../components/RegisterSW.vue'
+import ReloadPrompt from '../components/ReloadPrompt.vue'
 import './custom.css'
+// import { h } from 'vue'
 
 export default {
-  ...DefaultTheme,
+  // ...DefaultTheme,
+  extends: DefaultTheme,
   Layout,
+  // Layout() {
+  //   return h(Layout, null, {
+  //     // 'layout-bottom': () => h(RegisterSW)
+  //     'layout-bottom': () => h(ReloadPrompt)
+  //   })
+  // },
   // NotFound: () => 'custom 404',
   async enhanceApp({ app, router, siteData }: EnhanceAppContext) {
     // app is the Vue 3 app instance from `createApp()`.
@@ -20,6 +30,7 @@ export default {
     // register your custom global components
     app.component('CategoryCardsContainer', CategoryCardsContainer)
     app.component('ShipCard', ShipCard)
+    app.component('ReloadPrompt', ReloadPrompt)
     // usePageAnalytics('G-V5E08LL4GP', 'b1d9002033c7e550e55a51a23dca4f31')
   },
   setup() {

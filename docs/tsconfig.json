@@ -18,7 +18,9 @@
     "isolatedModules": true,
     "types": [
       "vite/client",
-      "vitepress"
+      "vitepress",
+      "vite-plugin-pwa/client",
+      "vite-plugin-pwa/info"
     ]
   },
   "include": [

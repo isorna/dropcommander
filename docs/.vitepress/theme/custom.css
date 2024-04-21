@@ -79,6 +79,15 @@ html.dark .VPSocialLink {
   }
 }
 
+html .pwa-toast {
+  color: var(--vp-c-text-1);/* #3c3c43 */
+  box-shadow: unset;
+}
+html.dark .pwa-toast {
+  background-color: var(--vp-c-bg-soft);
+  border-color: var(--bright-orange);
+}
+
 /*
 * WIP: Table styles
 */

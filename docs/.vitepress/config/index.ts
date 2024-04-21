@@ -22,7 +22,8 @@ export default withPwa(defineConfig({
     es: { label: 'Español', lang: 'es-ES', ...esConfig },
   },
   pwa: {
-    registerType: 'autoUpdate',
+    injectRegister: 'auto',
+    registerType: 'prompt',
     includeAssets: [
       'favicon.ico',
       '/img/safari-pinned-tab.svg',

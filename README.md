@@ -16,9 +16,10 @@ npm run docs:dev
 * [x] Create light mode styles.
 * [ ] Review vitepress build process error logs.
 * [x] Update PWA default colors.
-* [ ] Check PWA version on startup and update it if necessary.
-* [ ] Update DFC docs version to v1.7.
-* [ ] Check that DZC docs version is up to date (v2.2).
-* [ ] Apply FAQs to rulesets.
+* [x] Check PWA version on startup and update it if necessary.
+* [x] Update DFC docs version to v1.7.
+* [x] Check that DZC docs version is up to date (v2.2).
+* [x] Apply FAQs to rulesets.
+* [ ] Review PWA errors and optimizations.
 
 > Alvaro Isorna
