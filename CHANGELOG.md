@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.10.1](https://github.com/isorna/dropcommander/compare/v1.10.0...v1.10.1) (2024-04-21)
+
+
+### Bug Fixes
+
+* :bug: fix version tags ([f7b8fe1](https://github.com/isorna/dropcommander/commit/f7b8fe12793cdf884a8471f73b72f6245ec1c020))
+* docs wrong image links ([473dbc7](https://github.com/isorna/dropcommander/commit/473dbc79eb37fefb0986157892b5916a57abfaca))
+* pwa registration bugs ([cfa071a](https://github.com/isorna/dropcommander/commit/cfa071aa5704e8efd0d58aae49d19219a26e99e1))
+
 ## [1.10.0](https://github.com/isorna/dropcommander/compare/v1.9.0...v1.10.0) (2024-04-19)
 
 
