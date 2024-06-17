@@ -48,7 +48,7 @@
     "lint-staged": "^13.2.2",
     "postcss": "^8.4.31",
     "remark": "^14.0.2",
-    "remark-cli": "^11.0.0",
+    "remark-cli": "^12.0.1",
     "remark-frontmatter": "^4.0.1",
     "remark-gfm": "^3.0.1",
     "remark-lint-checkbox-character-style": "^4.1.1",
