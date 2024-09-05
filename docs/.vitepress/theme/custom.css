@@ -23,8 +23,9 @@
 
   /* MODIFIED VP FONTS */
   --font-family-titles: 'Black Ops One', sans-serif;
-  --font-family-text: sans-serif;
+  --font-family-text: 'Allerta Stencil', sans-serif;
   --vp-font-family-base: var(--font-family-titles);
+  --vp-font-family-titles: var(--font-family-titles);
 
   /* color de la fuente los inputs --vp-c-text-3 */
 

@@ -4,6 +4,7 @@ import DefaultTheme from 'vitepress/theme'
 import Layout from '../components/Layout.vue'
 import CategoryCardsContainer from '../components/CategoryCardsContainer.vue'
 import ShipCard from '../components/dfc/ShipCard.vue'
+import TroopCard from '../components/dzc/TroopCard.vue'
 // import RegisterSW from '../components/RegisterSW.vue'
 import ReloadPrompt from '../components/ReloadPrompt.vue'
 import './custom.css'
@@ -30,6 +31,7 @@ export default {
     // register your custom global components
     app.component('CategoryCardsContainer', CategoryCardsContainer)
     app.component('ShipCard', ShipCard)
+    app.component('TroopCard', TroopCard)
     app.component('ReloadPrompt', ReloadPrompt)
     // usePageAnalytics('G-V5E08LL4GP', 'b1d9002033c7e550e55a51a23dca4f31')
   },

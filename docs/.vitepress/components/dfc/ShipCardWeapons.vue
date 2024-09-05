@@ -13,6 +13,17 @@ const props = defineProps({
     required: true
   }
 })
+
+// TODO: remove (X) from special rules
+
+function t(text) {
+  let returnValue = props.i18n[text]
+  console.log(text, returnValue)
+  if (returnValue === undefined || returnValue === '') {
+    returnValue = text
+  }
+  return returnValue.toLowerCase().replaceAll(' ', '-')
+}
 </script>
 <template>
   <template v-for="(weapon, index) in profile.Weapons" :key="index">
@@ -38,8 +49,8 @@ const props = defineProps({
       </p>
       <p class="profile-card__special" v-if="weapon.Special.length > 0">
         <em>{{ i18n['Special'] }}</em>
-        <template v-for="(item, index) in weapon.Special.map(item => i18n[item.trim()])" :key="index">
-          <a :href="`/${localeIndex}/dfc/special-rules#${item.toLowerCase().replaceAll(' ', '-')}`">{{ item }}</a>
+        <template v-for="(item, index) in weapon.Special/*.map(item => t(item))*/" :key="index">
+          <a :href="`/${localeIndex}/dfc/special-rules#${t(item)/*.toLowerCase().replaceAll(' ', '-')*/}`">{{ item }}</a>
           <!-- <span v-if="index < weapon.Special.map(item => i18n[item.trim()]).length - 1">,</span> -->
         </template>
       </p>

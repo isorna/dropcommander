@@ -29,5 +29,6 @@ npm run docs:dev
 * [ ] Use [Barcode API](https://whatpwacando.today/barcode) to share lists.
 * [ ] Use [Bluetooth API](https://whatpwacando.today/bluetooth) to link players locally.
 * [ ] Activate [Wake Lock](https://whatpwacando.today/wake-lock) on 'playing' mode.
+* [ ] Use light-dark() css property to toggle dark mode: [example](https://x.com/stackblitz/status/1828082068632588613).
 
 > Alvaro Isorna
