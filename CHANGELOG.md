@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.11.0](https://github.com/isorna/dropcommander/compare/v1.10.1...v1.11.0) (2024-09-06)
+
+
+### Features
+
+* :sparkles: new cards for profiles, testing ([cffd9fd](https://github.com/isorna/dropcommander/commit/cffd9fd1574486cbcf4822504f20c9ae4e19b91a))
+
 ## [1.10.1](https://github.com/isorna/dropcommander/compare/v1.10.0...v1.10.1) (2024-04-21)
 
 

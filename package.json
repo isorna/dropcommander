@@ -1,6 +1,6 @@
 {
   "name": "dropcommander",
-  "version": "1.10.1",
+  "version": "1.11.0",
   "description": "Drop Commander universe tools",
   "main": "index.js",
   "type": "module",
